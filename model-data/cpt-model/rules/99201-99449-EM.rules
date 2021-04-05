@@ -1,0 +1,129 @@
+99201*   office/op visit, new pt, 3 key components: prob focus hx; prob focus exam; strtfrwd med decision  
+99202*   office/op visit, new pt, 3 key components: expand prob focus hx; expand prob focus exam; strtfwd de  
+99203*   office/op visit, new pt, 3 key components: detailed hx; detailed exam; med decision low complexity  
+99204*   office/op visit, new pt, 3 key components:comprehensive hx;comprehensive exam;med decisn mod comple  
+99205*   office/op visit, new pt, 3 key components:comprehensive hx;comprehensiv exam;med decisn high comple  
+99211*   office/op visit, est pt, not requiring physician presence, typically 5 min  
+99212*   office/op visit, est pt, 2 key components: prob focus hx; prob focus exam; strtfwd med decision  
+99213*   office/op visit, est pt, 2 key components: expand prob hx; expand prob exam;med decision low comple  
+99214*   office/op visit, est pt, 2 key components: detailed hx; detailed exam; med decision mod complexity  
+99215*   office/op visit, est pt, 2 key components:comprehensive hx;comprehensiv exam;med decisn high comple  
+99217*   observation care discharge day mgt  
+99218*   initial observation care/day low severity  
+99219*   initial observation care/day moderate severity  
+99220*   initial observation care/day high severity  
+99221*   initial hosp care 3 key components:detail/comprehensv hx;detail/comprehensv exam;med dec strtfwd/lo  
+99222*   initial hosp care 3 key components: comprehensive hx; comprehensive exam; med decision mod complex  
+99223*   initial hosp care 3 key components: comprehensive hx; comprehensive exam; med decision high complex  
+99224*   subsequent observation care, per day; problem focused history, exam; low complexity  
+99225*   subsequent observation care, per day; expanded problem focused history, exam; moderate complexity  
+99226*   subsequent observation care, per day; detailed history, exam; high complexity  
+99231*   subsequent hosp care 2+ key components:prob focus int hx;prob focus exam;med dec strtfwd/low comple  
+99232*   subsequent hosp care 2+ key components:expand prob focus int hx;expand prob exam;med dec mod comple  
+99233*   subsequent hosp care 2+ key components: detailed intervl hx; detailed exam;med decision high comple  
+99234*   obsv/inpt hosp care 3 key components: detail/compr hx; detail/compr exam;med dec strtfwd/low comple  
+99235*   obsv/inpt hosp care 3 key components: comprehensive hx; comprehensive exam; med decision mod comple  
+99236*   obsv/inpt hosp care 3 key components: comprehensive hx; comprehensive exam; med decision high compl  
+99238*   hospital discharge day management; up to 30 min  
+99239*   hospital discharge day management; > 30 min  
+99241*   office consultation, 3 key components: prob focus hx; prob focus exam; strtfwd med decision  
+99242*   office consultation, 3 key components:expand prob focus hx;expand prob focus exam;strtfwd med decis  
+99243*   office consultation, 3 key components: detailed hx; detailed exam; med decision low complexity  
+99244*   office consultation, 3 key components:comprehensive hx; comprehensive exam; med decision mod comple  
+99245*   office consultation, 3 key components: comprehensive hx;comprehensive exam;med decision high comple  
+99251*   inpatient consult, 3 key components: prob focus hx; prob focus exam; strtfwd med decision  
+99252*   inpatient consult, 3 key components:expand prob focus hx;expand prob focus exam;strtfwd med deci  
+99253*   inpatient consult, 3 key components: detailed hx; detailed exam; med decision low complex  
+99254*   inpatient consult, 3 key components:comprehensive hx;comprehensive exam; med decision mod comple  
+99255*   inpatient consult, 3 key components:comprehensive hx;comprehensive exam;med decision high comple  
+99281*   emergency dept visit, 3 key components: prob focus hx; prob focus exam; strtfwd med decision  
+99282*   emergency dept visit,3 key components:expand prob focus hx;expand prob focus exam;med dec low compl  
+99283*   emergency dept visit,3 key components:expand prob focus hx;expand prob focus exam;med dec mod compl  
+99284*   emergency dept visit, 3 key components: detailed hx; detailed exam; med decision mod complexity  
+99285*   emergency dept visit, 3 key components:comprehensive hx; comprehensive exam; med decisn high comple  
+99288*   physician direction, emergency medical systems (ems) emergency care, advanced life support  
+99291*   critical care, evaluation & management, first hour  
+99292*   critical care, evaluation & management, add'l 30 min  
+99304*   initial nursing facility care, per day, low severity; 25 minutes at the bedside/on unit  
+99305*   initial nursing facility care, per day, moderate severity; 35 minutes at the bedside/on unit  
+99306*   initial nursing facility care, per day, high severity; 45 minutes at the bedside/on unit  
+99307*   subsequent nursing facility care, per day, stable; 10 minutes at the bedside/on unit  
+99308*   subsequent nursing facility care, per day, minor complication; 15 minutes at the bedside/on unit  
+99309*   subsequent nursing facility care, per day,; significant complication; 25 minutes at bedside/on unit  
+99310*   subsequent nursing facility care, per day,story; unstable; 35 minutes at the bedside/on unit  
+99315*   nursing facility discharge day management; 30 min or <  
+99316*   nursing facility discharge day management; > 30 min  
+99318*   annual nursing facility assessment, stable; 30 minutes at bedside/on unit  
+99324*   domiciliary or rest home visit;e&m,new pt,prob focus hx/ex;straightforward medical decision making  
+99325*   domiciliary or rest home visit;e&m,new pt,exp prob focu hx/ex;med decision making of low complexity  
+99326*   domiciliary or rest home visit;e&m,new pt,detaild hx/ex;medcl decision making of moderate complexity  
+99327*   domiciliary or rest home visit;e&m,new pt,comprehensive hx/ex;medicl decsn making of mod complexity  
+99328*   domiciliary or rest home visit;e&m,new pt,comprehensive hx/ex;med decision making of high complexity  
+99334*   domiciliary or rest home visit:e&m,est pt,prob focused hx/ex;straightforward medical decision making  
+99335*   domicilry/rest home visit;e&m,est pt,exp prob foc hx/ex;medical decision making of low complexity  
+99336*   domicilry/rest home visit;e&m,est pt,detailed hx/ex;medical decision making of moderate complexity  
+99337*   domicilry/rest home visit;e&m,est pt,comprhnsv hx/ex;med decision making of mod to high complexity  
+99339*   indiv md supervsn of pt,in home,domiclry or rest home req complex & multidisc care mod; 15-29 min  
+99340*   indiv md supervsn of pt,in home,domiclry or rest home req complex & multidisc care mod; 30 min/more  
+99341*   home visit new pt 3 key components: prob focus hx; prob focus exam; strtfwd med decision  
+99342*   home visit new pt 3 key components:expand prob focus hx;expand prob focus exam; med decn low comple  
+99343*   home visit new pt 3 key components: detailed hx; detailed exam; med decision mod complexity  
+99344*   home visit new pt 3 key components: comprehensive hx; comprehensive exam;med decision mod complexit  
+99345*   home visit new pt 3 key components: comprehensive hx;comprehensive exam;med decision high complexit  
+99347*   home visit est pt 2+ key components: prob focus intrvl hx; prob focus exam; strtfwd med decision  
+99348*   home visit est pt 2+ key components:expand prob focus int hx;expand prob focus exam;med dec low com  
+99349*   home visit est pt 2+ key components: detailed intrvl hx; detailed exam; med decision mod complexity  
+99350*   home visit est pt 2+ key components: comprehensive hx; comprehensive exam; mod/high complexity  
+99354*   prolng svc office o/p dir contact 1st hr  
+99355*   prolng svc office o/p dir contact ea 30 min  
+99356*   prolonged service i/p req unit/floor time 1st hr  
+99357*   prolonged svc i/p req unit/floor time ea 30 min  
+99358*   prolng e/m svc before&/after dir pt care 1st hr  
+99359*   prolng e/m before&/after dir care ea 30 min  
+99360*   physician standby service, w/prolonged physician attendance, each 30 min  
+99363*   anticoagulant management for an outpatient taking warfarin; initial 90 days of therapy  
+99364*   anticoagulant management for an outpatient taking warfarin; each subsequent 90 days of therapy  
+99366*   team conference, face-to-face with patient, 30 minutes or more, nonphysician  
+99367*   team conference, patient and/or family not present, 30 minutes or more; physician  
+99368*   team conference, patient and/or family not present, 30 minutes or more; nonphysician  
+99374*   physician supervision, patient, home health agency; 15-29 min  
+99375*   physician supervision, patient, home health agency; 30+ min  
+99377*   physician supervision, hospice patient; 15-29 min  
+99378*   physician supervision, hospice patient; 30+ min  
+99379*   physician supervision, nursing facility patient; 15-29 min  
+99380*   physician supervision, nursing facility patient; 30+ min  
+99381*   initial comp preventive medicine eval and mgmt; new patient; infant (age younger than 1 year)  
+99382*   initial comp preventive medicine eval and mgmt; new patient; early childhood (age 1 through 4 yrs)  
+99383*   initial comp preventive medicine eval and mgmt; new patient; late childhood (age 5 through 11 yrs)  
+99384*   initial comp preventive medicine eval and mgmt; new patient; adolescent (age 12 through 17 yrs)  
+99385*   initial comp preventive medicine eval and mgmt; new patient; 18-39 years  
+99386*   initial comp preventive medicine eval and mgmt; new patient; 40-64 years  
+99387*   initial comp preventive medicine eval and mgmt; new patient; 65 years and older  
+99391*   periodic comp preventive medicine reeval and mgmt, est patient; infant (age younger than 1 year)  
+99392*   periodic comp preventive medicine reeval and mgmt, est patient; early childhood (1 through 4 yrs)  
+99393*   periodic comp preventive medicine reeval and mgmt, est patient; late childhood (5 through 11 yrs)  
+99394*   periodic comp preventive medicine reeval and mgmt, est patient; adolescent (12 through 17 yrs)  
+99395*   periodic comp preventive medicine reeval and mgmt, est patient; 18-39 years  
+99396*   periodic comp preventive medicine reeval and mgmt, est patient; 40-64 years  
+99397*   periodic comp preventive medicine reeval and mgmt, est patient; 65 years and older  
+99401*   preventive medicine counseling, indiv; 15 min  
+99402*   preventive medicine counseling, indiv; 30 min  
+99403*   preventive medicine counseling, indiv; 45 min  
+99404*   preventive medicine counseling, indiv; 60 min  
+99406*   smoking and tobacco use cessation counseling visit; intermediate, greater than 3 to 10 minutes  
+99407*   smoking and tobacco use cessation counseling visit; intensive, greater than 10 minutes  
+99408*   alcohol/substance abuse, structured screening/brief intervention services; 15 to 30 minutes  
+99409*   alcohol/substance abuse, structured screening/brief intervention services; greater than 30 minutes  
+99411*   preventive medicine counseling, group; 30 min  
+99412*   preventive medicine counseling, group; 60 min  
+99415*   prolng clincl staff svc during o/p e/m 1st hr  
+99416*   prolng clincl staff svc during o/p e/m ea 30 min  
+99429*   unlisted preventive medicine service  
+99441*   physician telephone evaluation, established patient; 5-10 minutes of medical discussion  
+99442*   physician telephone evaluation, established patient; 11-20 minutes of medical discussion  
+99443*   physician telephone evaluation, established patient; 21-30 minutes of medical discussion  
+99444*   physician online e/m service, established patient using the internet/electronic communication  
+99446*   interprof phone/internet assess/manage 5-10  
+99447*   interprof phone/internet assess/manage 11-20  
+99448*   interprof phone/internet assess/manage 21-30  
+99449*   interprof phone/internet assess/manage31/>  

@@ -1,0 +1,268 @@
+66982   [cataract extraction with intraocular lens implant] & [suture support]
+66984   [cataract extraction] {phacoemulsification}
+        [phacoemulsification] 
+66987* Extracapsular cataract removal with insertion of intraocular lens prosthesis (1-stage procedure), manual or mechanical technique (eg, irrigation and aspiration or phacoemulsification), complex, requiring devices or techniques not generally used in routine cataract surgery (eg, iris expansion device, suture support for intraocular lens, or primary posterior capsulorrhexis) or performed on patients in the amblyogenic developmental stage; with endoscopic cyclophotocoagulation  
+66988* Extracapsular cataract removal with insertion of intraocular lens prosthesis (1 stage procedure), manual or mechanical technique (eg, irrigation and aspiration or phacoemulsification); with endoscopic cyclophotocoagulation 
+67005	[removal] `vitreous` {anterior approach} {partial}  
+67010	[removal] `vitreous` {anterior approach} {subtotal} & [mechanical vitrectomy]  
+67015	[aspiration/release] `vitreous` {subretinal/choroidal fluid} {pars plana}  
+67025	[injection] `vitreous` {substitute} {pars plana/limbal approach}   
+67027	[implant] {intravitreal drug delivery system}   
+67028	[injection] `intravitreal` {pharmacologic agent}  
+67030	[discission] `vitreous strands` {pars plana}  
+67031	[severing] `vitreous strands` {laser}   
+67036	[vitrectomy] {pars plana} & ![endolaser] & ![panretinal photocoagulation]
+67038*	vitrectomy mechanical pars plana approach w/epiretinal membrane stripping     
+67039	[vitrectomy] {pars plana} & [endolaser] & ![panretinal photocoagulation]
+67040	[vitrectomy] {pars plana} & [panretinal photocoagulation]
+67041	[vitrectomy] {pars plana} & [peel/stripping] `epiretinal membrane`  
+        [vitrectomy] {pars plana} & [removal] `preretinal cellular membrane`  
+67042	[vitrectomy] {pars plana} & [removal] `internal limiting membrane of retina`  
+67043	[vitrectomy] {pars plana} & [removal] `subretinal membrane`    
+67101	[repair] `retinal` {detachment} & [cryotherapy]  
+67105	[repair] `retinal` {detachment} & [photocoagulation]  
+67107	[repair] `retinal` {detachment} & [scleral buckling]  
+67108	[repair] `retinal` {detachment} & [scleral buckling] & [vitrectomy]
+67110	[repair] `retinal` {detachment} & [injection] {air/other gas}  
+67113	[repair] {complex} `retinal` {detachment}   
+67115	[release] {encircling material} {posterior segment}  
+67120	[removal] {implanted material} {posterior segment} {extraocular}  
+67121	[removal] {implanted material} {posterior segment} {intraocular}  
+67141	[prophylaxis] `retinal` {detachment} & [cryotherapy and/diathermy] & ![drainage]  
+67145	[prophylaxis] `retinal` {detachment} & [photocoagulation]  
+67208	[destruction] `retinal` {lesion} & [cryotherapy and/diathermy]  
+67210	[laser coagulation] & [retinal lesion]
+67218	[destruction] `retinal` {lesion} & [radiation implant] 
+67220	[destruction] {lesion} `choroid` & [photocoagulation] 
+67221	[destruction] {lesion} `choroid` & [photodynamic therapy] 
+67225	[destruction] {lesion} `choroid` & [photodynamic therapy]  
+67227	[destruction] {extensive/progressive} {retinopathy} & [cryotherapy and/diathermy]  
+67228	[treatment] {extensive/progressive} {retinopathy} & [photocoagulation]  
+67229	[treatment] {extensive/progressive} {retinopathy} {preterm infant} {birth up to 1 year}  
+67250	[scleral reinforcement] & ![graft]  
+67255	[scleral reinforcement] & [graft]  
+67299*	unlisted proc posterior segment  
+67311	[strabismus surgery] {horizontal muscle}  
+67312	[strabismus surgery] {horizontal muscle} {horizontal muscle}  
+67314	[strabismus surgery] `extraocular vertical eye muscle` !{superior oblique}
+67316	[strabismus surgery] `extraocular vertical eye muscle` `extraocular vertical eye muscle` !{superior oblique} {superior inferior rectus}  
+67318	[strabismus surgery] `superior oblique muscle`
+67320	[transposition] `extraocular muscle`  
+67331	[strabismus surgery] {prior eye surgery} !`extraocular muscles`  
+67332	[strabismus surgery] {scarring} `extraocular muscles`  
+67334	[strabismus surgery] &  [posterior fixation suture] 
+67335	[placement] {adjustable sutures} & [strabismus surgery]   
+67340	[strabismus surgery] & [exploration and/repair] {detached} `extraocular muscles`  
+67343	[release] {extensive} {scar tissue} & ![detaching extraocular muscle]  
+67345	[chemodenervation] `extraocular muscle`  
+67346	[biopsy] `extraocular muscle`  
+67399*	unlisted proc ocular muscle  
+67400	[orbitotomy] & ![bone flap] & [exploration]  
+67405	[orbitotomy] & ![bone flap] & [drainage]  
+67412	[orbitotomy] & [excision] {lesion} & ![bone flap] 
+67413	[orbitotomy] & ![bone flap] & [removal] & [fb]  
+67414	[orbitotomy] & ![bone flap] & [removal] {bone decompression}  
+67415	[fine needle aspiration] `orbital`   
+67420	[orbitotomy] & [bone flap/window] {lateral approach} & [removal] {lesion}  
+67430	[orbitotomy] & [bone flap/window] {lateral approach} & [removal] & [fb]  
+67440	[orbitotomy] & [bone flap/window] {lateral approach} & [drainage]  
+67445	[orbitotomy] & [bone flap/window] {lateral approach} & [removal] {bone decompression}  
+67450	[orbitotomy] & [bone flap/window] {lateral approach} & [exploration] 
+67500	[retrobulbar injection] {medication}  
+67505	[retrobulbar injection] {alcohol}  
+67515	[injection] `tenon's capsule`  
+67550	[insertion] `orbital` {implant}   
+67560	[removal/revision] `orbital` {implant}   
+67570	[decompression] `optic nerve`   
+67599*	unlisted proc orbit  
+67700	[blepharotomy] & [drainage] {abscess} `eyelid`  
+67710	[severing tarsorrhaphy]  
+67715	[canthotomy]  
+67800	[excision] {chalazion}   
+67801	[excision] {chalazion} {multiple} {same} `eyelid`  
+67805	[excision] {chalazion} {multiple} {different} `eyelid`  
+67808	[excision] {chalazion}
+67810	[biopsy] `eyelid`  
+67820	[correction of trichiasis] & [epilation] {forceps}  
+67825	[correction of trichiasis] & [epilation] !{forceps}  
+67830	[correction of trichiasis] & [incision] `eyelid`   
+67835	[correction of trichiasis] & [incision] `eyelid` & [graft] 
+67840	[excision] {lesion} `eyelid` !{chalazion}   
+67850	[destruction] {lesion} `eyelid` {</1 cm}  
+67875	[temporary closure] `eyelids`   
+67880	[construction] {intermarginal adhesions}   
+67882	[construction] {intermarginal adhesions} & [transposition] {tarsal plate}  
+67900	[repair] {brow ptosis}   
+67901	[repair] {blepharoptosis} {frontalis muscle technique} & [suture]  
+67902	[repair] {blepharoptosis} {frontalis muscle technique} & [autologous fascial sling]  
+67903	[repair] {blepharoptosis} `upper eyelid` & [levator resection/advancement] {internal approach}  
+67904	[repair] {blepharoptosis} `upper eyelid` & [levator resection/advancement] {external approach}
+67906	[repair] {blepharoptosis} {superior rectus technique} & [fascial sling]  
+67908	[repair] {blepharoptosis} & [resection] {conjunctivo-tarso-muller's muscle-levator}  
+67909	[reduction of overcorrection] {ptosis}  
+67911	[correction] `eyelid` {retraction}  
+67912	[correction] {lagophthalmos} & [implant] {upper} `eyelid` {lid load}  
+67914	[suture] {ectropion}   
+67915	[thermocauterization] {ectropion}   
+67916	[excision tarsal wedge] {ectropion}   
+67917	[repair] {ectropion} {extensive}  
+67921	[suture] {entropion}   
+67922	[thermocauterization] {entropion}   
+67923	[excision tarsal wedge] {entropion}   
+67924	[repair] {entropion} {extensive}  
+67930	[suture] {wound} `eyelid` {partial thickness}  
+67935	[suture] {wound} `eyelid` {full thickness}  
+67938	[removal] {embedded} {fb} `eyelid`  
+67950	[canthoplasty] 
+67961	[excision] & [repair] `eyelid` {</one quarter} `eyelid`  
+67966	[excision] & [repair] `eyelid` {>/one quarter} `eyelid`  
+67971	[reconstruction] `eyelid` {full thickness} {</two thirds} `eyelid` {1 stage/first stage}  
+67973	[reconstruction] `eyelid` {full thickness} {total} `eyelid` {lower} {1 stage/first stage}  
+67974	[reconstruction] `eyelid` {full thickness} {total} `eyelid` {upper} {1 stage/first stage}  
+67975	[reconstruction] `eyelid` {full thickness} {2nd stage}  
+67999*	unlisted proc eyelids  
+68020	[incision] `conjunctiva` & [drainage] {cyst}  
+68040	[expression] `conjunctival follicles`  
+68100	[biopsy] `conjunctiva`  
+68110	[excision] {lesion} `conjunctiva` {</1 cm}  
+68115	[excision] {lesion} `conjunctiva` {>/1 cm}  
+68130	[excision] {lesion} `conjunctiva` `sclera`  
+68135	[destruction] {lesion} `conjunctiva`  
+68200	[injection] `subconjunctival` & ![vitrectomy] 
+68320	[conjunctivoplasty] & [graft] `conjunctival`   
+68325	[conjunctivoplasty] & [graft] `buccal mucous membrane`   
+68326	[conjunctivoplasty] & [reconstruction] `cul-de-sac` & [graft] `conjunctival`   
+68328	[conjunctivoplasty] & [reconstruction] `cul-de-sac` & [graft] `buccal mucous membrane`   
+68330	[repair] `symblepharon` & [conjunctivoplasty] & ![graft]  
+68335	[repair] `symblepharon` & [free graft] `conjunctiva/buccal mucous membrane`  
+68340	[repair] `symblepharon` & [division] `symblepharon`  
+68360	[conjunctival flap] {bridge/partial}  
+68362	[conjunctival flap total]  
+68371	[harvesting] `conjunctival` {allograft} {living donor}  
+68399*	unlisted proc conjunctiva  
+68400	[incision and drainage] `lacrimal gland`  
+68420	[incision and drainage lacrimal sac] 
+68440	[snip incision] `lacrimal punctum`  
+68500	[dacryoadenectomy] {total} !{tumor}  
+68505	[dacryoadenectomy] {partial} !{tumor}  
+68510	[biopsy] `lacrimal gland`  
+68520	[excision lacrimal sac] 
+68525	[biopsy] `lacrimal sac`  
+68530	[removal] {fb/dacryolith} `lacrimal passages`  
+68540	[excision] `lacrimal gland` {tumor} {frontal approach}  
+68550	[excision] `lacrimal gland` {tumor}   
+68700	[plastic repair] `canaliculi`  
+68705	[correction everted punctum] {cautery}  
+68720	[dacryocystorhinostomy]  
+68745	[conjunctivorhinostomy]  
+68750	[conjunctivorhinostomy] {tube/stent}  
+68760	[closure] `lacrimal punctum` {thermocauterization/ligation/laser surgery}  
+68761	[closure] `lacrimal punctum` {plug}
+68770	[closure] `lacrimal fistula`  
+68801	[dilation] `lacrimal punctum`  
+68810	[probing] `nasolacrimal duct` & ![general anesthesia]
+68811	[probing] `nasolacrimal duct`
+68815	[probing] `nasolacrimal duct` & [insertion] {tube/stent}  
+68816	[probing] `nasolacrimal duct` & [transluminal balloon dilation]  
+68840	[probing] `lacrimal canaliculi`   
+68850	[injection contrast medium] {dacryocystography}  
+68899*	unlisted proc lacrimal system  
+69000	[drainage] `external ear` {abscess/hematoma}   
+69005	[drainage] `external ear` {abscess/hematoma} {complicated}  
+69020	[drainage] `external auditory canal` {abscess}  
+69090	[piercing] `ear`  
+69100	[biopsy] `external ear`  
+69105	[biopsy] `external auditory canal`  
+69110	[excision] `external ear` {partial} & [simple repair]  
+69120	[excision] `external ear` & [complete amputation]  
+69140	[excision] {exostosis} `external auditory canal`  
+69145	[excision] `soft tissue` {lesion} `external auditory canal`  
+69150	[radical excision] `external auditory canal` {lesion} & ![neck dissection]  
+69155	[radical excision] `external auditory canal` {lesion} & [neck dissection]  
+69200	[removal] & [fb] `external auditory canal` & ![anesthesia]
+69205	[removal] & [fb] `external auditory canal`& [anesthesia]
+69209	[irrigation cerumenectomy] & ![instrumental cerumenectomy]
+69210	[instrumental cerumenectomy] 
+69220	[debridement] `mastoidectomy cavity`   
+69222	[debridement] `mastoidectomy cavity` {complex}  
+69300	[otoplasty] {protruding ear}   
+69310	[reconstruction] `external auditory canal` `ear` !{laceration}
+        [meatoplasty] `external auditory canal` `ear` !{laceration}
+69320	[reconstruction] `external auditory canal` {congenital atresia}   
+69399*	unlisted proc ext ear  
+69420*	[local anesthesia] & [myringotomy] 
+69421	[myringotomy] & [eustachian tube inflation]    
+69424	[removal] {retained} `tympanostomy tube` & [general anesthesia] 
+69433*	[tympanostomy] {local or tropical ansesthesia}  
+69436	[myringotomy]
+69440	[exploration] `middle ear` & [incision] `postauricular/ear canal`   
+69450	[tympanolysis] `transcanal`  
+69501	[mastoidectomy] {simple}
+69502	[mastoidectomy] {complete}  
+69505	[mastoidectomy] {modified radical}  
+69511	[mastoidectomy] {radical}  
+69530	[apicectomy] `petrous` & [mastoidectomy] {radical}  
+69535	[resection] `temporal bone` {external approach}  
+69540	[excision] {aural}  `polyp`  
+69550	[excision] {aural}  `glomus tumor transcanal`  
+69552	[excision] {aural}  `glomus tumor transmastoid`  
+69554	[excision] {aural}  `glomus tumor extended` `extratemporal`  
+69601	[revision mastoidectomy]  
+69602	[revision mastoidectomy] {modified radical}  
+69603	[revision mastoidectomy] {radical}  
+69604	[revision mastoidectomy] & [tympanoplasty]  
+69605	[revision mastoidectomy] & [apicectomy]  
+69610	[myringoplasty] `tympanic membrane`   
+69620	[myringoplasty] `drumhead`
+69631	[tympanoplasty] & [fascia graft] `temporalis` & ![reconstruction] `ossicular chain` & ![mastoidectomy] 
+69632	[tympanoplasty] & [reconstruction] `ossicular chain` & ![mastoidectomy] 
+69633	[tympanoplasty] & [reconstruction] `ossicular chain` & [prosthesis]  
+69635	[tympanoplasty] & [antrotomy or mastoidotomy] & ![reconstruction] `ossicular chain` 
+69636	[tympanoplasty] & [antrotomy or mastoidotomy] & [reconstruction] `ossicular chain`  
+69637	[tympanoplasty] & [antrotomy or mastoidotomy] & [reconstruction] `ossicular chain` & [ossicular replacement] 
+69641	[tympanoplasty] & [mastoidectomy] & ![reconstruction] `ossicular` 
+69642	[tympanoplasty] & [mastoidectomy] & [reconstruction] `ossicular chain`  
+69643*	[tympanoplasty] & [mastoidectomy] & ![reconstruction] `ossicular` 
+69644	[tympanoplasty] & [mastoidectomy] & [reconstruction]  `ossicular chain` 
+69645	[tympanoplasty] & [mastoidectomy] {complete} & ![reconstruction] `ossicular chain`   
+        [tympanoplasty] & [mastoidectomy] {radical} & ![reconstruction] `ossicular chain`   
+69646	[tympanoplasty] & [mastoidectomy] & [reconstruction] `ossicular chain` {radical}  
+69650	[stapes mobilization]  
+69660	[stapedectomy/stapedotomy]  
+69661	[stapedectomy/stapedotomy] & [footplate drill out]
+69662	[revision] & [stapedectomy/stapedotomy]  
+69666	[repair] {oval window fistula}  
+69667	[repair] {round window fistula}  
+69670	[obliteration] `mastoid`  
+69676	[tympanic neurectomy]  
+69700	[closure] {postauricular fistula} `mastoid`
+69705	[nasopharyngoscopy] {dilation} `eustachian tube` !{bilateral} 
+69706	[nasopharyngoscopy] {dilation} `eustachian tube` {bilateral} 
+69710	[implantation/replacement] {electromagnetic bone conduction hearing device} `temporal bone`  
+69711	[removal/repair] {electromagnetic bone conduction hearing device} `temporal bone`  
+69714	[implant] {hearing device} & ![mastoidectomy]  
+69715	[implant] {hearing device} & [mastoidectomy]  
+69717	[replacement] {hearing device} & ![mastoidectomy]  
+69718	[replacement] {hearing device} & [mastoidectomy]  
+69720	[decompression] `facial nerve` {intratemporal} {lateral to geniculate ganglion}  
+69725	[decompression] `facial nerve` {intratemporal} {medial to geniculate ganglio}  
+69740	[suture] `facial nerve` {intratemporal} {lateral to geniculate ganglion}  
+69745	[suture] `facial nerve` {intratemporal} {medial to geniculate ganglion}  
+69799*	unlisted proc middle ear  
+69801	[labyrinthotomy] {transcanal}  
+69802*	labyrinthotomy with perfusion of vestibuloactive drug(s) with mastoidectomy  
+69805	[endolymphatic sac operation] !{shunt}  
+69806	[endolymphatic sac operation] & [shunt]  
+69820	[fenestration semicircular canal]  
+69840	[revision fenestration operation]  
+69905	[labyrinthectomy] {transcanal}  
+69910	[labyrinthectomy] {transcanal} & [mastoidectomy]  
+69915	[vestibular nerve section] {translabyrinthine approach}  
+69930	[implant] `cochlear`
+69949*	unlisted proc inner ear  
+69950	[vestibular nerve section] {transcranial approach}  
+69955	[decompression and/repair] {total} `facial nerve`    
+69960	[decompression] `internal auditory canal`  
+69970	[removal] {tumor} `temporal bone`  
+69979*	unlisted proc temporal bone middle fossa approach  
+69990	[microsurgical techniques] {requiring operating microscope}  

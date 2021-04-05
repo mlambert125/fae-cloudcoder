@@ -1,0 +1,1696 @@
+20005	[incision and drainage] `soft tissue` {abscess} 
+20100	[exploration] {penetrating wound} `neck` 
+20101	[exploration] {penetrating wound} `chest` 
+20102	[exploration] {penetrating wound} `abdomen/flank/back` 
+20103	[exploration] {penetrating wound} `extremity` 
+20150	[excision] `epiphyseal bar` 
+20200	[biopsy] `muscle` & [superficial] & ![percutaneous] & ![fine needle]
+20205	[biopsy] `muscle` & [deep] & ![percutaneous] & ![fine needle]
+20206	[biopsy] `muscle` {needle} & [percutaneous] & ![fine needle]
+20220	[biopsy] {trocar/needle} & [superficial bone]
+20225	[biopsy] `bone` {trocar/needle} {deep bone} 
+20240	[biopsy] {bone} !`marrow` !{deep bone} 
+20245	[biopsy] `bone`{deep bone} 
+20250	[biopsy] `vertebral body` `thoracic` 
+20251	[biopsy] `vertebral body` `lumbar/cervical` 
+20500	[injection] `sinus tract` {therapeutic} 
+20501	[injection] `sinus tract` {diagnostic} 
+20520	[removal fb] `muscle/tendon sheath` 
+20525	[removal fb] `muscle/tendon sheath` {deep/complicated} 
+20526	[injection] {carpal tunnel} !{postoperative pain}
+20527	[injection] {enzyme} `palmar fascial cord` 
+20550	[injection] `tendon sheath/ligament/aponeurosis` 
+20551	[injection] {single} `tendon` 
+20552	[injection] {trigger point} & [muscles]
+20553	[injection] {trigger point} {> 3} `muscles` 
+20555	[placement] {needles/catheters} `muscle/soft tissue` {subsequent} & [radioelement application] 
+20560* needle insertion(s) without injection(s); 1 or 2 muscle(s)  
+20561* needle insertion(s) without injection(s); 3 or more muscles  
+20600	[arthrocentesis] `small joint` !{ultrasound guidance} 
+20604	[arthrocentesis] `small joint` {ultrasound guidance} 
+20605	[arthrocentesis] `intermediate joint` !{ultrasound guidance} 
+20606	[arthrocentesis] `intermediate joint` {ultrasound guidance} 
+20610	[arthrocentesis] `knee/shoulder/hip/subacromial bursa` !{ultrasound guidance}
+20611	[arthrocentesis] `major joint` {ultrasound guidance} 
+20612	[aspiration and/or injection] {ganglion cyst} 
+20615	[aspiration and/or injection] `bone` {cyst} 
+20650	[insertion] {wire/pin} & [application] {skeletal traction} & [removal] 
+20660	[application] `cranial` {tongs,caliper/stereotactic frame} & [removal] 
+20661	[application] {halo} {removal} `cranial` 
+20662	[application] {halo} {removal} `pelvic` 
+20663	[application] {halo} {removal} `femoral` 
+20664	[application] {halo} {removal} {hardware} `cranial` 
+20665	[removal] {tongs or halo} `cranial` 
+20670 [removal of implant] {superficial hardware} & ![layered closure] & ![follow up] & ![catheter] & ![angiogram]
+20680	[removal of implant] {deep hardware}
+      [hardware removal]
+20690	[application] {uniplane} & [external fixation] !{bilateral}
+      [application] {external fixation} {uniplanar}
+20692	[application] {multiplane} {external fixation} !{bilateral}  
+20693	[adjustment/revision] {external fixation} 
+20694	[removal] {external fixation} & [anesthesia]
+20696	[application] {multiplane external fixation} & [stereotactic computer adjustment] !{bilateral}  
+20697	[exchange] {multiplane external fixation} {strut}  
+20700*	manual preparation and insertion of drug-delivery device(s), deep (eg, subfascial) (List separately in addition to code for primary procedure)  
+20701*	removal of drug-delivery device(s), deep (eg, subfascial) (List separately in addition to code for primary procedure) 
+20702*	manual preparation and insertion of drug-delivery device(s), intramedullary (List separately in addition to code for primary procedure) 
+20703*	removal of drug-delivery device(s), intramedullary (List separately in addition to code for primary procedure) 
+20704*	manual preparation and insertion of drug-delivery device(s), intra-articular (List separately in addition to code for primary procedure) 
+20705*	removal of drug-delivery device(s), intra-articular (List separately in addition to code for primary procedure) 
+20802	[replantation] `arm` {complete amputation} 
+20805	[replantation] `forearm` {complete amputation} 
+20808	[replantation] `hand` {complete amputation} 
+20816	[replantation] `metacarpophalangeal joint to flexor tendon` {complete amputation} !`thumb` 
+20822	[replantation] `distal tip to sublimis tendon` {complete amputation} !`thumb` 
+20824	[replantation] `thumb` `carpometacarpal joint to mp joint` {complete amputation} 
+20827	[replantation] `thumb` `distal tip tmp joint` {complete amputation} 
+20838	[replantation] `foot` {complete amputation} 
+20900* Out of order
+20902 [bone graft] {large}
+2090_ [bone graft] !{small} !{large}
+20900	[bone graft] !{large}
+20910	[cartilage graft] `costochondral` 
+20912	[cartilage graft] `nasal septum` 
+20920	[fascia lata graft] {stripper} 
+20922	[fascia lata graft] & [incision] {complex/sheet} 
+20924	[tendon graft] {distance} 
+20926	[fat graft] "Delete CPT 2020"
+20930	[morselized allograft] `spinal` & [arthrodesis]
+20931	[allograft] `spinal`
+20936	[autograft] {local} {same incision} 
+20937	[autograft] {morselized} {separate incision} 
+20938	[autograft] {structural} {separate incision} 
+20950	[monitoring interstitial fluid pressure] {muscle compartment syndrome} 
+20955	[bone graft] & [microvascular anastomosis] `fibula` 
+20956	[bone graft] & [microvascular anastomosis] `iliac crest` 
+20957	[bone graft] & [microvascular anastomosis] `metatarsal` 
+20962	[bone graft] & [microvascular anastomosis] !`fibula` !`iliac crest` !`metatarsal` 
+20969	[free osteocutaneous flap] & [microvasc anastomosis] !`iliac crest` !`metatarsal` !`great toe` 
+20970	[free osteocutaneous flap] & [microvascular anastomosis] `iliac crest` 
+20972	[free osteocutaneous flap] & [microvascular anastomosis] `metatarsal` 
+20973	[free osteocutaneous flap] & [microvascular anastomosis] `great toe` 
+20974	[electrical stimulation] {to aid bone healing} {noninvasive/nonoperative} 
+20975	[electrical stimulation] {to aid bone healing} {invasive/operative} 
+20979	[low intensity ultrasound stimulation] {to aid bone healing} {noninvasive/nonoperative} 
+20982	[ablation] {bone tumor} {percutaneous} 
+20983	[cryoablation] 
+20985	[computer-assisted surgical navigational] 
+20999 [unlisted proc musculoskeletal system general]
+21010	[arthrotomy] `temporomandibular joint` 
+21011	[excision] {tumor} `face or scalp` {less than 2 cm} 
+21012	[excision] {tumor} `face or scalp` {> 2 cm} 
+21013	[excision] {tumor} `face and scalp` {subfascial} {< 2 cm} 
+21014	[excision] {tumor} `face and scalp` {subfascial} {> 2 cm} 
+21015	[resection of tumor] {radical} {soft tissur} `face or scalp` {< 2 cm} 
+21016	[resection of tumor] {radical} {soft tissue} `face or scalp` {> 2 cm} 
+21025	[excision] `mandible bone` 
+21026	[excision] `facial bone` 
+21029	[contouring] {benign tumor} `facial bone` 
+21030	[excision] {benign} `tumor/cyst` `maxilla/zygoma` & [enucleation and curettage] 
+21031	[excision] `torus mandibularis` 
+21032	[excision] `maxillary torus palatinus` 
+21034	[excision] {malignant} `tumor maxilla/zygoma` 
+21040	[excision] {benign} `tumor/cyst` `mandible` & [enucleation and curettage] 
+21044	[excision] {malignant} `tumor` `mandible` 
+21045	[excision] {malignant} `tumor` `mandible` {radical} & [resection] 
+21046	[excision] {benign} `tumor/cyst` `mandible` & [intra-oral osteotomy] 
+21047	[excision] {benign} `tumor/cyst` `mandible` & [extra-oral osteotomy] & [mandibulectomy]
+21048	[excision] {benign} `tumor/cyst` `maxilla intra-oral` & [osteotomy] 
+21049	[excision] {benign} `tumor/cyst` `maxilla extra-oral` & [osteotomy] & [maxillectomy]
+21050	[condylectomy] `temporomandibular joint` 
+21060	[meniscectomy] {complete} `temporomandibular joint` 
+21070	[coronoidectomy] 
+21073	[manipulation] `tmj` 
+21076	[impression and preparation] {surgical obturator prosthesis} 
+21077	[impression and preparation] {orbital prosthesis} 
+21079	[impression and preparation] {interim obturator prosthesis} 
+21080	[impression and preparation] {definitive obturator prosthesis} 
+21081	[impression and preparation] {mandibular resection prosthesis} 
+21082	[impression and preparation] {palatal augmentation prosthesis} 
+21083	[impression and preparation] {palatal lift prosthesis} 
+21084	[impression and preparation] {speech aid prosthesis} 
+21085	[impression and preparation] {oral surgical splint} 
+21086	[impression and preparation] {auricular prosthesis} 
+21087	[impression and preparation] {nasal prosthesis} 
+21088	[impression and preparation] {facial prosthesis} 
+21089*	unlisted maxillofacial prosthetic proc 
+21100	[application halo] `maxillofacial` & [removal] 
+21110	[application] {interdental fixation device} !{fracture or dislocation} & [removal] 
+21116	[injection] `temporomandibular joint` {arthrography} 
+21120	[genioplasty] & [autograft/allograft/prosthetic material] 
+21121	[genioplasty] & [sliding osteotomy] {single} 
+21122	[genioplasty] & [sliding osteotomies] {>/2} 
+21123	[genioplasty] & [sliding augmentation] & [bone graft] 
+21125	[augmentation] `mandibular body/angle` {prosthetic material} 
+21127	[augmentation] `mandibular body/angle` & [bone graft] 
+21137	[reduction] `forehead` & [contouring] 
+21138	[reduction] `forehead` & [contouring] & [prosthetic material/bone graft] 
+21139	[reduction] `forehead` & [contouring] & [setback anterior frontal sinus wall] 
+21141	[reconstruction] `lefort i` & ![bone graft] 
+21142	[reconstruction] `lefort i` {2 pieces} & ![bone graft] 
+21143	[reconstruction] `lefort i` {> 3 pieces} & ![bone graft] 
+21145	[lefort i osteotomy] `maxillary` !{2 pieces} !{3 pieces} & [bone graft]
+21146	[lefort i osteotomy] `maxillary` {2 pieces} & [bone graft] 
+21147	[lefort i osteotomy] `maxillary` {3 pieces} & [bone grat] 
+21150	[lefort ii osteotomy] & [anterior intrusion] 
+21151	[lefort ii osteotomy] & [bone graft] 
+21154	[lefort iii osteotomy] & [bone graft] !`lefort i` 
+21155	[lefort iii osteotomy] & [bone graft] `lefort i` 
+21159	[lefort iii osteotomy] & `extra/intracranial` [bone graft] & ![lefort i] 
+21160	[lefort iii osteotomy] & `extra/intracranial` [bone graft] & [lefort i] 
+21172	[reconstruction] `superior-lateral orbital rim` `lower forehead` 
+21175	[reconstruction] `bifrontalsuperior-lateral orbital rims` `lower forehead` 
+21179	[reconstruction] `forehead and/supraorbital rims` & [allograft/prosthetic material] 
+21180	[reconstruction] `forehead and/supraorbital rims` & [autograft] 
+21181	[reconstruction] & [contouring] {benign tumor} `cranial bones` {extracranial} 
+21182	[reconstruction] `orbit/forehead/nasoethmoid` & [excision] {benign tumor} `cranial bones` & [bone graft] {< 40 sq cm} 
+21183	[reconstruction] `orbit/forehead/nasoethmoid` & [excision] {benign tumor} `cranial bones` & [bone graft] {40-80 sq cm} 
+21184	[reconstruction] `orbit/forehead/nasoethmoid` & [excision] {benign tumor} `cranial bones` & [bone graft] {> 80 sq cm} 
+21188	[reconstruction] `midface` & [osteotomies] !{non-lefort type} & [bone grafts] {autograft} 
+21193	[reconstruction] `mandibular rami` & ![bone graft] 
+21194	[reconstruction] `mandibular rami` & [bone graft] 
+21195	[reconstruction] `mandibular rami and/body` {sagittal split} & ![internal fixation] 
+21196	[reconstruction] `mandibular rami and/body` {sagittal split} & [internal fixation] 
+21198	[osteotomy] `mandible` 
+21199	[osteotomy] `mandible`& [genioglossus advancement] 
+21206	[osteotomy] `maxilla`& ![lefort]
+21208	[osteoplasty] `facial bone` & [augmentation] {autograft or allograft or prosthetic implant} 
+21209	[osteoplasty] `facial bones` & [reduction] 
+21210	[bone graft] `nasal maxillary/malar areas` & [graft] 
+21215	[bone graft] `mandible` & [graft] 
+21230	[rib cartilage graft] `face/chin/nose/ear` & [graft] 
+21235 [cartilage graft] `ear or nose` 
+21240	[arthroplasty] `temporomandibular joint` !{allograft}
+21242	[arthroplasty] `temporomandibular joint` {allograft} 
+21243	[arthroplasty] `temporomandibular joint` & [prosthetic joint replacement] 
+21244	[reconstruction] `mandible extraoral transosteal bone plate` 
+21245	[reconstruction] `mandible/maxilla` {subperiosteal implant}
+21246	[reconstruction] `mandible/maxilla` {subperiosteal implant} {complete} 
+21247	[reconstruction] `mandibular condyle bone and cartilage` {autograft} 
+21248	[reconstruction] `mandible/maxilla` {endosteal implant}
+21249	[reconstruction] `mandible/maxilla` {endosteal implant} {complete} 
+21255	[reconstruction] `zygomatic arch/glenoid fossa bone cartilage` 
+21256	[reconstruction] `orbit osteotomies` & [bone graft] {autograft} 
+21260	[periorbital osteotomies] {orbital hypertelorism} & [bone graft] {extracranial approach} 
+21261	[periorbital osteotomies] {orbital hypertelorism} & [bone graft] {intra and extracranial approach} 
+21263	[periorbital osteotomies] {orbital hypertelorism} & [bone graft] & [forehead advancement] 
+21267	[orbital repositioning] & [periorbital osteotomies] {unilat} & [bone graft] {extracranial approach} 
+21268	[orbital repositioning] & [periorbital osteotomies] {unilat} & [bone graft] {intra and extracranial approach} 
+21270	[malar augmentation] {prosthetic material} 
+21275	[secondary revision] `orbitocraniofacial` {reconstruction} 
+21280	[canthopexy] {medial} 
+21282	[canthopexy] {lateral} 
+21295	[reduction] `masseter muscle/bone` {extraoral} 
+21296	[reduction] `masseter muscle/bone` {intraoral} 
+21299*	unlisted craniofacial & maxillofacial proc 
+21310	[treatment] `nasal bone` & ![manipulation] 
+21315	[treatment] `nasal bone` & ![stabilization] 
+21320	[treatment] `nasal bone` & [stabilization] 
+21325	[treatment] {open} `nasal` 
+21330	[treatment] {open} `nasal` & [fixation] {internal and/or external} 
+21335	[treatment] {open} `nasal` & [concomitant] {open} `septum` 
+21336 [treatment] {open} `nasal septal` 
+21337	[treatment] `nasal septal` 
+21338	[treatment] {open} `nasoethmoid` & ![fixation] 
+21339	[treatment] {open} `nasoethmoid` & [fixation] {external} 
+21340	[treatment] {percutaneous} `nasoethmoid` & [fixation] & [repair] {ligament/apparatus} 
+21343	[treatment] {open} {depressed} `frontal sinus` 
+21344	[treatment] {open} {omplicated} `frontal sinus` 
+21345	[treatment] `nasomaxillary` {complex fx} & [fixation] 
+21346	[treatment] {open} `nasomaxillary` {complex fx} & [fixation] 
+21347	[treatment] {open} `nasomaxillary` {complex fx}
+21348	[treatment] {open} `nasomaxillary` {complex fx} & [bone graft] 
+21355	[treatment] {percutaneous} `malar area` & [manipulation] 
+21356	[treatment] {open} {depressed} `zygomatic arch` 
+21360	[treatment] {open} {depressed} `malar area` 
+21365	[treatment] {open} {complex fx} `malar area` & [fixation] {internal}
+21366	[treatment] {open} {complex fx} `malar area` & [bone graft] 
+21385	[treatment] {open} `orbital floor` {blowout fx} {transantral approach} 
+21386	[treatment] {open} `orbital floor` {blowout fx} {periorbital approach} 
+21387	[treatment] {open} `orbital floor` {blowout fx} {combined approach} 
+21390	[treatment] {open} `orbital floor` {blowout fx} {periorbital approach} & [alloplastic/implant] 
+21395	[treatment] {open} `orbital floor` {blowout fx} {periorbital approach} & [bone graft] 
+21400	[treatment] `orbit` !{blowout fx} & ![manipulation] 
+21401	[treatment] `orbit` !{blowout fx} & [manipulation] 
+21406	[treatment] {open} `orbit` !{blowout fx} & ![implant] 
+21407	[treatment] {open} `orbit` !{blowout fx} & [implant] 
+21408	[treatment] {open} `orbit` !{blowout fx} & [bone graft] 
+21421	[treatment] `palatal/maxillary` & [fixation/splint] 
+21422	[treatment] {open} `palatal/maxillary` 
+21423	[treatment] {open} `palatal/maxillary` {complex fx} {multiple approaches} 
+21431	[fixation/splint] {craniofacial separation} 
+21432	[fixation] {internal} {open} {craniofacial separation} 
+21433	[fixation] {internal} {open} {craniofacial separation} {complicated fx} {multiple approaches} 
+21435	[fixation] {internal and/or external} {open} {craniofacial separation} {complicated fx} 
+21436	[fixation] {internal} {open} {craniofacial separation} {complex fx} & [bone graft] {multiple approaches} 
+21440	[treatment] `mandibular/maxillary alveolar ridge` 
+21445	[treatment] {open} `mandibular/maxillary alveolar ridge` 
+21450	[treatment] `mandibular` & ![manipulation] 
+21451	[treatment] `mandibular` & [manipulation] 
+21452	[treatment] {percutaneous} `mandibular` & [fixation] {external} 
+21453	[treatment] `mandibular` & [fixation] {interdental} 
+21454	[treatment] {open} `mandibular` & [fixation] {external} 
+21461	[treatment] {open} `mandibular` & ![fixation] 
+21462	[treatment] {open} `mandibular` & [fixation] {interdental} 
+21465	[treatment] {open} `mandibular condylar` 
+21470	[treatment] {open} `mandibular` {complex fx} {multiple approaches} & [fixation] {internal/interdental} 
+21480	[treatment] `temporomandibular` {dislocation} 
+21485	[treatment] `temporomandibular` {dislocation} {complicated} 
+21490	[treatment] {open} `temporomandibular` {dislocation} 
+21497	[interdental wiring] !{fx} 
+21499*	unlisted musculoskeletal proc head 
+21501	[i/d] {deep} {abscess/hematoma} `soft tissues neck/thorax` 
+21502	[i/d] {deep} {abscess/hematoma} `soft tissues neck/thorax` & [ostectomy] `rib` 
+21510	[incision] {deep} `bone cortex thorax` 
+21550	[biopsy] `soft tissue neck/thorax` 
+21552	[excision] {tumor} `neck` {> 3 cm} 
+21554	[excision] {tumor} `neck` {subfascial}
+21555	[excision] {tumor} `neck`
+21556	[excision] {tumor} `neck` {< 5 cm} 
+21557	[resection] {radical} {tumor} `neck` {< 5 cm} 
+21558	[resection] {radical} {tumor} `neck` {> 5 cm} 
+21600	[excision] `rib`
+21601* excision of chest wall tumor including rib(s) 
+21602* excision of chest wall tumor involving rib(s), with plastic reconstruction; without mediastinal lymphadenectomy 
+21603* excision of chest wall tumor involving rib(s), with plastic reconstruction; with mediastinal lymphadenectomy 
+21610	[costotransversectomy] 
+21615	[excision] {1st and/or cervical} `rib` 
+21616	[excision] {1st and/or cervical} `rib` & [sympathectomy] 
+21620	[ostectomy] `sternum`
+21627	[debridement] `sternal` 
+21630	[resection] {radical} `sternum` 
+21632	[resection] {radical} `sternum` & [lymphadenectomy] `mediastinal` 
+21685	[hyoid myotomy] & [suspension] 
+21700	[division] `scalenus anticus` !{resection} `cervical rib` 
+21705	[division] `scalenus anticus` !{resection} `cervical rib` 
+21720	[division] `sternocleidomastoid torticollis` & ![cast] 
+21725	[division] `sternocleidomastoid torticollis` & [cast] 
+21740	[reconstructive] `pectus excavatum/carinatum` {open} 
+21742	[reconstructive] `pectus excavatum/carinatum` {minimal invasive approach} & ![thoracoscopy] 
+21743	[reconstructive] `pectus excavatum/carinatum` {minimal invasive approach} & [thoracoscopy] 
+21750	[closure] {median sternotomy separation} 
+21811	[orif] `1-3 ribs` 
+21812	[orif] `4-6 ribs` 
+21813	[orif] `7+ ribs` 
+21820	[closed treatment] `sternum` 
+21825	[open reduction] `sternum` 
+21899*	unlisted proc neck/thorax 
+21920	[biopsy] `back/flank` !{tumor} 
+21925	[biopsy] `back/flank` {deep} !{tumor}
+21930	[excision] {tumor} `back/flank` {< 3 cm} 
+21931	[excision] {tumor} `back/flank` !{< 3 cm} 
+21932	[excision] {tumor} `subfascial` `back/flank` {< 5 cm} 
+21933	[excision] {tumor} `subfascial` `back/flank` {> 5 cm} 
+21935	[resection] {radical} {tumor} `back/flank` {< 5 cm} 
+21936	[resection] {radical} {tumor} `back/flank` {> 5 cm} 
+22010	[i/d] {open} {abscess} `posterior spine` `cervical, thoracic/cervicothoracic` 
+22015	[i/d] {open} {abscess} `posterior spine` `lumbar, sacral/lumbosacral` 
+22100	[partial excision] `posterior vertebral` {bony lesion} {single} `cervical` 
+22101	[partial excision] `posterior vertebral` {bony lesion} {single} `thoracic` 
+22102	[partial excision] `posterior vertebral` {bony lesion} {single} `lumbar` 
+22103	[partial excision] `posterior vertebral` {bony lesion} {single} {addl} 
+22110	[partial excision] `vertebral body` {bony lesion} `spinal cord/nerve root` {single} `cervical` & ![decompression] 
+22112	[partial excision] `vertebral body` {bony lesion} `spinal cord/nerve root` {single} `thoracic` & ![decompression] 
+22114	[partial excision] `vertebral body` {bony lesion} `spinal cord/nerve root` {single} `lumbar` & ![decompression] 
+22116	[partial excision] `vertebral body` {bony lesion} `spinal cord/nerve root` {single} {addl} 
+22206	[osteotomy] `spine` {posterior/posterolateral} {3 columns} {1 vertebral segment} `lumbar` 
+22208	[osteotomy] `spine` {posterior/posterolateral} {3 columns} {1 vertebral segment} {each addl segment} 
+22210	[osteotomy] `spine` {posterior/posterolateral} {1 vertebral segment} `cervical` 
+22212	[osteotomy] `spine` {posterior/posterolateral} {1 vertebral segment} `thoracic` 
+22214	[osteotomy] `spine` {posterior/posterolateral} {1 vertebral segment} `lumbar` 
+22216	[osteotomy] `spine` {posterior/posterolateral} {1 vertebral segment} {each addl segment} 
+22220	[osteotomy] & [diskectomy] {anterior} `cervical` 
+22222	[osteotomy] & [diskectomy] {anterior} `thoracic` 
+22224	[osteotomy] & [diskectomy] {anterior} `lumbar` 
+22226	[osteotomy] & [diskectomy] {anterior} {each addl segment} 
+22310	[casting/bracing] `vertebral body` & ![manipulation] 
+22315	[casting/bracing] `vertebral body` {fx and/dislocation} & [manipulation] 
+22318	[open treatment and/reduction] `odontoid` {fx and/dislocation} {anterior approach} & [internal fixation] & ![graft] 
+22319	[open treatment and/reduction] `odontoid` {fx and/dislocation} {anterior approach} & [internal fixation]
+22325	[open treatment and/reduction] `vertebral` {fx and/dislocation} {posterior approach} {1 segment} `lumbar` 
+22326	[open treatment and/reduction] `vertebral` {fx and/dislocation} {posterior approach} {1 segment} `cervical` 
+22327	[open treatment and/reduction] `vertebral` {fx and/dislocation} {posterior approach} {1 segment} `thoracic` 
+22328	[open treatment and/reduction] `vertebral` {fx and/dislocation} {posterior approach} {each addl segment} 
+22505	[manipulation] `spine` {anesthesia} 
+22510	[percutaneous vertebroplasty] `cervicothoracic` {1 vertebra} 
+22511	[percutaneous vertebroplasty] `lumbosacral` {1 vertebra} 
+22512*[percutaneous vertebroplasty] {each addl vertebra} 
+22513	[percutaneous vertebral augmentation] {1 vertebra} `thoracic` 
+22514	[kyphoplasty] `lumbar` 
+22515*[percutaneous vertebral augmentation] {each addl vertebra} 
+22526	[percutaneous intradiscal electrothermal annuloplasty] {single level} 
+22527	[percutaneous intradiscal electrothermal annuloplasty] {addl levels} 
+22532	[arthrodesis] {lateral} `thoracic` & ![decompression] 
+22533	[arthrodesis] {lateral} `lumbar` & ![decompression] 
+22534*[arthrodesis] {lateral} `thoracic/lumbar` {ea addl} 
+22548	[arthrodesis] {anterior interbody} {transoral/extraoral} `atlas-axis` 
+22551	[arthrodesis] {anterior interbody} `cervical c2 and/below` 
+22552	[arthrodesis] {anterior interbody} `cervical c2 and/below` {addl levels}
+22554	[arthrodesis] {anterior interbody} `cervical c2 and/below` & ![decompression] & ![discectomy]
+22556	[arthrodesis] {anterior interbody} `thoracic` & ![decompression]  
+22558	[arthrodesis] {anterior interbody} `lumbar` & ![decompression] 
+22585	[arthrodesis] {anterior interbody} {each addl} & ![decompression] 
+22586	[arthrodesis] {presacral} `l5-s1` 
+22590	[arthrodesis] {posterior} `craniocervical`
+22595	[arthrodesis] {posterior} `atlas-axis`
+22600	[arthrodesis] {posterior/posterolateral} `cervical c2 and/below`
+22610	[arthrodesis] {posterior/posterolateral} `thoracic`
+22612	[arthrodesis] {posterior/posterolateral} `lumbar`
+22614	[arthrodesis] {posterior/posterolateral} {each addl}  
+22630	[arthrodesis] {posterior interbody technique} `lumbar` !{status post}
+22632	[arthrodesis] {posterior interbody technique} `lumbar` {each addl} 
+22633	[arthrodesis] {posterior/posterolateral} {posterior interbody technique} `lumbar`
+22634	[arthrodesis] {posterior/posterolateral} {posterior interbody technique} `lumbar` {eac addl}
+22800	[arthrodesis] {posterior} `spinal` {deformity} {</6 vertebra}
+22802	[arthrodesis] {posterior} `spinal` {deformity} {7-12 vertebra}
+22804	[arthrodesis] {posterior} `spinal` {deformity} {>/13 vertebra}
+22808	[arthrodesis] {anterior} `spinal` {deformity} {2-3 vertebra}
+22810	[arthrodesis] {anterior} `spinal` {deformity} {4-7 vertebra}
+22812	[arthrodesis] {anterior} `spinal` {deformity} {>/8 vertebra}
+22818	[kyphectomy] {1-2 vertebra} 
+22819	[kyphectomy] {>/3 vertebra} 
+22830	[exploration spinal fusion] 
+22840	[posterior non-segmental instrumentation] 
+22841	[internal spinal fixation] 
+22842	[posterior segmental instrumentation] {3-6 vertebra} 
+22843	[posterior segmental instrumentation] {7-12 vertebra} 
+22844	[posterior segmental instrumentation] {>/13 vertebra} 
+22845	[anterior instrumentation] {2-3 vertebra} & ![arthrodesis]
+22846	[anterior instrumentation] {4-7 vertebra} & ![arthrodesis]
+22847	[anterior instrumentation] {>/8 vertebra} & ![arthrodesis]
+22848	[pelvic fixation] !`sacrum` 
+22849	[revision] `spinal` {fixation device} 
+22850	[removal posterior nonsegmental instrumentation] 
+22852	[removal posterior segmental instrumentation] 
+22853	[insertion interbody biomechanical device]  & [arthrodesis] & ![imaging report]
+22854	[insertion interbody biomechanical device] `vertebra` {corpectomy defect} {each} & [arthrodesis] 
+22855	[removal anterior instrumentation] `spinal`
+22856	[total disc arthroplasty] {anterior approach} {single interspace} `cervical` 
+22857	[total disc arthroplasty] {anterior approach} {single interspace} `lumbar` 
+22858	[total disc arthroplasty] {anterior approach} {2nd level} `cervical` 
+22859	[insertion interbody biomechanical device] `vertebra` & ![arthrodesis] 
+22861	[revision arthroplasty] {anterior approach} {single interspace} `cervical` 
+22862	[revision arthroplasty] {anterior approach} {single interspace} `lumbar` 
+22864	[removal arthroplasty] {anterior approach} {single interspace} `cervical` 
+22865	[removal arthroplasty] {anterior approach} {single interspace} `lumbar` 
+22867	[insertion stabilization device] `lumbar` {single level} & [decompression] & ![fusion] 
+22868	[insertion stabilization device] `lumbar` {second level} & [decompression] & ![fusion] 
+22869	[insertion stabilization device] `lumbar` {single level} & ![decompression] & ![fusion] 
+22870	[insertion stabilization device] `lumbar` {second level} & ![decompression] & ![fusion] 
+22899*	unlisted proc spine 
+22900	[excision] {tumor} `soft tissue abdominal wall` {subfascial} {less than 5 cm} 
+22901	[excision] {tumor} `soft tissue abdominal wall` {subfascial} {5 cm or greater} 
+22902	[excision] {tumor} `soft tissue abdominal wall` {less than 3 cm} 
+22903	[excision] {soft tissue mass} `abdominal wall` {3 cm or greater} 
+22904	[resection] {radical} {tumor} `soft tissue abdominal wall` {< 5 cm} 
+22905	[resection] {radical} {tumor} `soft tissue abdominal wall` {> 5 cm} 
+22999*	unlisted proc abdomen musculoskeletal system 
+23000	[removal] `subdeltoid calcareous` {deposits} 
+23020	[release] `capsular contracture` 
+23030	[i/d] `shoulder` {abscess/hematoma} 
+23031	[i/d] `shoulder` {infected bursa} 
+23035	[incision] `bone cortex shoulder` 
+23040	[arthrotomy] `glenohumeral` & [drainage/removal] {fb} 
+23044	[arthrotomy] `acromioclavicular sternoclavicular` {drain/removal fb} 
+23065	[biopsy] `soft tissue shoulder` 
+23066	[biopsy] `soft tissue shoulder` {deep} 
+23071	[excision] {tumor} `soft tissue shoulder` {> 3 cm}
+23073	[excision] `soft tissue tumor` & [intramuscular] & [shoulder] {subfascial} {> 5 cm} 
+23075	[excision] {tumor} `soft tissue shoulder` {< 3 cm} 
+23076	[excision] {tumor} `soft tissue shoulder` {subfascial} {< 5 cm} 
+23077	[resection] {radical} {tumor} `soft tissue shoulder` {< 5 cm} 
+23078	[resection] {radical} {tumor} `soft tissue of shoulder` {> 5 cm} 
+23100	[arthrotomy] `glenohumeral joint` & [biopsy] 
+23101	[arthrotomy] `acromio/sternoclavicular joint` & [biopsy] 
+23105	[arthrotomy] `glenohumeral joint` & [synovectomy] !{bx} 
+23106	[arthrotomy] `sternoclavicular joint` & [synovectomy] !{bx} 
+23107	[arthrotomy] `glenohumeral` & [removal] !{loose fb} 
+23120	[claviculectomy] !{total} !{arthroscopy}
+23125	[claviculectomy] {total} !{arthroscopy}
+23130	[acromioplasty/acromionectomy] & ![coracoacromial ligament release] 
+23140	[excision] `bone cyst/benign tumor` `clavicle/scapula` 
+23145	[excision] `bone cyst/benign tumor` `clavicle/scapula` {autograft} 
+23146	[excision] `bone cyst/benign tumor` `clavicle/scapula` {allograft} 
+23150	[excision] `bone cyst/benign tumor` {proximal} `humerus` 
+23155	[excision] `bone cyst/benign tumor` {proximal} `humerus` {autograft} 
+23156	[excision] `bone cyst/benign tumor` {proximal} `humerus` {allograft} 
+23170	[sequestrectomy] `clavicle` 
+23172	[sequestrectomy] `scapula` 
+23174	[sequestrectomy] `humeral head` !{surgical neck} 
+23180	[excision] `clavicle` {partial}
+23182	[excision] `scapula` {partial}
+23184	[excision] `humerus` {proximal} {partial}
+23190	[ostectomy] `scapula` {partial}
+23195	[resection] `humeral head` {partial}
+23200	[resection] {radical} {tumor} `clavicle` 
+23210	[resection] {radical} {tumor} `scapula` 
+23220	[resection] {radical} {tumor} {proximal} `humerus` 
+23330	[removal fb] `shoulder` 
+23331* [removal fb] `shoulder` 
+23332* [removal fb] `shoulder` {deep} 
+23333	[removal] `shoulder` {deep} 
+23334	[removal] {prosthesis} `humeral/glenoid` 
+23335	[removal] {prosthesis} `humeral` `glenoid` 
+23350	[arthrography] `joint of shoulder` 
+23395	[muscle transfer] `shoulder/upper arm` 
+23397	[muscle transfer] `shoulder/upper arm` {multiple} 
+23400	[scapulopexy] 
+23405	[tenotomy] `shoulder` 
+23406	[tenotomy] `shoulder` {multiple} `tendons` {same incision} 
+23410	[arthroscopy] `shoulder` & [mini open] {repair} `rotator cuff` 
+23412	[repair] {ruptured} `rotator cuff` {mini open}
+23415	[release] `coracoacromial ligament` 
+23420	[reconstruction] {complete} `shoulder` `rotator cuff` {avulsion} {chronic} 
+23430	[biceps tenodesis] !{arthroscopic}
+      [repair] {open} `long tendon biceps`
+23440	[resection/transplantation] `long tendon biceps` 
+23450	[capsulorrhaphy] {anterior} `shoulder`  `subscapularis tendon` 
+23455	[capsulorrhaphy] {anterior} & [repair] `labral` 
+23460	[capsulorrhaphy] {anterior} & [bone block] 
+23462	[capsulorrhaphy] {anterior} & [transfer] `coracoid process` 
+23465	[capsulorrhaphy] `glenohumeral joint` {posterior} 
+23466	[capsulorrhaphy] `glenohumeral joint` {multi-directional instability} 
+23470	[hemiarthroplasty] `glenohumeral joint` 
+23472	[arthroplasty] !{revision} `total shoulder` 
+23473	[revision] {total shoulder}  
+23474	[revision] {total shoulder} `humeral` `glenoid` 
+23480	[osteotomy] `clavicle` 
+23485	[osteotomy] `clavicle` & [bone graft] {nonunion/malunion} 
+23490	[prophylactic treatment] `clavicle` 
+23491	[prophylactic treatment] `humerus` {proximal} 
+23500	[closed reduction] !{open} `clavicle` & ![manipulation] 
+23505	[closed reduction] !{open} `clavicle` & [manipulation] 
+23515	[open reduction] `clavicle` 
+23520	[closed reduction] `sternoclavicular dislocation` & ![manipulation] 
+23525	[closed reduction] `sternoclavicular dislocation` & [manipulation] 
+23530	[open reduction] `sternoclavicular dislocation` 
+23532	[open reduction] `sternoclavicular dislocation` & [graft] `fascia`
+23540	[closed reduction] `acromioclavicular dislocation` & ![manipulation] 
+23545 [reduction] {closed} `acromioclavicular dislocation` & [manipulation]
+23550	[reduction] {open} & [dislocation] `sternoclavicular`                  
+23552	[reduction] `sternoclavicular dislocation` & [graft] 
+23570	[treatment] `scapular` & ![manipulation] 
+23575	[reduction] `scapular` & [fracture]
+23585	[treatment] {open} `scapular`
+23600	[treatment] {proximal} `humerus` & ![manipulation] 
+23605	[closed treatment] `proximal humerus` & [manipulation] 
+23615	[treatment] {open} `humerus` 
+23616	[treatment] {open} `humerus` & [replacement] {prosthetic} 
+23620	[treatment] `greater humeral tuberosity` & ![manipulation] 
+23625	[treatment] `greater humeral tuberosity` & [manipulation] 
+23630	[treatment] {open} `greater humeral tuberosity` {fx} 
+23650	[reduction] `shoulder` & [dislocation] & ![anesthesia] 
+23655	[reduction] `shoulder` & [dislocation] & [anesthesia]
+23660	[treatment] {open} `shoulder` {dislocation} 
+23665	[treatment] `shoulder` & [dislocation] & [fracture] `greater humeral tuberosity`
+23670	[treatment] {open} `shoulder` {dislocation}
+23675	[reduction] `shoulder` {dislocation} & [neck fracture]
+23680	[treatment] {open} `shoulder` {dislocation} `surgical/anatomical neck` 
+23700	[manipulation] `shoulder joint` & [application] {fixation apparatus}  
+23800	[arthrodesis] `glenohumeral joint` 
+23802	[arthrodesis] `glenohumeral joint` & [graft] {autogenous} 
+23900	[amputation] `interthoracoscapular` 
+23920	[disarticulation] `shoulder` 
+23921	[disarticulation] `shoulder` & [secondary closure or scar revision] 
+23929*	unlisted proc `shoulder` 
+23930	[i/d] `upper arm/elbow` {deep} {abscess/hematoma} 
+23931	[i/d] `upper arm/elbow` {bursa} 
+23935	[incision] {deep} {opening bone cortex} `humerus/elbow` 
+24000	[arthrotomy] `elbow` 
+24006	[arthrotomy] `elbow` & [excision] {capsular release} 
+24065	[biopsy] `upper arm/elbow` 
+24066	[biopsy] `upper arm/elbow` {deep} 
+24071	[excision] {tumor} `upper arm/elbow` {> 3 cm} 
+24073	[excision] {tumor} `upper arm/elbow` {ddep} {> 5 cm} 
+24075	[excision] {tumor} `upper arm/elbow` {< 3 cm} 
+24076	[excision] {tumor} `upper arm/elbow` {deep} {< 5 cm} 
+24077	[resection] {radical} {tumor} `upper arm/elbow` {< 5 cm} 
+24079	[resection] {radical} {tumor} `upper arm/elbow` {> 5 cm} 
+24100	[arthrotomy] `elbow` & [biopsy] `synovial` 
+24101	[arthrotomy] `elbow` & [exploration] `joint` 
+24102	[arthrotomy] `elbow` & [synovectomy] 
+24105	[excision] `olecranon bursa` 
+24110	[excision] `humerus` {cyst/benign tumor} 
+24115	[excision] `humerus` {cyst/benign tumor} {autograft} & [graft] 
+24116	[excision] `humerus` {cyst/benign tumor} {allograft} 
+24120	[excision] `head/neck radius/olecranon bone` {cyst/benign tumor} 
+24125	[excision] `bone cyst/benign tumor` {autograft} 
+24126	[excision] `bone cyst/benign tumor` {allograft} 
+24130	[excision] `radial head` 
+24134	[sequestrectomy] `shaft/distal humerus` 
+24136	[sequestrectomy] `radial head/neck` 
+24138	[sequestrectomy] `olecranon process` 
+24140	[epicondylectomy] `elbow` 
+24145	[excision] `radial head/neck bone` 
+24147	[excision] `olecranon process` 
+24149	[resection] {radical} `capsule` `soft tissue` `heterotopic bone` `elbow` & [contracture release] 
+24150	[resection] {radical} {tumor} `shaft or distal humerus` 
+24151*	{radical} resection tumor `shaft/distal humerus` {autograft} & [graft] 
+24152	[resection] {radical} {tumor} `radial head or neck` 
+24153*	[resection] {radical} resection tumor `radial head/neck` {autograft} & [graft] 
+24155	[arthrectomy] `elbow` 
+24160	[removal] {prosthesis} `humeral` `ulnar` 
+24164	[removal] {prosthesis} `radial head` 
+24200	[removal] {fb} `upper arm/elbow`  
+24201	[removal] {fb} `upper arm/elbow` {deep} 
+24220	[arthrography]`elbow` 
+24300	[manipulation] `elbow` & [anesthesia] 
+24301	[transfer] `muscle/tendon`` upper arm/elbow` {single} & ![tenoplasty] & ![extensor advancement] 
+24305	[lengthening] `tendon` `upper arm/elbow` 
+24310	[tenotomy] {open} `elbow to shoulder` `tendon` 
+24320	[tenoplasty] & [transfer] `muscle` `elbow to shoulder` 
+24330	[flexor-plasty] `elbow` 
+24331	[flexor-plasty] `elbow` & [extensor advancement] 
+24332	[tenolysis] `triceps` 
+24340	[tenodesis] `biceps tendon`
+      [repair] {open} `biceps tendon` !{long}
+24341	[repair] `upper arm tendon or muscle` & [elbow] !`rotator cuff` 
+24342	[reinsertion] {ruptured} `biceps/triceps tendon` {distal} 
+24343	[repair] `lateral collateral ligament` `elbow` {local tissue} 
+24344	[reconstruction] `lateral collateral ligament` `elbow` & [graft] `tendon` 
+24345	[repair] `medial collateral ligament` `elbow` {local tissue} 
+24346	[reconstruction] `medial collateral ligament` `elbow` & [graft] `tendon` 
+24350*	[fasciotomy] {lateral or medial} 
+24351*	[fasciotomy] {lateral or medial} extensor origin detachment 
+24352*	[fasciotomy] {lateral or medial} annular ligament resection  
+24354*	[fasciotomy] {lateral or medial} stripping 
+24356*	[fasciotomy] {lateral or medial} & [ostectomy] 
+24357	[tenotomy] `elbow` {lateral or medial} 
+24358	[debridement] `elbow` `soft tissue and/bone` {open} 
+24359	[debridement] `elbow` `soft tissue and/bone` {open} & [repair or reattachment] 
+24360	[arthroplasty] `elbow` 
+24361	[arthroplasty] `elbow` & [replacement] `distal humeral` {prosthetic} 
+24362	[arthroplasty] `elbow` & [implant] & [reconstruction] `fascia lata ligament` 
+24363	[arthroplasty] `elbow` & [replacement] `distal humerus` `proximal ulnar` {prosthetic} 
+24365	[arthroplasty] `radial head` 
+24366	[arthroplasty] `radial head` & [implant] 
+24370	[revision] {total elbow} {arthrplasty} `humeral or ulna` {component} 
+24371	[revision] {total elbow} {arthrplasty} `humeral` `ulna` {component} 
+24400	[osteotomy] `humerus` 
+24410	[osteotomies] & [realignment] {intramedullary rod} `humeral shaft` 
+24420	[osteoplasty] `humerus` & ![suture nerve] 
+24430	[repair] {nonunion/malunion} `humerus` & ![graft] 
+24435	[repair] {nonunion/malunion} `humerus` & [autograft] 
+24470	[hemiepiphyseal arrest] 
+24495	[decompression fasciotomy] `forearm` & [exploration] `brachial artery` 
+24498	[prophylactic treatment] `humeral shaft` 
+24500	[treatment] `humeral shaft` & ![manipulation] & ![percutaneous]
+24505	[treatment] `humeral shaft` & [manipulation] & ![percutaneous]
+24515	[treatment] {open} `humeral shaft` {plate/screws} 
+24516	[treatment] `humeral shaft` & [insertion] {intramedullary implant} 
+24530	[treatment] `supracondylar/transcondylar humeral` & ![manipulation] & ![percutaneous]
+24535	[treatment] `supracondylar/transcondylar humeral` & [manipulation] & ![percutaneous] 
+24538	[percutaneous fixation] `supracondylar/transcondylar humeral` 
+24545	[treatment] {open} `supracondylar/transcondylar humeral` & ![extension] `intercondylar` 
+24546	[treatment] {open} `supracondylar/transcondylar humeral` & [extension] `intercondylar` 
+24560	[treatment] `humeral epicondylar` {medial/lateral} & ![manipulation] 
+24565	[treatment] `humeral epicondylar` {medial/lateral} & [manipulation] 
+24566	[percutaneous fixation] `humeral epicondylar` & [manipulation] 
+24575	[treatment] {open} `humeral epicondylar`
+24576	[treatment] `humerus condylar` & ![manipulation] 
+24577	[treatment] `humeral condylar` & [manipulation] 
+24579	[internal fixation] `humerus condyle`
+24582	[percutaneous fixation] `humerus condyle` {closed reduction} 
+24586	[treatment] {open} `periarticular` {fx and/dislocation} `elbow` 
+24587	[treatment] {open} `periarticular` {fx and/dislocation} `elbow` & [implant arthroplasty] 
+24600	[treatment] `elbow` {dislocation} & ![anesthesia] 
+24605	[treatment] `elbow` {dislocation} 
+24615	[treatment] {open} `elbow` {dislocation} 
+24620	[fracture/dislocation] {fx dislocation} `elbow` & [traction countertraction] 
+24635	[treatment] {open} {fx dislocation} `elbow` 
+24640	[treatment] `nursemaid elbow`
+24650	[treatment] `radial head/neck` & ![manipulation] 
+24655	[treatment] `radial head/neck` & [manipulation] 
+24665	[treatment] {open} `radial head/neck` 
+24666	[treatment] {open} `radial head/neck` & [replacement] `radial head` {prosthetic} 
+24670	[treatment] `ulnar proximal end` & ![manipulation] 
+24675	[treatment] `ulnar proximal end` & [manipulation]   
+24685	[treatment] {open} `ulnar proximal end` 
+24800	[arthrodesis] `elbow` 
+24802	[arthrodesis] `elbow` & [graft] {autogenous} 
+24900	[amputation] `arm through humerus` & [primary closure] 
+24920	[amputation] `arm through humerus` {open} {circular} 
+24925	[amputation] `arm through humerus` & [secondary closure/scar revision] 
+24930	[re-amputation] `arm through humerus` 
+24931	[amputation] `arm through humerus` & [implant] 
+24935	[stump elongation] `upper extremity` 
+24940	[cineplasty] `upper extremity` 
+24999*	unlisted proc humerus/ `elbow` 
+25000	[release/incision] `extensor tendon sheath` `wrist`
+      [dequervain release] 
+25001	[incision] `flexor tendon sheath` `wrist` 
+25020	[decompression fasciotomy] `forearm and/or wrist` {flexor/extensor compartment} & ![debridement] 
+25023	[decompression fasciotomy] `forearm and/or wrist` {flexor/extensor compartment} & [debridement] 
+25024	[decompression fasciotomy] `forearm and/or wrist` {flexor and extensor compartment} & ![debridement] 
+25025	[decompression fasciotomy] `forearm and/or wrist` {flexor and extensor compartment} & [debridement] 
+25028	[i/d] `forearm and/or wrist` {deep} {abscess/hematoma} 
+25031	[i/d] `forearm and/or wrist` {bursa} 
+25035	[incision] {deep} {bone cortex} `forearm and/or wrist` 
+25040	[arthrotomy] `radiocarpal/midcarpal joint` 
+25065	[biopsy] `forearm and/or wrist` {superficial} 
+25066	[biopsy] `forearm and/or wrist` {deep} 
+25071	[excision] {subcutaneous mass} `forearm and/or wrist` {3 cm or greater} 
+25073	[excision] {subcutaneous mass} `forearm and/or wrist` {subfascial} {3 cm or greater} 
+25075	[excision] {subcutaneous mass} `forearm and/or wrist` {less than 3 cm} 
+25076	[excision] {subcutaneous mass} `forearm and/or wrist` {subfascial} {less than 3 cm} 
+25077	[resection] {radical} {subcutaneous mass} `forearm and/or wrist` {area less than 3 cm} 
+25078	[resection] {radical} {subcutaneous mass} `forearm and/or wrist` {area 3 cm or greater} 
+25085	[capsulotomy] `wrist` 
+25100	[arthrotomy] `wrist joint` & [biopsy] 
+25101	[arthrotomy] `wrist joint` & ![biopsy] & ![removal loose fb] 
+25105	[arthrotomy] `wrist joint` & [synovectomy] 
+25107	[arthrotomy] `radioulnar joint`& [repair] `triangular cartilage` {complex} 
+25109	[excision] `forearm and/or wrist` `flexor or extensor tendon` 
+25110 [excision] `forearm and /or wrist` `tendon sheath` {lesion} 
+25111	[excision] `ganglion`{wrist}
+25112	[excision] {ganglion} `wrist` {recurrent} 
+25115	[excision] {radical} {bursa synovia} `wrist/forearm tendon sheaths flexors` 
+25116	[excision] {radical} {bursa synovia} `wrist/forearm tendon sheaths extensors` 
+25118	[synovectomy] `extensor tendon sheath` `wrist` 
+25119	[synovectomy] `extensor tendon sheath` `wrist` & [resection] `distal ulna` 
+25120	[excision] `bone cyst/benign tumor` `radius or ulna` 
+25125	[excision] `bone cyst/benign tumor` `radius or ulna` {autograft} 
+25126	[excision] `bone cyst/benign tumor` `radius or ulna` {allograft} 
+25130	[excision] `bone cyst/benign tumor` `carpal bones` 
+25135	[excision] `bone cyst/benign tumor` `carpal bones` {autograft} 
+25136	[excision] `bone cyst/benign tumor` `carpal bones` {allograft} 
+25145	[sequestrectomy] `forearm or wrist` 
+25150	[excision] `ulna bone` 
+25151	[excision] `radius bone` 
+25170	[resection of tumor] {radical} `radius or ulna` 
+25210	[carpectomy]
+25215*[carpectomy] all bones {proximal} row 
+25230	[styloidectomy] `radial` 
+25240	[excision] `distal ulna` {complete} 
+25246	[arthrography] `wrist` 
+25248	[removal] {deep fb} `forearm/wrist` 
+25250	[removal] `wrist` {prosthesis} 
+25251	[removal] `wrist` {prosthesis} `wrist` 
+25259	[manipulation] `wrist` 
+25260	[repair] `flexor tendon/muscle` `forearm and/or wrist`{each tendon/muscle} 
+25263	[repair] `flexor tendon/muscle` `forearm and/or wrist` {secondary} {each tendon/muscle} 
+25265	[repair] `flexor tendon/muscle` `forearm and/or wrist` {secondary} & [graft] {each tendon/muscle} 
+25270	[repair] `extensor tendon/muscle` `forearm and/or wrist`{each tendon/muscle} 
+25272	[repair] `extensor tendon/muscle` `forearm and/or wrist` {secondary} {each tendon/muscle} 
+25274	[repair] `extensor tendon/muscle` `forearm and/or wrist` {secondary} & [graft] {each tendon/muscle} 
+25275	[repair] `tendon sheath` `extensor` `forearm and/or wrist` & [graft] 
+25280	[lengthening/shortening] `flexor/extensor tendon` `forearm and /wrist` {each tendon} 
+25290	[tenotomy] {open} `flexor/extensor tendon` `forearm and/or wrist` {each tendon} 
+25295	[tenolysis] `flexor/extensor tendon` `forearm and/or wrist` {eac tendon} 
+25300	[tenodesis] `wrist` `flexors fingers` 
+25301	[tenodesis] `wrist` `extensors fingers` 
+25310	[tendon transplantation/transfer] `flexor/extensor` `forearm and/or wrist` {each tendon} 
+25312	[tendon graft] `flexor/extensor` `forearm and/or wrist` {each tendon} & [graft] 
+25315	[flexor origin slide] `forearm and/or wrist` 
+25316	[flexor origin slide] `forearm and/or wrist` & [transfer] `tendon` 
+25320	[capsulorrhaphy/reconstruction] `wrist` {open} {carpal instability} 
+25332	[arthroplasty] `wrist` 
+25335	[centralization] `wrist` 
+25337	[reconstruction] & [stabilization] `radioulnar` 
+25350	[osteotomy] `radius` {distal third} 
+25355	[osteotomy] `radius` {middle/proximal third} 
+25360	[osteotomy] `ulna` 
+25365	[osteotomy] `radius` `ulna` 
+25370	[osteotomies] {multiple} `radius or ulna` 
+25375	[osteotomies] {multiple} `radius` `ulna` 
+25390	[osteoplasty] `radius or ulna` {shortening} 
+25391	[osteoplasty] `radius or ulna` {lengthening} & [autograft] 
+25392	[osteoplasty] `radius` `ulna` {shortening} 
+25393	[osteoplasty] `radius` `ulna` {lengthening} & [autograft] 
+25394	[osteoplasty] `carpal bone` {shortening} 
+25400	[repair] {nonunion/malunion} `radius or ulna` & ![graft] 
+25405	[repair] {nonunion/malunion} `radius or ulna` & [autograft] 
+25415	[repair] {nonunion/malunion} `radius` `ulna` & ![graft] 
+25420	[repair] {nonunion/malunion} `radius` `ulna` & [autograft] 
+25425	[autograft] {defect} `radius or ulna` 
+25426	[autograft] {defect} `radius` `ulna` 
+25430	[insertion] {vascular pedicle} `carpal bone` 
+25431	[repair] {nonunion} `carpal bone` !`scaphoid carpal` 
+25440	[repair] {nonunion} `scaphoid carpal` 
+25441	[arthroplasty] & [prosthetic replacement] `distal radius` 
+25442	[arthroplasty] & [prosthetic replacement] `distal ulna` 
+      [arthroplasty] & [prosthetic replacement] `distal radioulnar joint`
+25443	[arthroplasty] & [prosthetic replacement] `scaphoid carpal` 
+25444	[arthroplasty] & [prosthetic replacement] `lunate` 
+25445	[arthroplasty] & [prosthetic replacement] `trapezium` 
+25446	[arthroplasty] & [prosthetic replacement] `distal radius` `wrist` 
+25447	[arthroplasty] `intercarpal/carpometacarpal joints` 
+25449	[revision] & [arthroplasty] `wrist joint` 
+25450	[epiphyseal arrest] {distal} `radius or ulna` 
+25455	[epiphyseal arrest] {distal} `radius` `ulna` 
+25490	[prophylactic treatment] `radius` 
+25491	[prophylactic treatment] `ulna` 
+25492	[prophylactic treatment] `radius` `ulna` 
+25500	[treatment] `radial` & ![manipulation] 
+25505	[closed treatment] `radial shaft` & [manipulation] 
+25515	[manipulation] `radial shaft` {open} 
+25520	[closed treatment] `radial shaft` {distal} `radioulnar joint` 
+25525	[open reduction] `radial` & [closed treatment] {distal} `radioulnar joint` 
+25526	[open reduction] `radial` & [open reduction] {distal} `radioulnar joint` 
+25530	[closed treatment] `ulnar` & ![manipulation] 
+25535	[closed treatment] `ulnar` & [manipulation] 
+25545	[open reduction] `ulnar` 
+25560	[closed treatment] `radial` `ulnar` & ![manipulation] 
+25565	[closed treatment] `radial` `ulnar` & [manipulation] 
+25574	[open reduction] `radial` `ulnar` & [internal fixation] `radius or ulna` 
+25575	[open reduction] `radial` `ulnar` & [internal fixation] `radius` `ulna` 
+25600	[closed treatment] !{open} `distal radius` {fx/epiphyseal separation} & ![manipulation] 
+25605	[closed reduction] `distal radius` & [smith type] {displacement} & [manipulation] & ![open]
+      [closed treatment] !{open} `distal radius` & [manipulation]
+25606	[percutaneous fixation] `distal radius` {fx/epiphyseal separation} 
+25607	[open reduction] `distal radius` & ![intraarticular] & [internal fixation]
+      [open reduction] `distal radius` & [internal fixation] & [extraarticular] {fracture}
+25608	[open reduction] `distal radius` & [intraarticular] & ![three fragment]
+25609 [open reduction] `distal radius` & [internal fixation] & [intraarticular] {fracture} & [three fragment]
+25622	[closed treatment] `carpal scaphoid` & ![manipulation] 
+25624	[closed treatment] `scaphoid carpal` & [manipulation] 
+25628	[open reduction] `scaphoid carpal`
+25630	[closed treatment] `carpal bone` !`scaphoid` & ![manipulation] 
+25635	[closed treatment] `carpal bone` !`scaphoid` & [manipulation] 
+25645	[open reduction] `carpal bone` !`scaphoid` 
+25650	[closed treatment] `ulnar styloid` 
+25651	[percutaneous fixation] `ulnar styloid`
+25652	[open reduction] `ulnar styloid` 
+25660	[closed treatment] `radiocarpal/intercarpal` & [dislocation] & [manipulation] 
+25670	[open reduction] `radiocarpal/intercarpal` {dislocation} 
+25671	[percutaneous fixation] `distal radioulnar` {dislocation} 
+25675	[closed treatment] `distal radioulnar` {dislocation} & [manipulation] 
+25675	[closed treatment] `distal radioulnar` & [dislocation] & [manipulation] 
+25676	[open reduction] `distal radioulnar` {dislocation} 
+25680	[closed treatment] `trans-scaphoperilunar` {fx and/dislocation} & [manipulation] 
+25685	[open reduction] `trans-scaphoperilunar` {fx and/dislocation} 
+25690	[closed treatment] `lunate` & [dislocation] & [manipulation] 
+25695	[open reduction] `lunate` {dislocation} 
+25800	[arthrodesis] `wrist` {complete} & ![bone graft] 
+25805	[arthrodesis] `wrist` & [sliding graft] 
+25810	[arthrodesis] `wrist` {autograft} & [graft] 
+25820	[arthrodesis] `wrist` & ![bone graft] 
+25825	[arthrodesis] `wrist` {autograft} & [graft] 
+25830	[arthrodesis] `distal radioulnar joint` & [segmental resection] `ulna` 
+25900	[amputation] `forearm` 
+25905	[amputation] `forearm` {open} {circular} 
+25907	[amputation] `forearm` {secondary closure/scar revision} 
+25909	[amputation] `forearm` {re-amputation} 
+25915	[krukenberg] 
+25920	[disarticulation] `wrist` 
+25922	[disarticulation] `wrist` {secondary closure/scar revision} 
+25924	[disarticulation] `wrist` {re-amputation} 
+25927	[amputation] `transmetacarpal` 
+25929	[amputation] `transmetacarpal` {secondary closure/scar revision} 
+25931	[amputation] `transmetacarpal` & [re-amputation] 
+25999*	unlisted proc forearm/ `wrist`  
+26010	[drainage] `finger` {abscess} 
+26011	[drainage] `finger` {abscess} {complicated} 
+26020	[drainage] `tendon sheath` `digit and/palm` 
+26025	[drainage] `palmar bursa` 
+26030	[drainage] `palmar bursa` {multiple} 
+26034	[incision] {bone cortex} `hand/finger` 
+26035	[decompression] `fingers and/hand` {injection injury} 
+26037	[decompressive fasciotomy] `hand` 
+26040	[fasciotomy] `palmar` {percutaneous} 
+26045	[fasciotomy] `palmar` {open}
+26055	[tendon sheath incision] & [release/incision]
+      [trigger finger release]
+26060	[tenotomy] {percutaneous} {each digit} 
+26070	[arthrotomy] `carpometacarpal joint` 
+26075	[arthrotomy] `metacarpophalangeal joint` 
+26080	[arthrotomy] `interphalangeal joint` 
+26100	[arthrotomy] & [biopsy] `carpometacarpal joint` 
+26105	[arthrotomy] & [biopsy] `metacarpophalangeal joint` 
+26110	[arthrotomy] & [biopsy] `interphalangeal joint` 
+26111	[excision] `soft tissue` `hand/finger` {>/1.5 cm} 
+26113	[excision] `soft tissue` `hand/finger` {subfascial} {>/1.5 cm} 
+26115	[excision] `soft tissue` `hand/finger` {< 1.5 cm} 
+26116	[excision] `soft tissue` `hand/finger` {subfascial} {< 1.5 cm} 
+26117	[resection] {radical} {tumor} `hand/finger` {< 3 cm} 
+26118	[resection] {radical} {tumor} `hand/finger` {>/3 cm} 
+26121	[fasciectomy] `palm` 
+26123	[fasciectomy] `partial palmar` & [release] `digit` 
+26125	[fasciectomy] `partial palmar` & [release] `digit` {each addl} 
+26130	[synovectomy] `carpometacarpal joint` 
+26135	[synovectomy] `metacarpophalangeal joint` 
+26140	[synovectomy] {proximal} `interphalangeal joint` 
+26145	[tenosynovectomy] `palm or finger` {each tendon} 
+26160	[excision] {lesion/cyst/ganglion} `hand/finger` !{past status}
+26170	[excision] `palm tendon` {flexor/extensor} {each tendon} 
+26180	[excision] `finger tendon` {flexor/extensor} {each tendon} 
+26185	[sesamoidectomy] `thumb/finger` 
+26200	[excision] {bone cyst/benign tumor} `metacarpal` & [autograft] 
+26210	[excision] {bone cyst/benign tumor} `phalanx finger` 
+26215	[excision] {bone cyst/benign tumor} `phalanx finger` & [autograft] 
+26230	[excision] `metacarpal` 
+26235	[excision] `proximal/middle phalanx finger` 
+26236	[excision] `distal phalanx finger` 
+26250	[resection] {radical} {tumor} `metacarpal` 
+26255*	{radical} resection metacarpal {autograft} & [graft] 
+26260	[resection] {radical} {tumor} `proximal or middle phalanx finger` 
+26261*	{radical} resection proximal/middle phalanx finger {autograft} 
+26262	[resection] {radical} {tumor} `distal phalanx finger` 
+26320	[removal] {implant} `finger/hand` 
+26340	[manipulation] `finger joint` {anesthesia} {each joint} 
+26341	[manipulation] `palmar fascial cord` {post injection} {single cord} 
+26350	[repair/advancement] `flexor tendon` !{zone 2} & ![free graft] {each tendon} 
+26352	[repair/advancement] `flexor tendon` !{zone 2} {secondary} & [free graft] {each tendon} 
+26356	[repair/advancement] `flexor tendon` {zone 2} & ![free graft] {each tendon}
+      [repair/advancement] `flexor tendon` & [zone 2] & ![free graft] {each tendon}
+26357	[repair/advancement] `flexor tendon` {zone 2} {secondary} & ![free graft] {each tendon} 
+26358	[repair/advancement] `flexor tendon` {zone 2} {secondary} & [free graft] {each tendon} 
+26370	[repair/advancement] `profundus tendon` {each tendon} 
+26372	[repair/advancement] `profundus tendon` {secondary} & [free graft] {each tendon} 
+26373	[repair/advancement] `profundus tendon` {secondary} & ![free graft] {each tendon} 
+26390	[excision] `flexor tendon` & [implantation] {synthetic rod} {delayed tendon graft} `hand/finger` {each rod} 
+26392	[removal] {synthetic rod} & [insertion] `flexor tendon` {graft} `hand/finger` {each rod} 
+26410	[repair] `extensor tendon hand` & ![graft] {each tendon} 
+26412	[repair] `extensor tendon hand` & [graft] {each tendon} 
+26415	[excision] `extensor tendon` & [implantation] {synthetic rod} {delayed tendon graft} `hand/finger` {each rod} 
+26416	[removal] {synthetic rod} & [insertion] `extensor tendon` {graft} `hand/finger` {each rod} 
+26418	[repair] `finger extensor tendon` & ![graft]
+      [repair] `thumb extensor tendon` & ![graft]
+26420	[repair] `finger extensor tendon` & [free graft] {each tendon} 
+26426	[repair] `extensor tendon` {central slip} {secondary} {each finger} 
+26428	[repair] `extensor tendon` {central slip} {secondary} & [free graft] {each finger} 
+26432	[distal extensor tendon insertion] 
+26433	[repair] {distal extensor tendon insertion} & ![graft] 
+26434	[repair] {distal extensor tendon insertion} & [graft] 
+26437	[realignment] `extensor tendon hand` {each tendon} 
+26440	[tenolysis] `palm` 
+      [tenolysis] `fds tendon` & [finger] 
+26442	[tenolysis] `flexor tendon` `palm` `finger` {each tendon}
+      [tenolysis] `finger palm flexor tendon`
+26445	[tenolysis] `extensor tendon` `hand/finger` {each tendon} 
+26449	[tenolysis] {complex} `extensor tendon` `finger` `forearm` {each tendon} 
+26450	[tenotomy] `flexor` `palm` {open} {each tendon} 
+26455	[tenotomy] `flexor` `finger` {open} {each tendon} 
+26460	[tenotomy] `extensor` `hand/finger` {open} {each tendon} 
+26471	[tenodesis] {proximal} `interphalangeal joint` {each joint} 
+26474	[tenodesis] {distal} `interphalangeal joint` {each joint} 
+26476	[lengthening tendon] `extensor` `hand/finger` {each tendon} 
+26477	[shortening tendon] `extensor` `hand/finger` {each tendon} 
+26478	[lengthening tendon] `flexor` `hand/finger` {each tendon} 
+26479	[shortening tendon] `flexor` `hand/finger` {each tendon} 
+26480	[transfer/transplant] `tendon` `carpometacarpal/dorsum hand` & ![free graft] {each tendon} 
+26483	[transfer/transplant] `tendon` `carpometacarpal/dorsum hand` & [free graft] {each tendon} 
+26485	[transfer/transplant] `tendon` `palmar` & ![free graft] {each tendon} 
+26489	[transfer/transplant] `tendon` `palmar` & [free graft] {each tendon} 
+26490	[opponensplasty] {superficialis tendon transfer} {each tendon} 
+26492	[opponensplasty] {tendon transfer} & [graft] {each tendon} 
+26494	[opponensplasty] & [hypothenar muscle transfer] 
+26496	[opponensplasty] 
+26497	[transfer] `tendon` `ring and/small finger` 
+26498	[transfer] `tendon` `fingers` !`ring and/small finger` 
+26499	[correction claw finger] 
+26500	[reconstruction] `tendon pulley` {each tendon} {local tissues} 
+26502	[reconstruction] `tendon pulley` {each tendon} & [graft] `tendon/fascial` 
+26508	[release thenar muscle] 
+26510	[cross intrinsic transfer] {each tendon} 
+26516	[capsulodesis] `metacarpophalangeal joint` {single digit} 
+26517	[capsulodesis] `metacarpophalangeal joint` {2 digits} 
+26518	[capsulodesis] `metacarpophalangeal joint` {three/four digits} 
+26520	[capsulectomy/capsulotomy] `metacarpophalangeal joint` {each joint} 
+26525	[capsulectomy/capsulotomy] `interphalangeal joint` {each joint} 
+26530	[arthroplasty] `metacarpophalangeal joint` {each joint} 
+26531	[arthroplasty] `metacarpophalangeal joint` {prosthetic implant} {each joint} 
+26535	[arthroplasty] `interphalangeal joint` {each joint} 
+26536	[arthroplasty] `interphalangeal joint` {prosthetic implant} {each joint} 
+26540	[repair] `collateral ligament` `metacarpophalangeal/interphalangeal joint` 
+26541	[reconstruction] `collateral ligament` `metacarpophalangeal joint` & [graft] `tendon/fascial` 
+26542	[reconstruction] `collateral ligament` `metacarpophalangeal joint` {local tissue} 
+26545	[reconstruction]  `collateral ligament` & [graft] `interphalangeal joint`
+26546	[repair nonunion] `metacarpal/phalanx` 
+26548	[repair] & [reconstruction] `finger` {volar plate} `interphalangeal joint` 
+26550	[pollicization] `digit` 
+26551	[transfer] `toe-to-hand` {microvascular anastomosis} `great toe` {wrap-around} & [bone graft] 
+26553	[transfer] `toe-to-hand` {microvascular anastomosis} !`great toe` {single} 
+26554	[transfer] `toe-to-hand` {microvascular anastomosis} !`great toe` {double} 
+26555	[transfer] `finger` & ![microvascular anastomosis] 
+26556	[transfer] {free toe joint} & [microvascular anastomosis] 
+26560	[repair syndactyly] & [skin flaps] {each web space} 
+26561	[repair syndactyly] & [skin flaps] & [grafts] {each web space} 
+26562	[repair syndactyly] {complex} {each web space} `bone and/nails` 
+26565	[osteotomy] `metacarpal` 
+26567	[osteotomy] `finger`
+26568	[osteoplasty] {lengthening} `metacarpal/phalanx` 
+26580	[repair] {cleft} `hand` 
+26587	[reconstruction] `polydactyly` 
+26590	[repair] {macrodactylia} {each digit} 
+26591	[repair] {intrinsic muscles} `hand` {each muscle} 
+26593	[release] {intrinsic muscles} `hand` {each muscle} 
+26596	[excision] {constricting ring} `finger` {multiple z-plasties} 
+26600	[closed treatment] `metacarpal` & ![manipulation] 
+26605	[closed treatment] `metacarpal` & [manipulation] 
+26607	[closed treatment] `metacarpal` & [manipulation] & [external fixation] 
+26608	[percutaneous fixation] `metacarpal` 
+26615	[open reduction] `metacarpal` 
+26641	[closed treatment] `carpometacarpal` {dislocation} `thumb` & [manipulation] 
+26645	[closed treatment] `carpometacarpal` {dislocation} `thumb` & [manipulation] 
+26650	[percutaneous fixation] `carpometacarpal` {dislocation} `thumb` & [manipulation] 
+26665	[open reduction] `carpometacarpal` {dislocation} `thumb` 
+26670	[closed treatment] `carpometacarpal` !`thumb` & [dislocation] & [manipulation] & ![anesthesia] 
+26675	[closed treatment] `carpometacarpal` !`thumb` & [dislocation] & [manipulation] 
+26676	[percutaneous fixation] `carpometacarpal` !`thumb` & [dislocation] & [manipulation] 
+26685	[open reduction] `carpometacarpal` !`thumb` & [dislocation] 
+26686	[open reduction] `carpometacarpal` !`thumb` & [dislocation] {complex/multi/delayed} & [reduction] 
+26700	[closed treatment] `metacarpophalangeal` {dislocation} & [manipulation] & ![anesthesia] 
+26705	[closed treatment] `metacarpophalangeal` {dislocation} & [manipulation] 
+26706	[percutaneous fixation] `metacarpophalangeal` {dislocation} & [manipulation] 
+26715	[open reduction] `metacarpophalangeal` {dislocation} 
+26720	[closed treatment] `phalangeal shaft` {proximal/middle} `finger/thumb` & ![manipulation] 
+26725	[closed treatment] `phalangeal shaft` {proximal/middle} `finger/thumb` & [manipulation] 
+26727	[percutaneous fixation] `proximal phalangeal` & [finger] & [fixation]
+      [percutaneous fixation] {proximal/middle} `finger/thumb`
+26735	[open reduction] `phalangeal shaft` {proximal/middle} `finger/thumb` 
+26740	[closed treatment] `metacarpophalangeal/interphalangeal joint` & ![manipulation] 
+26742	[closed treatment] `metacarpophalangeal/interphalangeal joint` & [manipulation] 
+26746	[open reduction] `metacarpophalangeal/interphalangeal joint` 
+26750	[closed treatment] `distal phalangeal` `finger/thumb` & ![manipulation] 
+26755	[closed treatment] `distal phalangeal` `finger/thumb` & [manipulation] 
+26756	[percutaneous fixation] `distal phalangeal` `finger/thumb` 
+26765	[open reduction] `distal phalangeal` `finger/thumb` 
+26770	[closed treatment] `interphalangeal joint` {dislocation} & [manipulation] & ![anesthesia] 
+26775	[closed treatment] `interphalangeal joint` {dislocation} & [manipulation] 
+26776	[percutaneous fixation] `interphalangeal joint` {dislocation} & [manipulation] 
+26785	[open reduction] `interphalangeal joint` {dislocation} 
+26820	[fusion] `thumb` & [autogenous graft] 
+26841	[arthrodesis] `carpometacarpal joint` `thumb` 
+26842	[arthrodesis] `carpometacarpal joint` `thumb` & [autograft] 
+26843	[arthrodesis] `carpometacarpal joint` !`thumb` 
+26844	[arthrodesis] `carpometacarpal joint` !`thumb` & [autograft] 
+26850	[arthrodesis] `metacarpophalangeal joint` 
+26852	[arthrodesis] `metacarpophalangeal joint` & [autograft] 
+26860	[arthrodesis] `interphalangeal joint` !{metatarsal} & ![hammertoe]
+26861	[arthrodesis] `interphalangeal joint` {each addl}  !{metatarsal}
+26862	[arthrodesis] `interphalangeal joint` & [autograft] 
+26863	[arthrodesis] `interphalangeal joint` & [autograft] {each addl} 
+26910	[amputation] `metacarpal` 
+26951	[amputation] `finger/thumb` & [direct closure] 
+26952	[amputation] `finger/thumb` & [local advancement flaps] 
+26989*	unlisted proc hands/fingers 
+26990	[incision and drainage] `pelvis/hip joint` {deep abscess/hematoma} 
+26991	[incision and drainage] `pelvis/hip joint` {infected bursa} 
+26992	[incision] `bone cortex` `pelvis and/hip joint` 
+27000	[tenotomy] `adductor hip` {percutaneous} 
+27001	[tenotomy] `adductor hip`  !{percutaneous}
+27003	[tenotomy] `adductor` & [obturator neurectomy] !{percutaneous}
+27005	[tenotomy] `hip flexor` !{percutaneous} 
+27006	[tenotomy] `abductors and/extensor hip` !{percutaneous}
+27025	[fasciotomy] `hip/thigh` 
+27027	[decompression fasciotomy] `pelvic compartment` !{bilateral}  
+27030	[arthrotomy] `hip` & [drainage] 
+27033	[arthrotomy] `hip` 
+27035	[denervation] `hip joint` 
+27036	[capsulectomy/capsulotomy] `hip` & [release] `hip flexor muscles` 
+27040	[biopsy] `soft tissue` `pelvis and/hip` 
+27041	[biopsy] `soft tissue` `pelvis and/hip` {deep/subfascial/intramuscular} 
+27043	[excision] {tumor} `soft tissue` `pelvis and/hip` {>/3 cm} 
+27045	[excision] {tumor} `soft tissue` `pelvis and/hip` {subfascial} {>/5 cm} 
+27047	[excision] {tumor} `soft tissue` `pelvis and/hip` {< 3 cm} 
+27048	[excision] {tumor} `soft tissue` `pelvis and/hip` {subfascial} {< 5 cm} 
+27049	[radical resection] {tumor} `soft tissue` `pelvis and/hip` {< 5 cm} 
+27050	[arthrotomy] & [biopsy] `sacroiliac joint` 
+27052	[arthrotomy] & [biopsy] `hip joint` 
+27054	[arthrotomy] & [synovectomy] `hip joint` 
+27057	[decompression fasciotomy] `pelvic compartment` & [debridement] {nonviable} `muscle` !{bilateral}  
+27059	[radical resection] {tumor} `soft tissue` `pelvis and/hip` {>/5 cm} 
+27060	[excision] `ischial bursa` 
+27062	[excision] `trochanteric` {bursa/calcification} 
+27065	[excision] `bone` {benign tumor/cyst} {ilium/symphysis pubis/trochanter} `femur` 
+27066	[excision] `bone` {benign tumor/cyst} {ilium/symphysis pubis/trochante} `femur` {deep} 
+27067	[excision] `bone` {benign tumor/cyst} {ilium/symphysis pubis/trochanter} `femur` & [autograft] {separate incision} 
+27070	[excision] {ilium/symphysis pubis/greater trochanter} `femur` 
+27071	[excision] {ilium/symphysis pubis/greater trochanter} `femur` {deep} 
+27075	[resection] {radical} {tumor} `ilium/1 pubic/ischial ramus/symphysis pubis` 
+27076	[resection] {radical} {tumor} `ilium and acetabulum/both pubic rami/ischium and acetabulum` 
+27077	[resection] {radical} {tumor} `innominate bone` {total} 
+27078	[resection] {radical} {tumor} `ischial tuberosity` `greater trochanter` `femur` 
+27079*	{radical} resection tumor/infection ischial tuberosity/greater trochanter `femur` skin flaps 
+27080	[coccygectomy] 
+27086	[removal] {fb} `pelvis/hip` {subcutaneous tissue} 
+27087	[removal] {fb} `pelvis/hip` {deep} 
+27090	[removal] `hip` {prosthesis} 
+27091	[removal] `hip` {prosthesis} {complicated} 
+27093	[arthrography] `hip` & ![anesthesia] 
+27095	[arthrography] `hip` & [anesthesia]  
+27096	[injection procedure] {sacroiliac joint} {anesthetic/steroid} & [imaging guidance]
+27097	[release/recession] `hamstring` {proximal} 
+27098	[transfer] `adductor to ischium` 
+27100	[transfer] `external oblique muscle to greater trochanter` 
+27105	[transfer] `paraspinal muscle to hip` 
+27110	[transfer] `iliopsoas to greater trochanter of femur` 
+27111	[transfer] `iliopsoas to femoral neck` 
+27120	[acetabuloplasty] 
+27122	[acetabuloplasty] & [resection] `femoral head` 
+27125	[hemiarthroplasty] `hip` !{total}
+27130	[arthroplasty] `hip` {total}
+27132	[conversion] {total} `hip` & [arthroplasty] {total} `hip` 
+27134	[revision] {total} `hip` & [arthroplasty] {total} `hip` 
+27137	[revision] {total} `hip` & [arthroplasty] {acetabular component} 
+27138	[revision] {total} `hip` & [arthroplasty] {femoral component} 
+27140	[osteotomy] & [transfer] `greater trochanter femur` 
+27146	[osteotomy] `iliac/acetabular/innominate bone` 
+27147	[osteotomy] `iliac acetabular/innominate bone` & [reduction] {open} `hip` 
+27151	[osteotomy] `iliac acetabular/innominate bone` & [osteotomy] `femoral` 
+27156	[osteotomy] `iliac acetabular/innominate bone` & [osteotomy] `femoral` & [reduction] {open} `hip` 
+27158	[osteotomy] `pelvis` {bilateral} 
+27161	[osteotomy] `femoral neck` & ![arthroplasty]
+27165	[osteotomy] `intertrochanteric/subtrochanteric` 
+27170	[bone graft] `femoral head/neck/intertrochanteric/subtrochanteric` 
+27175	[traction] {slipped femoral epiphysis} & ![reduction] 
+27176	[pinning] {slipped femoral epiphysis} 
+27177	[pinning/bone graft] {open} {slipped femoral epiphysis} 
+27178	[pinning] {open} {slipped femoral epiphysis} & [manipulation] {closed} 
+27179	[osteoplasty] {slipped femoral epiphysis} `femoral neck` 
+27181	[osteotomy] {slipped femoral epiphysis} & [internal fixation] 
+27185	[epiphyseal arrest] `greater trochanter` 
+27187	[prophylactic treatment] `femoral neck` `proximal femur` 
+27197	[closed treatment] `pelvic ring` {fracture and/dislocation} & ![manipulation] 
+27198	[closed treatment] `pelvic ring` {fracture and/dislocation} & [manipulation] {anesthesia} 
+27200	[closed treatment] `coccygeal`
+27202	[open reduction] `coccygeal`
+27215	[open reduction] `pelvic bone` !{bilateral}  
+27216	[perc fixation] `posterior pelvic bone` {fracture and/dislocation} !{bilateral}  
+27217	[open reduction] `anterior pelvic bone` {fracture and/dislocation} !{bilateral}  
+27218	[open reduction] `posterior pelvic bone` {fracture and/dislocation} !{bilateral}  
+27220	[closed treatment] `acetabulum`& ![manipulation] 
+27222	[closed treatment] `acetabulum`& [manipulation] 
+27226	[open reduction] {posterior/anterior} `acetabular wall` & [internal fixation] 
+27227	[open reduction] `acetabular` & [internal fixation] 
+27228	[open reduction] `acetabular` {articular detaachment} & [internal fixation] 
+27230	[closed treatment] `femoral` {proximal end} & ![manipulation] 
+27232	[closed treatment] `femoral` {proximal end} & [manipulation] 
+27235	[percutaneous fixation] `femoral neck` 
+27236	[open reduction] `femoral neck` & [internal fixation/prosthetic replacement] 
+27238	[closed treatment] `intertrochanteric/peritrochanteric/subtrochanteric femoral` & ![manipulation] 
+27240	[closed treatment] `intertrochanteric/peritrochanteric/subtrochanteric femoral` & [manipulation] 
+27244	[treatment] `intertrochanteric/peritrochanteric/subtrochanteric femoral` & [implant] {plate/screw} 
+27245	[treatment] `intertrochanteric/peritrochanteric/subtrochanteric femoral` & [implant] {intramedullary} 
+27246	[closed treatment] `greater trochanteric` & ![manipulation] 
+27248	[open reduction] `greater trochanteric` 
+27250	[closed treatment] `hip` {dislocation} !{anesthesia} & ![arthroplasty] {history} & ![arthroplasty]
+27252	[closed treatment] `hip` {dislocation} {anesthesia} & ![arthroplasty] {history}
+27253 [open reduction] `hip` {dislocation} 
+27254	[open reduction] `hip` {dislocation} `acetabular wall` `femoral head` 
+27256	[treatment] {spontaneous dislocation} `hip` & ![manipulation] & ![anesthesia] 
+27257	[treatment] {spontaneous dislocation} `hip` & [manipulation] {anesthesia} 
+27258	[open reduction] {spontaneous dislocation} `hip` & [replacement] `femoral head` 
+27259	[open reduction] {spontaneous dislocation} `hip` & [replacement] `femoral head` & [shortening] `femoral shaft` 
+27265	[closed treatment] `hip` & [dislocation] & [arthroplasty] {history} 
+27266 [closed treatment] `hip` & [dislocation] & [arthroplasty] {history} & [anesthesia]
+27267	[closed treatment] `femoral head` {proximal end} & ![manipulation] 
+27268	[closed treatment] `femoral head` {proximal end} & [manipulation] 
+27269	[open reduction] `femoral head` {proximal end} 
+27275	[manipulation] `hip` & [anesthesia]
+27279	[arthrodesis] `sacroiliac joint` & [guidance] & [percutaneous or minimally invasive]
+27280	[arthrodesis] `sacroiliac joint` {open}
+27282	[arthrodesis] `symphysis pubis` 
+27284	[arthrodesis] `hip` 
+27286	[arthrodesis] `hip` & [osteotomy] `subtrochanteric` 
+27290	[interpelviabdominal amputation] 
+27295	[disarticulation] `hip` 
+27299*	[unlisted proc pelvis/ hip joint]  
+27301	[i/d] {deep} {abscess/bursa/hematoma} `thigh/knee` 
+27303	[incision] {deep} & [opening] {bone cortex} `femur/knee` {osteomyelitis/bone abscess} 
+27305	[tenotomy] `iliotibia` {open} 
+27306	[tenotomy] {percutaneous} `adductor/hamstring` 
+27307	[tenotomy] {percutaneous} `adductor/hamstring` {tendon} {tendon}
+27310	[arthrotomy] `knee` & ![total knee replacement]
+27323	[biopsy] `soft tissue` `thigh/knee` 
+27324	[biopsy] `soft tissue` `thigh/knee` {deep} 
+27325	[neurectomy] `hamstring muscle` 
+27326	[neurectomy] `popliteal` 
+27327	[excision] {tumor} `thigh/knee` {< 3 cm} 
+27328	[excision] {tumor} `thigh/knee` {subfascial} {< 5 cm} 
+27329	[resection] {radical} {tumor} `thigh/knee` {< 5 cm} 
+27330	[arthrotomy] & [biopsy] `synovial` & ![exploration] & ![removal] 
+27331	[arthrotomy] {exploration} 
+27332	[arthrotomy] & [meniscectomy] {medial/lateral} !{arthroscopy}
+27333	[arthrotomy] & [meniscectomy] {medial} {lateral} 
+27334	[arthrotomy] & [synovectomy] {anterior/posterior} 
+27335	[arthrotomy] & [synovectomy] {anterior} {posterior} 
+27337*	[excision] {subcutaneous mass} `thigh or knee area` {3 cm or greater}
+27339	[excision] {tumor} `thigh/knee` {subfascial} {>/5 cm} 
+27340	[excision] `prepatellar` {bursa} 
+27345	[excision] `bakers cyst` 
+27347	[excision] {lesion} {meniscus/capsule} `knee` 
+27350	[patellectomy/hemipatellectomy] 
+27355	[excision] `bone cyst/benign tumor` `femur` 
+27356	[excision] `bone cyst/benign tumor` `femur` {allograft} 
+27357	[excision] `bone cyst/benign tumor` `femur` {autograft} 
+27358	[excision] `bone cyst/benign tumor` `femur` {internal fixation} 
+27360	[partial excision] `femur/proximal tibia and/fibula` {osteomyelitis/bone abscess} 
+27364	[resection] {radical} {tumor} `soft tissue` `thigh/knee` {>/5 cm} 
+27365	[resection] {radical} {tumor} `femur/knee` 
+27370	[injection contrast] `knee` 
+27372	[removal] {fb} {deep} `thigh/knee` 
+27380	[suture] `infrapatellar tendon`
+27381	[suture] `infrapatellar tendon` {secondary reconstruction} 
+27385	[suture] `quadriceps tendon rupture`
+      [repair] `rupture` & [quadriceps]
+27386	[suture] `quadriceps/hamstring muscle` {rupture} {secondary reconstruction} 
+27390	[tenotomy] & [hamstring]
+27391	[tenotomy] & [hamstring] & [hamstring] !{bilateral}  
+27392	[tenotomy] & [hamstring] & [hamstring] {bilateral}
+27393	[lengthening] `hamstring tendon` 
+27394	[lengthening] `hamstring tendon` `hamstring tendon` !{bilateral}  
+27395	[lengthening] `hamstring tendon` `hamstring tendon` {bilateral} 
+27396	[transplant/transfer] `thigh` 
+27397	[transplant/transfer] `thigh` {tendon} {tendon}
+27400	[transfer] `tendon/muscle` `hamstrings to femur` 
+27403	[arthrotomy] & [repair] {meniscus}
+27405	[repair] {torn ligament and/capsule} `knee` `collateral` 
+27407	[repair] {torn ligament and/capsule} `knee` `cruciate` 
+27409	[repair] {torn ligament and/capsule} `knee` `collateral` `cruciate` 
+27412	[autologous chondrocyte implantation]
+27415	[osteochondral allograft] `knee` {open} 
+27416	[osteochondral autograft] `knee` {open} 
+27418	[tubercleplasty] `anterior tibia` 
+27420	[reconstruction] {dislocating} `patella` 
+27422	[reconstruction] `patella instability` & [extensor realignment and/muscle advancement/release]
+      [reconstruction] `mpfl` & [patellar instability] 
+27424	[reconstruction] {dislocating} & [patellectomy] 
+27425	[release] `lateral retinacular` {open} 
+27427	[ligamentous reconstruction] `knee` {extra-articular} 
+27428	[ligamentous reconstruction] `knee` {intra-articular} 
+27429	[ligamentous reconstruction] `knee` {intra-articular} {extra-articular} 
+27430	[quadricepsplasty] 
+27435	[capsulotomy] {posterior capsular release} `knee` 
+27437	[patella arthroplasty] & ![prosthesis] 
+27438	[patella arthroplasty] & [prosthesis] 
+27440	[arthroplasty] `knee` `tibia plateau` 
+27441	[arthroplasty] `knee` `tibia plateau` & [debridement] & [synovectomy]
+27442	[arthroplasty] `femoral condyles/tibia plateau` `knee` 
+27443	[arthroplasty] `femoral condyles/tibia plateau` `knee` & [debridement] & [synovectomy] 
+27445	[arthroplasty] `knee` {hinge prosthesis} 
+27446	[unicompartment knee arthroplasty]
+27447	[total knee replacement] !{status post} `knee` 
+27448	[osteotomy] `femur` {shaft/supracondylar} & ![fixation] 
+27450	[osteotomy] `femur` {shaft/supracondylar} & [fixation] 
+27454	[osteotomy] {multiple} `femoral shaft` & [realignment intramedullary rod] 
+27455	[osteotomy] `proximal tibia` & [excision/osteotomy] `fibular` {before epiphyseal closure} 
+27457	[osteotomy] `proximal tibia` & [excision/osteotomy] `fibular` {after epiphyseal closure} 
+27465	[osteoplasty] `femur` {shortening} 
+27466	[osteoplasty] `femur` {lengthening} 
+27468	[osteoplasty] `femur` {lengthening} {shortening} & [femoral segment transfer] 
+27470	[repair] {nonunion/malunion} `femur` & ![graft] 
+27472	[repair] {nonunion/malunion} `femur` & [autogenous bone graft] 
+27475	[arrest] {epiphyseal} `femur` 
+27477	[arrest] {epiphyseal} `tibia` `fibula` 
+27479	[arrest] {epiphyseal} `femur` `tibia` `fibula` 
+27485	[arrest] {hemiepiphyseal} `femur/proximal tibia and/fibula` 
+27486	[revision total knee arthroplasty] 
+27487	[revision total knee arthroplasty] `femoral` `tibia` {component} 
+27488	[removal prosthesis] `knee` 
+27495	[prophylactic treatment] `femur` 
+27496	[decompression fasciotomy] `thigh and/knee` 
+27497	[decompression fasciotomy] `thigh and/knee` & [debridement] `muscle and/nerve` 
+27498	[decompression fasciotomy] `thigh and/knee` {multiple compartments} 
+27499	[decompression fasciotomy] `thigh and/knee` {multiple compartments} & [debridement] `muscle/nerve` 
+27500	[closed treatment] `femoral shaft` & ![manipulation] 
+27501	[closed treatment] `femoral` {supracondylar/transcondylar} & ![manipulation] 
+27502	[closed treatment] `femoral shaft` & [manipulation] 
+27503	[closed treatment] `femoral` {supracondylar/transcondylar} & [manipulation] 
+27506	[open reduction] {intramedullary} `femur` 
+27507	[open reduction] `femoral shaft` & [insertion] {plate or screws} 
+27508	[closed treatment] `femoral` & ![manipulation] 
+27509	[percutaneous fixation] `femoral` {fx}
+27510	[closed treatment] `femoral` & [manipulation] 
+27511	[fx repair] {open} `femoral supracondylar/transcondylar` & ![intercondylar extension] 
+27513	[fx repair] {open} `femoral supracondylar/transcondylar` & [intercondylar extension] 
+27514	[fx repair] {open} `femoral distal end medial/lateral condyle` 
+27516	[closed treatment] `distal femoral` {epiphyseal separation} & ![manipulation] 
+27517	[closed treatment] `distal femoral` {epiphyseal separation} & [manipulation] 
+27519	[open reduction] `distal femoral` {epiphyseal separation} 
+27520	[fx repair] `patellar` & ![manipulation] 
+27524	[fx repair] {open} `patellar` & [internal fixation/patellectomy/soft tissue repair] 
+27530	[fx repair] `tibia` {proximal} & ![manipulation] 
+27532	[fx repair] `tibia` {proximal} & [skeletal traction] 
+27535	[fx repair] {open} `tibia` {proximal} {unicondylar} 
+27536	[fx repair] {open} `tibia` {proximal} {bicondylar} 
+27538	[closed treatment] `intercondylar spine and/tuberosity` `knee` 
+27540	[open reduction] `intercondylar spine and/tuberosity` `knee` 
+27550	[closed treatment] `knee` {dislocation} !{anesthesia} 
+27552	[closed treatment] `knee` {dislocation} {anesthesia} 
+27556	[open reduction] `knee` {dislocation} & ![primary repair/augmentation/reconstruction] 
+27557	[open reduction] `knee` {dislocation} & [primary ligamentous repair] 
+27558	[open reduction] `knee` {dislocation} & [primary ligamentous repair] & [augmentation/reconstruction] 
+27560	[closed treatment] `patellar` {dislocation} !{anesthesia} 
+27562	[closed treatment] `patellar` {dislocation} {anesthesia} 
+27566	[open reduction] `patellar` {dislocation} 
+27570	[manipulation] `knee` {anesthesia} 
+27580	[arthrodesis] `knee` 
+27590	[amputation] `femur` !{transmetatarsal}
+27591	[amputation] `femur` & [immediate fitting technique] 
+27592	[amputation] `femur` {open} {circular} 
+27594	[amputation] `femur` {secondary closure/scar revision} 
+27596	[re-amputation] `femur` 
+27598	[disarticulation] `knee` 
+27599	[unlisted procedure] `femur/knee`
+27600	[decompression fasciotomy] `leg` {anterior and/lateral} 
+27601	[decompression fasciotomy] `leg` {posterior} 
+27602	[decompression fasciotomy] `leg` {anterior and/lateral} {posterior} 
+27603	[i/d] `leg/ankle` {deep abscess/hematoma} 
+27604	[i/d] `leg/ankle` {infected bursa} 
+27605	[tenotomy] {percutaneous} `achilles tendon` {local anesthesia} 
+27606	[tenotomy] {percutaneous} `achilles tendon` {general anesthesia} 
+27607	[incision] `leg/ankle` & ![other surgical procedure]
+27610	[arthrotomy] `ankle` 
+27612	[posterior capsular release] `ankle` 
+27613	[biopsy] !{needle} {soft tissue} `leg/ankle`
+27614	[biopsy] !{needle} {soft tissue} `leg/ankle` {deep} 
+27615	[radical resection] {tumor} {soft tissue} `leg/ankle` {>5 cm} 
+27616	[radical resection] {tumor} {soft tissue} `leg/ankle` {>/5 cm} 
+27618	[excision] {tumor} {soft tissue} `leg/ankle` {<3 cm} 
+27619	[excision] {tumor} {soft tissue} `leg/ankle` {deep} {< 5 cm} 
+27620	[arthrotomy] `ankle` & [exploration] `joint` 
+27625	[arthrotomy] & [synovectomy] `ankle` 
+27626	[arthrotomy] & [synovectomy] `ankle` & [tenosynovectomy] 
+27630	[excision] {lesion} {tendon sheath/capsule} `leg and/ankle` 
+27632	[excision] {tumor} `leg/ankle` {>/3 cm} 
+27634	[excision] {tumor} {soft tissue} `leg/ankle` {deep} {>/5 cm} 
+27635	[excision] `bone cyst/benign tumor` `tibia or fibula` 
+27637	[excision] `bone cyst/benign tumor` `tibia or fibula` & [autograft] 
+27638	[excision] `bone cyst/benign tumor` `tibia or fibula` & [allograft] 
+27640	[partial excision] `tibia` 
+27641	[partial excision] `fibula` 
+27645	[radical resection] {tumor} `tibia` 
+27646	[radical resection] {tumor} `fibula` 
+27647	[radical resection] {tumor} `talus/calcaneus` 
+27648	[injection procedure] `ankle` {arthrography} 
+27650	[repair] `achilles tendon` 
+27652	[repair] `achilles tendon` & [graft] 
+27654	[repair] {secondary} `achilles tendon` 
+27656	[repair] {fascial defect} `leg` 
+27658	[repair] `flexor tendon` `leg` & ![graft] {each tendon} 
+27659	[repair] `flexor tendon` `leg` {secondary} {each tendon} 
+27664	[repair] `extensor tendon` `leg` & ![graft] {each tendon} 
+27665	[repair] `extensor tendon` `leg` {secondary} {each tendon} 
+27675	[repair] {dislocating} `peroneal tendons` & ![osteotomy] 
+27676	[repair] {dislocating} `peroneal tendons` & [osteotomy] `fibular` 
+27680	[tenolysis] `flexor/extensor tendon` `leg and/ankle` 
+27681	[tenolysis] `flexor/extensor tendon` `leg and/ankle` {tendon} {tendon}
+27685	[lengthening/shortening] `tendon` `leg/ankle` & ![gastrocnemius]
+      [lengthening] `achilles tendon` & ![gastrocnemius]
+27686	[lengthening/shortening] `tendon` `leg/ankle` {tendon} {tendon}{same incision} 
+27687	[gastrocnemius recession] 
+27690	[transfer/transplant] `superficial tendon` `foot`
+27691	[transfer/transplant] `deep foot tendon`
+27692	[transfer/transplant] {each addl tendon} 
+27695	[repair] {disrupted ligament} `ankle` {collateral} 
+27696	[repair] {disrupted ligament} `ankle` {both} {collateral} 
+27698	[repair] {secondary} {disrupted ligament} `ankle` {collateral} 
+27700	[arthroplasty] `ankle` 
+27702	[arthroplasty] `ankle` & [implant] 
+27703	[arthroplasty] `ankle` & [revision] 
+27704	[removal] `ankle` {implant} 
+27705	[osteotomy] `tibia` & ![amputation of bone]
+27707	[osteotomy] `fibula` 
+27709	[osteotomy] `tibia` `fibula` 
+27712	[osteotomy] {multiple} {realignment} {intramedullary rod} 
+27715	[osteoplasty] `tibia` `fibula` {lengthening/shortening} 
+27720	[repair] {nonunion/malunion} `tibia` & ![graft] 
+27722	[repair] {nonunion/malunion} `tibia` & [sliding graft] 
+27724	[repair] {nonunion/malunion} `tibia` & [autograft] 
+27725	[repair] {nonunion/malunion} `tibia` & [synostosis] `fibula` 
+27726	[repair] `fibula` {nonunion and/malunion} & [internal fixation] 
+27727	[repair] {congenital pseudarthrosis} `tibia` 
+27730	[arrest] {epiphyseal} {open}  `tibia` 
+27732	[arrest] {epiphyseal} {open} `fibula` 
+27734	[arrest] {epiphyseal} {open} `tibia` `fibula` 
+27740	[arrest] {epiphyseal} `tibia` `fibula` 
+27742	[arrest] {epiphyseal} `tibia` `fibula` `femur` 
+27745	[prophylactic treatment] `tibia` 
+27750	[closed treatment] `tibia` & ![manipulation] 
+27752	[closed treatment] `tibia` & [manipulation] 
+27756	[percutaneous fixation] `tibia` {fx}
+27758	[open reduction] `tibia` & [internal fixation] !{status post}
+27759	[open reduction] `tibia` & [intramedullary implant] 
+27760	[closed treatment] `medial malleolus` !{posterior} !{lateral} & [manipulation] 
+27766	[open reduction] `medial malleolus` !{posterior malleolus} !{lateral malleolus} 
+27767	[closed treatment] `posterior malleolus` !{lateral malleolus} !{medial malleolus} & ![manipulation] 
+27768	[closed treatment] `posterior malleolus` !{lateral malleolus} !{medial malleolus} & [manipulation] 
+27769	[open reduction] `posterior malleolus` !{lateral malleolus} !{medial malleolus} 
+27780	[closed treatment] {proximal} `fibula` & ![manipulation] 
+27781	[closed treatment] {proximal} `fibula` & [manipulation] 
+27784	[open reduction] {proximal} `fibula` 
+27786	[closed treatment] {lateral} `malleolus` & ![manipulation] 
+27788	[closed treatment] `lateral malleolus` & [manipulation] 
+27792	[open reduction] `lateral malleolus` !`bimalleolus` !`medial malleolus`
+27808	[closed treatment] `bimalleolar` & ![manipulation] 
+27810	[closed fracture reduction] `bimalleolar` & [manipulation]
+27814	[open reduction] `bimalleolar`
+27816	[closed treatment] `trimalleolar ankle` & ![manipulation] 
+27818	[closed treatment] `trimalleolar ankle` & [manipulation] 
+27822	[open reduction] `trimalleolar ankle` & ![fixation posterior lip] 
+27823	[open reduction] `trimalleolar ankle` & [fixation posterior lip] 
+27824	[closed treatment] {wt bearing} {distal} `tibia` & ![manipulation] 
+27825	[closed treatment] {wt bearing} {distal} `tibia` & [skeletal traction/manipulation] 
+27826	[open reduction] {wt bearing} {distal} `tibia` & [fixation] `fibula` 
+27827 [open reduction] {wt bearing} {distal} `tibia` & [fixation] `tibia` 
+27828	[open reduction] {wt bearing} {distal} `tibia` & [fixation] `tibia` `fibula` 
+27829	[open reduction] `ankle syndesmosis disruption`
+27830	[closed treatment] {proximal} `tibiofibular joint` {dislocation} !{anesthesia}  
+27831	[closed treatment] {proximal} `tibiofibular joint` {dislocation} {anesthesia} 
+27832	[open reduction] {proximal} `tibiofibular joint` {dislocation} & [excision] {proximal} `fibula` 
+27840	[closed treatment] `ankle` {dislocation} !{anesthesia} 
+27842	[closed treatment] `ankle` {dislocation} {anesthesia} 
+27846	[open reduction] `ankle` {dislocation} & ![repair] & ![internal fixation] 
+27848	[open reduction] `ankle` {dislocation} & [repair/fixation] 
+27860	[manipulation] `ankle` {anesthesia} 
+27870	[arthrodesis] `ankle` {open} 
+27871	[arthrodesis] `tibiofibular joint` {proximal/distal} 
+27880	[amputation] {through} `tibia` `fibula` 
+27881	[amputation] {through} `tibia` `fibula` & [immediate fitting technique] 
+27882	[amputation] {through} `tibia` `fibula` {open} {guillotine} 
+27884	[amputation] `tibia/fibula` & [secondary closure or scar revision] 
+27886	[re-amputation]`tibia/fibula`
+27888	[amputation] `ankle` {through} `malleoli of tibia/fibula` & [plastic closure] & [nerve resection] 
+27889	[disarticulation] `ankle` 
+27892	[decompression fasciotomy] `leg` {anterior and/lateral} & [debridement] `muscle and/nerve` 
+27893	[decompression fasciotomy] `leg` {posterior} & [debridement] `muscle and/nerve` 
+27894	[decompression fasciotomy] `leg` {anterior and/lateral} {posterior} & [debridement] `muscle and/nerve` 
+27899*	unlisted proc leg/ `ankle` 
+28001	[incision and drainage] {bursa} `foot` 
+28002	[incision and drainage] {fascia} `foot` {single} 
+28003	[incision and drainage] {fascia} `foot` {multiple} 
+28005	[incision] {bone cortex} `foot` 
+28008	[fasciotomy] `foot and/toe` 
+28010	[tenotomy] {percutaneous} `toe` {single} 
+28011	[tenotomy] {percutaneous} `toe` {multiple} 
+28020	[arthrotomy] `intertarsal/tarsometatarsal joint` 
+28022	[arthrotomy] `metatarsophalangeal joint` 
+28024	[arthrotomy] `interphalangeal joint` 
+28035	[release tarsal tunnel] 
+28039	[excision] {subcutaneous mass} `foot/toe` 
+28041	[excision] {tumor} `foot/toe` {subfascial} {>/1.5} 
+28043	[excision] {subcutaneous mass} `foot/toe` {< 1.5 cm} 
+28045	[excision] {tumor} `foot/toe` {subfascial} {<1.5 cm} 
+28046	[radical resection] {sarcoma} {soft tissue} `foot/toe` {< 3 cm} 
+28047	[radical resection] {sarcoma} {soft tissue} `foot/toe` {>/3 cm} 
+28050	[arthrotomy] & [biopsy] `intertarsal/tarsometatarsal joint` 
+28052	[arthrotomy] & [biopsy] `metatarsophalangeal joint` 
+28054	[arthrotomy] & [biopsy] `interphalangeal joint` 
+28055	[neurectomy] {intrinsic musculature} `foot` 
+28060	[fasciectomy] `plantar fascia`
+28062	[fasciectomy] `plantar fascia` {radical}
+28070	[synovectomy] `intertarsal/tarsometatarsal joint` 
+28072	[synovectomy] `metatarsophalangeal joint` 
+28080	[excision] `interdigita` {neuroma} {single} 
+28086	[synovectomy] `tendon sheath` `foot` `flexor` 
+28088	[synovectomy] `tendon sheath` `foot` `extensor` 
+28090	[excision] {lesion} `tendon/tendon sheath/capsule` `foot` 
+28092	[excision] {lesion} `tendon/tendon sheath/capsule` `toes` 
+28100	[excision] {bone cyst/benign tumor} `talus/calcaneus` 
+28102	[excision] {bone cyst/benign tumor} `talus/calcaneus` {autograft} 
+28103	[excision] {bone cyst/benign tumor} `talus/calcaneus` {allograft} 
+28104	[excision] {bone cyst/benign tumor} `tarsal/metatarsal` !`talus/calcaneus` 
+28106	[excision] {bone cyst/benign tumor} `tarsal/metatarsal` !`talus/calcaneus` {autograft} 
+28107	[excision] {bone cyst/benign tumor} `tarsal/metatarsal` !`talus/calcaneus` {allograft} 
+28108	[excision] {bone cyst/benign tumor} `phalanges foot` 
+28110	[ostectomy partial excision] `5th metatarsal head` 
+28111	[ostectomy] {complete} `1st metatarsal head` 
+28112	[ostectomy] {complete} `metatarsal head` !`1st metatarsal head` !`fifth metatarsal head` 
+28113	[ostectomy] {complete} `fifth metatarsal head` 
+28114	[ostectomy] {complete} `metatarsal head` & [partial phalangectomy] !`1st metatarsal head` 
+28116	[excision] `talocalcaneal coalition`
+      [ostectomy] `tarsal coalition` 
+28118	[calcanectomy] `calcaneus` 
+28119	[ostectomy] `calcaneus` {spur}
+28120	[partial excision] `talus/calcaneus` 
+28122	[partial excision] `tarsal/metatarsal` !`talus/calcaneus` 
+28124	[partial excision] `phalanx toe` 
+28126	[resection] {phalangeal base} `toe` 
+28130	[talectomy] 
+28140	[metatarsectomy] 
+28150	[phalangectomy] `toe` {each} 
+28153	[resection] {condyle} {distal} `phalanx toe` {each} 
+28160	[hemiphalangectomy] `toe` {proximal} {each} 
+28171	[radical resection] {tumor} `tarsal` !`talus/calcaneus` 
+28173	[radical resection] {tumor} `metatarsal` 
+28175	[radical resection] {tumor} `phalanx toe` 
+28190	[removal fb] `foot`  
+28192	[removal fb] `foot` {deep} 
+28193	[removal fb] `foot` {complicated} 
+28200	[repair] `tendon flexor` `foot` & ![graft] 
+28202	[repair] `tendon flexor` `foot` {secondary} & [graft] {each} 
+28208	[repair] `tendon extensor` `foot` {each} 
+28210	[repair] `tendon extensor` `foot` {secondary} & [graft] {each} 
+28220	[tenolysis] `flexor` `foot` {single} 
+28222	[tenolysis] `flexor` `foot` {multiple} 
+28225	[tenolysis] `extensor` `foot` {single} 
+28226	[tenolysis] `extensor` `foot` {multiple} 
+28230	[tenotomy] {open} `flexor` `foot` 
+28232	[tenotomy] {open} `flexor` `toe` 
+28234	[tenotomy] {open} `extensor` `foot/toe` {each} 
+28238	[reconstruction] {posterior} `tibia tendon` & [excision] `accessory tarsal navicular bone` 
+28240	[tenotomy] `abductor hallucis muscle`
+28250	[division] `plantar` `fascia` `muscle`
+28260	[capsulotomy] `midfoot` {medial release}
+28261	[capsulotomy] `midfoot` & [tendon lengthening]
+28262	[capsulotomy] `midfoot` & [tendon lengthening] {extensive} {clubfoot}
+28264	[capsulotomy] `midtarsal`
+28270	[capsulotomy] `metatarsophalangeal joint` {each} 
+28272	[capsulotomy] `interphalangeal joint` {each} 
+28280	[syndactylization] `toes` 
+28285	[hammertoe correction] & [removal] `head of proximal phalanx` & [capsular release] `metatarsophalangeal joint`
+      [hammertoe correction] & [arthrodesis]
+28286	[correction] {cock-up fifth toe} 
+28288	[exostectomy] `metatarsal head` 
+28289	[hallux rigidus correction] `first metatarsophalangeal joint` & ![implant]
+      [cheilectomy] `first metatarsophalangeal joint` & [hallux rigidus] & ![implant]
+28291	[hallux rigidus correction] `first metatarsophalangeal joint` & [implant] 
+      [arthroplasty] {implant} `first metatarsophalangeal joint` & [hallux rigidus]
+28292	[bunionectomy] `first metatarsophalangeal joint`
+      [bunionectomy] {mcbride} `foot` 
+28295	[hallux valgus correction] & [osteotomy] `metatarsal` {proximal} 
+28296	[bunionectomy] & [osteotomy] `distal metatarsal` 
+28297	[bunionectomy] & [osteotomy] `cuneiform joint` {first metatarsal} 
+      [lapidus bunionectomy]
+28298	[hallux valgus correction] & [osteotomy] `phalanx` {proximal} 
+      [bunionectomy] {akin}
+28299	[hallux valgus correction] & [osteotomy] {double} 
+28300	[osteotomy] `calcaneus` 
+28302	[osteotomy] `talus` 
+28304	[osteotomy] `tarsal` !`calcaneus/talus` 
+28305	[osteotomy] `tarsal` & [autograft] !`calcaneus/talus` 
+28306	[osteotomy] `metatarsal` {first} !{past status} & ![bunionectomy]
+28307	[osteotomy] `metatarsal` {first} & [autograft] 
+28308	[osteotomy] `other metatarsal` !{first} 
+28309	[osteotomy] `metatarsal` {multiple} !{first} 
+28310	[osteotomy] `phalanx` {proximal} `1st toe` 
+28312	[osteotomy] `phalanges` 
+28313	[reconstruction] {angular deformity toe} `soft tissue` 
+28315	[sesamoidectomy] `1st toe` 
+28320	[repair] {nonunion/malunion} `tarsal` 
+28322	[repair] {nonunion/malunion} `metatarsal` 
+28340	[reconstruction] `toe` {macrodactyly} & [resection] `soft tissu` 
+28341	[reconstruction] `toe` {macrodactyly} & [resection] `bone` 
+28344	[reconstruction] `toe` {polydactyly} 
+28345	[reconstruction] `toe` {syndactyly} {each} 
+28360	[reconstruction] `foot` {cleft} 
+28400	[closed treatment] `calcaneal` & ![manipulation] 
+28405	[closed treatment] `calcaneal` & [manipulation] 
+28406	[percutaneous fixation] `calcaneal` & [manipulation] 
+28415 [open reduction] & [internal fixation] `calcaneal`
+28420	[open reduction] `calcaneal` & [autogenous bone graft] 
+28430	[closed treatment] `talus` & ![manipulation] 
+28435	[closed treatment] `talus` & [manipulation] 
+28436	[percutaneous fixation] `talus` & [manipulation] 
+28445	[open reduction] `talus` 
+28446	[osteochondral autograft] `talus` {open} 
+28450	[treatment] `tarsal` !`talus/calcaneus` & ![manipulation] {each} 
+28455	[treatment] `tarsal` !`talus/calcaneus` & [manipulation] {each} 
+28456	[percutaneous fixation] `tarsal` !`talus/calcaneus` & [manipulation] {each} 
+28465	[open reduction] `tarsal` !`talus/calcaneus` {each} 
+28470	[closed treatment] `metatarsal` & ![manipulation] {each} 
+28475	[closed treatment] `metatarsal` & [manipulation] {each} 
+28476	[percutaneous fixation] `metatarsal` & [manipulation] {each} 
+28485	[open reduction internal fixation] `metatarsal`
+28490	[closed treatment] `great toe` & ![manipulation] 
+28495	[closed treatment] `great toe` & [manipulation] 
+28496	[percutaneous fixation] `great toe` & [manipulation] 
+28505	[open reduction] `great toe` 
+28510	[closed treatment] `toe` !`great toe` !`finger` !{pinning} & ![manipulation] 
+28515	[closed treatment] `toe` !`great toe` & [manipulation] 
+28525	[open reduction] `toe` !`great toe` 
+28530	[closed treatment] `sesamoid` 
+28531	[open reduction] `sesamoid` 
+28540	[closed treatment] `tarsal` {dislocation} !`talotarsal` & ![anesthesia] 
+28545	[closed treatment] `tarsal` {dislocation} {anesthesia} !`talotarsal` 
+28546	[percutaneous fixation] `tarsal` {dislocation} !`talotarsal`& [manipulation] 
+28555	[open reduction] `tarsal` {dislocation} 
+28570	[closed treatment] `talotarsal joint` {dislocation} & ![anesthesia] 
+28575	[closed treatment] `talotarsal joint` {dislocation} {anesthesia} 
+28576	[percutaneous fixation] `talotarsal joint` {dislocation} & [manipulation] 
+28585	[open reduction] `talotarsal joint` {dislocation} 
+28600	[closed treatment] `tarsometatarsal joint` {dislocation} & ![anesthesia] 
+28605	[closed treatment] `tarsometatarsal joint` {dislocation} {anesthesia} 
+28606	[percutaneous fixation] `tarsometatarsal joint` {dislocation} & [manipulation] 
+28615	[open reduction] `metatarsal cuneiform joints`
+28630	[closed treatment] `metatarsophalangeal joint` {dislocation} & ![anesthesia] 
+28635	[closed treatment] `metatarsophalangeal joint` {dislocation} {anesthesia} 
+28636	[percutaneous fixation] `metatarsophalangeal joint` {dislocation} & [manipulation] 
+28645	[open reduction] `metatarsophalangeal joint` {dislocation} 
+28660	[closed treatment] `interphalangeal joint` {dislocation} & ![anesthesia] 
+28665	[closed treatment] `interphalangeal joint` {dislocation} {anesthesia} 
+28666	[percutaneous fixation] `interphalangeal joint` {dislocation} & [manipulation] 
+28675	[open reduction] `interphalangeal joint` {dislocation} 
+28705	[arthrodesis] `pantalar` 
+28715	[arthrodesis] `pantalar` {triple} 
+28725	[arthrodesis] `subtalar` 
+28730	[arthrodesis] `midtarsal/tarsometatarsal` {multiple/transverse}
+28735	[arthrodesis] `midtarsal/tarsometatarsal` {multiple/transverse} & [osteotomy] 
+28737	[arthrodesis] & [tendon lengthening] & [advancement] `midtarsal` 
+28740	[arthrodesis] `midtarsal/tarsometatarsal` {single}
+28750	[arthrodesis] `great toe` `metatarsophalangeal joint`
+      [arthrodesis] `first metatarsophalangeal joint`
+28755	[arthrodesis] `great toe` `interphalangeal joint` 
+28760	[arthrodesis] & [extensor hallucis longus transfer] `1st metatarsal neck` `great toe` `interphalangeal joint` 
+28800	[amputation] `foot` `midtarsal` 
+28805	[amputation] `foot` `transmetatarsal` 
+28810	[amputation] `metatarsal` `toe` {single} 
+28820	[amputation] `metatarsophalangeal joint` & [toe] !`interphalangeal joint` !`transmetatarsal`
+28825	[amputation] `interphalangeal joint` & [toe]
+28890	[eswt] {high energy} `plantar fascia` {anesthesia} !{local} 
+28899*	unlisted proc foot/toes 
+29000	[halo body cast] 
+29010	[risser jacket] {localizer} `body` 
+29015	[risser jacket] {localizer} `body` `head` 
+29035	[body cast] `shoulder to hip` 
+29040	[body cast] `shoulder to hip` `head` 
+29044	[body cast] `shoulder to hip` `thigh` 
+29046	[body cast] `shoulder to hip` {bilateral} `thighs` 
+29049	[cast] {figure-of-eight} 
+29055	[cast] `shoulder` {spica} 
+29058	[cast] {plaster velpeau} 
+29065	[cast] {long arm} 
+29075	[cast] {short arm} 
+29085	[cast] {gauntlet} 
+29086	[cast] `finger` 
+29105	[splint] & [long arm]
+29125	[splint] & [short arm] & ![long arm] & ![short leg] & ![long leg] & ![other surgical procedure]
+29126	[splint] !{long} & [arm or hand or finger] {dynamic} & ![other surgical procedure]
+291__ [splint] `arm` & ![short arm] & ![long arm] & ![short leg] & ![long leg] & ![other surgical procedure] "Partial Coding"
+29130	[splint] `finger`
+29131	[splint] `finger` !{dynamic}  
+29200	[strapping] `thorax`  
+29220	[strapping] `low back` 
+29240	[strapping] `shoulder` 
+29260	[strapping] `elbow/wrist` 
+29280	[strapping] `hand/finger` 
+29305	[hip spica cast] `hip` 
+29325	[hip spica cast] {both} `hips` 
+29345	[cast] {long leg} 
+29355	[cast] {long leg} {walking/ambulatory} 
+29358	[cast] {long leg} {brace} 
+29365	[cast] {cylinder} `thigh to ankle` 
+29405	[cast] {short leg} 
+29425	[cast] {short leg} {walking/ambulatory} 
+29435	[cast] {patellar tendon bearing} 
+29440	[adding walker] {previously applied cast} 
+29445	[cast] {rigid total contact} `leg` 
+29450	[cast] {clubfoot} & [molding/manipulation] {long/short} `leg` 
+29505	[splint] {long leg}
+      [long leg splint]
+29515	[splint] & [short leg] !{arm} & ![other surgical procedure]
+295__ [splint] `leg` & ![short leg] & ![long leg] & ![short arm] & ![long arm] & ![other surgical procedure] "Partial Coding"
+29520	[strapping] `hip` 
+29530	[strapping] `knee` 
+29540	[strapping] {short leg}
+29550	[strapping] `toes` 
+29580	[unna boot]  
+29581	[application mult-layer compression system] `below knee` 
+29582	[application mult-layer compression system] `leg` 
+29583	[application mult-layer compression system] `upper arm` `forearm` 
+29584	[application mult-layer compression system] `upper arm` `forearm` `hand` `fingers` 
+29590*	denis-browne splint strapping 
+29700	[removal/bivalving] {gauntlet/boot/body cast} 
+29705	[removal/bivalving] {full arm/full leg cast} 
+29710	[removal/bivalving] {shoulder/hip spica} 
+29720	[repair spica] {body cast/jacket} 
+29730	[windowing cast]
+29740	[wedging cast] !{clubfoot}
+29750	[wedging cast] {clubfoot}
+29799* unlisted proc casting/strapping 
+29800	[arthroscopy] `temporomandibular joint` & ![synovial bx] 
+29804	[arthroscopy] `temporomandibular joint` 
+29805	[arthroscopy] {diagnostic} `shoulder`
+29806	[arthroscopy] `shoulder` {capsulorrhaphy} 
+29807	[arthroscopy] & [repair] `slap lesion`
+29819	[arthroscopy] `shoulder` & [loose body removal] 
+29820	[arthroscopy] `shoulder` & [synovectomy] {partial} & ![debridement]
+29821	[arthroscopy] `shoulder` & [complete synovectomy] 
+29822	[arthroscopy] `shoulder` & [debridement] !{extensive}
+29823	[debridement] {extensive} `labral` & [arthroscopy] {shoulder}
+      [arthroscopy] `shoulder` & [extensive debridement]
+29824	[claviculectomy] {distal} & [arthroscopy]
+      [resection] `clavicle` & [arthroscopy]
+29825	[lysis adhesions] `shoulder` & [arthroscopy]
+29826	[subacromial decompression] {arthroscopy} & ![rotator cuff repair] `shoulder`
+      [subacromial decompression] & [arthroscopy] & ![rotator cuff repair] `shoulder`
+29827	[arthroscopy] & [rotator cuff repair] & ![debridement]
+      [repair] `rotator cuff` {laparoscopy} & ![debridement]
+      [repair] `rotator cuff` & [arthroscopy]
+29828	[arthroscopy] & [biceps tenodesis]
+29830	[arthroscopy] `elbow` & ![loose body removal] & ![synovectomy] & ![debridement] 
+29834	[arthroscopy] `elbow` & [loose body removal] 
+29835	[arthroscopy] `elbow` & [synovectomy] !{complete}
+29836	[arthroscopy] `elbow` & [complete synovectomy] 
+29837	[arthroscopy] `elbow` & [debridement] !{extensive} 
+29838	[arthroscopy] `elbow` & [debridement] {extensive} 
+29840	[arthroscopy] `wrist` & ![excision and/repair] & ![synovectomy] & ![debridement]
+29843	[arthroscopy] `wrist` {infection} & [lavage/drainage]
+29844	[arthroscopy] `wrist` & [synovectomy] !{complete}
+29845	[arthroscopy] `wrist` & [complete synovectomy] 
+29846	[arthroscopy] `wrist` & [excision, repair or debridement] {triangular fibrocartilage} 
+29847	[arthroscopy] `wrist` & [internal fixation] {fx/instability} 
+29848	[endoscopy] & [release] {carpal tunnel} 
+29850	[arthroscopically aided treatment] `knee` {intercondylar spines and/tuberosity} & ![fixation] 
+29851	[arthroscopically aided treatment] `knee` {intercondylar spines and/tuberosity} & [fixation] {internal and/eternal} 
+29855	[arthroscopically aided treatment] `tibia` {proximal} {unicondylar} 
+29856	[arthroscopically aided treatment] `tibia` {proximal} {bicondylar} 
+29860	[arthroscopy] `hip` & ![removal] & ![synovectomy] & ![chondroplasty/arthroplasty/osteochondroplasty]
+29861	[arthroscopy] `hip` & [removal] {loose/foreign body} 
+29862	[arthroscopy] `hip` & [chondroplasty/arthroplasty] 
+29863	[arthroscopy] `hip` & [synovectomy] 
+29866	[arthroscopy] `knee` & [autograft] `osteochondral` 
+29867*[arthroscopy] `knee` & [allograft] `osteochondral` 
+29868	[arthroscopy] `meniscus` & [transplant] {medial or lateral} `meniscus`
+29870*[arthroscopy] `knee` 
+29871	[arthroscopy] `knee` {infection} & [lavage] & [drainage]
+29873	[arthroscopy] `knee` & [lateral release] `retinacular`
+29874	[arthroscopy] `knee` & [removal] {loose body/foreign body} 
+29875	[arthroscopy] `knee` & [synovectomy] & ![meniscectomy] 
+      [arthroscopy] `knee` & [synovectomy] {medial} & ![meniscectomy] 
+29876	[arthroscopy] `knee` & [synovectomy] {medial/lateral} & ![meniscectomy] 
+29877	[arthroscopy] `knee` & [chondroplasty] & ![meniscectomy]
+29879	[arthroscopy] `knee` & [abrasion arthroplasty] 
+29880	[arthroscopy] `knee` & [meniscectomy] & [tear] `medial meniscus` & [tear] `lateral meniscus`
+      [arthroscopy] `knee` & [lateral meniscectomy] & [medial]
+29881	[meniscectomy] {medial}  & [arthroscopy]
+      [meniscectomy] {partial} & [arthroscopy]
+29882	[repair] `meniscus` & [arthroscopy] & [suture] {meniscus}
+29883	[repair] {suture} `meniscus` {lateral} {medial} & [arthroscopy]
+29884	[arthroscopy] `knee` & [lysis]
+29885	[arthroscopy] `knee` & [drilling] {osteochondritis dissecans} & [bone graft] 
+29886	[arthroscopy] `knee` & [drilling] {intact osteochondritis dissecans lesion} 
+29887	[arthroscopy] `knee` & [drilling] {intact osteochondritis dissecans lesion} & [internal fixation] 
+29888	[arthroscopy] & [repair/augmentation/reconstruction] `acl` 
+29889	[arthroscopy] & [repair/augmentation/reconstruction] `posterior cruciate ligament` 
+29891	[arthroscopy] `ankle` & [excision] {osteochondral defect} `talus and/tibia` 
+29892	[arthroscopy] & [repair] {osteochondritis lesion/talar dome fx/tibia plafond fx} 
+29893	[plantar fasciotomy] {endoscopic} 
+29894	[arthroscopy] `ankle` & [removal] {loose body/fb} 
+29895	[arthroscopy] `ankle` & [synovectomy]
+29897	[arthroscopy] `ankle` & [debridement] !{extensive} 
+29898	[arthroscopy] `ankle` & [debridement] {extensive} 
+29899	[arthroscopy] `ankle` & [arthrodesis] 
+29900	[arthroscopy] `metacarpophalangeal joint` {diagnostic} 
+29901	[arthroscopy] `metacarpophalangeal joint` & [debridement] 
+29902	[arthroscopy] `metacarpophalangeal joint` & [reduction] {displaced} `ulnar collateral ligament` 
+29904	[arthroscopy] `subtalar joint` & [removal] {loose body/foreign body} 
+29905	[arthroscopy] `subtalar joint` & [synovectomy] 
+29906	[arthroscopy] `subtalar joint` & [debridement] 
+29907	[arthroscopy] `subtalar joint` & [arthrodesis] 
+29914	[arthroscopy] `hip` & [femoroplasty] & ![removal] {loose/foreign body} & ![synovectomy]
+29915	[arthroscopy] `hip` & [acetabuloplasty] & ![removal] {loose/foreign body} & ![synovectomy]
+29916	[arthroscopy] `hip` & [repair] `labral` & ![acetabuloplasty] & ![removal] {loose/foreign body} & ![synovectomy]
+29999*	unlisted proc arthroscopy 

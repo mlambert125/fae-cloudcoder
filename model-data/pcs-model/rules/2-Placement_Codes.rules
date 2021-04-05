@@ -1,0 +1,866 @@
+2W00X0Z  [change] {traction apparatus} `head`
+2W00X1Z  [change] {splint} `head`
+2W00X2Z  [change] {cast} `head`
+2W00X3Z  [change] {brace} `head`
+2W00X4Z  [change] {bandage} `head`
+2W00X5Z  [change] {packing material} `head`
+2W00X6Z  [change] {compression pressure dressing} `head`
+2W00X7Z  [change] {intermittent pressure device}  `head`
+2W00XYZ  [change] {other device} `head`
+2W01X0Z  [change] {traction apparatus} `face`
+2W01X1Z  [change] {splint} `face`
+2W01X2Z  [change] {cast} `face`
+2W01X3Z  [change] {brace} `face`
+2W01X4Z  [change] {bandage} `face`
+2W01X5Z  [change] {packing material} `face`
+2W01X6Z  [change] {compression pressure dressing} `face`
+2W01X7Z  [change] {intermittent pressure device}  `face`
+2W01X9Z  [change] {wire} `face`
+2W01XYZ  [change] {other device} `face`
+2W02X0Z  [change] {traction apparatus} `neck`
+2W02X1Z  [change] {splint} `neck`
+2W02X2Z  [change] {cast} `neck`
+2W02X3Z  [change] {brace} `neck`
+2W02X4Z  [change] {bandage} `neck`
+2W02X5Z  [change] {packing material} `neck`
+2W02X6Z  [change] {compression pressure dressing} `neck`
+2W02X7Z  [change] {intermittent pressure device}  `neck`
+2W02XYZ  [change] {other device} `neck`
+2W03X0Z  [change] {traction apparatus} `abdominal wall`
+2W03X1Z  [change] {splint} `abdominal wall`
+2W03X2Z  [change] {cast} `abdominal wall`
+2W03X3Z  [change] {brace} `abdominal wall`
+2W03X4Z  [change] {bandage} `abdominal wall`
+2W03X5Z  [change] {packing material} `abdominal wall`
+2W03X6Z  [change] {compression pressure dressing} `abdominal wall`
+2W03X7Z  [change] {intermittent pressure device}  `abdominal wall`
+2W03XYZ  [change] {other device} `abdominal wall`
+2W04X0Z  [change] {traction apparatus} `chest wall`
+2W04X1Z  [change] {splint} `chest wall`
+2W04X2Z  [change] {cast} `chest wall`
+2W04X3Z  [change] {brace} `chest wall`
+2W04X4Z  [change] {bandage} `chest wall`
+2W04X5Z  [change] {packing material} `chest wall`
+2W04X6Z  [change] {compression pressure dressing} `chest wall`
+2W04X7Z  [change] {intermittent pressure device}  `chest wall`
+2W04XYZ  [change] {other device} `chest wall`
+2W05X0Z  [change] {traction apparatus} `back`
+2W05X1Z  [change] {splint} `back`
+2W05X2Z  [change] {cast} `back`
+2W05X3Z  [change] {brace} `back`
+2W05X4Z  [change] {bandage} `back`
+2W05X5Z  [change] {packing material} `back`
+2W05X6Z  [change] {compression pressure dressing} `back`
+2W05X7Z  [change] {intermittent pressure device}  `back`
+2W05XYZ  [change] {other device} `back`
+2W06X0Z  [change] {traction apparatus} {right} `inguinal region`
+2W06X1Z  [change] {splint} {right} `inguinal region`
+2W06X2Z  [change] {cast} {right} `inguinal region`
+2W06X3Z  [change] {brace} {right} `inguinal region`
+2W06X4Z  [change] {bandage} {right} `inguinal region`
+2W06X5Z  [change] {packing material} {right} `inguinal region`
+2W06X6Z  [change] {compression pressure dressing} {right} `inguinal region`
+2W06X7Z  [change] {intermittent pressure device}  {right} `inguinal region`
+2W06XYZ  [change] {other device} {right} `inguinal region`
+2W07X0Z  [change] {traction apparatus} {left} `inguinal region`
+2W07X1Z  [change] {splint} {left} `inguinal region`
+2W07X2Z  [change] {cast} {left} `inguinal region`
+2W07X3Z  [change] {brace} {left} `inguinal region`
+2W07X4Z  [change] {bandage} {left} `inguinal region`
+2W07X5Z  [change] {packing material} {left} `inguinal region`
+2W07X6Z  [change] {compression pressure dressing} {left} `inguinal region`
+2W07X7Z  [change] {intermittent pressure device}  {left} `inguinal region`
+2W07XYZ  [change] {other device} {left} `inguinal region`
+2W08X0Z  [change] {traction apparatus} {right} `upper extremity`
+2W08X1Z  [change] {splint} {right} `upper extremity`
+2W08X2Z  [change] {cast} {right} `upper extremity`
+2W08X3Z  [change] {brace} {right} `upper extremity`
+2W08X4Z  [change] {bandage} {right} `upper extremity`
+2W08X5Z  [change] {packing material} {right} `upper extremity`
+2W08X6Z  [change] {compression pressure dressing} {right} `upper extremity`
+2W08X7Z  [change] {intermittent pressure device}  {right} `upper extremity`
+2W08XYZ  [change] {other device} {right} `upper extremity`
+2W09X0Z  [change] {traction apparatus} {left} `upper extremity`
+2W09X1Z  [change] {splint} {left} `upper extremity`
+2W09X2Z  [change] {cast} {left} `upper extremity`
+2W09X3Z  [change] {brace} {left} `upper extremity`
+2W09X4Z  [change] {bandage} {left} `upper extremity`
+2W09X5Z  [change] {packing material} {left} `upper extremity`
+2W09X6Z  [change] {compression pressure dressing} {left} `upper extremity`
+2W09X7Z  [change] {intermittent pressure device}  {left} `upper extremity`
+2W09XYZ  [change] {other device} {left} `upper extremity`
+2W0AX0Z  [change] {traction apparatus} {right} `upper arm`
+2W0AX1Z  [change] {splint} {right} `upper arm`
+2W0AX2Z  [change] {cast} {right} `upper arm`
+2W0AX3Z  [change] {brace} {right} `upper arm`
+2W0AX4Z  [change] {bandage} {right} `upper arm`
+2W0AX5Z  [change] {packing material} {right} `upper arm`
+2W0AX6Z  [change] {compression pressure dressing} {right} `upper arm`
+2W0AX7Z  [change] {intermittent pressure device}  {right} `upper arm`
+2W0AXYZ  [change] {other device} {right} `upper arm`
+2W0BX0Z  [change] {traction apparatus} {left} `upper arm`
+2W0BX1Z  [change] {splint} {left} `upper arm`
+2W0BX2Z  [change] {cast} {left} `upper arm`
+2W0BX3Z  [change] {brace} {left} `upper arm`
+2W0BX4Z  [change] {bandage} {left} `upper arm`
+2W0BX5Z  [change] {packing material} {left} `upper arm`
+2W0BX6Z  [change] {compression pressure dressing} {left} `upper arm`
+2W0BX7Z  [change] {intermittent pressure device}  {left} `upper arm`
+2W0BXYZ  [change] {other device} {left} `upper arm`
+2W0CX0Z  [change] {traction apparatus} {right} `lower arm`
+2W0CX1Z  [change] {splint} {right} `lower arm`
+2W0CX2Z  [change] {cast} {right} `lower arm`
+2W0CX3Z  [change] {brace} {right} `lower arm`
+2W0CX4Z  [change] {bandage} {right} `lower arm`
+2W0CX5Z  [change] {packing material} {right} `lower arm`
+2W0CX6Z  [change] {compression pressure dressing} {right} `lower arm`
+2W0CX7Z  [change] {intermittent pressure device}  {right} `lower arm`
+2W0CXYZ  [change] {other device} {right} `lower arm`
+2W0DX0Z  [change] {traction apparatus} {left} `lower arm`
+2W0DX1Z  [change] {splint} {left} `lower arm`
+2W0DX2Z  [change] {cast} {left} `lower arm`
+2W0DX3Z  [change] {brace} {left} `lower arm`
+2W0DX4Z  [change] {bandage} {left} `lower arm`
+2W0DX5Z  [change] {packing material} {left} `lower arm`
+2W0DX6Z  [change] {compression pressure dressing} {left} `lower arm`
+2W0DX7Z  [change] {intermittent pressure device}  {left} `lower arm`
+2W0DXYZ  [change] {other device} {left} `lower arm`
+2W0EX0Z  [change] {traction apparatus} {right} `hand`
+2W0EX1Z  [change] {splint} {right} `hand`
+2W0EX2Z  [change] {cast} {right} `hand`
+2W0EX3Z  [change] {brace} {right} `hand`
+2W0EX4Z  [change] {bandage} {right} `hand`
+2W0EX5Z  [change] {packing material} {right} `hand`
+2W0EX6Z  [change] {compression pressure dressing} {right} `hand`
+2W0EX7Z  [change] {intermittent pressure device}  {right} `hand`
+2W0EXYZ  [change] {other device} {right} `hand`
+2W0FX0Z  [change] {traction apparatus} {left} `hand`
+2W0FX1Z  [change] {splint} {left} `hand`
+2W0FX2Z  [change] {cast} {left} `hand`
+2W0FX3Z  [change] {brace} {left} `hand`
+2W0FX4Z  [change] {bandage} {left} `hand`
+2W0FX5Z  [change] {packing material} {left} `hand`
+2W0FX6Z  [change] {compression pressure dressing} {left} `hand`
+2W0FX7Z  [change] {intermittent pressure device}  {left} `hand`
+2W0FXYZ  [change] {other device} {left} `hand`
+2W0GX0Z  [change] {traction apparatus} {right} `thumb`
+2W0GX1Z  [change] {splint} {right} `thumb`
+2W0GX2Z  [change] {cast} {right} `thumb`
+2W0GX3Z  [change] {brace} {right} `thumb`
+2W0GX4Z  [change] {bandage} {right} `thumb`
+2W0GX5Z  [change] {packing material} {right} `thumb`
+2W0GX6Z  [change] {compression pressure dressing} {right} `thumb`
+2W0GX7Z  [change] {intermittent pressure device}  {right} `thumb`
+2W0GXYZ  [change] {other device} {right} `thumb`
+2W0HX0Z  [change] {traction apparatus} {left} `thumb`
+2W0HX1Z  [change] {splint} {left} `thumb`
+2W0HX2Z  [change] {cast} {left} `thumb`
+2W0HX3Z  [change] {brace} {left} `thumb`
+2W0HX4Z  [change] {bandage} {left} `thumb`
+2W0HX5Z  [change] {packing material} {left} `thumb`
+2W0HX6Z  [change] {compression pressure dressing} {left} `thumb`
+2W0HX7Z  [change] {intermittent pressure device}  {left} `thumb`
+2W0HXYZ  [change] {other device} {left} `thumb`
+2W0JX0Z  [change] {traction apparatus} {right} `finger`
+2W0JX1Z  [change] {splint} {right} `finger`
+2W0JX2Z  [change] {cast} {right} `finger`
+2W0JX3Z  [change] {brace} {right} `finger`
+2W0JX4Z  [change] {bandage} {right} `finger`
+2W0JX5Z  [change] {packing material} {right} `finger`
+2W0JX6Z  [change] {compression pressure dressing} {right} `finger`
+2W0JX7Z  [change] {intermittent pressure device}  {right} `finger`
+2W0JXYZ  [change] {other device} {right} `finger`
+2W0KX0Z  [change] {traction apparatus} {left} `finger`
+2W0KX1Z  [change] {splint} {left} `finger`
+2W0KX2Z  [change] {cast} {left} `finger`
+2W0KX3Z  [change] {brace} {left} `finger`
+2W0KX4Z  [change] {bandage} {left} `finger`
+2W0KX5Z  [change] {packing material} {left} `finger`
+2W0KX6Z  [change] {compression pressure dressing} {left} `finger`
+2W0KX7Z  [change] {intermittent pressure device}  {left} `finger`
+2W0KXYZ  [change] {other device} {left} `finger`
+2W0LX0Z  [change] {traction apparatus} {right} `lower extremity`
+2W0LX1Z  [change] {splint} {right} `lower extremity`
+2W0LX2Z  [change] {cast} {right} `lower extremity`
+2W0LX3Z  [change] {brace} {right} `lower extremity`
+2W0LX4Z  [change] {bandage} {right} `lower extremity`
+2W0LX5Z  [change] {packing material} {right} `lower extremity`
+2W0LX6Z  [change] {compression pressure dressing} {right} `lower extremity`
+2W0LX7Z  [change] {intermittent pressure device}  {right} `lower extremity`
+2W0LXYZ  [change] {other device} {right} `lower extremity`
+2W0MX0Z  [change] {traction apparatus} {left} `lower extremity`
+2W0MX1Z  [change] {splint} {left} `lower extremity`
+2W0MX2Z  [change] {cast} {left} `lower extremity`
+2W0MX3Z  [change] {brace} {left} `lower extremity`
+2W0MX4Z  [change] {bandage} {left} `lower extremity`
+2W0MX5Z  [change] {packing material} {left} `lower extremity`
+2W0MX6Z  [change] {compression pressure dressing} {left} `lower extremity`
+2W0MX7Z  [change] {intermittent pressure device}  {left} `lower extremity`
+2W0MXYZ  [change] {other device} {left} `lower extremity`
+2W0NX0Z  [change] {traction apparatus} {right} `upper leg`
+2W0NX1Z  [change] {splint} {right} `upper leg`
+2W0NX2Z  [change] {cast} {right} `upper leg`
+2W0NX3Z  [change] {brace} {right} `upper leg`
+2W0NX4Z  [change] {bandage} {right} `upper leg`
+2W0NX5Z  [change] {packing material} {right} `upper leg`
+2W0NX6Z  [change] {compression pressure dressing} {right} `upper leg`
+2W0NX7Z  [change] {intermittent pressure device}  {right} `upper leg`
+2W0NXYZ  [change] {other device} {right} `upper leg`
+2W0PX0Z  [change] {traction apparatus} {left} `upper leg`
+2W0PX1Z  [change] {splint} {left} `upper leg`
+2W0PX2Z  [change] {cast} {left} `upper leg`
+2W0PX3Z  [change] {brace} {left} `upper leg`
+2W0PX4Z  [change] {bandage} {left} `upper leg`
+2W0PX5Z  [change] {packing material} {left} `upper leg`
+2W0PX6Z  [change] {compression pressure dressing} {left} `upper leg`
+2W0PX7Z  [change] {intermittent pressure device}  {left} `upper leg`
+2W0PXYZ  [change] {other device} {left} `upper leg`
+2W0QX0Z  [change] {traction apparatus} {right} `lower leg`
+2W0QX1Z  [change] {splint} {right} `lower leg`
+2W0QX2Z  [change] {cast} {right} `lower leg`
+2W0QX3Z  [change] {brace} {right} `lower leg`
+2W0QX4Z  [change] {bandage} {right} `lower leg`
+2W0QX5Z  [change] {packing material} {right} `lower leg`
+2W0QX6Z  [change] {compression pressure dressing} {right} `lower leg`
+2W0QX7Z  [change] {intermittent pressure device}  {right} `lower leg`
+2W0QXYZ  [change] {other device} {right} `lower leg`
+2W0RX0Z  [change] {traction apparatus} {left} `lower leg`
+2W0RX1Z  [change] {splint} {left} `lower leg`
+2W0RX2Z  [change] {cast} {left} `lower leg`
+2W0RX3Z  [change] {brace} {left} `lower leg`
+2W0RX4Z  [change] {bandage} {left} `lower leg`
+2W0RX5Z  [change] {packing material} {left} `lower leg`
+2W0RX6Z  [change] {compression pressure dressing} {left} `lower leg`
+2W0RX7Z  [change] {intermittent pressure device}  {left} `lower leg`
+2W0RXYZ  [change] {other device} {left} `lower leg`
+2W0SX0Z  [change] {traction apparatus} {right} `foot`
+2W0SX1Z  [change] {splint} {right} `foot`
+2W0SX2Z  [change] {cast} {right} `foot`
+2W0SX3Z  [change] {brace} {right} `foot`
+2W0SX4Z  [change] {bandage} {right} `foot`
+2W0SX5Z  [change] {packing material} {right} `foot`
+2W0SX6Z  [change] {compression pressure dressing} {right} `foot`
+2W0SX7Z  [change] {intermittent pressure device}  {right} `foot`
+2W0SXYZ  [change] {other device} {right} `foot`
+2W0TX0Z  [change] {traction apparatus} {left} `foot`
+2W0TX1Z  [change] {splint} {left} `foot`
+2W0TX2Z  [change] {cast} {left} `foot`
+2W0TX3Z  [change] {brace} {left} `foot`
+2W0TX4Z  [change] {bandage} {left} `foot`
+2W0TX5Z  [change] {packing material} {left} `foot`
+2W0TX6Z  [change] {compression pressure dressing} {left} `foot`
+2W0TX7Z  [change] {intermittent pressure device}  {left} `foot`
+2W0TXYZ  [change] {other device} {left} `foot`
+2W0UX0Z  [change] {traction apparatus} {right} `toe`
+2W0UX1Z  [change] {splint} {right} `toe`
+2W0UX2Z  [change] {cast} {right} `toe`
+2W0UX3Z  [change] {brace} {right} `toe`
+2W0UX4Z  [change] {bandage} {right} `toe`
+2W0UX5Z  [change] {packing material} {right} `toe`
+2W0UX6Z  [change] {compression pressure dressing} {right} `toe`
+2W0UX7Z  [change] {intermittent pressure device}  {right} `toe`
+2W0UXYZ  [change] {other device} {right} `toe`
+2W0VX0Z  [change] {traction apparatus} {left} `toe`
+2W0VX1Z  [change] {splint} {left} `toe`
+2W0VX2Z  [change] {cast} {left} `toe`
+2W0VX3Z  [change] {brace} {left} `toe`
+2W0VX4Z  [change] {bandage} {left} `toe`
+2W0VX5Z  [change] {packing material} {left} `toe`
+2W0VX6Z  [change] {compression pressure dressing} {left} `toe`
+2W0VX7Z  [change] {intermittent pressure device}  {left} `toe`
+2W0VXYZ  [change] {other device} {left} `toe`
+2W10X6Z  [compression pressure dressing] `head`
+2W10X7Z  [intermittent pressure device] `head` 
+2W11X6Z  [compression pressure dressing] `face` 
+2W11X7Z  [intermittent pressure device] `face` 
+2W12X6Z  [compression pressure dressing] `neck` 
+2W12X7Z  [intermittent pressure device] `neck` 
+2W13X6Z  [compression pressure dressing] `abdominal wall` 
+2W13X7Z  [intermittent pressure device] `abdominal wall` 
+2W14X6Z  [compression pressure dressing] `chest wall` 
+2W14X7Z  [intermittent pressure device] `chest wall` 
+2W15X6Z  [compression pressure dressing] `back` 
+2W15X7Z  [intermittent pressure device] `back` 
+2W16X6Z  [compression pressure dressing] {right} `inguinal region` 
+2W16X7Z  [intermittent pressure device] {right} `inguinal region` 
+2W17X6Z  [compression pressure dressing] {left} `inguinal region` 
+2W17X7Z  [intermittent pressure device] {left} `inguinal region` 
+2W18X6Z  [compression pressure dressing] {right} `upper extremity` 
+2W18X7Z  [intermittent pressure device] {right} `upper extremity` 
+2W19X6Z  [compression  pressure dressing] {left} `upper extremity` 
+2W19X7Z  [intermittent pressure device] {left} `upper extremity` 
+2W1AX6Z  [compression  pressure dressing] {right} `upper arm` 
+2W1AX7Z  [intermittent pressure device] {right} `upper arm` 
+2W1BX6Z  [compression pressure dressing] {left} `upper arm` 
+2W1BX7Z  [intermittent pressure device] {left} `upper arm` 
+2W1CX6Z  [compression pressure dressing] {right} `lower arm` 
+2W1CX7Z  [intermittent pressure device] {right} `lower arm` 
+2W1DX6Z  [compression pressure dressing] {left} `lower arm` 
+2W1DX7Z  [intermittent pressure device] {left} `lower arm`
+2W1EX6Z  [compression pressure dressing] {right} `hand` 
+2W1EX7Z  [intermittent pressure device] {right} `hand` 
+2W1FX6Z  [compression pressure dressing] {left} `hand` 
+2W1FX7Z  [intermittent pressure device] {left} `hand` 
+2W1GX6Z  [compression pressure dressing] {right} `thumb` 
+2W1GX7Z  [intermittent pressure device] {right} `thumb` 
+2W1HX6Z  [compression pressure dressing] {left} `thumb` 
+2W1HX7Z  [intermittent pressure device] {left} `thumb` 
+2W1JX6Z  [compression pressure dressing] {right} `finger` 
+2W1JX7Z  [intermittent pressure device] {right} `finger` 
+2W1KX6Z  [compression pressure dressing] {left} `finger`
+2W1KX7Z  [intermittent pressure device] {left} `finger` 
+2W1LX6Z  [compression  pressure dressing] {right} `lower extremity` 
+2W1LX7Z  [intermittent pressure device] {right} `lower extremity` 
+2W1MX6Z  [compression pressure dressing] {left} `lower extremity` 
+2W1MX7Z  [intermittent pressure device] {left} `lower extremity` 
+2W1NX6Z  [compression  pressure dressing] {right} `upper leg` 
+2W1NX7Z  [intermittent pressure device] {right} `upper leg` 
+2W1PX6Z  [compression  pressure dressing] {left} `upper leg` 
+2W1PX7Z  [intermittent pressure device] {left} `upper leg` 
+2W1QX6Z  [compression pressure dressing] {right} `lower leg` 
+2W1QX7Z  [intermittent pressure device] {right} `lower leg` 
+2W1RX6Z  [compression pressure dressing] {left} `lower leg`
+2W1RX7Z  [intermittent pressure device] {left} `lower leg` 
+2W1SX6Z  [compression  pressure dressing] {right} `foot` 
+2W1SX7Z  [intermittent pressure device] {right} `foot` 
+2W1TX6Z  [compression  pressure dressing] {left} `foot` 
+2W1TX7Z  [intermittent pressure device] {left} `foot` 
+2W1UX6Z  [compression  pressure dressing] {right} `toe` 
+2W1UX7Z  [intermittent pressure device] {right} `toe` 
+2W1VX6Z  [compression  pressure dressing] {left} `toe` 
+2W1VX7Z  [intermittent pressure device] {left} `toe` 
+2W20X4Z*  [dressing] `head` & ![compression  pressure dressing]
+2W21X4Z*  [dressing] `face` & ![compression  pressure dressing]
+2W22X4Z*  [dressing] `neck` & ![compression  pressure dressing]
+2W23X4Z*  [dressing] `abdominal wall` & ![compression  pressure dressing]
+2W24X4Z*  [dressing] `chest wall` & ![compression  pressure dressing] 
+2W25X4Z*  [dressing] `back` & ![compression  pressure dressing]
+2W26X4Z*  [dressing] {right} `inguinal region` & ![compression  pressure dressing]
+2W27X4Z*  [dressing] {left} `inguinal region` & ![compression  pressure dressing]
+2W28X4Z*  [dressing] {right} `upper extremity` & ![compression  pressure dressing]
+2W29X4Z*  [dressing] {left} `upper extremity` & ![compression  pressure dressing]
+2W2AX4Z*  [dressing] {right} `upper arm` & ![compression  pressure dressing]
+2W2BX4Z*  [dressing] {left} `upper arm` & ![compression  pressure dressing]
+2W2CX4Z*  [dressing] {right} `lower arm` & ![compression  pressure dressing]
+2W2DX4Z*  [dressing] {left} `lower arm` & ![compression  pressure dressing]
+2W2EX4Z*  [dressing] {right} `hand` & ![compression  pressure dressing]
+2W2FX4Z*  [dressing] {left} `hand` & ![compression  pressure dressing]
+2W2GX4Z*  [dressing] {right} `thumb` & ![compression  pressure dressing]
+2W2HX4Z*  [dressing] {left} `thumb` & ![compression  pressure dressing]
+2W2JX4Z*  [dressing] {right} `finger` & ![compression  pressure dressing]
+2W2KX4Z*  [dressing] {left} `finger` & ![compression  pressure dressing]
+2W2LX4Z*  [dressing] {right} `lower extremity` & ![compression  pressure dressing]
+2W2MX4Z*  [dressing] {left} `lower extremity` & ![compression  pressure dressing]
+2W2NX4Z*  [dressing] {right} `upper leg` & ![compression  pressure dressing]
+2W2PX4Z*  [dressing] {left} `upper leg` & ![compression  pressure dressing]
+2W2QX4Z*  [dressing] {right} `lower leg` & ![compression  pressure dressing]
+2W2RX4Z*  [dressing] {left} `lower leg` & ![compression  pressure dressing]
+2W2SX4Z*  [dressing] {right} `foot` & ![compression  pressure dressing]
+2W2TX4Z*  [dressing] {left} `foot` & ![compression  pressure dressing]
+2W2UX4Z*  [dressing] {right} `toe` & ![compression  pressure dressing]
+2W2VX4Z*  [dressing] {left} `toe` & ![compression  pressure dressing]
+2W30X1Z  [immobilization] `head` {splint}
+2W30X2Z  [immobilization] `head` {cast}
+2W30X3Z  [immobilization] `head` {brace}
+2W30XYZ  [immobilization] `head` {other device}
+2W31X1Z  [immobilization] `face` {splint}
+2W31X2Z  [immobilization] `face` {cast}
+2W31X3Z  [immobilization] `face` {brace}
+2W31X9Z  [immobilization] `face` {wire}
+2W31XYZ  [immobilization] `face` {other device}
+2W32X1Z  [immobilization] `neck` {splint}
+2W32X2Z  [immobilization] `neck` {cast}
+2W32X3Z  [immobilization] `neck` {brace}
+2W32XYZ  [immobilization] `neck` {other device}
+2W33X1Z  [immobilization] `abdominal wall` {splint}
+2W33X2Z  [immobilization] `abdominal wall` {cast}
+2W33X3Z  [immobilization] `abdominal wall` {brace}
+2W33XYZ  [immobilization] `abdominal wall` {other device}
+2W34X1Z  [immobilization] `chest wall` {splint}
+2W34X2Z  [immobilization] `chest wall` {cast}
+2W34X3Z  [immobilization] `chest wall` {brace}
+2W34XYZ  [immobilization] `chest wall` {other device}
+2W35X1Z  [immobilization] `back` {splint}
+2W35X2Z  [immobilization] `back` {cast}
+2W35X3Z  [immobilization] `back` {brace}
+2W35XYZ  [immobilization] `back` {other device}
+2W36X1Z  [immobilization] {right} `inguinal region` {splint}
+2W36X2Z  [immobilization] {right} `inguinal region` {cast}
+2W36X3Z  [immobilization] {right} `inguinal region` {brace}
+2W36XYZ  [immobilization] {right} `inguinal region` {other device}
+2W37X1Z  [immobilization] {left} `inguinal region` {splint}
+2W37X2Z  [immobilization] {left} `inguinal region` {cast}
+2W37X3Z  [immobilization] {left} `inguinal region` {brace}
+2W37XYZ  [immobilization] {left} `inguinal region` {other device}
+2W38X1Z  [immobilization] {right} `upper extremity` {splint}
+         [long-arm splint] {right}
+2W38X2Z  [immobilization] {right} `upper extremity` {cast}
+         [long-arm cast] {right}
+2W38X3Z  [immobilization] {right} `upper extremity` {brace}
+2W38XYZ  [immobilization] {right} `upper extremity` {other device}
+2W39X1Z  [immobilization] {left} `upper extremity` {splint}
+         [long-arm splint] {left}
+2W39X2Z  [immobilization] {left} `upper extremity` {cast}
+         [long-arm cast] {left}
+2W39X3Z  [immobilization] {left} `upper extremity` {brace}
+2W39XYZ  [immobilization] {left} `upper extremity` {other device}
+2W3AX1Z  [immobilization] {right} `upper arm` {splint}
+2W3AX2Z  [immobilization] {right} `upper arm` {cast}
+2W3AX3Z  [immobilization] {right} `upper arm` {brace}
+2W3AXYZ  [immobilization] {right} `upper arm` {other device}
+2W3BX1Z  [immobilization] {left} `upper arm` {splint}
+2W3BX2Z  [immobilization] {left} `upper arm` {cast}
+2W3BX3Z  [immobilization] {left} `upper arm` {brace}
+2W3BXYZ  [immobilization] {left} `upper arm` {other device}
+2W3CX1Z  [short-arm splint] {right} 
+2W3CX2Z  [short-arm cast] {right} 
+2W3CX3Z  [immobilization] {right} `lower arm` {brace}
+2W3CXYZ  [immobilization] {right} `lower arm` {other device}
+2W3DX1Z  [short-arm splint] {left} 
+2W3DX2Z  [short-arm cast] {left} 
+2W3DX3Z  [immobilization] {left} `lower arm` {brace}
+2W3DXYZ  [immobilization] {left} `lower arm` {other device}
+2W3EX1Z  [immobilization] {right} `hand` {splint}
+2W3EX2Z  [immobilization] {right} `hand` {cast}
+2W3EX3Z  [immobilization] {right} `hand` {brace}
+2W3EXYZ  [immobilization] {right} `hand` {other device}
+2W3FX1Z  [immobilization] {left} `hand` {splint}
+2W3FX2Z  [immobilization] {left} `hand` {cast}
+2W3FX3Z  [immobilization] {left} `hand` {brace}
+2W3FXYZ  [immobilization] {left} `hand` {other device}
+2W3GX1Z  [immobilization] {right} `thumb` {splint}
+2W3GX2Z  [immobilization] {right} `thumb` {cast}
+2W3GX3Z  [immobilization] {right} `thumb` {brace}
+2W3GXYZ  [immobilization] {right} `thumb` {other device}
+2W3HX1Z  [immobilization] {left} `thumb` {splint}
+2W3HX2Z  [immobilization] {left} `thumb` {cast}
+2W3HX3Z  [immobilization] {left} `thumb` {brace}
+2W3HXYZ  [immobilization] {left} `thumb` {other device}
+2W3JX1Z  [immobilization] {right} `finger` {splint}
+2W3JX2Z  [immobilization] {right} `finger` {cast}
+2W3JX3Z  [immobilization] {right} `finger` {brace}
+2W3JXYZ  [immobilization] {right} `finger` {other device}
+2W3KX1Z  [immobilization] {left} `finger` {splint}
+2W3KX2Z  [immobilization] {left} `finger` {cast}
+2W3KX3Z  [immobilization] {left} `finger` {brace}
+2W3KXYZ  [immobilization] {left} `finger` {other device}
+2W3LX1Z  [immobilization] {right} `lower extremity` {splint}
+2W3LX2Z  [immobilization] {right} `lower extremity` {cast}
+2W3LX3Z  [immobilization] {right} `lower extremity` {brace}
+2W3LXYZ  [immobilization] {right} `lower extremity` {other device}
+2W3MX1Z  [immobilization] {left} `lower extremity` {splint}
+2W3MX2Z  [immobilization] {left} `lower extremity` {cast}
+2W3MX3Z  [immobilization] {left} `lower extremity` {brace}
+2W3MXYZ  [immobilization] {left} `lower extremity` {other device}
+2W3NX1Z  [immobilization] {right} `upper leg` {splint}
+2W3NX2Z  [immobilization] {right} `upper leg` {cast}
+2W3NX3Z  [immobilization] {right} `upper leg` {brace}
+2W3NXYZ  [immobilization] {right} `upper leg` {other device}
+2W3PX1Z  [immobilization] {left} `upper leg` {splint}
+2W3PX2Z  [immobilization] {left} `upper leg` {cast}
+2W3PX3Z  [immobilization] {left} `upper leg` {brace}
+2W3PXYZ  [immobilization] {left} `upper leg` {other device}
+2W3QX1Z  [immobilization] {right} `lower leg` {splint}
+2W3QX2Z  [immobilization] {right} `lower leg` {cast}
+2W3QX3Z  [immobilization] {right} `lower leg` {brace}
+2W3QXYZ  [immobilization] {right} `lower leg` {other device}
+2W3RX1Z  [immobilization] {left} `lower leg` {splint}
+2W3RX2Z  [immobilization] {left} `lower leg` {cast}
+2W3RX3Z  [immobilization] {left} `lower leg` {brace}
+2W3RXYZ  [immobilization] {left} `lower leg` {other device}
+2W3SX1Z  [immobilization] {right} `foot` {splint}
+2W3SX2Z  [immobilization] {right} `foot` {cast}
+2W3SX3Z  [immobilization] {right} `foot` {brace}
+2W3SXYZ  [immobilization] {right} `foot` {other device}
+2W3TX1Z  [immobilization] {left} `foot` {splint}
+2W3TX2Z  [immobilization] {left} `foot` {cast}
+2W3TX3Z  [immobilization] {left} `foot` {brace}
+2W3TXYZ  [immobilization] {left} `foot` {other device}
+2W3UX1Z  [immobilization] {right} `toe` {splint}
+2W3UX2Z  [immobilization] {right} `toe` {cast}
+2W3UX3Z  [immobilization] {right} `toe` {brace}
+2W3UXYZ  [immobilization] {right} `toe` {other device}
+2W3VX1Z  [immobilization] {left} `toe` {splint}
+2W3VX2Z  [immobilization] {left} `toe` {cast}
+2W3VX3Z  [immobilization] {left} `toe` {brace}
+2W3VXYZ  [immobilization] {left} `toe` {other device}
+2W40X5Z  [packing] `head` {packing material}
+2W41X5Z  [packing] `face` {packing material}
+2W42X5Z  [packing] `neck` {packing material}
+2W43X5Z  [packing] `abdominal wall` {packing material}
+2W44X5Z  [packing] `chest wall` {packing material}
+2W45X5Z  [packing] `back` {packing material}
+2W46X5Z  [packing] {right} `inguinal region` {packing material}
+2W47X5Z  [packing] {left} `inguinal region` {packing material}
+2W48X5Z  [packing] {right} `upper extremity` {packing material}
+2W49X5Z  [packing] {left} `upper extremity` {packing material}
+2W4AX5Z  [packing] {right} `upper arm` {packing material}
+2W4BX5Z  [packing] {left} `upper arm` {packing material}
+2W4CX5Z  [packing] {right} `lower arm` {packing material}
+2W4DX5Z  [packing] {left} `lower arm` {packing material}
+2W4EX5Z  [packing] {right} `hand` {packing material}
+2W4FX5Z  [packing] {left} `hand` {packing material}
+2W4GX5Z  [packing] {right} `thumb` {packing material}
+2W4HX5Z  [packing] {left} `thumb` {packing material}
+2W4JX5Z  [packing] {right} `finger` {packing material}
+2W4KX5Z  [packing] {left} `finger` {packing material}
+2W4LX5Z  [packing] {right} `lower extremity` {packing material}
+2W4MX5Z  [packing] {left} `lower extremity` {packing material}
+2W4NX5Z  [packing] {right} `upper leg` {packing material}
+2W4PX5Z  [packing] {left} `upper leg` {packing material}
+2W4QX5Z  [packing] {right} `lower leg` {packing material}
+2W4RX5Z  [packing] {left} `lower leg` {packing material}
+2W4SX5Z  [packing] {right} `foot` {packing material}
+2W4TX5Z  [packing] {left} `foot` {packing material}
+2W4UX5Z  [packing] {right} `toe` {packing material}
+2W4VX5Z  [packing] {left} `toe` {packing material}
+2W50X0Z  [removal] {traction apparatus} `head`
+2W50X1Z  [removal] {splint} `head`
+2W50X2Z  [removal] {cast} `head`
+2W50X3Z  [removal] {brace} `head`
+2W50X4Z  [removal] {bandage} `head`
+2W50X5Z  [removal] {packing material} `head`
+2W50X6Z  [removal] {compression pressure dressing}  `head`
+2W50X7Z  [removal] {intermittent pressure device}  `head`
+2W50XYZ  [removal] {other device} `head`
+2W51X0Z  [removal] {traction apparatus} `face`
+2W51X1Z  [removal] {splint} `face`
+2W51X2Z  [removal] {cast} `face`
+2W51X3Z  [removal] {brace} `face`
+2W51X4Z  [removal] {bandage} `face`
+2W51X5Z  [removal] {packing material} `face`
+2W51X6Z  [removal] {compression pressure dressing}  `face`
+2W51X7Z  [removal] {intermittent pressure device}  `face`
+2W51X9Z  [removal] {wire} `face`
+2W51XYZ  [removal] {other device} `face`
+2W52X0Z  [removal] {traction apparatus} `neck`
+2W52X1Z  [removal] {splint} `neck`
+2W52X2Z  [removal] {cast} `neck`
+2W52X3Z  [removal] {brace} `neck`
+2W52X4Z  [removal] {bandage} `neck`
+2W52X5Z  [removal] {packing material} `neck`
+2W52X6Z  [removal] {compression pressure dressing}  `neck`
+2W52X7Z  [removal] {intermittent pressure device}  `neck`
+2W52XYZ  [removal] {other device} `neck`
+2W53X0Z  [removal] {traction apparatus} `abdominal wall`
+2W53X1Z  [removal] {splint} `abdominal wall`
+2W53X2Z  [removal] {cast} `abdominal wall`
+2W53X3Z  [removal] {brace} `abdominal wall`
+2W53X4Z  [removal] {bandage} `abdominal wall`
+2W53X5Z  [removal] {packing material} `abdominal wall`
+2W53X6Z  [removal] {compression pressure dressing}  `abdominal wall`
+2W53X7Z  [removal] {intermittent pressure device}  `abdominal wall`
+2W53XYZ  [removal] {other device} `abdominal wall`
+2W54X0Z  [removal] {traction apparatus} `chest wall`
+2W54X1Z  [removal] {splint} `chest wall`
+2W54X2Z  [removal] {cast} `chest wall`
+2W54X3Z  [removal] {brace} `chest wall`
+2W54X4Z  [removal] {bandage} `chest wall`
+2W54X5Z  [removal] {packing material} `chest wall`
+2W54X6Z  [removal] {compression pressure dressing}  `chest wall`
+2W54X7Z  [removal] {intermittent pressure device}  `chest wall`
+2W54XYZ  [removal] {other device} `chest wall`
+2W55X0Z  [removal] {traction apparatus} `back`
+2W55X1Z  [removal] {splint} `back`
+2W55X2Z  [removal] {cast} `back`
+2W55X3Z  [removal] {brace} `back`
+2W55X4Z  [removal] {bandage} `back`
+2W55X5Z  [removal] {packing material} `back`
+2W55X6Z  [removal] {compression pressure dressing}  `back`
+2W55X7Z  [removal] {intermittent pressure device}  `back`
+2W55XYZ  [removal] {other device} `back`
+2W56X0Z  [removal] {traction apparatus} {right} `inguinal region`
+2W56X1Z  [removal] {splint} {right} `inguinal region`
+2W56X2Z  [removal] {cast} {right} `inguinal region`
+2W56X3Z  [removal] {brace} {right} `inguinal region`
+2W56X4Z  [removal] {bandage} {right} `inguinal region`
+2W56X5Z  [removal] {packing material} {right} `inguinal region`
+2W56X6Z  [removal] {compression pressure dressing}  {right} `inguinal region`
+2W56X7Z  [removal] {intermittent pressure device}  {right} `inguinal region`
+2W56XYZ  [removal] {other device} {right} `inguinal region`
+2W57X0Z  [removal] {traction apparatus} {left} `inguinal region`
+2W57X1Z  [removal] {splint} {left} `inguinal region`
+2W57X2Z  [removal] {cast} {left} `inguinal region`
+2W57X3Z  [removal] {brace} {left} `inguinal region`
+2W57X4Z  [removal] {bandage} {left} `inguinal region`
+2W57X5Z  [removal] {packing material} {left} `inguinal region`
+2W57X6Z  [removal] {compression pressure dressing}  {left} `inguinal region`
+2W57X7Z  [removal] {intermittent pressure device}  {left} `inguinal region`
+2W57XYZ  [removal] {other device} {left} `inguinal region`
+2W58X0Z  [removal] {traction apparatus} {right} `upper extremity`
+2W58X1Z  [removal] {splint} {right} `upper extremity`
+2W58X2Z  [removal] {cast} {right} `upper extremity`
+2W58X3Z  [removal] {brace} {right} `upper extremity`
+2W58X4Z  [removal] {bandage} {right} `upper extremity`
+2W58X5Z  [removal] {packing material} {right} `upper extremity`
+2W58X6Z  [removal] {compression pressure dressing}  {right} `upper extremity`
+2W58X7Z  [removal] {intermittent pressure device}  {right} `upper extremity`
+2W58XYZ  [removal] {other device} {right} `upper extremity`
+2W59X0Z  [removal] {traction apparatus} {left} `upper extremity`
+2W59X1Z  [removal] {splint} {left} `upper extremity`
+2W59X2Z  [removal] {cast} {left} `upper extremity`
+2W59X3Z  [removal] {brace} {left} `upper extremity`
+2W59X4Z  [removal] {bandage} {left} `upper extremity`
+2W59X5Z  [removal] {packing material} {left} `upper extremity`
+2W59X6Z  [removal] {compression pressure dressing}  {left} `upper extremity`
+2W59X7Z  [removal] {intermittent pressure device}  {left} `upper extremity`
+2W59XYZ  [removal] {other device} {left} `upper extremity`
+2W5AX0Z  [removal] {traction apparatus} {right} `upper arm`
+2W5AX1Z  [removal] {splint} {right} `upper arm`
+2W5AX2Z  [removal] {cast} {right} `upper arm`
+2W5AX3Z  [removal] {brace} {right} `upper arm`
+2W5AX4Z  [removal] {bandage} {right} `upper arm`
+2W5AX5Z  [removal] {packing material} {right} `upper arm`
+2W5AX6Z  [removal] {compression pressure dressing}  {right} `upper arm`
+2W5AX7Z  [removal] {intermittent pressure device}  {right} `upper arm`
+2W5AXYZ  [removal] {other device} {right} `upper arm`
+2W5BX0Z  [removal] {traction apparatus} {left} `upper arm`
+2W5BX1Z  [removal] {splint} {left} `upper arm`
+2W5BX2Z  [removal] {cast} {left} `upper arm`
+2W5BX3Z  [removal] {brace} {left} `upper arm`
+2W5BX4Z  [removal] {bandage} {left} `upper arm`
+2W5BX5Z  [removal] {packing material} {left} `upper arm`
+2W5BX6Z  [removal] {compression pressure dressing}  {left} `upper arm`
+2W5BX7Z  [removal] {intermittent pressure device}  {left} `upper arm`
+2W5BXYZ  [removal] {other device} {left} `upper arm`
+2W5CX0Z  [removal] {traction apparatus} {right} `lower arm`
+2W5CX1Z  [removal] {splint} {right} `lower arm`
+2W5CX2Z  [removal] {cast} {right} `lower arm`
+2W5CX3Z  [removal] {brace} {right} `lower arm`
+2W5CX4Z  [removal] {bandage} {right} `lower arm`
+2W5CX5Z  [removal] {packing material} {right} `lower arm`
+2W5CX6Z  [removal] {compression pressure dressing}  {right} `lower arm`
+2W5CX7Z  [removal] {intermittent pressure device}  {right} `lower arm`
+2W5CXYZ  [removal] {other device} {right} `lower arm`
+2W5DX0Z  [removal] {traction apparatus} {left} `lower arm`
+2W5DX1Z  [removal] {splint} {left} `lower arm`
+2W5DX2Z  [removal] {cast} {left} `lower arm`
+2W5DX3Z  [removal] {brace} {left} `lower arm`
+2W5DX4Z  [removal] {bandage} {left} `lower arm`
+2W5DX5Z  [removal] {packing material} {left} `lower arm`
+2W5DX6Z  [removal] {compression pressure dressing}  {left} `lower arm`
+2W5DX7Z  [removal] {intermittent pressure device}  {left} `lower arm`
+2W5DXYZ  [removal] {other device} {left} `lower arm`
+2W5EX0Z  [removal] {traction apparatus} {right} `hand`
+2W5EX1Z  [removal] {splint} {right} `hand`
+2W5EX2Z  [removal] {cast} {right} `hand`
+2W5EX3Z  [removal] {brace} {right} `hand`
+2W5EX4Z  [removal] {bandage} {right} `hand`
+2W5EX5Z  [removal] {packing material} {right} `hand`
+2W5EX6Z  [removal] {compression pressure dressing}  {right} `hand`
+2W5EX7Z  [removal] {intermittent pressure device}  {right} `hand`
+2W5EXYZ  [removal] {other device} {right} `hand`
+2W5FX0Z  [removal] {traction apparatus} {left} `hand`
+2W5FX1Z  [removal] {splint} {left} `hand`
+2W5FX2Z  [removal] {cast} {left} `hand`
+2W5FX3Z  [removal] {brace} {left} `hand`
+2W5FX4Z  [removal] {bandage} {left} `hand`
+2W5FX5Z  [removal] {packing material} {left} `hand`
+2W5FX6Z  [removal] {compression pressure dressing}  {left} `hand`
+2W5FX7Z  [removal] {intermittent pressure device}  {left} `hand`
+2W5FXYZ  [removal] {other device} {left} `hand`
+2W5GX0Z  [removal] {traction apparatus} {right} `thumb`
+2W5GX1Z  [removal] {splint} {right} `thumb`
+2W5GX2Z  [removal] {cast} {right} `thumb`
+2W5GX3Z  [removal] {brace} {right} `thumb`
+2W5GX4Z  [removal] {bandage} {right} `thumb`
+2W5GX5Z  [removal] {packing material} {right} `thumb`
+2W5GX6Z  [removal] {compression pressure dressing}  {right} `thumb`
+2W5GX7Z  [removal] {intermittent pressure device}  {right} `thumb`
+2W5GXYZ  [removal] {other device} {right} `thumb`
+2W5HX0Z  [removal] {traction apparatus} {left} `thumb`
+2W5HX1Z  [removal] {splint} {left} `thumb`
+2W5HX2Z  [removal] {cast} {left} `thumb`
+2W5HX3Z  [removal] {brace} {left} `thumb`
+2W5HX4Z  [removal] {bandage} {left} `thumb`
+2W5HX5Z  [removal] {packing material} {left} `thumb`
+2W5HX6Z  [removal] {compression pressure dressing}  {left} `thumb`
+2W5HX7Z  [removal] {intermittent pressure device}  {left} `thumb`
+2W5HXYZ  [removal] {other device} {left} `thumb`
+2W5JX0Z  [removal] {traction apparatus} {right} `finger`
+2W5JX1Z  [removal] {splint} {right} `finger`
+2W5JX2Z  [removal] {cast} {right} `finger`
+2W5JX3Z  [removal] {brace} {right} `finger`
+2W5JX4Z  [removal] {bandage} {right} `finger`
+2W5JX5Z  [removal] {packing material} {right} `finger`
+2W5JX6Z  [removal] {compression pressure dressing}  {right} `finger`
+2W5JX7Z  [removal] {intermittent pressure device}  {right} `finger`
+2W5JXYZ  [removal] {other device} {right} `finger`
+2W5KX0Z  [removal] {traction apparatus} {left} `finger`
+2W5KX1Z  [removal] {splint} {left} `finger`
+2W5KX2Z  [removal] {cast} {left} `finger`
+2W5KX3Z  [removal] {brace} {left} `finger`
+2W5KX4Z  [removal] {bandage} {left} `finger`
+2W5KX5Z  [removal] {packing material} {left} `finger`
+2W5KX6Z  [removal] {compression pressure dressing}  {left} `finger`
+2W5KX7Z  [removal] {intermittent pressure device}  {left} `finger`
+2W5KXYZ  [removal] {other device} {left} `finger`
+2W5LX0Z  [removal] {traction apparatus} {right} `lower extremity`
+2W5LX1Z  [removal] {splint} {right} `lower extremity`
+2W5LX2Z  [removal] {cast} {right} `lower extremity`
+2W5LX3Z  [removal] {brace} {right} `lower extremity`
+2W5LX4Z  [removal] {bandage} {right} `lower extremity`
+2W5LX5Z  [removal] {packing material} {right} `lower extremity`
+2W5LX6Z  [removal] {compression pressure dressing}  {right} `lower extremity`
+2W5LX7Z  [removal] {intermittent pressure device}  {right} `lower extremity`
+2W5LXYZ  [removal] {other device} {right} `lower extremity`
+2W5MX0Z  [removal] {traction apparatus} {left} `lower extremity`
+2W5MX1Z  [removal] {splint} {left} `lower extremity`
+2W5MX2Z  [removal] {cast} {left} `lower extremity`
+2W5MX3Z  [removal] {brace} {left} `lower extremity`
+2W5MX4Z  [removal] {bandage} {left} `lower extremity`
+2W5MX5Z  [removal] {packing material} {left} `lower extremity`
+2W5MX6Z  [removal] {compression pressure dressing}  {left} `lower extremity`
+2W5MX7Z  [removal] {intermittent pressure device}  {left} `lower extremity`
+2W5MXYZ  [removal] {other device} {left} `lower extremity`
+2W5NX0Z  [removal] {traction apparatus} {right} `upper leg`
+2W5NX1Z  [removal] {splint} {right} `upper leg`
+2W5NX2Z  [removal] {cast} {right} `upper leg`
+2W5NX3Z  [removal] {brace} {right} `upper leg`
+2W5NX4Z  [removal] {bandage} {right} `upper leg`
+2W5NX5Z  [removal] {packing material} {right} `upper leg`
+2W5NX6Z  [removal] {compression pressure dressing}  {right} `upper leg`
+2W5NX7Z  [removal] {intermittent pressure device}  {right} `upper leg`
+2W5NXYZ  [removal] {other device} {right} `upper leg`
+2W5PX0Z  [removal] {traction apparatus} {left} `upper leg`
+2W5PX1Z  [removal] {splint} {left} `upper leg`
+2W5PX2Z  [removal] {cast} {left} `upper leg`
+2W5PX3Z  [removal] {brace} {left} `upper leg`
+2W5PX4Z  [removal] {bandage} {left} `upper leg`
+2W5PX5Z  [removal] {packing material} {left} `upper leg`
+2W5PX6Z  [removal] {compression pressure dressing}  {left} `upper leg`
+2W5PX7Z  [removal] {intermittent pressure device}  {left} `upper leg`
+2W5PXYZ  [removal] {other device} {left} `upper leg`
+2W5QX0Z  [removal] {traction apparatus} {right} `lower leg`
+2W5QX1Z  [removal] {splint} {right} `lower leg`
+2W5QX2Z  [removal] {cast} {right} `lower leg`
+2W5QX3Z  [removal] {brace} {right} `lower leg`
+2W5QX4Z  [removal] {bandage} {right} `lower leg`
+2W5QX5Z  [removal] {packing material} {right} `lower leg`
+2W5QX6Z  [removal] {compression pressure dressing}  {right} `lower leg`
+2W5QX7Z  [removal] {intermittent pressure device}  {right} `lower leg`
+2W5QXYZ  [removal] {other device} {right} `lower leg`
+2W5RX0Z  [removal] {traction apparatus} {left} `lower leg`
+2W5RX1Z  [removal] {splint} {left} `lower leg`
+2W5RX2Z  [removal] {cast} {left} `lower leg`
+2W5RX3Z  [removal] {brace} {left} `lower leg`
+2W5RX4Z  [removal] {bandage} {left} `lower leg`
+2W5RX5Z  [removal] {packing material} {left} `lower leg`
+2W5RX6Z  [removal] {compression pressure dressing}  {left} `lower leg`
+2W5RX7Z  [removal] {intermittent pressure device}  {left} `lower leg`
+2W5RXYZ  [removal] {other device} {left} `lower leg`
+2W5SX0Z  [removal] {traction apparatus} {right} `foot`
+2W5SX1Z  [removal] {splint} {right} `foot`
+2W5SX2Z  [removal] {cast} {right} `foot`
+2W5SX3Z  [removal] {brace} {right} `foot`
+2W5SX4Z  [removal] {bandage} {right} `foot`
+2W5SX5Z  [removal] {packing material} {right} `foot`
+2W5SX6Z  [removal] {compression pressure dressing}  {right} `foot`
+2W5SX7Z  [removal] {intermittent pressure device}  {right} `foot`
+2W5SXYZ  [removal] {other device} {right} `foot`
+2W5TX0Z  [removal] {traction apparatus} {left} `foot`
+2W5TX1Z  [removal] {splint} {left} `foot`
+2W5TX2Z  [removal] {cast} {left} `foot`
+2W5TX3Z  [removal] {brace} {left} `foot`
+2W5TX4Z  [removal] {bandage} {left} `foot`
+2W5TX5Z  [removal] {packing material} {left} `foot`
+2W5TX6Z  [removal] {compression pressure dressing}  {left} `foot`
+2W5TX7Z  [removal] {intermittent pressure device}  {left} `foot`
+2W5TXYZ  [removal] {other device} {left} `foot`
+2W5UX0Z  [removal] {traction apparatus} {right} `toe`
+2W5UX1Z  [removal] {splint} {right} `toe`
+2W5UX2Z  [removal] {cast} {right} `toe`
+2W5UX3Z  [removal] {brace} {right} `toe`
+2W5UX4Z  [removal] {bandage} {right} `toe`
+2W5UX5Z  [removal] {packing material} {right} `toe`
+2W5UX6Z  [removal] {compression pressure dressing}  {right} `toe`
+2W5UX7Z  [removal] {intermittent pressure device}  {right} `toe`
+2W5UXYZ  [removal] {other device} {right} `toe`
+2W5VX0Z  [removal] {traction apparatus} {left} `toe`
+2W5VX1Z  [removal] {splint} {left} `toe`
+2W5VX2Z  [removal] {cast} {left} `toe`
+2W5VX3Z  [removal] {brace} {left} `toe`
+2W5VX4Z  [removal] {bandage} {left} `toe`
+2W5VX5Z  [removal] {packing material} {left} `toe`
+2W5VX6Z  [removal] {compression pressure dressing}  {left} `toe`
+2W5VX7Z  [removal] {intermittent pressure device}  {left} `toe`
+2W5VXYZ  [removal] {other device} {left} `toe`
+2W60X0Z  [traction] `head` {traction apparatus}
+2W60XZZ  [traction] `head`
+2W61X0Z  [traction] `face` {traction apparatus}
+2W61XZZ  [traction] `face`
+2W62X0Z  [traction] `neck` {traction apparatus}
+2W62XZZ  [traction] `neck`
+2W63X0Z  [traction] `abdominal wall` {traction apparatus}
+2W63XZZ  [traction] `abdominal wall`
+2W64X0Z  [traction] `chest wall` {traction apparatus}
+2W64XZZ  [traction] `chest wall`
+2W65X0Z  [traction] `back` {traction apparatus}
+2W65XZZ  [traction] `back`
+2W66X0Z  [traction] {right} `inguinal region` {traction apparatus}
+2W66XZZ  [traction] {right} `inguinal region`
+2W67X0Z  [traction] {left} `inguinal region` {traction apparatus}
+2W67XZZ  [traction] {left} `inguinal region`
+2W68X0Z  [traction] {right} `upper extremity` {traction apparatus}
+2W68XZZ  [traction] {right} `upper extremity`
+2W69X0Z  [traction] {left} `upper extremity` {traction apparatus}
+2W69XZZ  [traction] {left} `upper extremity`
+2W6AX0Z  [traction] {right} `upper arm` {traction apparatus}
+2W6AXZZ  [traction] {right} `upper arm`
+2W6BX0Z  [traction] {left} `upper arm` {traction apparatus}
+2W6BXZZ  [traction] {left} `upper arm`
+2W6CX0Z  [traction] {right} `lower arm` {traction apparatus}
+2W6CXZZ  [traction] {right} `lower arm`
+2W6DX0Z  [traction] {left} `lower arm` {traction apparatus}
+2W6DXZZ  [traction] {left} `lower arm`
+2W6EX0Z  [traction] {right} `hand` {traction apparatus}
+2W6EXZZ  [traction] {right} `hand`
+2W6FX0Z  [traction] {left} `hand` {traction apparatus}
+2W6FXZZ  [traction] {left} `hand`
+2W6GX0Z  [traction] {right} `thumb` {traction apparatus}
+2W6GXZZ  [traction] {right} `thumb`
+2W6HX0Z  [traction] {left} `thumb` {traction apparatus}
+2W6HXZZ  [traction] {left} `thumb`
+2W6JX0Z  [traction] {right} `finger` {traction apparatus}
+2W6JXZZ  [traction] {right} `finger`
+2W6KX0Z  [traction] {left} `finger` {traction apparatus}
+2W6KXZZ  [traction] {left} `finger`
+2W6LX0Z  [traction] {right} `lower extremity` {traction apparatus}
+2W6LXZZ  [traction] {right} `lower extremity`
+2W6MX0Z  [traction] {left} `lower extremity` {traction apparatus}
+2W6MXZZ  [traction] {left} `lower extremity`
+2W6NX0Z  [traction] {right} `upper leg` {traction apparatus}
+2W6NXZZ  [traction] {right} `upper leg`
+2W6PX0Z  [traction] {left} `upper leg` {traction apparatus}
+2W6PXZZ  [traction] {left} `upper leg`
+2W6QX0Z  [traction] {right} `lower leg` {traction apparatus}
+2W6QXZZ  [traction] {right} `lower leg`
+2W6RX0Z  [traction] {left} `lower leg` {traction apparatus}
+2W6RXZZ  [traction] {left} `lower leg`
+2W6SX0Z  [traction] {right} `foot` {traction apparatus}
+2W6SXZZ  [traction] {right} `foot`
+2W6TX0Z  [traction] {left} `foot` {traction apparatus}
+2W6TXZZ  [traction] {left} `foot`
+2W6UX0Z  [traction] {right} `toe` {traction apparatus}
+2W6UXZZ  [traction] {right} `toe`
+2W6VX0Z  [traction] {left} `toe` {traction apparatus}
+2W6VXZZ  [traction] {left} `toe`
+2Y00X5Z  [change] `mouth and pharynx` {packing material}
+2Y01X5Z  [change] `nasal` {packing material}
+2Y02X5Z  [change] `ear` {packing material}
+2Y03X5Z  [change] `anorectal` {packing material}
+2Y04X5Z  [change] `female genital tract` {packing material}
+2Y05X5Z  [change] `urethra` {packing material}
+2Y40X5Z  [packing] `mouth and pharynx` {packing material}
+2Y41X5Z  [packing] `nasal` {packing material}
+         [rhino rocket placement]
+2Y42X5Z  [packing] `ear` {packing material}
+2Y43X5Z  [packing] `anorectal region` {packing material}
+2Y44X5Z  [packing] `female genital tract` {packing material}
+2Y45X5Z  [packing] `urethra` {packing material}
+2Y50X5Z  [removal] `mouth and pharynx` {packing material}
+2Y51X5Z  [removal] `nasal` {packing material}
+2Y52X5Z  [removal] `ear` {packing material}
+2Y53X5Z  [removal] `anorectal` {packing material}
+2Y54X5Z  [removal] `female genital tract` {packing material}
+2Y55X5Z  [removal] `urethra` {packing material}

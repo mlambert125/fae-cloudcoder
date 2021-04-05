@@ -1,0 +1,10 @@
+pregnancy
+newborn
+female
+male
+infant
+age-related
+younger than 5
+younger than 12
+5 or older
+12 or older

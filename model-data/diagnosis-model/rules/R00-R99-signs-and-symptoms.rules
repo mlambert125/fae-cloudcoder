@@ -1,0 +1,761 @@
+R000    [tachycardia] & ![atrial fibrillation] & ![ventricular tachycardia] & ![supraventricular tachycardia] & ![atrial tachycardia] !"newborn"
+R001    [bradycardia] !"newborn"
+R002    [palpitations]
+R008*   other abnormalities of heart beat
+R009    [abnormalities of heart beat]
+R010    [murmurs] {benign} `cardiac`
+        [murmurs] {innocent} `cardiac`
+        [murmur sounds] {heard} `cardiac`
+R011    [cardiac murmur]
+R012    [cardiac sounds]
+R030    [elevated blood pressure reading] & ![hypertension]
+R031    [low blood pressure reading]
+R040    [epistaxis]
+R041    [hemorrhage] `throat`
+R042    [hemoptysis]
+R0481   [hemorrhage] {acute} {idiopathic} `pulmonary` 
+R0489   [hemorrhage] `respiratory passages`
+R049    [hemorrhage] `respiratory passages`
+R05     [cough]
+R0600   [dyspnea] !{exertional}
+R0601   [orthopnea]
+R0602   [shortness of breath] !{exertion}
+R0603   [respiratory distress] !{syndrome} !"newborn"
+R0609   [dyspnea] {exertional}
+R061    [stridor]
+R062    [wheezing]
+R063    [periodic breathing]
+R064    [hyperventilation]
+R065    [mouth breathing]
+R066    [hiccough]
+R067    [sneezing]
+R0681   [apnea] & ![sleep] !"newborn"
+R0682   [tachypnea]
+R0683   [snoring] !{mild}
+R0689*   other [abnormalities] {breathing}
+R069    [abnormalities] {breathing}
+R070    [pain] `throat` !{medication}
+R071    [chest pain on breathing]
+R072    [pain] `precordial`
+R0781   [pleurodynia]
+R0782   [pain] `intercostal`
+R0789   [atypical chest pain]
+R079    [chest pain] !{other type of chest pain}
+R0901   [asphyxia]
+R0902   [hypoxemia] !{nocturnal} & ![respiratory failure]
+R091    [pleurisy]
+R092    [respiratory arrest]
+R093    [abnormal sputum]
+R0981   [nasal congestion] !`chest`
+R0982   [postnasal drip]
+R0989   [other specified symptoms signs involving circulatory respiratory system] !`nasal`
+R100    [pain] {acute} !{upper} !{lower} !{quadrant} `abdominal` 
+R1010   [pain] `upper abdominal`
+R1011   [pain] `abdominal right upper quadrant`
+R1012   [pain] `abdominal left upper quadrant`
+R1013   [pain] `epigastric`
+        [dyspepsia]
+R102    [pain] `pelvic peritoneal` & ![pregnancy] !{lab or test or history}
+R1030   [pain] `lower abdominal`
+R1031   [pain] `abdominal right lower quadrant` & ![pregnancy] !{lab or test or history}
+R1032   [pain] `abdominal left lower quadrant` & ![pregnancy] !{lab or test or history}
+R1033   [pain] `periumbilical`
+R10811  [tenderness] `abdominal right upper quadrant`
+R10812  [tenderness] `abdominal left upper quadrant`
+R10813  [tenderness] `abdominal right lower quadrant`
+R10814  [tenderness] `abdominal left lower quadrant`
+R10815  [tenderness] `periumbilic abdominal`
+R10816  [tenderness] `epigastric`
+R10817  [tenderness] {generalized} `abdominal`
+R10819  [tenderness] !{upper} !{lower} `abdominal`
+R10821  [tenderness] {rebound} `abdominal right upper quadrant`
+R10822  [tenderness] {rebound} `abdominal left upper quadrant`
+R10823  [tenderness] {rebound} `abdominal right lower quadrant`
+R10824  [tenderness] {rebound} `abdominal left lower quadrant`
+R10825  [tenderness] {rebound} `periumbilic abdominal`
+R10826  [tenderness] {rebound} `epigastric`
+R10827  [tenderness] {generalized} {rebound} `abdominal`
+R10829  [tenderness] {rebound} `abdominal`
+R1083   [colic] {infantile} "pediatric"
+R1084   [pain] {generalized} !{acute} `abdominal` 
+R109    [pain] !{generalized} !{acute} `abdominal` !{quadrent} & ![pregnancy] !{lab or test or history}
+R110    [nausea] & ![vomiting] & ![pregnancy] !{lab or test or history}
+R1110   [vomiting] & ![specified related symptoms]
+R1111   [vomiting] & ![nausea] & ![pregnancy] 
+R1112   [vomiting] {projectile} & ![pregnancy] !{lab or test or history}
+R1113   [vomiting] {fecal matter} & ![pregnancy] !{lab or test or history}
+R1114   [vomiting] {bilious} & ![pregnancy] !{lab or test or history}
+R1115   [cyclical vomiting syndrome unrelated to migraine]
+R112    [nausea] & [vomiting] & ![pregnancy] !{lab or test or history}
+        [n/v] & ![pregnancy] !{lab or test or history}
+R12     [heartburn] 
+R130    [aphagia]
+R1310   [dysphagia] !{oral} !{oropharyngeal} !{pharyngeal} !{pharyngoesophageal} & ![infarction] 
+R1311   [oral dysphagia]
+R1312   [oropharyngeal dysphagia]
+R1313   [pharyngeal dysphagia]
+R1314   [pharyngoesophageal dysphagia]
+R1319*  other [dysphagia]
+R140    [distension] `abdominal`
+R141    [gas pain]
+R142    [eructation]
+R143    [flatulence]
+R150    [incomplete defecation]
+R151    [fecal smearing]
+R152    [fecal urgency]
+R159    [incontinence of feces] 
+R160    [hepatomegaly]
+R161    [splenomegaly]
+R162    [hepatomegaly] & [splenomegaly]
+        [hepatosplenomegaly]
+R17     [jaundice] "adult"
+R180    [ascites] {malignant}
+R188    [ascites] !{alcoholic} & ![toxic liver disease]
+        [ascites] & ![cirrhosis]
+R1900   [swelling, mass and lump] `intra abdominal and pelvic`
+R1901   [swelling, mass and lump] {right upper quadrant} `abdominal`
+R1902   [swelling, mass and lump] {left upper quadrant} `abdominal`
+R1903   [swelling, mass and lump] {right lower quadrant} `abdominal` 
+R1904   [swelling, mass and lump] {left lower quadrant}  `abdominal`
+R1905   [swelling] `periumbilic`
+        [mass] `periumbilic`
+        [lump] `periumbilic`
+R1906   [swelling] `epigastric`
+        [mass] `epigastric`
+        [lump] `epigastric`
+R1907   [swelling, mass and lump] {generalized} `intra abdominal and pelvic`
+R1909   [swelling, mass and lump] `intra abdominal and pelvic`
+        [flank mass]
+R1911   [absent bowel sounds]
+R1912   [hyperactive bowel sounds]
+R1915*  other abnormal bowel sounds
+R192    [peristalsis] {visible}
+R1930   [rigidity] `abdominal`
+R1931   [rigidity] `abdominal right upper quadrant`
+R1932   [rigidity] `abdominal left upper quadrant`
+R1933   [rigidity] `abdominal right lower quadrant`
+R1934   [rigidity] `abdominal left lower quadrant`
+R1935   [rigidity] `periumbilic abdominal`
+R1936   [rigidity] `epigastric`
+R1937   [rigidity] {generalized} `abdominal`
+R194    [change in bowel habit]
+R195    [other fecal abnormalities]
+R196    [halitosis]
+R197    [diarrhea]
+R198*   other specified symptoms and signs involving the digestive system and abdomen
+R200    [anesthesia of skin]
+R201    [hypoesthesia] `skin`
+R202    [paresthesia] !{radiating} !{associated}
+R203    [hyperesthesia]
+R208*   [other skin sensations] 
+R209    [disturbances of skin sensation]
+R21     [rash] !{negative} !{road} !{diaper}
+R220    [swelling, mass and lump] !{edema} `any part of head`
+R221    [swelling, mass and lump] !{edema} `neck`
+R222    [swelling, mass and lump] !{edema} `trunk`
+R2230   [swelling, mass and lump] !{edema} !{joint} `upper limb`
+R2231   [swelling, mass and lump] !{edema} {right} !{joint} `upper limb`
+R2232   [swelling, mass and lump] !{edema} {left} !{joint} `upper limb`
+R2233   [swelling, mass and lump] !{edema} !{joint} `both upper limbs`
+R2240   [swelling, mass and lump] !{edema} `lower limb`
+R2241   [swelling, mass and lump] !{edema} {right} `lower limb`
+R2242   [swelling, mass and lump] !{edema} {left} `lower limb`
+R2243   [swelling, mass and lump] !{edema} `both lower limbs`
+R229*   [swelling, mass and lump] 
+R230    [cyanosis]
+R231    [pallor]
+R232    [flushing] !{catheter/ports}
+R233    [ecchymoses] {spontaneous}
+R234    [changes in skin texture]
+R238*   other skin changes
+R239    [skin changes]
+R250    [abnormal head movements]
+R251    [tremor] !{essential}
+R252    [cramp and spasm]
+R253    [fasciculation]
+R258*   other abnormal involuntary movements
+R259    [abnormal involuntary movements]
+R260    [ataxic gait]
+R261    [paralytic gait]
+R262    [difficulty in walking]
+R2681   [unsteadiness on feet]
+R2689   [other abnormalities of gait and mobility]
+R269    [abnormal gait]
+R270    [ataxia] !{without}
+R278*   other lack of coordination
+R279    [lack of coordination]
+R290   [carpopedal spasm]
+R291    [meningismus]
+R292    [abnormal reflex]
+R293    [abnormal posture]
+R294    [clicking hip]
+R295   [paralysis] {transient}
+R296   [falls] {repeated}
+R29700 [nihss score:0]
+R29701 [nihss score:1]
+R29702 [nihss score:2]
+R29703 [nihss score:3]
+R29704 [nihss score:4]
+R29705 [nihss score:5]
+R29706 [nihss score:6]
+R29707 [nihss score:7]
+R29708 [nihss score:8]
+R29709 [nihss score:9]
+R29710 [nihss score:10]
+R29711 [nihss score:11]
+R29712 [nihss score:12]
+R29713 [nihss score:13]
+R29714 [nihss score:14]
+R29715 [nihss score:15]
+R29716 [nihss score:16]
+R29717 [nihss score:17]
+R29718 [nihss score:18]
+R29719 [nihss score:19]
+R29720 [nihss score:20]
+R29721 [nihss score:21]
+R29722 [nihss score:22]
+R29723 [nihss score:23]
+R29724 [nihss score:24]
+R29725 [nihss score:25]
+R29726 [nihss score:26]
+R29727 [nihss score:27]
+R29728 [nihss score:28]
+R29729 [nihss score:29]
+R29730 [nihss score:30]
+R29731 [nihss score:31]
+R29732 [nihss score:32]
+R29733 [nihss score:33]
+R29734 [nihss score:34]
+R29735 [nihss score:35]
+R29736 [nihss score:36]
+R29737 [nihss score:37]
+R29738 [nihss score:38]
+R29739 [nihss score:39]
+R29740 [nihss score:40]
+R29741 [nihss score:41]
+R29742 [nihss score:42]
+R29810 [facial weakness] 
+R29818 [other nervous system symptoms]
+R29890 [loss of height]
+R29891 [torticollis] `ocular`
+R2990  [unspecified symptoms of the nervous system]
+R2991  [unspecified symptoms of the musculoskeletal system]
+R300    [dysuria]
+R301    [tenesmus] `vesical`
+R309    [painful micturition] !{chest}
+R310    [hematuria] {gross}
+R311    [hematuria] {benign} {essential} {microscopic}
+R312    [hematuria] {microscopic}
+        [microhematuria]
+R319    [hematuria]  !{cystitis}
+R32     [urinary incontinence] !{stress} !{urge} !{mixed}
+R330    [retention of urine] {drug induced}
+R338    [other retention of urine]
+R339    [retention of urine] & ![other cause of retention]
+R34     [anuria] & [oliguria]
+R350    [urinary frequency]
+R351    [nocturia]
+R358    [polyuria]
+R360    [urethral discharge] & ![blood in urine]
+R361    [hematospermia]
+R369    [urethral discharge]
+        [urethrorrhea]
+R37     [sexual dysfunction]
+R390    [extravasation of urine]
+R3911   [hesitancy of micturition]
+R3912   [poor urinary stream]
+R3913   [splitting of urinary stream]
+R3914   [feeling of incomplete bladder emptying]
+R3915   [urgency of urination] !{hypertensive}
+R3916   [straining to void]
+R39191  [re void] {immediate urge}
+R39192  [position dependent] {micturition}
+R39198  [other micturition difficulty]
+R392    [uremia] `extrarenal`
+R3981   [urinary incontinence] {functional}
+R3982   [pain] {chronic} `bladder`
+R3989*  other symptoms and signs involving the genitourinary system
+R399*   unspecified symptoms and signs involving the genitourinary system
+R400    [somnolence] !{score}
+R401    [stupor]
+R4020   [coma] !{glasgow} !{scale}
+R402110* [coma severe]
+R402111* [coma scale] {eyes open never} {in the field}
+R402112* [coma scale] {eyes open never} {at arrival to emergency department}
+R402113* [coma scale] {eyes open never} !{in the field} !{at arrival to emergency department}
+R402114* [coma scale] {eyes open never} {24 hours or more after hospital admission}
+R402120* [coma scale] {eyes open to pain}
+R402121* [coma scale] {eyes open to pain} {in the field}
+R402122* [coma scale] {eyes open to pain} {at arrival to emergency department}
+R402123* [coma scale] {eyes open to pain} !{in the field} !{at arrival to emergency department}
+R402124* [coma scale] {eyes open to pain} {24 hours or more after hospital admission}
+R402130* [coma scale] {eyes open to sound}
+R402131* [coma scale] {eyes open to sound} {in the field}
+R402132* [coma scale] {eyes open to sound} {at arrival to emergency department}
+R402133* [coma scale] {eyes open to sound} !{in the field} !{at arrival to emergency department}
+R402134* [coma scale] {eyes open to sound} {24 hours or more after hospital admission}
+R402140* [coma scale] {eyes open spontaneous}
+R402141* [coma scale] {eyes open spontaneous} {in the field}
+R402142* [coma scale] {eyes open spontaneous} {at arrival to emergency department}
+R402143* [coma scale] {eyes open spontaneous} !{in the field} !{at arrival to emergency department}
+R402144* [coma scale] {eyes open spontaneous} {24 hours or more after hospital admission}
+R402210* [coma scale] {best verbal response none}
+R402211* [coma scale] {best verbal response none} {in the field}
+R402212* [coma scale] {best verbal response none} {at arrival to emergency department}
+R402213* [coma scale] {best verbal response none} !{in the field} !{at arrival to emergency department}
+R402214* [coma scale] {best verbal response none} {24 hours or more after hospital admission}
+R402220* [coma scale] {best verbal response incomprehensible words}
+R402221* [coma scale] {best verbal response incomprehensible words} {in the field}
+R402222* [coma scale] {best verbal response incomprehensible words} {at arrival to emergency department}
+R402223* [coma scale] {best verbal response incomprehensible words} !{in the field} !{at arrival to emergency department}
+R402224* [coma scale] {best verbal response incomprehensible words} {24 hours or more after hospital admission}
+R402230* [coma scale] {best verbal response inappropriate words}
+R402231* [coma scale] {best verbal response inappropriate words} {in the field}
+R402232* [coma scale] {best verbal response inappropriate words} {at arrival to emergency department}
+R402233* [coma scale] {best verbal response inappropriate words} !{in the field} !{at arrival to emergency department}
+R402234* [coma scale] {best verbal response inappropriate words} {24 hours or more after hospital admission}
+R402240* [coma scale] {best verbal response confused conversation}
+R402241* [coma scale] {best verbal response confused conversation} {in the field}
+R402242* [coma scale] {best verbal response confused conversation} {at arrival to emergency department}
+R402243* [coma scale] {best verbal response confused conversation} !{in the field} !{at arrival to emergency department}
+R402244* [coma scale] {best verbal response confused conversation} {24 hours or more after hospital admission}
+R402250* [coma scale] {best verbal response oriented}
+R402251* [coma scale] {best verbal response oriented} {in the field}
+R402252* [coma scale] {best verbal response oriented} {at arrival to emergency department}
+R402253* [coma scale] {best verbal response oriented} !{in the field} !{at arrival to emergency department}
+R402254* [coma scale] {best verbal response oriented} {24 hours or more after hospital admission}
+R402310* [coma scale] {best motor response, none}
+R402311* [coma scale] {best motor response, none} {in the field}
+R402312* [coma scale] {best motor response, none} {at arrival to emergency department}
+R402313* [coma scale] {best motor response, none} !{in the field} !{at arrival to emergency department}
+R402314* [coma scale] {best motor response, none} {24 hours or more after hospital admission}
+R402320* [coma scale] {best motor response, extension}
+R402321* [coma scale] {best motor response, extension} {in the field}
+R402322* [coma scale] {best motor response, extension} {at arrival to emergency department}
+R402323* [coma scale] {best motor response, extension} !{in the field} !{at arrival to emergency department}
+R402324* [coma scale] {best motor response, extension} {24 hours or more after hospital admission}
+R402330* [coma scale] {best motor response, abnormal}
+R402331* [coma scale] {best motor response, abnormal} {in the field}
+R402332* [coma scale] {best motor response, abnormal} {at arrival to emergency department}
+R402333* [coma scale] {best motor response, abnormal} !{in the field} !{at arrival to emergency department}
+R402334* [coma scale] {best motor response, abnormal} {24 hours or more after hospital admission}
+R402340* [coma scale] {best motor response, flexion withdrawal}
+R402341* [coma scale] {best motor response, flexion withdrawal} {in the field}
+R402342* [coma scale] {best motor response, flexion withdrawal} {at arrival to emergency department}
+R402343* [coma scale] {best motor response, flexion withdrawal} !{in the field} !{at arrival to emergency department}
+R402344* [coma scale] {best motor response, flexion withdrawal} {24 hours or more after hospital admission}
+R402350* [coma scale] {best motor response, localizes pain}
+R402351* [coma scale] {best motor response, localizes pain} {in the field}
+R402352* [coma scale] {best motor response, localizes pain} {at arrival to emergency department}
+R402353* [coma scale] {best motor response, localizes pain} !{in the field} !{at arrival to emergency department}
+R402354* [coma scale] {best motor response, localizes pain} {24 hours or more after hospital admission}
+R402360* [coma scale] {best motor response, obeys commands}
+R402361* [coma scale] {best motor response, obeys commands} {in the field}
+R402362* [coma scale] {best motor response, obeys commands} {at arrival to emergency department}
+R402363* [coma scale] {best motor response, obeys commands} !{in the field} !{at arrival to emergency department}
+R402364* [coma scale] {best motor response, obeys commands} {24 hours or more after hospital admission}
+R40241  [coma scale] {equals 13-15}
+R40242  [coma scale] {equals 9-12}
+R40243  [coma scale] {equals 3-8}
+R40244* [coma] & ![coma scale score]
+R403    [persistent vegetative state]
+R404    [transient alteration of awareness]
+R410    [disorientation]
+R411    [amnesia] {anterograde}
+R412    [amnesia] {retrograde}
+R413    [amnesia]
+R414    [neurologic neglect syndrome]
+R4181   [cognitive decline] "age-related"
+R4182   [altered mental status]
+R4183   [borderline intellectual functioning]
+R41840  [attention deficit] & [concentration deficit]
+R41841  [cognitive communication deficit]
+R41842  [visuospatial deficit]
+R41843  [psychomotor deficit]
+R41844  [frontal lobe and executive function deficit]
+R4189   [other symptoms and signs involving cognitive functions and awareness]
+R419    [unspecified symptoms and signs involving cognitive functions and awareness]
+R42     [dizziness]
+        [giddiness]
+R430    [anosmia]
+R431    [parosmia]
+R432    [parageusia]
+R438    [other disturbances of smell and taste]
+R439    [disturbance of smell or taste]
+        [disturbance of taste]
+R440    [hallucinations] {auditory}
+R441    [hallucinations] {visual}
+R442    [other hallucinations]
+R443    [hallucinations]
+R448    [other symptoms and signs involving general sensations and perceptions]
+R449    [unspecified symptoms and signs involving general sensations and perceptions]
+R450    [nervousness]
+R451    [restlessness] !{leg syndrome}
+        [agitation]
+R452    [unhappiness]
+R453    [demoralization]
+        [apathy]
+R454    [irritability] !{reflex}
+        [anger]
+R455    [hostility]
+R456    [violent behavior]
+R457    [emotional shock]
+        [emotional stress]
+R4581   [low self esteem]
+R4582*  [worries]
+R4583   [excessive crying]
+R4584   [anhedonia]
+R45850  [homicidal ideations]
+R45851  [suicidal ideations]
+R4586   [emotional lability]
+R4587   [impulsiveness]
+R4589*  other symptoms and signs involving emotional state
+R460    [very low level of personal hygiene]
+R461    [bizarre personal appearance]
+R462    [strange behavior]
+        [inexplicable behavior]
+R463*   [overactivity]
+R464    [slowness and poor responsiveness]
+R465    [suspiciousness]
+        [evasiveness]
+R466    [undue concern]
+        [preoccupation with stressful events]
+R467    [verbosity and circumstantial detail obscuring reason for contact]
+R4681   [obsessive compulsive behavior]
+R4689   [other symptoms and signs involving appearance and behavior]
+R4701   [aphasia] !{cerebrovascular disease}
+R4702   [dysphasia] !{cerebrovascular disease}
+R471    [dysarthria] & [anarthria]
+        [dysarthria]
+        [anarthria]
+R4781   [slurred speech]
+R4782   [fluency disorder]
+R4789   [other speech disturbances]
+R479    [speech disturbances]
+R480    [dyslexia]
+R481    [agnosia]
+R482    [apraxia]
+R483    [agnosia] {visual}
+R488*   other symbolic dysfunctions
+R489    [symbolic dysfunction]
+R490    [dysphonia]
+R491    [aphonia]
+R4921   [hypernasality]
+R4922   [hyponasality]
+R498*   other voice and resonance disorders
+R499    [voice disorder]
+        [resonance disorder]
+R502    [drug induced fever]
+R5081   [fever presenting with conditions classified elsewhere]
+R5082   [fever] {postprocedural}
+R5083   [fever] {postvaccination}
+R5084   [febrile nonhemolytic transfusion reaction]
+R509    [fever] !{without} & ![rheumatic]
+R51*    [headache] "Deleted ICD FY2021"
+R510	[headache] {orthostatic} !{migraine}
+R519	[headache] !{orthostatic} !{migraine}
+R52     [body aches] !{specified sites} !{not pain terms} THIS NEEDS TO STAY TURNED ON CAUSES ISSUE WITH AUTOCLOSE IF TURNED OFF.
+R530    [fatigue] {neoplastic related}
+R531    [weakness] !{cva} !{muscle} !{other body parts} !{voice}
+R532    [functional quadriplegia] 
+R5381   [malaise]
+R5382   [chronic fatigue]
+R5383   [fatigue]
+R54     [physical debility] "age-related"
+R55     [syncope and collapse]
+R5600   [convulsions] {simple} {febrile}
+R5601   [convulsions] {complex} {febrile}
+R561    [seizure] {post traumatic} !{absent}
+R569    [convulsions/seizures] !{absent} !{repair} & ![epilepsy]
+R570    [shock] {cardiogenic} !{post}
+R571    [shock] {hypovolemic}
+R578    [shock] {hemorrhagic}
+R579    [shock] !{anaphylactic} !{septic} !{cardiotomy} !{lithotripsy} !{obstetric} & ![toxic shock syndrome]
+R58*    hemorrhage
+R590    [enlarged lymph nodes] {local} DO NOT CHANGE WE HAD R590 AND R599 HAVING THE SAME RULE.-HG
+R591    [lymphadenopathy]
+R599    [enlarged lymph nodes] !{local} !{generalized} DO NOT CHANGE WE HAD R590 AND R599 HAVING THE SAME RULE.-HG
+R600    [localized edema]
+R601    [edema] {generalized} !{specified}
+R609*   [edema]  
+R61     [hyperhidrosis]
+R620    [delayed milestone] "pediatric" 
+R6250   [unspecified lack of expected normal physiological development in childhood] !{global}
+R6251   [failure to thrive] "pediatric"
+R6252   [short stature] "pediatric"
+R6259*  other lack of expected normal physiological development in childhood  
+R627    [failure to thrive] "adult"
+R630    [anorexia] !{nervosa}
+R631    [polydipsia]
+R632    [polyphagia]
+R633    [feeding difficulties]
+R634    [abnormal weight loss]
+R635    [abnormal weight gain]
+R636    [underweight]
+R638    [other symptoms and signs concerning food and fluid intake] & ![anorexia] & ![failure to thrive]
+R64     [cachexia]
+R6510   [noninfectious systemic inflammatory response syndrome] & ![organ dysfunction] {acute}
+R6511   [noninfectious systemic inflammatory response syndrome] & [organ dysfunction] {acute}
+R6520   [sepsis] & ![shock] & [organ dysfunction]
+R6521   [sepsis] & [shock] !{liver} & [organ dysfunction] 
+R680    [hypothermia] & ![low environmental temperature] & ![newborn]
+R6811   [excessive crying]  
+R6812   [fussy] 
+R6813   [apparent life threatening event] 
+R6819*  other nonspecific symptoms peculiar to infancy 
+R682    [dry mouth]
+R683    [clubbing of fingers]
+R6881   [early satiety]
+R6882   [decreased libido]
+R6883   [chills] & ![fever]
+R6884   [pain] `jaw`
+R6889   [flu-like symptoms]
+R69*    [illness]
+R700    [elevated erythrocyte sedimentation rate]
+R701    [abnormal plasma viscosity]
+R710    [drop in hematocrit] {precipitous}
+R718*   other abnormality of red blood cells
+R7301   [impaired fasting glucose]
+R7302   [impaired glucose tolerance]
+R7303   [prediabetes] & ![diabetes]
+R7309   [abnormal glucose] & ![diabetes]
+R739    [hyperglycemia] & ![diabetes]
+R740*   [elevation of levels of transaminase and lactic acid dehydrogenase] "Deleted ICD FY2021"
+R7401	[elevation of levels of transaminase]	
+R7402	[elevation of levels of lactic acid dehydrogenase ldh]	
+R748    [abnormal levels of other serum enzymes]
+R749    [abnormal serum enzyme level]
+R75     [human immunodeficiency virus] {inconclusive laboratory evidence}
+R760    [raised antibody titer]
+R7611   [tuberculin skin test reaction] & ![tuberculosis] {active}
+R7612   [cell mediated immunity measurement of gamma interferon antigen response reaction] & ![tuberculosis] {active}
+R768    [other specified abnormal immunological findings in serum]
+R769    [abnormal immunological finding in serum]
+R770    [abnormality of albumin]
+R771    [abnormality of globulin]
+R772    [abnormality of alphafetoprotein]
+R778    [other specified abnormalities of plasma proteins]
+R779    [abnormality of plasma protein]
+R780    [alcohol in blood] !{level}
+R781    [opiate drug in blood]
+R782    [cocaine in blood]
+R783    [hallucinogen in blood]
+R784    [drugs of addictive potential in blood]
+R785    [psychotropic drug in blood]
+R786    [steroid agent in blood]
+R7871   [abnormal lead level in blood]
+R7879   [abnormal level of heavy metals in blood]
+R7881   [bacteremia] & ![sepsis]
+R7889*  finding of other specified substances, not normally found in blood
+R789*   finding of unspecified substance, not normally found in blood
+R790    [abnormal level of blood mineral]
+R791    [abnormal coagulation profile]
+R7981   [abnormal blood gas level]
+R7982   [elevated c reactive protein]
+R7989   [other specified abnormal findings of blood chemistry]
+R799    [abnormal finding of blood chemistry]
+R800    [proteinuria] {isolated}
+R801    [proteinuria] {persistent}
+R802    [proteinuria] {orthostatic}
+R803    [proteinuria] {bence jones}
+R808*   other [proteinuria]
+R809    [proteinuria]
+R81     [glycosuria]
+R820    [chyluria]
+R821    [myoglobinuria]
+R822    [biliuria]
+R823    [hemoglobinuria]
+R824    [acetonuria]
+R825    [elevated urine levels of drugs]
+R826    [abnormal urine levels of nonmedicinal substances]
+R827    [abnormal findings on microbiological examination of urine]
+R8271   [bacteriuria]
+R828*   abnormal findings on cytological and histological examination of urine
+R8281	[pyuria]
+R8289	[other abn findings on cytolog and histolog exam of urine]
+R8290   [abnormal findings in urine]
+R8291   [chromoabnormalities of urine]
+R8299   [abnormal findings in urine]
+R830    [abnormal level of enzymes] `cerebrospinal fluid`
+R831    [abnormal level of hormones] `cerebrospinal fluid`
+R832    [abnormal level of other drugs] `cerebrospinal fluid`
+        [abnormal level of other medicaments] `cerebrospinal fluid`
+        [abnormal level of other biological substances] `cerebrospinal fluid`
+R833    [abnormal level of nonmedicinal substances] `cerebrospinal fluid`
+R834    [abnormal immunological findings] `cerebrospinal fluid`
+R835    [abnormal microbiological findings] `cerebrospinal fluid`
+R836    [abnormal cytological findings] `cerebrospinal fluid`
+R838*   other abnormal findings in `cerebrospinal fluid`
+R839    [abnormal finding] `cerebrospinal fluid`
+R840    [abnormal level of enzymes] `respiratory organs`
+        [abnormal level of enzymes] `thorax`
+R841    [abnormal level of hormones] `respiratory organs`
+        [abnormal level of hormones] `thorax`
+R842    [abnormal level of drugs] `respiratory organs`
+        [abnormal level of medicaments] `respiratory organs`
+        [abnormal level of biological substances] `respiratory organs`
+        [abnormal level of drugs] `thorax`
+        [abnormal level of medicaments] `thorax`
+        [abnormal level of biological substances] `thorax`
+R843    [abnormal level of nonmedical substances] `respiratory organs`
+        [abnormal level of nonmedical substances] `thorax`
+R844    [abnormal immunological findings] `respiratory organs`
+        [abnormal immunological findings] `thorax`
+R845    [abnormal microbiological findings] `respiratory organs`
+        [abnormal microbiological findings] `thorax`
+R846    [abnormal cytological findings] `respiratory organs`
+        [abnormal cytological findings] `thorax`
+R847    [abnormal histological findings] `respiratory organs`
+        [abnormal histological findings] `thorax`
+R848*   other abnormal findings in specimens from `respiratory organs`
+        [abnormal findings] `thorax`
+R849    [abnormal finding] `respiratory organs`
+        [abnormal finding] `thorax`
+R850    [abnormal level of enzymes] `digestive organ`
+        [abnormal level of enzymes] `abdominal cavity`
+R851    [abnormal level of hormones] `digestive organ`
+        [abnormal level of hormones] `abdominal cavity`
+R852    [abnormal level of drugs] `digestive organ`
+        [abnormal level of medicaments] `digestive organ`
+        [abnormal level of biological substances] `digestive organ`
+        [abnormal level of drugs] `abdominal cavity`
+        [abnormal level of medicaments] `abdominal cavity`
+        [abnormal level of biological substances] `abdominal cavity`
+R853    [abnormal level of nonmedical substances] `digestive organ`
+        [abnormal level of nonmedical substances] `abdominal cavity`
+R854    [abnormal immunological findings] `digestive organ`
+        [abnormal immunological findings] `abdominal cavity`
+R855    [abnormal microbiological findings] `digestive organ`
+        [abnormal microbiological findings] `abdominal cavity`
+R85610  [atypical squamous cells] {undetermined significance} & [cytologic smear] `anus`
+R85611  [atypical squamous cells] & [lesion] {high grade} {squamous} `intraepithelial` & [cytologic smear] `anus`
+R85612  [lesion] {low grade} {squamous} `intraepithelial` & [cytologic smear] `anus`
+R85613  [lesion] {high grade} {squamous} `intraepithelial` & [cytologic smear] `anus`
+R85614  [malignancy] {cytologic evidence} & [smear] `anus`
+R85615  [cytologic smear] {unsatisfactory} `anus`
+R85616  [anal smear] {satisfactory} & [lacking transformation zone]
+R85618* other [abnormal cytological findings] on specimens from anus
+R85619  [abnormal cytological findings] `anus`
+R8569   [abnormal cytological findings] `digestive organ`
+        [abnormal cytological findings] `abdominal cavity`
+R857    [abnormal histological findings] `digestive organ`
+        [abnormal histological findings] `abdominal cavity`
+R8581   [human papillomavirus] {high risk} {dna test positive} `anus`
+R8582   [human papillomavirus] {dna test positive} {low risk} `anus`
+R8589   [abnormal findings] !{diagnostic imaging} `digestive organ`
+        [abnormal findings] !{diagnostic imaging} `abdominal cavity`
+R859    [abnormal finding] !{diagnostic imaging}`digestive organ`
+        [abnormal finding] !{diagnostic imaging} `abdominal cavity`
+R860    [abnormal level of enzymes] `genital organ` "male"
+R861    [abnormal level of hormones] `genital organ` "male"
+R862    [abnormal level of drugs] `genital organ` "male"
+        [abnormal level of medicaments] `genital organ` "male"
+        [abnormal level of biological substances] `genital organ` "male"
+R863    [abnormal level of nonmedical substances] `genital organ` "male"
+R864    [abnormal immunological findings] `genital organ` "male"
+R865    [abnormal microbiological findings] `genital organ` "male"
+R866    [abnormal cytological findings] `genital organ` "male"
+R867    [abnormal histological findings] `genital organ` "male"
+R868*   other abnormal findings `genital organ` "male"
+R869    [abnormal finding] `genital organ` "male"
+R870    [abnormal level of enzymes] `genital organ` "female"
+R871    [abnormal level of hormones] `genital organ` "female"
+R872    [abnormal level of drugs] `genital organ` "female"
+        [abnormal level of medicaments] `genital organ` "female"
+        [abnormal level of biological substances] `genital organ` "female"
+R873    [abnormal level of nonmedical substances] `genital organ` "female"
+R874    [abnormal immunological findings] `genital organ` "female"
+R875    [abnormal microbiological findings] `genital organ` "female"
+R87610  [atypical squamous cells] {undetermined significance} & [cytologic smear] `cervix`
+R87611  [atypical squamous cells] & [lesion] {high grade} {squamous} `intraepithelial` & [cytologic smear] `cervix`
+R87612  [lesion] {low grade} {squamous} `intraepithelial` & [cytologic smear] `cervix`
+R87613  [lesion] {high grade} {squamous} `intraepithelial` & [cytologic smear] `cervix`
+R87614  [malignancy] {cytologic evidence} & [smear] `cervix`
+R87615  [unsatisfactory cytologic smear]  `cervix`
+R87616  [satisfactory cervical smear] & [lacking transformation zone]
+R87618* other [abnormal cytological findings] on specimens from cervix uteri
+R87619  [abnormal cytological findings] `cervix`
+        [abnormal pap smear] "female"
+R87620  [atypical squamous cells] {undetermined significance} & [cytologic smear] `vagina`
+        [asc us]
+R87621  [atypical squamous cells] & [lesion] {high grade} {squamous} `intraepithelial` & [cytologic smear] `vagina`
+        [asc h]
+R87622  [lesion] {low grade} {squamous} `intraepithelial` & [cytologic smear] `vagina`
+R87623  [lesion] {high grade} {squamous} `intraepithelial` & [cytologic smear] `vagina`
+R87624  [malignancy on smear of vagina] {cytologic evidence}
+R87625  [unsatisfactory cytologic smear] `vagina`
+R87628* other [abnormal cytological findings] on specimens from vagina
+R87629  [abnormal cytological findings] `vagina`
+R8769   [abnormal cytological findings] `genital organ` "female"
+R877    [abnormal histological findings] `genital organ` "female"
+R87810  [human papillomavirus] {high risk} {dna test positive} `cervical`
+R87811  [human papillomavirus] {high risk} {dna test positive} `vagina`
+R87820  [human papillomavirus] {low risk} {dna test positive} `cervical`
+R87821  [human papillomavirus] {low risk} {dna test positive} `vagina`
+R8789*  other abnormal findings genital organs "female"
+R879    [abnormal finding] `genital organ` "female"
+R880    [cloudy dialysis effluent]
+R888*   abnormal findings in other body fluids and substances
+R890    [abnormal level of enzymes]
+R891    [abnormal level of hormones]
+R892    [abnormal level of drugs, medicaments and biological substances]
+R893    [abnormal level of nonmedical substances]
+R894    [abnormal immunological findings]
+R895    [abnormal microbiological findings]
+R896    [abnormal cytological findings] `other organs and tissues`
+R897    [abnormal histological findings] `other organs and tissues`
+R898*   other abnormal findings
+R899*   [abnormal finding] `other organs` 
+R900    [lesion] {space occupying} `intracranial` & [diagnostic imaging] `central nervous system`
+R9081   [abnormal echoencephalogram]
+R9082   [white matter disease]
+R9089   [abnormal findings on diagnostic imaging] `central nervous system`
+R911    [pulmonary nodule]
+R918    [abnormal lung finding] !{pneumonia} & [diagnostic imaging]
+R920    [mammographic microcalcification] {no suspicious} & [mammogram] !{history}
+R921    [calcification] !{vascular} !{history} & [mammogram] !{history}
+        [calcification] {bilateral}
+R922    [inconclusive mammogram] 
+R928    [other abnormal inconclusive breast image finding] !{score}
+R930    [abnormal findings on diagnostic imaging] `skull`
+        [abnormal findings on diagnostic imaging] `head`
+R931    [abnormal findings on diagnostic heart imaging] 
+        [abnormal findings on diagnostic imaging] `coronary circulation`
+R932    [abnormal findings on diagnostic imaging] `liver`
+        [abnormal findings on diagnostic imaging] `biliary tract`
+R933    [abnormal findings on diagnostic imaging] `digestive tract`
+R934    [abnormal findings on diagnostic imaging] `urinary organs`
+R935    [abnormal abdominal finding] {diagnostic imaging} `abdominal region`
+R936    [abnormal findings on diagnostic imaging] `limb`
+R937    [abnormal findings on diagnostic imaging] `musculoskeletal system` 
+R9389   [other abnormal findings on diagnostic imaging] 
+R939    [inconclusive diagnostic imaging] & [excess body fat]
+R9401   [abnormal electroencephalogram]
+R9402   [abnormal brain scan]
+R9409*  abnormal results of other function studies of central nervous system 
+R94110  [abnormal electro oculogram]
+R94111  [abnormal electroretinogram]
+R94112  [abnormal visually evoked potential]
+R94113  [abnormal oculomotor study]
+R94118* abnormal results of other function studies of eye
+R94120  [abnormal auditory function study]
+R94121  [abnormal vestibular function study]
+R94128* abnormal results of other function studies of ear and other special senses
+R94130  [abnormal response to nerve stimulation]
+R94131  [abnormal electromyogram]
+R94138* abnormal results of other function studies of peripheral nervous system
+R942    [abnormal results of pulmonary function studies]
+R9430   [abnormal result of cardiovascular function study]
+R9431   [abnormal electrocardiogram]
+R9439   [abnormal cardiovascular function study result]
+R944    [abnormal results of kidney function studies]
+R945    [abnormal results of liver function studies]
+R946    [abnormal results of thyroid function studies]
+R947    [abnormal results of other endocrine function studies]
+R948*   abnormal results of function studies of other organs and systems
+R970    [elevated carcinoembryonic antigen]
+R971    [elevated cancer antigen 125]
+R9720   [elevated prostate specific antigen]
+R978*   other abnormal tumor markers
+R99     [ill defined cause of mortality]
+        [unknown cause of mortality]

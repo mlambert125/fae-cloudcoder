@@ -1,0 +1,38 @@
+96360	[iv infusion] {hydration} !{each additional hour}
+96361	[iv infusion] {hydration} {each additional hour}
+96365	[iv infusion] {therapy} !{each additional hour}
+96366	[iv infusion] {therapy} {each additional hour}
+96367	[iv infusion] {therapy} {additional sequential}
+96368	[iv infusion] {concurrent therapy}
+96369	[subcutaneous infusion] {therapy} !{each additional hour}
+96370	[subcutaneous infusion] {therapy} {each additional hour}
+96371	[subcutaneous infusion] {therapy} {additional pump set-up with establishment of new subcutaneous infusion site}
+96372	[therapeutic injection] {subcutaneous or intramuscular}
+96373	[therapeutic injection] {intra-arterial}
+96374	[therapeutic injection] {iv push}
+96375	[therapeutic injection] {each additional sequential intravenous push of a new substance/drug}
+96376	[therapeutic injection] {each additional sequential intravenous push of the same substance/drug provided in a facility}
+96377	[application of on-body injector]
+96379 	[unlisted therapeutic, prophylactic, or diagnostic intravenous or intra-arterial injection or infusion]
+96401	[chemotherapy] {subcutaneous or intramuscular} {non-hormonal anti-neoplastic}
+96402	[chemotherapy] {subcutaneous or intramuscular} {hormonal anti-neoplastic}
+96405	[chemotherapy] {intralesional} !`more than 7 lesions`
+96406	[chemotherapy] {intralesional} `more than 7 lesions`
+96409	[chemotherapy] {iv push} !{each additional}
+96411	[chemotherapy] {iv push} {each additional}
+96413	[chemotherapy] {iv push} !{each additional}
+96415	[chemotherapy] {iv push} {each additional hour}
+96416	[chemotherapy] {iv push} {initiation of prolonged chemotherapy} {pump}
+96417	[chemotherapy] {iv push} {each additional sequential infusion}
+96420	[chemotherapy] {intra-arterial} {iv push}
+96422	[chemotherapy] {intra-arterial} {infusion}
+96423	[chemotherapy] {intra-arterial} {infusion} {each additional hour}
+96425	[chemotherapy] {intra-arterial} {infusion} {initiation of prolonged infusion} {pump}
+96440	[chemotherapy] `pleural cavity` & [thoracentesis]
+96446	[chemotherapy] `pleural cavity` {indwelling}
+96450	[chemotherapy] `cns` & [spinal puncture]
+96521	[refilling and maintenance] {portable pump}
+96522	[refilling and maintenance] {implantable pump or reservoir}
+96523	[irrigation of implanted venous access device for drug delivery systems]
+96542	[chemotherapy] `subarachnoid or intraventricular` {subcutaneous reservoir}
+96549	[unlisted chemotherapy procedure]

@@ -1,0 +1,863 @@
+33010	[pericardiocentesis] "Delete CPT 2020"
+33011	[pericardiocentesis] {subsequent} "Delete CPT 2020"
+33015	[tube pericardiostomy] "Delete CPT 2020"
+33017*	Pericardial drainage with insertion of indwelling catheter, percutaneous, including fluoroscopy and/or ultrasound guidance, when performed; 6 years and older without congenital cardiac anomaly 
+33018*	Pericardial drainage with insertion of indwelling catheter, percutaneous, including fluoroscopy and/or ultrasound guidance, when performed; birth through 5 years of age or any age with congenital cardiac anomaly 
+33019*	Pericardial drainage with insertion of indwelling catheter, percutaneous, including CT guidance 
+33020	[pericardiotomy] & [removal] {clot/fb}
+33025	[creation/partial resection] {pericardial window} & [drainage]  
+33030	[pericardiectomy] & ![cardiopulmonary bypass]  
+33031	[pericardiectomy] & [cardiopulmonary bypass]  
+33050	[resection] `pericardial` {cyst/tumor}  
+33120	[excision] `intracardiac` {tumor} & [resection] & [cardiopulmonary bypass]  
+33130	[resection] `cardiac` {external tumor}
+33140	[transmyocardial laser revascularization] & [thoracotomy]  
+33141	[transmyocardial laser revascularization] & [thoracotomy] & [other open cardiac procedure]  
+33202	[insertion] `epicardial` {electrode} {open/incision}
+33203	[insertion] `epicardial` {electrode} {endoscopic}
+33206	[insertion] {pacemaker} & [insertion] {transvenous electrode} `atrial`  
+33207	[insertion] {pacemaker} & [insertion] {transvenous electrode} `ventricular`  
+33208 [insertion] {pacemaker}
+33210	[insertion/replacement] {temporary transvenous} {single chamber} {electrode/pacemaker}  
+33211	[insertion/replacement] {temporary transvenous} {dual chamber} {pacing electrodes}  
+33212	[insertion] {pacemaker} !{dual chamber} & [existing single lead] & ![existing dual leads]  
+33213	[insertion] {pacemaker}  !{single chamber} & [existing dual leads] & ![existing single lead]  
+33214	[conversion] {single to dual chamber} {pacemaker} {upgrade}  
+33215	[repositioning] {transvenous electrode} `atrial/ventricular` {right}  
+33216	[insertion] & [replacement] {transvenous electrode} {defective} {pacemaker}
+33217	[insertion] {transvenous electrodes} {2 leads}  
+33218	[repair] {transvenous electrode}  
+33220	[repair] {transvenous electrodes} {2 leads}  
+33221	[insertion] {pacemaker} {generator only} {existing mult leads}  
+33222	[revision/relocation] {pacemaker pocket}  
+33223	[revision/relocation] {cardioverter-defibrillator pocket}  
+33224	[insertion] {electrode} {attachment to previously placed pm/cardioverter-defibrillator}  
+33225	[insertion] {electrode} {at time insertion defibrillator/pacemaker}  
+33226	[repositioning] `ventricular` {electrode} {left}  
+33227	[removal] & [replacement] {pacemaker}  
+33228	[removal] & [replacement] {pacemaker} {dual lead}  
+33229	[removal] & [replacement] {pacemaker} {multiple lead}  
+33230	[insertion] {defibrillator} {existing dual leads}  
+33231	[insertion] {defibrillator} {exist multi leads}  
+33233	[removal] {pacemaker} !{leadless pacemaker} !{past status} 
+33234	[removal] {electrode} `atrial or ventricular`  
+33235	[removal] {electrodes} {dual lead} `atrial` `ventricular`  
+33236	[removal] `epicardial` {pacemaker and electrode} {thoracotomy} `atrial or ventricular`  
+33237	[removal] `epicardial` {pacemaker and electrode} {thoracotomy} {dual lead} `atrial or ventricular`  
+33238 [removal] {electrode} {thoracotomy}  
+33240	[insertion] {defibrillator} {existing single lead}  
+33241	[removal] {defibrillator}  
+33243	[removal] {single/dual defibrillator} {electrode} {thoracotomy}  
+33244	[removal] {single/dual defibrillator} {electrode} {transvenous extraction}  
+33249 [insertion or replacement] {defibrillator} {transvenous lead} {single or dual leads}
+33250	[ablation] {supraventricular arrhythmia} & ![cardiopulmonary bypass]  
+33251	[ablation] {supraventricular arrhythmia} & [cardiopulmonary bypass]  
+33254	[ablation] & [reconstruction] `atria`
+33255	[ablation] & [reconstruction] `atria` {extensive} & ![cardiopulmonary bypass]  
+33256	[ablation] & [reconstruction] `atria` {extensive} & [cardiopulmonary bypass]  
+33257*	[ablation] & [reconstruction] `atria` & [cardiac procedure]  
+33258*	[ablation] & [reconstruction] `atria` & [cardiac procedure] {extensive} & ![cardiopulmonary bypass]  
+33259*	[ablation] & [reconstruction] `atria` & [cardiac procedure] {extensive} & [cardiopulmonary bypass]  
+33261	[ablation] {ventricular arrhythmia} & [cardiopulmonary bypass]  
+33262	[removal] & [replacement] {defibrillator}  
+33263	[removal] & [replacement] {defibrillator} {dual lead}  
+33264	[removal] & [replacement] {defibrillator} {multi lead}  
+      [exchange] {icd}
+33265	[endoscopy] & [ablation] & [reconstruction] `atria` & ![cardiopulmonary bypass]  
+33266	[endoscopy] & [ablation] & [reconstruction] `atria` {extensive} & ![cardiopulmonary bypass]  
+33270	[insertion/replacement] {defibrillator} & [insertion/replacement] {electrode} {subcutaneous}  
+33271	[insertion] {subcutaneous} {defibrillator} {electrode}  
+33272	[removal] {subcutaneous} {defibrillator} {electrode}  
+33273	[repositioning] {previously implanted} {subq} {defibrillator} {electrode}  
+33274 [implant] {leadless pacemaker} !{remove} 
+33275 [remove] {leadless pacemaker} !{implant} 
+33285	[implantation] & [loop recorder]  
+33286	[removal] & [loop recorder]  
+33300	[repair] `cardiac` {wound} & ![cardiopulmonary bypass]  
+33305	[repair] `cardiac` {wound} & [cardiopulmonary bypass]  
+33310	[cardiotomy] & ![cardiopulmonary bypass]  
+33315	[cardiotomy] & [cardiopulmonary bypass]  
+33320	[suture] `aorta/great vessels` & ![shunt] & ![cardiopulmonary bypass]  
+33321	[suture] `aorta/great vessels` & [shunt] & ![cardiopulmonary bypass]  
+33322	[suture] `aorta/great vessels` & [cardiopulmonary bypass] & ![shunt]  
+33330	[insertion] {graft} `aorta/great vessels` & ![shunt] & ![cardiopulmonary bypass]  
+33335	[insertion] {graft} `aorta/great vessels` & [cardiopulmonary bypass] & ![shunt]  
+33340	[closure] {percutaneous} {transcatheter} `atrial appendage` & [endocardial implant]  
+33361	[replace] `aortic valve` {transcatheter} {percutaneous} {femoral artery} {prosthetic valve}  
+33362	[replacement] `aortic valve` {transcatheter} {open} {femoral artery} {prosthetic valve}  
+33363	[replacement] `aortic valve` {transcatheter} {open} {axillry artery} {prosthetic valve}  
+33364	[replacement] `aortic valve` {transcatheter} {open} {iliac artery} {prosthetic valve}  
+33365	[replacement] `aortic valve` {transcatheter} {open} {transaortic} {prosthetic valve}  
+33366	[replacement] `aortic valve` {transcatheter} {open} {transapical exposure} {prosthetic valve}  
+33367*	replace aortic valve w/byp prq art/venous apprch  
+33368*	replace aortic valve w/byp open art/venous aprch  
+33369*	replace aorta valve w/byp cntrl art/venous aprch  
+33390	[valvuloplasty] `aortic valve` {open} & [cardiopulmonary bypass]  
+33391	[valvuloplasty] `aortic valve` {open} & [cardiopulmonary bypass] {complex}  
+33404	[construction] `apical-aortic` {conduit}  
+33405	[replacement] `aortic valve` {open} & [cardiopulmonary bypass] {prosthetic valve} !{homograft} !{stentless}
+33406	[replacement] `aortic valve` {open} & [cardiopulmonary bypass] {allograft valve}
+33410	[replacement] `aortic valve` {open} & [cardiopulmonary bypass] {stentless tissue valve}  
+33411	[replacement] `aortic valve` & [enlargement] `aortic annulus`  
+33412	[replacement] `aortic valve` & [enlargement] {transventricular} `aortic annulus`
+33413	[replacement] `aortic valve` & [translocation] {autologous pulmonary valve} & [replacement] {allograft}  
+33414	[repair] {left} {ventricular outflow tract} {obstruction} & [enlargement] {patch}  
+33415	[resection/incision] `subvalvular tissue`
+33416	[ventriculomyotomy]
+33417	[aortoplasty]
+33418	[repair] `mitral valve` {transcatheter} {percutaneous}  
+33419	[repair] `mitral valve` {transcatheter} {percutaneous} {addional prosthesis}  
+33420	[valvotomy] `mitral valve` {closed} `heart`  
+33422	[valvotomy] `mitral valve` {open} `heart` & [cardiopulmonary bypass]  
+33425	[valvuloplasty] `mitral valve` & [cardiopulmonary bypass]  
+33426	[valvuloplasty] `mitral valve` & [cardiopulmonary bypass] {prosthetic ring}  
+33427	[valvuloplasty] `mitral valve` & [cardiopulmonary bypass] & [reconstruction] {radical}  
+33430	[replacement] `mitral valve`
+33460	[valvectomy] `tricuspid valve` & [cardiopulmonary bypass]  
+33463	[valvuloplasty] `tricuspid valve` & ![ring insertion]  
+33464	[valvuloplasty] `tricuspid valve` & [ring insertion]  
+33465	[replacement] `tricuspid valve` & [cardiopulmonary bypass]  
+33468	[repositioning] `tricuspid valve` & [plication]
+33470	[valvotomy] `pulmonary valve` {closed} `heart` {transventricular}  
+33471	[valvotomy] `pulmonary valve` {closed} `heart` {pulmonary artery}  
+33474	[valvotomy] `pulmonary valve` {open} `heart` & [cardiopulmonary bypass]  
+33475	[replacement] `pulmonary valve`  
+33476	[resection] {right} `ventricular`  
+33477	[implantation] `pulmonary valve` {transcatheter} {percutaneous}
+33478	[outflow tract augmentation]
+33496	[repair] {prosthetic valve} & [cardiopulmonary bypass]  
+33500	[repair] `coronary` `av/arteriocardiac` {fistula} & [cardiopulmonary bypass]  
+33501	[repair] `coronary` `av/arteriocardiac` {fistula} & ![cardiopulmonary bypass]  
+33502	[ligation] `anomalous coronary artery`
+33503	[graft] `anomalous coronary artery` & ![cardiopulmonary bypass]  
+33504	[graft] `anomalous coronary artery` & [cardiopulmonary bypass]  
+33505	[construction] `intrapulmonary artery` {tunnel}  
+33506	[translocation] `pulmonary artery` `aorta`  
+33507	[unroofing/translocation] `aortic` `anomalous coronary artery`
+33508	[harvest] & [venous graft]  
+33510	[coronary artery bypass] & [venous graft] & ![venous graft] 
+33511	[coronary artery bypass] & [venous graft] & [venous graft] & ![venous graft] 
+33512	[coronary artery bypass] & [venous graft] & [venous graft] & [venous graft] & ![venous graft] 
+33513	[coronary artery bypass] & [venous graft] & [venous graft] & [venous graft] & [venous graft] & ![venous graft] 
+33514	[coronary artery bypass] & [venous graft] & [venous graft] & [venous graft] & [venous graft] & [venous graft] & ![venous graft] 
+33516	[coronary artery bypass] {6 or more venous grafts}  
+33517	[coronary artery bypass] & [venous graft] & [arterial graft] 
+33518	[coronary artery bypass] & [venous graft] & [venous graft] & [arterial graft]
+33519	[coronary artery bypass] & [venous graft] & [venous graft] & [venous graft] & [arterial graft]
+33521	[coronary artery bypass] & [venous graft] & [venous graft] & [venous graft] & [venous graft] & [arterial graft]  
+33522	[coronary artery bypass] & [venous graft] & [venous graft] & [venous graft] & [venous graft] & [venous graft] & [arterial graft] 
+33523	[coronary artery bypass] {6 or more venous grafts} & [arterial graft]  
+33530	[reoperation] & [coronary artery bypass/valve proc] {more than 1 month}
+33533	[coronary artery bypass] & [arterial graft] & ![arterial graft] 
+33534	[coronary artery bypass] & [arterial graft] & [arterial graft] & ![arterial graft]  
+33535	[coronary artery bypass] & [arterial graft] & [arterial graft] & [arterial graft] 
+33536	[coronary artery bypass] & [arterial graft] & [arterial graft] & [arterial graft] & [arterial graft]  
+33542	[resection] `myocardial`  
+33545	[repair] {postinfarction} `ventricular septal defect`
+33548	[restoration] `ventricular`  
+33572	[endarterectomy] {open} `coronary artery` & [coronary artery bypass]  
+33600	[closure] `atrioventricular valve` {suture/patch}  
+33602	[closure] `semilunar valve` {suture/patch}  
+33606	[anastomosis] `pulmonary artery` `aorta`  
+33608	[construction/replacement] {conduit} `ventricle` `pulmonary artery` {complex cardiac anomaly}  
+33610	[enlargement] `ventricular septal` {defect} {complex cardiac anomalies}  
+33611	[repair] `intraventricular` {tunnel} {double outlet right ventricle}
+33612	[repair] `intraventricular` {tunnel}{double outlet right ventricle} {right ventricle outflow tract obstruction}  
+33615	[closure] `atrial septal` {defect} & [anastomosis] `atria/vena cava` `pulmonary artery`  
+33617	[modified fontan procedure ] {complex cardiac anomalies}
+33619	[repair] {single} `ventricle` {aortic outflow obstruction} {aortic arch hypoplasia}  
+33620	[application] {bands} {right} {left} `pulmonary artery` {hybrid} {stage 1}  
+33621	[insertion] {catheter} {transthoracic} {hybrid} {stage 1}  
+33622	[pilliation] `ventricle` & [anastomosis] `cavopulmonary` & [removal] {bands} {right} {left} `pulmonary artery` {stage 2}  
+33641	[repair] `atrial septal` {defect} & [cardiopulmonary bypass]
+33645	[closure] {direct/patch} `sinus venosus`
+33647	[closure] {direct/patch} `atrial septal` `ventricular` {defect}
+33660	[repair] {incomplete/partial} `atrioventricular canal`
+33665	[repair] {intermediate/transitional} `atrioventricular canal`
+33670	[repair] {complete} `atrioventricular canal`
+33675	[closure] {multiple} `ventricular septal` {defects}  
+33676	[closure] {multiple} `ventricular septal` {defects} & [pulmonary valvotomy/infundibular resection]
+33677	[closure] {multiple} `ventricular septal` {defects} & [removal] `pulmonary artery` {bands}  
+33681	[closure] {single} `ventricular septal` {defect}
+33684	[closure] {single} `ventricular septal` {defect} & [pulmonary valvotomy/infundibular resection]  
+33688	[closure] {single} `ventricular septal` {defect} & [removal] `pulmonary artery` {bands}
+33690	[banding] `pulmonary artery`  
+33692	[repair] {complete} {tetralogy fallot} !{pulmonary atresia}  
+33694	[repair] {complete} {tetralogy fallot} & [transannular patch] !{pulmonary atresia}
+33697	[repair] {complete} {tetralogy fallot} {pulmonary atresia} & [construction] {conduit} {rt} `ventricle` `pulmonary artery` & [closure] `septal` {defect}  
+33702	[repair] `sinus valsalva` {fistula} & [cardiopulmonary bypass]  
+33710	[repair] `sinus valsalva` {fistula} & [cardiopulmonary bypass] & [repair] `ventricular septal` {defect}  
+33720	[repair] `sinus valsalva` {aneurysm} & [cardiopulmonary bypass]  
+33722	[closure] {aortico-left ventricular tunnel}  
+33724	[repair] {partial} {anomalous} {pulmonary venous return}
+33726	[repair] {pulmonary venous stenosis}  
+33730	[repair] {complete} {anomalous} {pulmonary venous return}  
+33732	[resection] {left} `atrial membrane`  
+33735	[septectomy/septostomy] `atrial` {closed} `heart`  
+33736	[septectomy/septostomy] `atrial` {open} `heart` & [cardiopulmonary bypass]  
+33737	[septectomy/septostomy] `atrial` {open} `heart` {inflow occlusion}
+33741 [septectomy/septostomy] {transcatheter} {congenital cardiac anomalies} {create effective} `atrial flow` {imaging guidance} 
+33745* Transcatheter intracardiac shunt (tis) creation by stent placement for congenital cardiac anomalies to establish effective intracardiac flow, including all imaging guidance by the proceduralist, when performed, left and right heart diagnostic cardiac catherization for congenital cardiac anomalies, and target zone angioplasty, when performed (eg, atrial septum, Fontan fenestration, right ventricular outflow tract, Mustard/Senning/Warden baffles); initial intracardiac shunt 
+33746* Transcatheter intracardiac shunt (tis) creation by stent placement for congenital cardiac anomalies to establish effective intracardiac flow, including all imaging guidance by the proceduralist, when performed, left and right heart diagnostic cardiac catherization for congenital cardiac anomalies, and target zone angioplasty, when performed (eg, atrial septum, Fontan fenestration, right ventricular outflow tract, Mustard/Senning/Warden baffles); each additional intracardiac shunt location (List separately in addition to code for primary procedure) 
+33750	[shunt] `subclavian` `pulmonary artery`  
+33755	[shunt] `ascending aorta` `pulmonary artery`  
+33762	[shunt] `descending aorta` `pulmonary artery`  
+33764	[shunt] {central} & [prosthetic graft]  
+33766	[shunt] `superior vena cava` `pulmonary artery` `lung`  
+33767	[shunt] `superior vena cava` `pulmonary artery` `both lungs`  
+33768	[anastomosis] `cavopulmonary`
+33770	[repair] {transposition} `great arteries` & ![enlargement ventricular septal defect]  
+33771	[repair] {transposition} `great arteries` & [enlargement ventricular septal defect]  
+33774	[repair] {transposition} `great arteries` {atrial baffle} & [cardiopulmonary bypass]  
+33775	[repair] {transposition} `great arteries` {atrial baffle} & [cardiopulmonary bypass] & [remove pulmonary band]  
+33776	[repair] {transposition} `great arteries` {atrial baffle} & [cardiopulmonary bypass] & [closure vent septal defect]  
+33777	[repair] {transposition} `great arteries` {atrial baffle} & [cardiopulmonary bypass] & [repair obstruction]  
+33778	[reconstruction] `aortic pulmonary artery`  
+33779	[reconstruction] `aortic pulmonary artery` & [removal] `pulmonary artery` {band}  
+33780	[reconstruction] `aortic pulmonary artery` & [closure] `ventricular septal` {defect}  
+33781	[reconstruction] `aortic pulmonary artery` & [repair] `subpulmonic` {obstruction}  
+33782	[translocation] `aortic root` & [repair] {pulmonary stenosis} & ![reimplantation] `coronary ostium`  
+33783 [translocation] `aortic root` & [repair] {pulmonary stenosis} & [reimplantation] `coronary ostium`  
+33786	[repair] {truncus arteriosus}  
+33788	[reimplantation] {anomalous} `pulmonary artery`  
+33800	[suspension] `aortic`
+33802	[division] `aberrant vessel`
+33803	[division] `aberrant vessel` & [reanastomosis]  
+33813	[obliteration] `aortopulmonary septal` {defect} & ![cardiopulmonary bypass]  
+33814	[obliteration] `aortopulmonary septal` {defect} & [cardiopulmonary bypass]  
+33820	[ligation] {patent ductus arteriosus}
+33822	[division] {patent ductus arteriosus} "pediatric" 
+33824	[division] {patent ductus arteriosus} "adult"
+33840	[excision] {coarctation} `aorta` & [anastomosis]  
+33845	[excision] {coarctation} `aorta` & [graft]  
+33851	[excision] {coarctation} `aorta` & [repair] {enlargement} {autogenous/prosthetic}  
+33852	[repair] `aortic arch` {autogenous/prosthetic} & ![cardiopulmonary bypass]  
+33853	[repair] `aortic arch` {autogenous/prosthetic} & [cardiopulmonary bypass]  
+33858* [graft] & [dissection] `ascending aorta` & [cardiopulmonary bypass] 
+33859* Ascending aorta graft, with cardiopulmonary bypass, includes valve suspension, when performed; for aortic disease other than dissection (eg, aneurysm) 
+33860	[graft] `ascending aorta` & [cardiopulmonary bypass] "Delete CPT 2020"
+33861*	ascending aorta graft w/cardiopulmonary bypass w/wo valve suspension w/coronary reconstruction  
+33863	[graft] `ascending aorta` & [cardiopulmonary bypass] & [replacement] `aortic root` 
+33864	[graft] `ascending aorta` & [cardiopulmonary bypass] & [suspension] {valve} & [reconstuction] `coronary`  
+33870	[graft] `transverse arch` & [cardiopulmonary bypass] "Delete CPT 2020"
+33871* Transverse aortic arch graft, with cardiopulmonary bypass, with profound hypothermia, total circulatory arrest and isolated cerebral perfusion with reimplantation of arch vessel(s) (eg, island pedicle or individual arch vessel reimplantation) 
+33875	[graft] `descending thoracic aorta`
+33877	[graft] `thoracoabdominal aortic` {aneurysm}
+33880	[repair] {endovascular} `descending thoracic aorta` & [coverage] {left} `subclavian artery`  
+33881	[repair] {endovascular} `descending thoracic aorta` & ![coverage] {left} `subclavian artery`  
+33883	[placement] {extension prosthesis} {proximal} `descending thoracic aorta` {initial}  
+33884	[placement] {extension prosthesis} {proximal} `descending thoracic aorta` {each additional}
+33886	[placement] {extension prosthesis} {distal} `descending thoracic aorta` {delayed}  
+33889	[transposition] {open} `subclavia artery` `carotid artery` & [neck incision] `descending thoracic aorta`  
+33891	[bypass graft] !`vein` {transcervical} `retropharyngeal` `carotid-carotid` & [neck incision] `descending thorac aorta` {uni}  
+33910	[embolectomy] `pulmonary artery` & [cardiopulmonary bypass]  
+33915	[embolectomy] `pulmonary artery` & ![cardiopulmonary bypass]  
+33916	[endarterectomy] `pulmonary` & [cardiopulmonary bypass]  
+33917	[repair] `pulmonary artery` {stenosis} {patch/graft}  
+33920	[construction/replacement] {conduit} `ventricle` `pulmonary artery`  
+33922	[transectio] `pulmonary artery` & [cardiopulmonary bypass]  
+33924	[ligation] & [takedown] `systemic-to-pulmonary artery` {shunt} & [congenital heart procecure]  
+33925	[unifocalization] `pulmonary artery` {arborization anomalies} & ![cardiopulmonary bypass]  
+33926	[unifocalization] `pulmonary artery` {arborization anomalies} & [cardiopulmonary bypass]  
+33930	[donor cardiectomy-pneumonectomy]
+33933	[backbench prep cadaver] `heart/lung` {allograft}
+33935	[transplant] `heart-lung` & [recipient cardiectomy-pneumonectomy]  
+33940	[donor cardiectomy]
+33944	[backbench preparation cadaver] `heart` {allograft}  
+33945	[transplant] `heart`
+33946*	ecmo/ecls initiation veno-venous  
+33947*	ecmo/ecls initiation veno-arterial  
+33948*	ecmo/ecls daily management each day veno-venous  
+33949*	ecmo/ecls daily management ea day veno-arterial  
+33951*	ecmo/ecls insj of prph cannula birth-5 yrs perq  
+33952*	ecmo/ecls insj of prph cannula 6 yrs&older perq  
+33953*	ecmo/ecls insj of prph cannula birth-5 yrs open  
+33954*	ecmo/ecls insj of prph cannula 6 yrs&older open  
+33955*	ecmo/ecls insj of central cannula birth-5 yrs  
+33956*	ecmo/ecls insj of central cannula 6 yrs & older  
+33957*	ecmo/ecls repos periph cannula perq birth-5 yrs  
+33958*	ecmo/ecls repos perph cannula prq 6 yrs & older  
+33959*	ecmo/ecls repos perph cannula open birth-5 yrs  
+33960*	prolonged extracorporeal circulation init day  
+33961*	prolonged extracorporeal circulation ea addl day  
+33962*	ecmo/ecls repos perph cannula open 6 yrs & older  
+33963*	ecmo/ecls repos central perph cannula birth-5yrs  
+33964*	ecmo/ecls ecls repos central cnula 6yrs & older  
+33965*	ecmo/ecls rmvl of perph cannula perq birth-5 yrs  
+33966*	ecmo/ecls rmvl of prph cannula prq 6 yrs & older  
+33967	[insertion] {intra-aortic balloon assist device}
+33968	[removal] {intra-aortic balloon assist device}
+33969*	ecmo/ecls rmvl of perph cannula open birth-5 yrs  
+33970	[insertion] {intra-aortic balloon assist device} `femoral artery` {open}  
+33971	[removal] {intra-aortic balloon assist device} & [repair] `femoral artery`
+33973	[insertion] {intra-aortic balloon assist device} `ascending aorta`  
+33974	[removal] {intra-aortic balloon assist device} & [repair] `ascending aorta`  
+33975	[insertion] {ventricular assist device} {extracorporeal} {single ventricle}  
+33976	[insertion] {ventricular assist device} {extracorporeal} {biventricular}  
+33977	[removal] {ventricular assist device} {extracorporeal} {single ventricle}  
+33978	[removal] {ventricular assist device} {extracorporeal} {biventricular}  
+33979	[insertion] {ventricular assist device} {implantable intracorporeal} {single ventricle}  
+33980	[removal] {ventricular assist device} {implantable intracorporeal} {single ventricle}  
+33981	[replacement] {vad} {extracorporeal} {single or biventricular pump}  
+33982	[replacement] {vad pump} {implantable intracorporeal} {single ventricle} & ![cardiopulmonary bypass]  
+33983	[replacemen] {vad pump} {implantable intracorporeal} {single ventricle} & [cardiopulmonary bypass]  
+33984*	ecmo/ecls rmvl prph cannula open 6 yrs & older  
+33985*	ecmo/ecls removal of central cannula birth-5 yrs  
+33986*	ecmo/ecls rmvl of central cannula 6 yrs & older  
+33987*	artery expos/graft artery perfusion ecmo/ecls  
+33988*	insert left heart vent by thoracic inc ecmo/ecls  
+33989*	rmvl left heart vent by thoracic incis ecmo/ecls  
+33990	[insertion] & [impella] 
+33991	[insertion] {vad} {percutaneous} {transseptal puncture}  `arterial` `venous`  
+33992	[removal] & [impella] & ![insertion]  
+33993	[reposition] & [impella] & ![insertion]
+33995 [insertion] `ventricular` {assist device} {percutaneous} `right heart` `venous` 
+33997* removal of percutaneous right heart ventricular assist device, venous cannula, at separate and distinct session from insertion 
+33999*	unlisted proc cardiac surgery  
+34001	[embolectomy/thrombectomy] `carotid/subclavian/innominate artery` {neck incision}  
+34051	[embolectomy/thrombectomy] `innominate/subclavian artery` {thoracic incision}  
+34101	[embolectomy/thrombectomy] `axillary/brachial/innominate/subclavian artery` {arm incision}  
+34111	[embolectomy/thrombectomy] `radial/ulnar artery` {arm incision}  
+34151	[embolectomy/thrombectomy] `renal/celiac/mesentery/aortoiliac artery` {abdominal incision}  
+34201	[embolectomy/thrombectomy] `femoropopliteal/aortoiliac artery` {leg incision}  
+34203	[embolectomy/thrombectomy] `popliteal-tibio-peroneal artery` {leg incision}  
+34401	[mechanical thrombectomy] `vena cava` `iliac vein` {abdominal incision}  
+34421	[mechanical thrombectomy] `vena cava` `iliac vein` `femoropopliteal vein` {leg incision}  
+34451	[mechanical thrombectomy] `vena cava` `iliac vein` `femoropopliteal vein` {abdominal incision} {leg incision}  
+34471	[mechanical thrombectomy] `subclavian vein` {neck incision}  
+34490	[mechanical thrombectomy] `axillary vein` `subclavian vein` {arm incision}  
+34501	[valvuloplasty] `femoral vein`  
+34502	[reconstruction] `vena cava`
+34510	[venous valve transposition]
+34520	[cross-over vein graft] {venous system}  
+34530	[anastomosis] `saphenopopliteal vein`  
+34717* Endovascular repair of iliac artery at the time of aorto-iliac artery endograft placement by deployment of an iliac branched endograft including pre-procedure sizing and device selection, all ipsilateral selective iliac artery catheterization(s), all associated radiological supervision and interpretation, and all endograft extension(s) proximally to the aortic bifurcation and distally in the internal iliac, external iliac, and common femoral artery(ies), and treatment zone angioplasty/stenting, when performed, for rupture or other than rupture (eg, for aneurysm, pseudoaneurysm, dissection, arteriovenous malformation, penetrating ulcer, traumatic disruption), unilateral (List separately in addition to code for primary procedure) 
+34718* Endovascular repair of iliac artery, not associated with placement of an aorto-iliac artery endograft at the same session, by deployment of an iliac branched endograft, including pre-procedure sizing and device selection, all ipsilateral selective iliac artery catheterization(s), all associated radiological supervision and interpretation, and all endograft extension(s) proximally to the aortic bifurcation and distally in the internal iliac, external iliac, and common femoral artery(ies), and treatment zone angioplasty/stenting, when performed, for other than rupture (eg, for aneurysm, pseudoaneurysm, dissection, arteriovenous malformation, penetrating ulcer), unilateral 
+34800	[aorto-aortic tube prosthesis] `infrarenal abdominal aortic` {aneurysm/dissection}
+34802	[modular bifurcated prosthesis] {1 dock limb} `infrarenal abdominal aortic` {aneurysm/dissection}  
+34803	[modular bifurcated prosthesis] {2 dock limb} `infrarenal abdominal aortic` {aneurysm/dissection}  
+34804	[unibody bifurcated prosthesis] `infrarenal abdominal aortic` {aneurysm/dissection}
+34805	[aorto-uniiliac/aorto-unifemoral prosthesis] `infrarenal abdominal aortic` {aneurysm/dissection}
+34806	[placeent] {transcatheter} {wireless physiologic sensor} {aneurysmal sac} & [endovascular repair]  
+34808	[placement] {endovascular} {occlusion device} `iliac artery`
+34812	[open exposure] `femoral artery` {groin incision} {nilateral}  
+34813	[placement] `femoral-femoral` {graft} & [endovascular aortic aneurysm repair]  
+34820	[open exposure] `iliac artery` {abdominal or retroperitoneal incision}  
+34825	[placement] {prox/distal} {extension prosthesis} `infrarenal abdominal aortic/iliac` {false aneurysm/dissection}  
+34826	[placement] {prox/distal} {extension prosthesis} `infrarenal abdominal aortic/iliac` {false aneurysm/dissection} {additional vessel}  
+34830	[repair] {open} `infrarenal aortic` {aneurysm/dissection} & [repair] {arterial trauma} {tube prosthesis}  
+34831	[repair] {open} `infrarenal aortic` {aneurysm/dissection} & [repair] {arterial trauma} {aorto-bi-iliac prosthesis}  
+34832	[repair] {open} `infrarenal aortic` {aneurysm/dissection} & [repair] {arterial trauma} {aorto-bifemoral prosthesis}  
+34833	[open exposure] `iliac artery` & [creation conduit] `aortic/iliac` {endovascular prosthesis}  
+34834	[open exposure] `brachial artery` {deployment} `aortic/iliac` {endovascular prosthesis} {arm incision}  
+34839*	plnning pt spec fenest visceral aortic graft  
+34841	[endovascular repair] `visceral aorta` {fenestrated endograft} {1 prosthesis}  
+34842	[endovascular repair] `visceral aorta` {fenestrated endograft} {2 prosthesis}  
+34843	[endovascular repair] `visceral aorta` {fenestrated endograft} {3 prosthesis}  
+34844	[endovascular repair] `visceral aorta` {fenestrated endograft} {4+ prosthesis}  
+34845	[endovascular repair] `visceral aorta` `infrarenal abdom aorta` {fenestrated endograft} {1 prosthesis}  
+34846	[endovascular repair] `visceral aorta` `infrarenal abdom aorta` {fenestrated endograft} {2 prosthesis}  
+34847	[endovascular repair] `visceral aorta` `infrarenal abdom aorta` {fenestrated endograft} {3 prosthesis}  
+34848	[endovascular repair] `visceral aorta` `infrarenal abdom aorta` {fenestrated endograft} {4+ prosthesis}  
+34900	[endovascular repair] `iliac artery` {ilio-iliac tube endoprosthesis}  
+35001	[repair] & [graft] `carotid/subclavian` {neck incision}  
+35002	[repair] & [graft] {ruptured aneurysm} `carotid/subclavian` {neck incision}  
+3500	[repair] & [graft] `vertebral artery`  
+35011	[repair] & [graft] `axillary-brachial artery` {arm incision}  
+35013	[repair] & [graft] {ruptured aneurysm} `axillary-brachial artery` {arm incision}  
+35021	[repair] & [graft] `innominate/subclavian artery` {thoracic incision}  
+35022	[repair] & [graft] {ruptured aneursm} `innominate/subclavian artery` {thoracic incision}  
+35045	[repair] & [graft] `radial/ulnar artery`  
+35081	[repair] & [graft] `abdominal aorta`  
+35082	[repair] & [graft] {ruptured aneurysm} `abdominal aorta`  
+35091	[repair] & [graft] `abdominal aorta` `visceral vessels`  
+35092	[repair] & [graft] {ruptured aneurysm} `abdominal aorta` `visceral vessls`  
+35102	[repair] & [graft] `abdominal aorta` `iliac vessels`  
+35103	[repair] & [graft] {ruptured aneurysm} `abd aorta` `iliac vessels`  
+35111	[repair] & [graft] `splenic artery`  
+35112	[repair] & [graft] {ruptured aneurysm} `splenic artery`  
+35121	[repair] & [graft] `hepatic/celiac/renal/mesenteric artery`  
+35122	[repair] & [graft] {ruptured aneurysm} `hepatic/celiac/renal/mesenteric artery`  
+35131	[repair] & [graft] `iliac artery`  
+35132	[repair] & [graft] {ruptured aneurysm} `iliac artery`  
+35141	[repair] & [graft] `common femoral artery`  
+35142	[repair] & [graft] {ruptured aneurysm} `common femoral artery`  
+35151	[repair] & [graft] `popliteal artery`  
+35152	[repair] & [graft] {ruptured aneurysm} `popliteal artery`  
+35180	[repair] {congenital} `arteriovenous` {fistula} `head` `neck`  
+35182	[repair] {congenital} `arteriovenous` {fistula} `thorax` `abdomen`  
+35184	[repair] {congenital} `arteriovenous` {fistula} `extremities`  
+35188	[repair] `arteriovenous` {fistula} `head` `neck`  
+35189	[repair] `arteriovenous` {fistula} `thorax` `abdomen`  
+35190	[repair] `arteriovenous` {fistula} `extremities`  
+35201	[repair] `blood vessel` `neck`  
+35206	[repair] `blood vessel` `upper extremity`  
+35207	[repair] `blood vessel` `hand finger`  
+35211	[repair] `blood vessel` `intrathoracic` & [bypass]  
+35216	[repair] `blood vessel` `intrathoracic` & ![bypass]  
+35221	[repair] `blood vessel` `intra-abdominal`  
+35226	[repair] `blood vessel` `lower extremity`  
+35231	[repair] `blood vessel` {vein graft} `neck`  
+35236	[repair] `blood vessel` {vein graft} `upper extremity`  
+35241	[repair] `blood vessel` {vein graft} `intrathoracic` & [bypass]  
+35246	[repair] `blood vessel` {vein graft} `ntrathoracic` & ![bypass]  
+35251	[repair] `blood vessel` {vein graft} `intra-abdominal`  
+35256	[repair] `blood vessel` {vein graft} `lower extremity`  
+35261	[repair] `blood vessel` {graft} & ![vein graft] `neck`  
+35266	[repair] `blood vessel` {graft} & ![vein graft] `upper extremity`  
+35271	[repair] `blood vessel` {graft} & ![vein graft] `intrathoracic` & [bypass]  
+35276	[repair] `blood vessel` {graft} & ![vein graft] `intrathoracic` & ![bypass]  
+35281	[repair] `blood vessel` {graft} & ![vein graft] `intra-abdominal`  
+35286	[repair] `blood vessel` {graft} & ![vein graft] `lower extremity`  
+35301	[thromboendarterectomy] !{post} `carotid or vertebral or subclavian artery`
+35302	[thromboendarterectomy] !{post} `superficial femoral artery`  
+35303	[thromboendarterectomy] !{post} `popliteal artery`  
+35304	[thromboendarterectomy] !{post} `tibioperoneal trunk artery`
+35305	[thromboendarterectomy] !{post} `tibial or peroneal artery`  
+35306	[thromboendarterectomy] !{post} `tibial or peroneal artery` {each additional}  
+35311	[thromboendarterectomy] !{post} `subclavian/innominate`
+35321*	thromboendarterectomy w/wo patch graft axillary-brachial  
+35331	[thromboendarterectomy] !{post} `abdominal aorta`  
+35341	[thromboendarterectomy] !{post} `mesenteric celiac/renal`  
+35351	[thromboendarterectomy] !{post} `iliac`  
+35355	[thromboendarterectomy] !{post} `iliofemoral`  
+35361	[thromboendarterectomy] !{post} `aortoiliac`  
+35363	[thromboendarterectomy] !{post} `aortoiliofemoral`  
+35371	[thromboendarterectomy] !{post} `common femoral`  
+35372	[thromboendarterectomy] !{post} `deep femoral`  
+35390	[reoperation thromboendarterectomy] `carotid` {more than 1 month}
+35400	[angioscopy] !{coronary vessels or grafts} {during therapeutic intervention}  
+35454*	transluminal balloon angioplasty open iliac  
+35456*	transluminal balloon angioplasty open femoral-popliteal  
+35459*	transluminal balloon angioplasty open tibioperoneal trunk & branches  
+35470*	transluminal balloon angioplasty percutaneous tibioperoneal trunk/branches each vessel  
+35473*	transluminal balloon angioplasty percutaneous iliac  
+35474*	transluminal balloon angioplasty percutaneous femoral-popliteal  
+35480*	transluminal peripheral atherectomy open renal/other visceral artery  
+35481*	transluminal peripheral atherectomy open aortic  
+35482*	transluminal peripheral atherectomy open iliac  
+35483*	transluminal peripheral atherectomy open femoral-popliteal  
+35484*	transluminal peripheral atherectomy open brachiocephalic trunk/branches each vessel  
+35485*	transluminal peripheral atherectomy open tibioperoneal trunk & branches  
+35490*	transluminal peripheral atherectomy percutaneous renal/other visceral artery  
+35491*	transluminal peripheral atherectomy percutaneous aortic  
+35492*	transluminal peripheral atherectomy percutaneous iliac  
+35493*	transluminal peripheral atherectomy percutaneous femoral-popliteal  
+35494*	transluminal peripheral atherectomy percutaneous brachiocephalic trunk/branches each vessel  
+35495*	transluminal peripheral atherectomy percutaneous tibioperoneal trunk & branches  
+35500	[harvest vein] `upper extremity`
+35501	[bypass graft] `vein` `common carotid-ipsilateral internal carotid`  
+35506	[bypass graft] `vein` `carotid-subclavian`  
+35508	[bypass graft] `vein` `arotid-vertebral`  
+35509	[bypass graft] `vein` `carotid-contralateral carotid`  
+35510	[bypass graft] `vein` `carotid-brachial`  
+35511	[bypass graft] `vein` `subclavian-subclavian`  
+35512	[bypass graft] `vein` `subclavian-brachial`  
+35515	[bypass graft] `vein` `subclavian-vertebral`  
+35516	[bypass graft] `vein` `subclavian-axillary`  
+35518	[bypass graft] `vein` `axillary-axillary`  
+35521	[bypass graft] `vein` `axillary-femoral`  
+35522	[bypass graft] `vein` `axillary-brachial`  
+35523	[bypass graft] `vein` `brachial-ulnar or brachial-radial`  
+35525	[bypass graft] `vein` `brachial-brachial`  
+35526	[bypass graft] `vein` `aortosubclavian aortoinnominate or aortocarotid`  
+35531	[bypass graft] `vein` `aortoceliac or aortomesenteric`  
+35533	[bypass graft] `vein` `axillary-femoral-femoral`  
+35535	[bypass graft] `vein` `hepatorenal`  
+35536	[bypass graft] `vein` `splenorenal`  
+35537	[bypass graft] `vein` `aortoiliac`  
+35538	[bypass graft] `vein` `aortobi-iliac`  
+35539	[bypass graft] `vein` `aortofemoral`  
+35540	[bypass graft] `vein` `aortobifemoral`  
+35548*	bypass graft w/vein aortoiliofemoral unilat  
+35549*	bypass graft w/vein aortoiliofemoral bilat  
+35551*	bypass graft w/vein aortofemoral-popliteal  
+35556	[bypass graft] `vein` `femoral-popliteal`  
+35558	[bypass graft] `vein` `femoral-femoral`  
+35560	[bypass graft] `vein` `aortorenal`  
+35563	[bypass graft] `vein` `ilioiliac`  
+35565	[bypass graft] !{tissue} `vein` `iliofemoral`
+35566	[bypass graft] `vein` `femoral-ant tibial/post tibial/peroneal artery/other distal vessels`  
+35570	[bypass graft] `vein` `tibial-tibial/peroneal-tibial/tibial-peroneal/trunk-tibial`  
+35571	[bypass graft] `vein` `popliteal-tibial/popliteal-peroneal artery/popliteal-other distal vessels`  
+35572	[harvest vein] `femoropopliteal`  
+35583	[in-situ vein bypass] `femoral-popliteal`  
+35585	[in-situ vein bypass] `femoral-anterior tibial/- posterior tibial/- peroneal artery`  
+35587	[in-situ vein bypass] `popliteal-tibial peroneal`  
+35600	[harvest artery] `upper extremity`
+35601	[bypass graft] `common carotid-ipsilateral internal carotid` !`vein`  
+35606	[bypass graft] `carotid-subclavian` !`vein`  
+35612	[bypass graft] `subclavian-subclavian` !`vein`  
+35616	[bypass graft] `subclavian-axillary` !`vein`  
+35621	[bypass graft] `axillary-femoral` !`vein`  
+35623	[bypass graft] `axillary-popliteal/-tibial` !`vein`  
+35626	[bypass graft] `aortosubclavian, aortoinnominate or aortocarotid` !`vein`  
+35631	[bypass graft] `aortoceliac, aortomesenteric, aortorenal` !`vein`  
+35632	[bypass graft] `ilio-celiac` !`vein`  
+35633	[bypass graft] `ilio-mesenteric` !`vein`  
+35634	[bypass graft] `iliorenal` !`vein`  
+35636	[bypass graft] `splenorenal` !`vein`  
+35637	[bypass graft] `aortoiliac` !`vein`  
+35638	[bypass graft] `aortobi-iliac` !`vein`  
+35642	[bypass graft] `carotid-vertebral` !`vein`  
+35645	[bypass graft] `subclavian-vertebral` !`vein`  
+35646	[bypass graft] `aortobifemoral` !`vein`  
+35647	[bypass graft] `aortofemoral` !`vein`  
+35650	[bypass graft] `axillary-axillary` !`vein`  
+35651*	bypass graft w/other than vein aortofemoral-popliteal  
+35654	[bypass graft] `axillary-femoral-femoral` !`vein`  
+35656	[bypass graft] `femoral-popliteal` !`vein`  
+35661	[bypass graft] `femoral-femoral` !`vein`  
+35663	[bypass graft] `ilioiliac` !`vein`  
+35665	[bypass graft] `iliofemoral` !`vein`  
+35666	[bypass graft] `femoral-ant tibial/post tibial/peroneal artery` !`vein`  
+35671	[bypass graft] `popliteal-tibial/-peroneal artery` !`vein`  
+35681	[bypass graft] {prosthetic and vein}  
+35682	[bypass graft] {autogenous} {2 segments of veins from 2 locations}
+35683	[bypass graft] {autogenous} {3 or more segments of vein from 2 or more locations}  
+35685	[placement] `vein` {patch/cuff} {distal anastomosis}
+35686	[creation] {distal} `arteriovenous` {fistula} & [bypass] `lower extremity` !{hemodialysis}  
+35691	[transposition and/reimplantation] `vertebral to carotid artery`  
+35693	[transposition and/reimplantation] `vertebral to subclavian artery`  
+35694	[transposition and/reimplantation] `subclavian to carotid artery`  
+35695	[transposition and/reimplantation] `carotid to subclavian artery`  
+35697	[reimplantation] `visceral artery-infrarenal aortic` {prosthesis} {each}
+35700* reoperation femoral-popliteal/femoral/other distal vessels more than 1 month after original operation  
+35701	[exploration] `carotid artery` & ![surgical repair]
+35702* Exploration not followed by surgical repair, artery; upper extremity (eg, axillary, brachial, radial, ulnar) 
+35703* Exploration not followed by surgical repair, artery; lower extremity (eg, common femoral, deep femoral, superficial femoral, popliteal, tibial, peroneal) 
+35721	[exploration] `femoral artery` & ![surgical repair] "Delete CPT 2020"
+35741	[exploration] `popliteal artery` & ![surgical repair] "Delete CPT 2020"
+35761	[exploration] `other vessels` & ![surgical repair] "Delete CPT 2020"
+35800	[exploration] `neck` {postoperative hemorrhage, thrombosis/infection}
+35820	[exploration] `chest` {postoperative hemorrhage, thrombosis/infection}
+35840	[exploration] `abdomen` {postoperative hemorrhage, thrombosis/infection}
+35860	[exploration] `extremity` {postoperative hemorrhage, thrombosis/infection}  
+35870	[repair] {graft-enteric fistula}  
+35875	[mechanical thrombectomy] {arterial or venous graft} !{hemodialysis graft or fistula}  
+35876	[mechanical thrombectomy] & [revision] {arterial or venous graft} !{hemodialysis graft or fistula}
+35879	[revision] `lower extremity` {artery bypass} & [vein patch angioplasty] {open} & ![mechanical thrombectomy]
+35881	[revision] `lower extremity` {artery bypass} & [segmental vein interposition] {open} & ![mechanical thrombectomy]
+35883	[revision] `femoral` {anastomosis arterial bypass} `groin` {open} & [nonautogenous patch graft]  
+35884	[revision] `femoral` {anastomosis arterial bypass} `groin` {open} & [autogenous vein patch graft]  
+35901	[excision] {infected} {graft} `neck`  
+35903	[excision] {infected} {graft} `extremity`  
+35905	[excision] {infected} {graft} `thorax`  
+35907	[excision] {infected} {graft} `abdomen`  
+36000	[introduction] {needle/intracatheter} `vein`  
+36002	[injection] {thrombin} {percutaneous} `extremity` {pseudoaneurysm}  
+36005	[injection] `extremity` {venography}  
+36010	[introduction] {catheter} `superior/inferior vena cava`  
+36011	[selective catheter placement] {venous 1st order}
+36012	[selective catheter placement] {venous 2nd+ order}
+36013	[introduction] {catheter} `right heart/main pulmonary artery`  
+36014	[selective catheter placement] {left/right} `pulmonary artery`  
+36015	[selective catheter placement] {segmental/subsegmental} `pulmonary artery`  
+36100	[introduction] {needle/intracatheter} `carotid/vertebral artery`  
+36120	[introduction] {needle/intracatheter} {retrograde} `brachial artery`  
+36140	[introduction] {needle/intracatheter} `extremity artery`  
+36145*	introduction needle/intracatheter av shunt dialysis  
+36160	[introduction] {needle/intracatheter} `aortic translumbar`  
+36200	 [aortogram]  
+36215*	[selective catheter placement] arterial 1st order thoracic/brachiocephalic branch  
+36216*	[selective catheter placement] arterial 2nd order thoracic/brachiocephalic branch  
+36217*	[selective catheter placement] arterial 3rd+ order thoracic/brachiocephalic branch  
+36218*	[selective catheter placement] arterial add'l 2nd+ order thoracic/brachiocephalic branch  
+36221*	nonslctv cath thor aorta angio intr/xtrcranl art  
+36222*	slctv cath carotid/innom art angio xtrcranl art  
+36223*	slctv cath carotid/innom art angio intrcranl art  
+36224*	slctv cath intrnl carotid art angio intrcrnl art  
+36225*	slctv cath subclavian art angio vertebral artery  
+36226*	slctv cath vertebral art angio vertebral artery  
+36227*	slctv cath xtrnl carotid angio xtrnl carotd circ  
+36228*	slctv cath intrcrnl brnch angio intrl carot/vert  
+36245	[selective catheter placement] `abdominal artery/pelvic artery/lower extremity artery`
+36246	[selective catheter placement] `abdominal artery/pelvic artery/lower extremity artery` {2nd order}  
+36247	[selective catheter placement] `abdominal artery/pelvic artery/lower extremity artery` {3rd order}  
+36248*	[selective catheter placement] arterial add'l 2nd+ order abdominal/pelvic/lower extremity artery branc  
+36251	[angiography] `renal artery`  
+36252	[angiography] `renal arteries` {bilateral}  
+36253	[angiography] `renal artery` {2nd order}  
+36254	[angiography] `renal arteries` {bilateral} {2nd order}  
+36260	[insertion implantable intra-arterial infusion pump]  
+36261	[revision implanted intra-arterial infusion pump]  
+36262	[removal implanted intra-arterial infusion pump]  
+36299*	unlisted proc vascular injection  
+36400*	[venipuncture] `femoral/jugular vein`
+36405*	[venipuncture] `scalp vein`
+36406*	[venipuncture] `other vein`
+36410*	[venipuncture]
+36420*	[venipuncture] {cutdown} "younger than 1"
+36430 [transfusion] !{exchange}  
+36440	[push transfusion] "pediatric"
+36450	[exchange transfusion] "newborn"  
+36455	[exchange transfusion] !"newborn"
+36456	[exchange transfusion] {partial} "newborn"  
+36460	[transfusion] `intrauterine` {fetal}  
+36468	[injection] {single/multiple} {sclerosing solutions} {spider veins} `limb/trunk`  
+36470	[injection] {sclerosing solution} {single} `vein`  
+36471	[injection] {sclerosing solution} {multiple} `veins same leg`  
+36473	[endovenous ablation] {incompetent} `vein` `extremity` {mechanochemical}  
+36474	[endovenous ablation] {incompetent} `vein` `extremity` {mechanochemical} {> than 1}  
+36475	[endovenous ablation] {incompetent} `vein` `extremity` {radiofrequency}  
+36476	[endovenous ablation] {incompetent} `vein` `extremity` {radiofrequency} {> than 1}  
+36478	[endovenous ablation] {incompetent} `vein` `extremity` {lasar}  
+36479	[endovenous ablation] {incompetent} `vein` `extremity` {lasar} {> than 1}
+36481	[catheterization] `portal vein` {percutaneous}
+36500	[catheterization] `venous` {selective organ blood sampling}  
+36510	[umbilical vein catheterization] "newborn"  
+36511	[therapeutic apheresis] {white blood cells}
+36512	[therapeutic apheresis] {red blood cells}
+36513	[therapeutic apheresis] {platelets}
+36514	[therapeutic apheresis] {plasma pheresis}
+36515	[therapeutic apheresis] & [extracorporeal immunoadsorption] & [plasma reinfusion]  
+36516	[therapeutic apheresis] & [extracorporeal selective adsorption/selective filtraton] & [plasma reinfusion]  
+36522	[photopheresis] {extracorporeal}  
+36540*	collect blood specimen completely implanted venous access device  
+36550*	declotting by thrombolytic agent implanted vascular access device/catheter    
+36555	[centrally inserted central catheter] "younger than 5"
+36556 [centrally inserted central catheter] !"younger than 5" & [procedure]
+36557	[permacath] {insertion} !{port} !{pump} "younger than 5"
+36558	[permacath] {insertion} !{port} !{pump} !"younger than 5"
+36560	[mediport] {insertion} "younger than 5"
+36561 [mediport] {insertion} !{robotic} & ![other procedure] !"younger than 5"
+36563	[insertion] {tunneled} {central venous device} {pump}
+36565	[insertion] {tunneled} {central venous device} {2 catheters} {2 sites}
+36566	[insertion] {tunneled} {central venous device} {2 catheters} {2 sites} {port} !{pump}  
+36568	[peripherally inserted central catheter] !{status post} !{port} !{pump} !{unchanged} !{thrombus} & ![guidance] "younger than 5"
+36569	[peripherally inserted central catheter] !{status post}  !{port} !{pump} !{unchanged} & ![guidance] !"younger than 5"
+36570	[peripherally inserted central catheter] !{status post}  {port} !{unchanged} "younger than 5"
+36571	[peripherally inserted central catheter] !{status post} {port} !{unchanged} !"younger than 5"
+36572 [peripherally inserted central catheter] !{status post}  !{port} !{pump} !{unchanged} & [guidance] "younger than 5"
+36573 [peripherally inserted central catheter] !{status post}  !{port} !{pump} !{unchanged} & [guidance] !"younger than 5"
+36575	[repair] {central venous catheter}
+36576	[repair] {central venous catheter} {port/pump}  
+36578	[replacement catheter] {central venous catheter} {port/pump}  
+36580	[replacement] & [centrally inserted central catheter] {non-tunneled} 
+36581	[replacement] & [centrally inserted central catheter] & [tunneled]
+36582	[replacement] {centrally inserted central catheter} {tunneled} {same access} {port} !{pump}  
+36583	[replacement] {centrally inserted central catheter} {tunneled} {same access} {pump} !{port}  
+36584	[replacement] {peripherally inserted central catheter} {same access}
+36585	[replacement] {peripherally inserted central catheter} {same access} {port} !{pump}  
+36589	[removal] {tunneled central venous catheter}
+36590	[removal] {tunneled} {central venous device} {port/pump} {central/peripheral}  
+      [removal] {mediport} & ![replacement] 
+36591	[collection of blood]  {from a completely implantable venous access device}  
+36592	[collection of blood] {using exablished central or peripheral catheter}  
+36593	[declotting] {thrombolytic agent} {implanted vascular access device}
+36595	[mechanical removal] {pericatheter obstructive material} {central venous device} {separate venous access}  
+36596	[mechanical removal] {intraluminal obstructive material} {central venous device} {through device lumen}  
+36597	[repositioning] {central venous catheter} {fluoroscopic guidance}  
+36598	[contrast injection] {evaluation} {central venous access device}
+36600	[arterial puncture] {withdrawal blood} {diagnosis}  
+36620	[arterial catheterization/cannulation] & [sampling, monitoring/transfusion]  
+36625	[arterial catheterization/cannulation] {sampling, monitoring/transfusion} {cutdown}  
+36640	[arterial catheterization] {prolonged infusion therapy} {cutdown}  
+36660	[catheterization] `umbilical artery` "newborn" 
+36680	[placement] {needle} {intraosseous infusion}  
+36800	[insertion] {hemodialysis} `vein to vein`  
+36810	[insertion] {hemodialysis} `av ext`  
+36815	[insertion] {hemodialysis} `av ext` & [revision]  
+36818	[arteriovenous anastomosis] `cephalic vein`  
+36819	[arteriovenous anastomosis] `basilic vein`
+      [arteriovenous anastomosis] {transposition} `brachial basilic` 
+36820	[arteriovenous anastomosis] `forearm vein`
+36821	[arteriovenous anastomosis] `brachiocephalic` & [direct]
+36823	[insert cannula] {isolated extracorporeal circulation}  
+36825	[creation] `av fistula` & [autogenous graft] !{direct}  
+36830	[creation] `av fistula` & [nonautogenous graft] !{direct} !{angiogram} & ![thrombosed] & ![anastamosis]
+      [upper arm av graft] !{angiogram} & ![thrombosed] & ![anastomosis]
+36831	[mechanical thrombectomy] `av fistula` & ![revision] 
+36832	[revision] `av fistula` & ![mechanical thrombectomy] 
+36833	[revision] `av fistula` & [mechanical thrombectomy]
+36834*[repair] `arteriovenous aneurysm`   
+36835	[insertion] {thomas shunt}  
+36838	[distal revascularization and interval ligation] `upper extremity` {hemodialysis access}  
+36860	[external cannula declotting] !{balloon catheter}  
+36861	[external cannula declotting] {balloon catheter}  
+36901	[fistulogram] & ![transluminal balloon angioplasty]
+36902	[fistulogram] & [transluminal balloon angioplasty] & ![stent] & ![mechanical thrombectomy]
+36903	[fistulogram] & [stent placement] & [transluminal balloon angioplasty] & [peripheral dialysis circuit]
+36904	[mechanical thrombectomy] & ![angioplasty] & ![stent]
+36905	[mechanical thrombectomy] & [peripheral dialysis circuit] & [balloon angioplasty]
+36906	[mechanical thrombectomy] `dialysis circuit` & [stent]
+36907	[angioplasty]  `dialysis circuit` `central segment`
+36908	[stent]  `dialysis circuit` `central segment`  
+36909	[embolization]  `dialyis circuit`
+37140	[venous anastomosis] {portocaval}  
+37145	[venous anastomosis] {renoportal}  
+37160	[venous anastomosis] {cavalmesenteric}  
+37180	[venous anastomosis] {splenorenal proximal}  
+37181	[venous anastomosis] {splenorenal distal}  
+37182	[insertion] {transvenous intrahepatic portosystemic shunt}  
+37183	[revision] {transvenous intrahepatic portosystemic shunt}  
+37184	[primary mechanical thrombectomy] `arterial/arterial bypass graft` !`coronary` !`intracranial`  
+37185*[primary mechanical thrombectomy] `arterial/arterial bypass graft` !`coronary` !`intracranial`  
+37186	[secondary thrombectomy] `arterial/arterial bypass graft` !`coronary` !`intracranial`  
+37187	[mechanical thrombectomy] & ![av graft] `vein`
+37188	[mechanical thrombectomy] & ![av graft] `vein` {subsequent}  
+37191	[insertion ] `vena cava` {filter}  
+37192	[repositioning] `vena cava` {filter}
+37193	[retrieval] `vena cava` {filter}
+37195	[thrombolysis] `cerebral` {iv infusion}  
+37197	[transcatheter retrieval] {intravascular fb} {percutaneous}  
+37200	[biopsy] {transcatheter}  
+37201*transcatheter therapy infusion thrombolysis non-coronary  
+37203*transcatheter retrieval percutaneous intravascular fb  
+37204*transcatheter occlusion/embolization percutaneous non-central nervous system non-head/neck  
+37205*transcatheter placement of an intravascular stent percutaneous initial vessel  
+37206*transcatheter placement of an intravascular stent percutaneous each additional vessel  
+37207*transcatheter placement of an intravascular stent open initial vessel  
+37208*transcatheter placement of an intravascular stent open each additional vessel  
+37209*exchange previously placed intravasc catheter during thrombolytic therapy  
+37210*uterine fibroid embolization percutaneous approach radiolgogical supervision and interpretation  
+37211	[tpa] !`coronary` !`intracranial`  
+37212	[tpa] & [venous infusion]   
+37213	[tpa] {subsequent} !`coronary`  
+37214	[tpa] & [cessation]   
+37215	[stent] `cervical carotid artery` {distal embolic protection}  
+37216	[stent] `cervical carotid artery` !{distal embolic protection}  
+37217	[stent] `common carotid/innominate artery` {retrograde} {open}  
+37218	[stent] `common carotid/innominate artery` {antegrade}
+37220	[angioplasty] `iliac artery` & ![stent] 
+37221	[stent] `iliac artery`
+37222 [angioplasty] `iliac artery` `iliac artery` & ![stent]	 
+37223 [stent] `iliac artery` & [stent] `iliac artery`	  
+37224	[angioplasty] `femoral or popliteal artery` & ![endarterectomy] & ![atherectomy] & ![stent]
+37225	[atherectomy] `femoral or popliteal artery` & ![stent]  
+37226 [stent] `femoral or popliteal artery` & ![atherectomy]  
+37227 [atherectomy] & [stent] `femoral or popliteal artery`  
+37228	[angioplasty] `tibial or peroneal artery` & ![endarterectomy] & ![atherectomy] & ![stent]
+37229	[atherectomy] `tibial or peroneal artery` & ![stent]  
+37230	[stent] `tibial or peroneal artery` & ![atherectomy]  
+37231	[atherectomy] & [stent] `tibial or peroneal artery`  
+37232	[angioplasty] `tibial or peroneal artery` & [angioplasty] `tibial or peroneal artery` & ![endarterectomy] & ![atherectomy] & ![stent]  
+37233 [atherectomy] `tibial or peroneal artery` & [atherectomy] `tibial or peroneal artery` & ![stent]
+37234	[stent] `tibial or peroneal artery` & [stent] `tibial or peroneal artery` & ![atherectomy] 
+37235	[atherectomy] & [stent] `tibial or peroneal artery` & [atherectomy] & [stent] `tibial or peroneal artery`
+37236	[stent] `except lower extremity artery`   
+37237*[stent] `except lower extremity artery` & [stent] `except lower extremity artery`  
+37238	[stent] & [placement] `vein`  
+37239*[stent] `vein` & [stent] `vein`  
+37241	[embolization or occlusion] `venous`
+37242	[embolization or occlusion] `arterial` !{hemorrhage} !{tumor}  
+37243	[embolization or occlusion] `arterial` {organ ischemia, tumors or infarction}  
+37244	[embolization or occlusion] `arterial or venous` !{retinal} !`vitreous` {hemorrhage or lymphatic extravasation}  
+37246	[angioplasty] `artery` !`intracranial, coronary, pulmonary/dialysis circuit` !`artery lower extremity`  
+37247*trlml balo angiop open/perq img s&i ea addl art  
+37248	[angioplasty] `vein` !`dialysis circuit` !{vein patch} & ![av graft]
+37249	[angioplasty] `vein` !`dialysis circuit` {each addl vein}  
+37252	[intravascular ultrasound] `vessel` !`coronary`  
+37253	[intravascular ultrasound] `vessel` !`coronary` {each addl vessel}  
+37500	[vascular endoscopy] {surgical} & [ligation] {perforator} `veins` {subfascial}  
+37501*unlisted vascular endoscopy proc  
+37565	[ligation] `internal jugular vein`  
+37600	[ligation] `external carotid artery`  
+37605	[ligation] `internal/common carotid artery`  
+37606	[ligation] `internal/common carotid artery` {gradual occlusion}  
+37607	[ligation/banding] `arteriovenous` {fistula}  
+37609	[ligation/biopsy] `temporal artery`  
+37615	[ligation] `artery neck`  
+37616	[ligation] `artery chest`  
+37617	[ligation] `artery abdomen`  
+37618	[ligation] `artery extremity`  
+37619	[ligation] `inferior vena cava`  
+37620*interruption inferior vena cava  
+37650	[ligation] `femoral vein`  
+37660	[ligation] `common iliac vein`  
+37700	[ligation] & [division] `long saphenous vein` {saphenofemoral junction/distal interruptions}  
+37718	[ligation] & [division] & [stripping] `short saphenous vein`  
+37722	[ligation] & [division] & [stripping] `long saphenous vein`  
+37735	[ligation] & [division] & [stripping] {complete} `saphenous vein` & [radical excision] {ulcer} & [graft] & [excision] `fascia`  
+37760	[ligation] `perforator vein` {subfascial} {radical}  
+37761	[ligation] `perforator vein` {subfascial} {open}
+37765	[stab phlebectomy] `lower extremity` {10 to 19}
+37766	[stab phlebectomy] `lower extremity` {> 20 incisions}  
+37780	[ligation] & [division] `short saphenous vein` {saphenopopliteal junction}  
+37785	[ligation/division/excision] `varicose vein cluster` {leg}  
+37788	[penile revascularization] `artery`  
+37790	[penile venous occlusive procedure]  
+37799*unlisted proc vascular surgery  
+38100	[splenectomy] {total}  
+38101	[splenectomy] {partial}  
+38102	[splenectomy] {total} & [other procedure]  
+38115	[splenorrhaphy]
+38120	[splenectomy] {laparoscopy}  
+38129*unlisted laparoscopy proc spleen  
+38200	[injection] {splenoportography}  
+38204*management recipient hematopoietic progenitor cell donor search & cell acquisition  
+38205*blood-derived hematopoietic progenitor cell harvesting transplantation/collection allogenic  
+38206*blood-derived hematopoietic progenitor cell harvesting transplantation/collection autologous  
+38207*transplant preparation hematopoietic progenitor cells cryopreservation & storage  
+38208*trnspl prep hematop progen thaw prev hrv per dnr  
+38209*trnsp prep hmatop prog thaw prev hrv wsh per dnr  
+38210*transplant prep hematopoietic progenitor cells specfc cell deplet w/in harvest t-cell deplete  
+38211*transplant preparation hematopoietic progenitor cells tumor cell deplete  
+38212*transplant preparation hematopoietic progenitor cells red blood cell removal  
+38213*transplant preparation hematopoietic progenitor cells platelet depletion  
+38214*transplant preparation hematopoietic progenitor cells plasma (volume) depletion  
+38215*transplant prep hematoiepotic progenitor cells cell conc plasma/mononuclear/buffy coat  
+38220	[aspiration] `bone marrow` & ![biopsy] & ![spinal surgery] & ![meniscectomy]
+38221	[biopsy] `bone marrow` & ![aspiration]
+38222 [biopsy] `bone marrow` & [aspiration]
+38230	[bone marrow harvest] {transplantation allogeneic}  
+38232	[bone marrow harvest] {transplantation autologous}  
+38240*bone marrow/blood-derived peripheral stem cell transplantation allogenic   
+38241*bone marrow/blood-derived peripheral stem cell transplantation autologous  
+38242*bone marrow/blood-derived peripheral stem cell transplantat allogeneic donor lymphocyte infusions  
+38243*trnspl hematopoietic cell boost   
+38300	[drainage] `node` {abscess/lymphadenitis}
+38305	[drainage] `node` {abscess/lymphadenitis} {extensive}  
+38308	[lymphangiotomy]  
+38380	[suture and/or ligation] `thoracic duct` {cervical}  
+38381	[suture and/or ligation] `thoracic duct` {thoracic}  
+38382	[suture and/or ligation] `thoracic duct` {abdominal}  
+38500	[bx/excision] `node` {superficial} !{laparoscopy} & ![needle biopsy] 
+38505	[bx/excision]  {needle} `node` `cervical/axillary/inguinal`
+38510	[bx/excision] `node` `cervical`  
+38520	[bx/excision] `node` `cervical` & [excision] `scalene fat pad`  
+38525	[bx/excision] `axillary lymph nodes` !{needle biopsy}
+38530	[bx/excision] `node` {open} `internal mammary`  
+38542	[dissection] {deep} `jugular`
+38550	[excision] {cystic hygroma} `axillary/cervical`
+38555	[excision] {cystic hygroma} `axillary/cervical` & [dissection] {deep neurovascular}  
+38562	[limited lymphadenectomy] {staging} `pelvic para-aortic`  
+38564	[limited lymphadenectomy] {staging} `retroperitoneal`  
+38570	[biopsy] `node` {laparoscopy}  
+38571	[lymphadenectomy] `pelvic` {bilateral} !`peri aortic`
+38572	[lymphadenectomy] `pelvic` {bilateral} `peri aortic`
+38589*laparoscopy lymphatic system unlisted proc  
+38700	[suprahyoid lymphadenectomy]  
+38720	[lymphadenectomy] `cervical` {complete}
+38724	[lymphadenectomy] `cervical` {radical} & ![bladder neck]
+38740	[lymphadenectomy] `axillary` !{biopsy} & ![mastectomy]
+38745	[lymphadenectomy] `axillary` {complete}  
+38746	[thoracic lymphadenectomy]
+38747	[abdominal lymphadenectomy]
+38760	[inguinofemoral lymphadenectomy] & [lymphadenectomy] `pelvic`
+38770	[pelvic lymphadenectomy]
+38780	[retroperitoneal transabdominal lymphadenectomy] {extensive}
+38790	[injection procedure] {lymphangiography}  
+38792	[injection procecure] {radioactive tracer} `sentinel node`  
+38794	[cannulation] `thoracic duct`  
+38900	[mapping] `sentinel lymph node` & [intraoperative]
+38999*unlisted proc hemic/lymphatic system  
+39000	[mediastinotomy] {cervical}  
+39010	[mediastinotomy] {transthoracic}  
+39200	[resection] `mediastinal` {cyst}  
+39220	[resection] `mediastinal` {tumor}  
+39401	[mediastinoscopy]
+39402	[mediastinoscopy] & [biopsy] `node`
+39499*unlisted proc mediastinum  
+39501	[repair] {laceration} `diaphragm`
+39502*repair paraesophageal hiatus hernia transabdominal w/wo fundoplasty vagotomy &/or pyloroplasty  
+39503	[repair] `diaphragmatic` {hernia} !"adult"
+39520*repair diaphragmatic hernia (esophageal hiatal) transthoracic  
+39530*repair diaphragmatic hernia (esophageal hiatal) combined thoracoabdominal  
+39531*repair diaphragmatic hernia (esophageal hiatal) thoracoabdominal w/dilation stricture  
+39540	[repair] `diaphragmatic` {hernia} !"pediatric"  
+39541	[repair] `diaphragmatic` {hernia} {chronic} !"pediatric"  
+39545	[imbrication] `diaphragm`
+39560	[resection] `diaphragm` & [repair]  
+39561	[resection] `diaphragm` & [repair] {complex}  
+39599*unlisted proc diaphragm  

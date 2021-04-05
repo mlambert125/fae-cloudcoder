@@ -1,0 +1,954 @@
+40490	[biopsy] `lip`  
+40500	[vermilionectomy] & [advancement] `mucosal`   
+40510	[excision] `lip` {transverse wedge}
+40520	[excision] `lip` {v-excision}
+40525	[excision] `lip` !{partial thickness} & [reconstruction] {local flap}  
+40527	[excision] `lip` !{partial thickness} & [reconstruction] {cross flap}  
+40530	[resection] `lip` & ![reconstruction]
+40650	[repair] `lip`
+40652	[repair] `lip` {vertical height}  
+40654	[repair] `lip` {complex}  
+40700   [repair] `cleft lip/nasal deformity` !{bilateral}  
+40701	[repair] `cleft lip/nasal deformity` {bilateral}   
+40702	[repair] `cleft lip/nasal deformity` {bilateral}
+40720	[repair] `cleft lip/nasal deformity` {secondary}   
+40761	[repair] `cleft lip/nasal deformity` {cross lip pedicle flap}  
+40799*	unlisted proc `lips`  
+40800	[drainage] {abscess, cyst, or hematoma} `vestibule mouth` !{complicated}     
+40801	[drainage] {abscess, cyst, or hematoma} `vestibule mouth` {complicated}  
+40804	[removal] {fb} `vestibule mouth` !{complicated}  
+40805	[removal] {fb} `vestibule mouth` {complicated}  
+40806	[frenotomy] `labial frenum`  
+40808	[biopsy] `vestibule mouth`  
+40810	[excision] {lesion} `vestibule mouth` & ![repair]  
+40812	[excision] {lesion} `vestibule mouth` & [repair] !{complex}
+40814	[excision] {lesion} `vestibule mouth` & [repair] {complex}  
+40816	[excision] {lesion} `vestibule mouth` & [repair] {complex} & [excision] 
+40818	[excision] {mucosa} `vestibule mouth` {donor graft}  
+40819	[frenumectomy, frenulectomy or frenectomy]  
+40820	[destruction] {lesion/scar} `vestubule mouth`
+40830	[closure laceration] `vestibule mouth`  
+40831	[closure laceration] `vestibule mouth` {>2.5 cm or complex}  
+40840	[vestibuloplasty] {anterior}  
+40842	[vestibuloplasty] {posterior}   
+40843	[vestibuloplasty] {posterior} {bilateral}  
+40844	[vestibuloplasty] {entire arc}  
+40845	[vestibuloplasty] {complex}  
+40899*	unlisted proc vestibule mouth  
+41000	[incision and drainage] {abscess/cyst/hematoma} `tongue/mouth floor` {lingual}  
+41005	[incision and drainage] {abscess/cyst/hematoma} `tongue/mouth floor` {sublingual}   
+41006	[incision and drainage] {abscess/cyst/hematoma} `tongue/mouth floor` {deep or supramylohyoid}  
+41007	[incision and drainage] {abscess/cyst/hematoma} `tongue/mouth floor` {submental}  
+41008	[incision and drainage] {abscess/cyst/hematoma} `tongue/mouth floor` {submandibular}  
+41009	[incision and drainage] {abscess/cyst/hematoma} `tongue/mouth floor` {masticator}  
+41010	[lingual frenotomy]
+41015	[incision and drainage] {abscess/cyst/hematoma} `mouth floor` {sublingual}  
+41016	[incision and drainage] {abscess/cyst/hematoma} `mouth floor` {submental}  
+41017	[incision and drainage] {abscess/cyst/hematoma} `mouth floor` {submandibular}  
+41018	[incision and drainage] {abscess/cyst/hematoma} `mouth floor` {masticator space}  
+41019	[placement] {needles/catheters/other device} `head/neck` {radioelement application}  
+41100	[biopsy] `tongue` {anterior two-thirds}  
+41105	[biopsy] `tongue` {posterior one-third}  
+41108	[biopsy] `floor of mouth`  
+41110	[excision] {lesion} `tongue` & ![closure]  
+41112	[excision] {lesion} `tongue` {anterior two-thirds} & [closure]  
+41113	[excision] {lesion} `tongue` {posterior one-third} & [closure]  
+41114	[excision] {lesion} `tongue` & [local tongue flap]  
+41115	[frenectomy] `lingual frenulum`  
+41116	[excision] {lesion} `mouth floor`  
+41120	[glossectomy] `tongue`  
+41130	[hemiglossectomy]  
+41135	[glossectomy] {partial} & [dissection] `radical neck` !{bilateral}  
+41140	[glossectomy] {complete/total} & ![dissection]  
+41145	[glossectomy] {complete/total} & [dissection] `radical neck` !{bilateral}  
+41150	[glossectomy] & [resection] `mouth floor` `mandibular` & ![dissection] `radical neck`   
+41153	[glossectomy] & [resection] `mouth floor` & [dissection] `suprahyoid neck`   
+41155	[glossectomy] & [resection] `mandibular` & [dissection] `radical neck`   
+41250	[repair] {laceration} `tongue or mouth floor` {anterior two-thirds}   
+41251	[repair] {laceration} {posterior} {one-third} `tongue`  
+41252	[repair] {laceration} `tongue or mouth floor` {> 2.6 cm or complex}  
+41500	[fixation] `tongue` {k-wire} !{suture}  
+41510	[suture] `tongue to lip`   
+41512	[suspension] `tongue base` {permanent}   
+41520	[frenoplasty]  
+41530	[ablation] {submucosal} `tongue base`   
+41599*	unlisted proc tongue mouth floor  
+41800	[drainage] {abscess, cyst or hematoma} `dentoalveolar`   
+41805	[removal] {embedded fb} `dentoalveolar` {soft tissues}  
+41806	[removal] {embedded fb} `dentoalveolar` {bone}  
+41820	[gingivectomy]   
+41821	[operculectomy]   
+41822	[excision] {fibrous tuberosities} `dentoalveolar`   
+41823	[excision] {osseous tuberosities} `dentoalveolar`   
+41825	[excision] {lesion/tumor} `dentoalveolar` & ![fibrous tuberosities] & ![osseous tuberosities] & ![repair]  
+41826	[excision] {lesion/tumor} `dentoalveolar` & ![fibrous tuberosities] & ![osseous tuberosities] & [repair]  
+41827	[excision] {lesion/tumor} `dentoalveolar` & ![fibrous tuberosities] & ![osseous tuberosities] & [repair] {complex}  
+41828	[excision] {hyperplastic} `alveolar mucosa`   
+41830	[alveolectomy]   
+41850	[destruction] {lesion} `dentoalveolar` & ![excision]  
+41870	[grafting] `periodontal mucosal`   
+41872	[gingivoplasty]   
+41874	[alveoloplasty]   
+41899   [dental rehabilitation] !{past status}
+42000	[drainage] {abscess} `palate/uvula`  
+42100	[biopsy] `palate/uvula`  
+42104	[excision] {lesion} `palate/uvula` & ![closure]  
+42106	[excision] {lesion} `palate/uvula` & [closure]  
+42107	[excision] {lesion} `palate/uvula` & [local flap closure]  
+42120	[resection] `palate`   
+42140	[uvulectomy]   
+42145	[palatopharyngoplasty]  
+42160	[destruction] {lesion} `palate/uvula`
+42180	[repair] {laceration} `palate` {< or 2 cm}  
+42182	[repair] {laceration} `palate` {> 2 cm}   
+42200	[palatoplasty] `cleft palate` {soft and/hard}  
+42205	[palatoplasty] `cleft palate` & [closure] `alveolar ridge` 
+42210	[palatoplasty] `cleft palate` & [closure] `alveolar ridge` & [bone graft]  
+42215	[palatoplasty] `cleft palate` & [revision] {major}  
+42220	[palatoplasty] `cleft palate` & [secondary lengthening procedure]  
+42225	[palatoplasty] `cleft palate` & [attachment pharyngeal flap]  
+42226	[lengthening] `pharyngeal flap`  
+42227	[lengthening] `palate` & [island flap]  
+42235	[repair] `anterior palate` & [vomer flap]  
+42260	[repair] `nasolabial` {fistula}  
+42280	[maxillary impression] `palatal` {prosthesis}  
+42281	[insertion] {pin-retained} `palatal` {prosthesis}  
+42299*	unlisted proc palate uvula  
+42300	[drainage] {abscess} `parotid` !{complicated}    
+42305	[drainage] {abscess} `parotid` {complicated}  
+42310	[drainage] {abscess} `submaxillary/sublingual` {intraoral}  
+42320	[drainage] {abscess} `submaxillary` {external}  
+42330	[sialolithotomy] `submandibular, submaxillary, sublingual or parotid` {intraoral}  
+42335	[sialolithotomy] `submandibular or submaxillary` {complicated} {intraoral}  
+42340	[sialolithotomy] `parotid` {extraoral/complicated intraoral}  
+42400	[biopsy] `salivary gland` & [needle placement]  
+42405	[biopsy] `salivary gland` {incisional}  
+42408	[excision] `salivary` {cyst} {sublingual}  
+42409	[marsupialization] `salivary` {cyst} {sublingual}  
+42410	[excision] `parotid tumor/parotid gland` & ![nerve dissection]  
+42415	[excision] `parotid tumor/parotid gland` & [dissection] `lateral lobe` & [preservation] `facial nerve`
+        [parotidectomy] `lateral parotid gland` & [dissection] `facial nerve`
+42420	[excision] `parotid tumor/parotid gland` & [nerve dissection] !{partial} & [preservation] `facial nerve`  
+42425	[excision] `parotid tumor/parotid gland` & [removal] `facial nerve` !{partial}  
+42426	[excision] `parotid tumor/parotid gland` & [dissection] `radical neck` !{partial} !{bilateral}  
+42440	[excision] `submandibular or submaxillary gland`  
+42450	[excision] `sublingual gland`  
+42500	[sialodochoplasty] !{secondary/complicated}    
+42505	[sialodochoplasty] {secondary/complicated}  
+42507	[diversion] `parotid duct` {bilateral}  
+42509	[diversion] `parotid duct` {bilateral} & [excision] `submandibular glands`
+42510	[diversion] `parotid duct` {bilateral} & [ligation] `submandibular ducts`
+42550	[injection] & [sialography]  
+42600	[closure] `salivary` {fistula}  
+42650	[dilation] `salivary duct`  
+42660	[dilation] & [catheterization] `salivary duct`   
+42665	[ligation] `salivary duct` {intraoral}  
+42699*	unlisted proc salivary glands/ducts  
+42700	[incision and drainage] {abscess} `peritonsillar`  
+42720	[incision and drainage] {abscess} `retropharyngeal/parapharyngeal` {intraoral}  
+42725	[incision and drainage] {abscess} `retropharyngeal/parapharyngeal` !{intraoral} 
+42800	[biopsy] `oropharynx`  
+42802	[biopsy] `ypopharynx`  
+42804	[biopsy] `nasopharynx` {lesion}   
+42806	[biopsy] `nasopharynx` {unknown} {lesion}  
+42808	[excision or destruction] {lesion} `pharynx`   
+42809	[removal] {fb} `pharynx`  
+42810*	[excision] branchial cleft cyst/vestige confined to skin & subq tissues  
+42815*	[excision] branchial cleft cyst/vestige/fistula extending beneath subq/pharynx  
+42820	[tonsillectomy] !{past status} & [adenoidectomy] !"adult"
+        [adenotonsillectomy] !{past status} !"adult"
+42821	[tonsillectomy] !{past status} & [adenoidectomy]  
+        [adenotonsillectomy] 
+42825	[tonsillectomy] !{adenoidectomy} !{past status} "younger than 12"
+42826	[tonsillectomy] !{adenoidectomy} !{past status} !"younger than 12"
+42830	[adenoidectomy] !{past status} & ![tonsillectomy] "younger than 12"  
+42831	[adenoidectomy] !{past status} !{tonsillectomy} !"younger than 12"
+42835   [adenoidectomy] {secondary}  "younger than 12"
+42836	[adenoidectomy] {secondary}  !"younger than 12"  
+42842	[resection] {radical} `tonsil, tonsillar pillars and/or retromolar trigone` & ![closure]  
+42844   [resection] {radical} `tonsil, tonsillar pillars and/or retromolar trigone` & [closure local flap]  
+42845	[resection] {radical} `tonsil, tonsillar pillars and/or retromolar trigone` & [closure w/other flap]  
+42860	[excision] `tonsil` {tags}  
+42870	[excision or destruction] `lingual tonsil`   
+42890	[pharyngectomy] {limited}  
+42892	[resection] `lateral pharyngeal wall/pyriform sinus` & [closure] {advancement} {lateral} {posterior} `pharyngeal walls`  
+42894	[resection] `pharyngeal wall` & [closure] {flap} & [anastamosis] {microvascular}  
+42900	[suture] `pharynx`   
+42950	[pharyngoplasty] !{past status}
+42953	[pharyngoesophageal repair] !{past status}
+42955	[pharyngostomy] !{past status}
+42960	[control] `oropharyngeal` {hemorrhage} !{complicated} & ![intraoperative]
+42961	[control] `oropharyngeal` {hemorrhage} {complicated}
+42962	[control] `oropharyngeal` {hemorrhage} {secondary} & [intraoperative]
+42970	[control] `nasopharyngeal` {hemorrhage} & [packs] `posterior nasal`   
+42971	[control] `nasopharyngeal` {hemorrhage} {complicated} & ![intraoperative]
+42972	[control] `nasopharyngeal` {hemorrhage} {secondary} & [intraoperative]
+42999*	unlisted proc pharynx/adenoids/tonsils  
+43020	[esophagotomy] & [removal] {fb} {cervical}  
+43030	[myotomy] `cricopharyngeal`  
+43045	[esophagotomy] & [removal] {fb} {thoracic}  
+43100	[excision] {lesion} `esophagus` & [repair] {cervical approac}  
+43101	[excision] {lesion} `esophagus` & [repair] 
+43107	[esophagectomy] & [pharyngogastrostomy or cervical esophagogastrostomy] & ![thoracotomy]   
+43108	[esophagectomy] & [interposition or reconstruction] `colon or small bowel` & ![thoracotomy]   
+43112	[esophagectomy] & [pharyngogastrostomy or cervical esophagogastrostomy] & [thoracotomy]   
+43113	[esophagectomy] & [interposition or reconstruction] `colon or small bowel` & [thoracotomy]  
+43116	[esophagectomy] {partial} {cervical} {free intestinal graft} & [anastomosis]  
+43117	[esophagectomy] {partial} {distal two thirds} & [thoracotomy] {sep incision} & [esophagogastrostomy]   
+43118	[esophagectomy] {partial} {distal two thirds} & [thoracotomy] {sep incision} & [interposition or reconstruction] `colon or small bowel`  
+43121	[esophagectomy] {partial} {distal two thirds} & [thoracotomy] & [esophagogastrostomy]  
+43122	[esophagectomy] {partial} & [esophagogastrostomy]
+43123	[esophagectomy] {partial} & [interposition or reconstruction] `colon or small bowel`
+43124	[esophagectomy] {partial} & [cervical esophagostomy] & ![reconstruction]   
+43130	[diverticulectomy] `hypopharynx/esophagus` {cervical}  
+43135	[diverticulectomy] `hypopharynx/esophagus` {thoracic}  
+43180	[esophagoscopy] {rigid} & [myotomy] `cricopharyngeal`  
+43191	[esophagoscopy] {rigid} & ![myotomy] & ![injection] & ![fundoplasty] & ![biopsy] & ![balloon dilation]
+43192	[esophagoscopy] {rigid} & [injection] {submucosal}   
+43193	[esophagoscopy] {rigid} & [biopsy]   
+43194	[esophagoscopy] {rigid} & [removal] {fb}   
+43195	[esophagoscopy] {rigid} & [balloon dilation]   
+43196	[esophagoscopy] {rigid} & [insertion] {guide wire} & [dilation]   
+43197	[esophagoscopy] !{rigid} {transnasal} & ![biopsy]   
+43198	[esophagoscopy] !{rigid} {transnasal} & [biopsy]   
+43200	[esophagoscopy] !{rigid} !{transnasal} & ![biopsy] & ![injection] & ![ablation]  
+43201	[esophagoscopy] !{rigid} & [injection] {submucosal}    
+43202	[esophagoscopy] !{rigid} & [biopsy]  
+43204	[esophagoscopy] !{rigid} & [injection] {sclerosis} `esophageal varices`  
+43205	[esophagoscopy] !{rigid} & [ligation] {band} `esophageal varices`  
+43206	[esophagoscopy] `optical` {endomicroscopy}  
+43210	[esophagoscopy] !{rigid} & [fundoplasty] `esophagogastric`  
+43211	[esophagoscopy] !{rigid} & [resection] {mucosal}   
+43212	[esophagoscopy] !{rigid} & [insertion] {stent}  
+43213	[esophagoscopy] !{rigid} & [dilation]
+43214	[esophagoscopy] !{rigid} & [dilation] {>30 mm}  
+43215	[esophagoscopy] !{rigid} & [removal] {fb}  
+43216	[esophagoscopy] !{rigid} & [removal] {lesion} {hot forceps}  
+43217	[esophagoscopy] !{rigid} & [removal] {lesion} {snare}  
+43219*	[esophagoscopy] !{rigid} & [insertion] plastic tube/stent   
+43220	[esophagoscopy] !{rigid} & [dilation] {balloon} {< 30 mm}   
+43226	[esophagoscopy] !{rigid} & [insertion] {guide wire}  
+43227	[esophagoscopy] !{rigid} & [control bleeding]  
+43228*	[esophagoscopy] !{rigid} `lesion` !{hot forceps} !{snare}   
+43229	[esophagoscopy] !{rigid} & [ablation] {tumor or polyp or lesion}   
+43231	[esophagoscopy] !{rigid} & [ultrasound guidance] !{fine needle aspiration/bx}  
+43232	[esophagoscopy] !{rigid} & [ultrasound guidance] {fine needle aspiration/bx}   
+43233	[egd] & [balloon dilation] `esophagus` {> 30 mm}  
+43234*	[egd] simple exam
+43235   [egd] !{past status} & ![other egd procedure]
+43236	[egd] & [submucosal injection]   
+43237	[egd] & [endoscopic ultrasound]  
+43238	[egd] & [fine needle aspiration biopsy] & ![anastomosis]   
+43239	[egd] & [biopsy] & ![fine needle aspiration] 
+43240	[egd] & [drainage] `pseudocyst`  
+43241	[egd] & [insertion] & [intraluminal tube/catheter] & ![gastrostomy tube]   
+43242	[egd] & [fine needle aspiration biopsy] & [ultrasound guidance] & [anastomosis]
+43243	[egd] & [injection] `varices`
+43244	[egd] & [band ligation] `varices`
+43245	[egd] & [dilation] {stricture} `gastric or duodenal` 
+43246	[egd] & [gastrostomy tube] !{laparoscopy}
+43247	[egd] & [foreign body removal]   
+43248	[egd] & [dilation] & [guidewire]
+43249	[egd] !{past status} & [balloon dilation] !{guidewire} & [less than 30 mm]
+43250	[egd] & [removal] {tumor or polyp or lesion} & [hot biopsy] 
+43251	[egd] !{past status} & [removal] {tumor or polyp or lesion} & [snare]
+43252	[egd] & [optical endomicroscopy]   
+43253	[egd] & [injection] {anastamosis} 
+43254	[egd] & [resection] `mucosal`   
+43255	[egd] & [control bleeding]  
+43257	[egd] & [delivery thermal energy] `esophageal sphincter or gastric cardia` 
+43259	[egd] {anastamosis} & [ultrasound guidance] 
+43260	[ercp] & ![biopsy] & ![sphincterotomy or papillotomy] & ![pressure measurement sphincter]  
+43261	[ercp] & [biopsy] & ![sphincterotomy or papillotomy] & ![pressure measurement sphincter]  
+43262	[ercp] & [sphincterotomy or papillotomy] & ![removal] & ![insertion]
+43263	[ercp] & [pressure measurement sphincter]  
+43264	[ercp] & [removal] {calculi or debris} `biliary or pancreatic ducts`  
+43265	[ercp] & [destruction] {calculus}  
+43266	[egd]  & [insertion] {stent} !{cardiac}
+43267	[ercp] & [insertion nasobiliary/nasopancreatic drain tube]  
+43268	[ercp] & [insertion tube/stent bile/pancreatic duct]
+43269	[ercp] & [removal] {fb}
+43270	[egd] & [ablation] {tumor or polyp or lesion}
+43271	[ercp] {balloon dilation} 
+43272*	[ercp] {ablation} lesion not rem by hot forceps/cautery/ {snare}    
+43273	[endoscopic cannulation] `papilla`   
+43274	[ercp] & [insertion] {stent} `biliary/pancreatic duct`  
+43275	[ercp] & [removal] {fb or stent} `biliary/pancreatic duct`  
+43276	[ercp] & [exchange] {stent} `biliary/pancreatic duct`   
+43277	[ercp] & [dilation] {balloon} `biliary/pancreatic duct/ampulla`   
+43278	[ercp] & [ablation] {tumor or polyp or lesion}   
+43279	[esophagomyotomy] & [laparoscopy]   
+43280	[esophagogastric fundoplasty] & [laparoscopy]  
+43281	[repair] `paraesophageal hernia` & [laparoscopy] !{mesh}   
+43282	[repair] `paraesophageal hernia` & [laparoscopy] {mesh}   
+43283	[esophageal lengthening procedure] & [laparoscopy]  
+43284	[placement] {augmentation device} `esophageal sphincter` {laparoscopy}  
+43285	[removal] {augmentation device} `esophageal sphincter`   
+43289*	unlisted proc [laparoscopy] esophagus  
+43300	[esophagoplasty] {cervical} & ![repair]   
+43305	[esophagoplasty] {cervical} & [repair] `tracheoesophageal fistula`  
+43310	[esophagoplasty] {thoracic} & ![repair]   
+43312	[esophagoplasty] {thoracic} & [repair] `tracheoesophageal fistula`  
+43313	[esophagoplasty] {congenital defect} {thoracic} & ![repair]   
+43314	[esophagoplasty] {congenital defect} {thoracic} & [repair] {congenital} `tracheoesophageal fistula`  
+43320	[esophagogastrostomy] {transabdominal/transthoracic}  
+43324 	[fundoplasty] `esophagogastric` !{fundic patch} !{laparotomy} !{thoracotomy}
+43325	[fundoplasty] `esophagogastric` {fundic patch}   
+43326 	[fundoplasty] `esophagogastric` & [gastroplasty]  
+43327	[fundoplasty] `esophagogastric` {laparotomy}  
+43328	[fundoplasty] `esophagogastric` {thoracotomy}  
+43330	[esophagomyotomy] {abdominal}  
+43331	[esophagomyotomy] {thoracic}  
+43332	[repair] `hiatal hernia` {laparotomy} & ![mesh] & ![neonatal]  
+43333	[repair] `hiatal hernia` {laparotomy} & [mesh]   
+43334	[repair] `hiatal hernia` {thoracotomy} & ![mesh] & ![neonatal]  
+43335	[repair] `hiatal hernia` {thoracotomy} & [mesh]  
+43336	[repair] `hiatal hernia` {thoracoabdominal incision} & ![mesh]  
+43337	[repair] `hiatal hernia` {thoracoabdominal incision} & [mesh]   
+43338*	esophageal lengthening procedure (eg collis gastroplasty or {wedge} gastroplasty) (list separately)  
+43340	[esophagojejunostomy] & ![total gastrectomy] {abdominal}  
+43341	[esophagojejunostomy] & ![total gastrectomy] {thoracic}  
+43351	[esophagostomy] {external} {thoracic}  
+43352	[esophagostomy] {external} {cervical}  
+43360	[reconstruction] `gastrointestinal`
+43361	[reconstruction] `gastrointestinal` {interposition or reconstruction} `colon or small intestine`  
+43400	[ligation] `esophageal varices` {direct} 
+43405	[ligation/stapling] `gastroesophageal junction` {pre-existing} {perforation}  
+43410	[suture] `esophagus` {wound or injury} {cervical}  
+43415	[suture] `esophagus` {wound or injury} {transthoracic/transabdominal}  
+43420	[closure] {esophagostomy/fistula} {cervical}  
+43425	[closure] {esophagostomy/fistula} {transthoracic/transabdominal}  
+43450	[bougie dilation] & ![guide wire] & ![balloon]
+43453	[dilation of esophagus] & [guide wire]
+43456	[dilation esophagus] {balloon} {retrograde}    
+43458 	[dilation esophagus] {balloon} {achalasia} 
+43460	[tamponade] `esophagogastric` {balloon}   
+43496	[transfer] {free} `jejunum` & [anastomosis]  
+43499*	unlisted proc esophagus  
+43500	[gastrotomy] & [exploration or removal fb]  
+43501	[gastrotomy] & [suture] {bleeding ulcer}  
+43502   [gastrotomy] & [suture] {pre-existing esophagogastric lacereration}  
+43510	[gastrotomy] & [dilation] & [insertion] `esophagus` {permanent} {tube}  
+43520	[pyloromyotomy] `pylorus`  
+43600*	[biopsy] stomach by capsule tube peroral (1 or more specimens)  
+43605	[biopsy] `stomach` {laparotomy}  
+43610	[excision] {ulcer/benign tumor} `stomach`  
+43611	[excision] {malignant tumo} `stomach`  
+43620	[gastrectomy] !{partial} & [esophagoenterostomy]  
+43621	[gastrectomy] !{partial} & [roux-en-y reconstruction]  
+43622	[gastrectomy] !{partial} & [formation intestinal pouch]   
+43631	[gastrectomy] {partial} {distal} & [gastroduodenostomy]  
+43632	[gastrectomy] {partial} {distal} & [gastrojejunostomy]  
+43633	[gastrectomy] {partial} {distal} & [roux-en-y reconstruction]  
+43634	[gastrectomy] {partial} {distal} & [formation intestinal pouch]  
+43635*	vagotomy w/partial distal gastrectomy  
+43640	[vagotomy] & [pyloroplasty] {truncal/selective}  
+43641	[vagotomy] & [pyloroplasty] {parietal cell}   
+43644	[gastric bypass] & [roux-en-y gastroenterostomy] {< 150cm} {laparoscopy}  
+43645	[gastric bypass] & [reconstruction] `small intestine` {laparoscopy}  
+43647	[implantation or replacement] {gastric neurostimulator electrodes} `antrum` {laparoscopy}  
+43648   [revision or removal] {gastric neurostimulator electrodes} `antrum` {laparoscopy}  
+43651	[transection] `vagus nerves` {truncal} {laparoscopy}  
+43652	[transection] `vagus nerves` {selective or highly selective} {laparoscopy}  
+43653	[gastrostomy] !{status} {laparoscopy}  
+43659   [removal] & [replacement] `gastric` {restrictive device} {subcutaneous port} {laparoscopy}  
+43750*	[placement] {ng tube} {percutaneous} 
+43752	[placement] {ng tube} & [fluoroscopic guidance]
+43753	[intubation] & [aspiration] `gastric` {therapeutic}  
+43754	[intubation] & [aspiration] `gastric` {diagnostic} {single specimen}   
+43755	[intubation] & [aspiration] `gastric` {diagnostic} {multiple specimens}  
+43756	[intubation] & [aspiration] `duodenal` {diagnostic} {imaging guidance} {single specimen}  
+43757	[intubation] & [aspiration] `duodenal` {diagnostic} {imaging guidance} {multiple specimens}  
+43761	[repositioning] {naso-gastric feeding tube} `duodenum` 
+43762   [change] & [gastrostomy tube] !{guidance}           
+43770	[placement] `gastric` {restrictive device} {laparoscopy}  
+43771	[revision] `gastric` {restrictive device} {laparoscopy}  
+43772	[removal] `gastric` {restrictive device} {laparoscopy}  
+43773   [removal] & [replacement] `gastric` {restrictive device} {laparoscopy}  
+43774	[removal] `gastric` {restrictive device} & [removal] {subcutaneous port} {laparoscopy}
+        [removal] `gastric banding device` & [explantation] {port} & [laparoscopy]
+43775	[sleeve gastrectomy] {laparoscopy}  
+43800	[pyloroplasty]  
+43810	[gastroduodenostomy]  
+43820	[gastrojejunostomy] !{agotomy}  
+43825	[gastrojejunostomy] {vagotomy}  
+43830	[gastrostomy] {open} & ![gastric tube]  
+43831	[gastrostomy] {open} {feeding} !"adult" 
+43832	[gastrostomy] {open} & [gastric tube]  
+43840	[gastrorrhaphy] `duodenal/gastric ulcer`  
+43842	[vertical-banded gastroplasty]  
+43843	[gastric restrictve procedure] & ![gastric bypass] & ![vertical-banded gastroplasty]  
+43845	[gastrectomy] {partial} & [duodenoileostomy] & [ileoileostomy] {50-100cm}   
+43846	[gastric bypass] & [gastroenterostmy] {short limb roux-en-y} {<150cm}  
+43847	[gastric bypass] & [reconstruction] `small bowel`   
+43848	[revision] {open} & [gastric restrictive procedure] & ![adjustable gastric restrictive device]  
+43850	[revision] & [reconstruction] {gastroduodenostomy} & ![vagotomy]  
+43855	[revision] & [reconstruction] {gastroduodenostomy} & [vagotomy]  
+43860	[revision] & [reconstruction] {gastrojejunostomy} & ![vagotomy]  
+43865	[revision] & [reconstruction] {gastrojejunostomy} & [vagotomy]  
+43870	[closure gastrostomy]  
+43880	[closure gastrocolic fistula]  
+43881	[implantation or replacement] {gastric neurostimulator electrodes} `antrum` {open}  
+43882	[revision or removal] {gastric neurostimulator electrodes} `antrum` {open}  
+43886	[revision] {subcutaneous port} {component only} {open}  
+43887	[removal] {subcutaneous por} {component only} {open}  
+43888   [removal] & [replacement] {subcutaneous port} {component only} {open}  
+43999*	unlisted proc stomach  
+44005	[enterolysis]   
+44010	[duodenotomy] & [exploration, biopsy or removal fb]  
+44015*	tube/needle catheter jejunostomy enteral alimentation intraoperative any method  
+44020	[enterotomy] & [exploration, biopsy or removal fb] `small bowel` !`duodenum`   
+44021	[enterotomy] & [decompression] `small bowel` !`duodenum`   
+44025	[colotomy] & [exploration, biopsy or removal fb]  
+44050	[reduction] {internal hernia} {laparotomy}  
+44055	[correction and/reduction] {midgut volvulus}  
+44100	[biopsy] `intestine` {capsule}   
+44110	[enterotomy] {lesions} `small or large intestine` {single} & ![anastomosis] & ![exteriorization] & ![fistulization]  
+44111	[enterotomies] {lesions} `small or large intestine` {miltiple} & ![anastomosis] & ![exteriorization] & ![fistulization]  
+44120	[enterectomy] & [anastomosis] `small intestine` {single}   
+44121*	[enterectomy] resection small intestine add'l resection/anastomosis  
+44125	[enterectomy] & [enterostomy] `small intestine`   
+44126	[enterectomy] `small intestine` {congenital atresia} & [anastomosis] & ![tapering]  
+44127*	[enterectomy] resect small intestine congenital atresia anastomosis prox intestine segmnt w/taper  
+44128*	enterectomy resect small intestine congenital atresia ea add'l resect & anastomosis  
+44130	[enteroenterostomy]   
+44132	[donor enterectomy] {open} {cadaver donor}  
+44133	[donor enterectomy] {open} {partial} {living donor}  
+44135	[allotransplantation] `intestinal` {cadaver donor}  
+44136	[allotransplantation] `intestinal` {living donor}  
+44137	[removal] {transplanted allograft} `intestinal` {complete}  
+44139	[mobilization splenic flexure]    
+44140	[colectomy] & [anastomosis] !{laparoscopy} 
+44141	[colectomy] & [cecostomy/colostomy] `skin level` !{laparoscopy}  
+44143	[colectomy] & [colostomy] & [closure] {distal segment} !{laparoscopy} 
+44144	[colectomy] & [resection] & [colostomy/ileostomy] & [creation] {mucofistula} !{laparoscopy} 
+44145	[colectomy] & [coloproctostomy] !{laparoscopy}  
+44146	[colectomy] & [coloproctostomy] & [colostomy] !{laparoscopy} 
+44147	[colectomy] {abdominal and transanal} !{laparoscopy} 
+44150	[colectomy] !{partial} & [ileostomy/ileoproctostomy] & ![proctectomy] !{laparoscopy}  
+44151	[colectomy] !{partial} & [continent ileostomy] & ![proctectomy] !{laparoscopy}  
+44155	[colectomy] !{partial} & [proctectomy] & [ileostomy] !{laparoscopy} 
+44156	[colectomy] !{partial} & [proctectomy] & [continent ileostomy] 1{laparoscopy}  
+44157	[colectomy] !{partial} & [proctectomy] & [anastomosis] `ileoanal` !{laparoscopy}   
+44158	[colectomy] !{partial} & [proctectomy] & [anastomosis] `ileoanal` & [creation reservoir] `ileal` !{laparoscopy}   
+44160	[colectomy] {partial} & [removal] `terminal ileum` & [ileocolostomy] !{laparoscopy} 
+44180	[enterolysis] {laparoscopy}  
+44186	[jejunostomy] {decompression or feeding} {laparoscopy}  
+44187	[ileostomy or jejunostomy] {laparoscopy} & ![non-tube]   
+44188	[colostomy or skin level cecostomy] {laparoscopy}  
+44202	[enterectomy] & [anastomosis] {laparoscopy}  
+44203*	[laparoscopy] surgical each add'l small intestine resection & anastomosis laparoscopy  
+44204	[colectomy] & [anastomosis] {laparoscopy}  
+44205	[colectomy] & [removal] `terminal ileum` & [ileocolostomy] {laparoscopy}  
+44206	[colectomy] & [colostomy] & [closure] {distal segment} {laparoscopy}  
+44207	[colectomy] & [anastomosis] & [coloproctostomy] {laparoscopy}  
+44208	[colectomy] & [anastomosis] & [coloproctostomy] & [colostomy] {laparoscopy}  
+44210	[colectomy] !{partial} & [ileostomy/ileoproctostomy] & ![proctectomy] {laparoscopy}  
+44211	[colectomy] !{partial} & [proctectomy] & [anastomosis] `ileoanal` & [creation] {ileal reservoir} & [loop ileostomy] {laparoscopy}  
+44212	[colectomy] !{partial} & [proctectomy] & [ileostomy] {laparoscopy}  
+44213	[mobilization splenic flexure] {laparoscopy}  
+44227	[closure] {enterostomy} & [resection] & [anastomosis] {laparoscopy}  
+44238*	unlisted [laparoscopy] proc intestine (except rectum)  
+44300	[placement] & [enterostomy/cecostomy tube] {open}  
+44310	[ileostomy or jejunostomy] & ![tube feeding] & ![colectomy] 
+44312	[revision] {ileostomy}   
+44314	[revision] {ileostomy} {complicated}   
+44316	[continent ileostomy]   
+44320	[colostomy or skin level cecostomy] !{laparoscopy} 
+44322	[colostomy or skin level cecostomy] & [biopsies] {congenital megacolon}  
+44340	[revision] {colostomy}   
+44345	[revision] {colostomy} {complicated}   
+44346	[revision] {colostomy} & [repair] {paracolostomy hernia}  
+44360	[esophagogastroduodenoscopy] !{past status} `beyond second portion of duodenum` !`ileum`  
+44361	[esophagogastroduodenoscopy] !{past status} `beyond second portion of duodenum` !`ileum` {biopsy}  
+44363	[esophagogastroduodenoscopy] !{past status} `beyond second portion of duodenum` !`ileum` & [removal] {fb}  
+44364	[esophagogastroduodenoscopy] !{past status} `beyond second portion of duodenum` !`ileum` & [removal] `lesion` {snare}  
+44365	[esophagogastroduodenoscopy] !{past status} `beyond second portion of duodenum` !`ileum` & [removal] `lesion` {hot forceps or cautery}  
+44366	[esophagogastroduodenoscopy] !{past status} `beyond second portion of duodenum` !`ileum` {bleeding}  
+44369	[esophagogastroduodenoscopy] !{past status} `small intestine` !`ileum` & [ablation] {tumor or polyp or lesion}  
+44370	[esophagogastroduodenoscopy] !{past status} `beyond second portion of duodenum` !`ileum` & [transendoscopic stent]  
+44372	[insertion] & [percutaneous jejunostomy tube] !{past status} 
+44373	[esophagogastroduodenoscopy] !{past status} `beyond second portion of duodenum` !`ileum` & [conversion tube]  
+44376	[esophagogastroduodenoscopy] !{past status} `beyond second portion of duodenum`  
+44377	[esophagogastroduodenoscopy] !{past status} `beyond second portion of duodenum` & [biopsy]  
+44378	[esophagogastroduodenoscopy] !{past status} `beyond second portion of duodenum` `ileum` & [bleeding]  
+44379	[esophagogastroduodenoscopy] !{past status} `beyond second portion of duodenum` !`ilium` & [transendoscopic stent]  
+44380	[ileoscopy] & [brushing]
+44381	[ileoscopy] {stoma} & [balloon dilation]  
+44382	[ileoscopy] {stoma} {biopsy}  
+44383	[ileoscopy] {stoma} & [transendoscopic stent]  
+44384	[ileoscopy] {stoma} & [endoscopic stent]  
+44385	[endoscopic] `small intestinal pouch`  
+44386	[endoscopic] `small intestinal pouch` & [biopsy]  
+44388	[colonoscopy] !{past status} & [colostomy approach] & [brushing] 
+44389	[colonoscopy] !{past status} & [colostomy approach] & [biopsy]
+44390	[colonoscopy] !{past status} & [colostomy approach] & [removal] {fb}  
+44391	[colonoscopy] !{past status} & [colostomy approach] & [control bleeding]  
+44392	[colonoscopy] !{past status} & [colostomy approach] & [polyp removal] & [hot forceps]  
+44393	[colonoscopy] !{past status} & [colostomy approach] & [ablation] & ![hot forceps] & ![snare]  
+44394	[colonoscopy] !{past status} & [colostomy approach] & [polyp removal] & [snare]  
+44397	[colonoscopy] !{past status} & [colostomy approach] & [transendoscopic] {stent} & [predilation]  
+44401	[colonoscopy] !{past status} & [colostomy approach] & [ablation] {tumor or polyp or lesion} 
+44402	[colonoscopy] !{past status} & [colostomy approach] & [stent] 
+44403	[colonoscopy] !{past status} & [colostomy approach] & [mucosal resection]  
+44404	[colonoscopy] !{past status} & [colostomy approach] & [submucosal injection]    
+44405	[colonoscopy] !{past status} & [colostomy approach] & [balloon dilation]  
+44406	[colonoscopy] !{past status} & [colostomy approach] & [endoscopic ultrasound]   
+44407	[colonoscopy] !{past status} & [colostomy approach] & [biopsy fine needle] & [ultrasound guidance]  
+44408	[colonoscopy] !{past status} & [colostomy approach] & [decompression]
+44500	[introduction] {long gi tube}  
+44602	[suture] `small intestine` {perforation}  
+44603	[suture] `small intestine` {multiple} {perforations}  
+44604	[suture] `large intestine` & ![colostomy]  
+44605	[suture] `large intestine` & [colostomy]  
+44615	[stricturoplasty] `intestinal` {obstruction}   
+44620	[closure] {enterostomy} `large/small intestine`  
+44625	[closure] {enterostomy} `large/small intestine` & [resection] & [anastomosis] !`colorectal`  
+44626	[closure] {enterostomy} `large/small intestine` & [resection] & [anastomosis] `colorectal`  
+44640	[closure] `intestinal` {fistula}  
+44650	[closure] `enteroenteric/enterocolic` {fistula}  
+44660	[closure] `enterovesical` {fistula} & ![resection]   
+44661	[closure] `enterovesical` {fistula} & [resection] `intestine`   
+        [closure] `enterovesical` {fistula} & [resection] `bladder`  
+44680	[plication] `intestinal`  
+44700	[exclusion] `small bowel` `pelvis` & [mesh/other prosthesis/native tissue]  
+44701	[lavage] `colonic` {intraoperative}  
+44705*	prepare fecal microbiota for instillation  
+44715*	bckbnch cadaver/living donor intestine allograft prep w/mobile/sup mesenteric artery/vein shape  
+44720*	backbench cadaver/living donor intestine allograft reconstruct venous anast ea  
+44721*	backbench cadaver/living donor intestine allograft reconstruct artery anast ea  
+44799*	[unlisted proc intestine]
+44800	[diverticulectomy] {meckel's diverticulum or omphalomesenteric duct}  
+44820	[excision] {lesion} `mesentery`  
+44850	[suture] `mesentery`  
+44899*	[unlisted proc meckels diverticulum & mesentery]  
+44900	[incision and drainage]  `appendiceal` {abscess} {open}  
+44901	[incision and drainage]  `appendiceal` {abscess} {percutaneous}  
+44950	[appendectomy] & ![laparoscopy] & ![status post] 
+44955	[appendectomy] & [other procedure]   
+44960	[appendectomy] {ruptured} {abscess or generalized peritonitis} & ![laparoscopy]
+44970	[appendectomy] !{past status} & [laparoscopy]
+44979*	[unlisted proc laparoscopy appendix]
+45000	[drainage] {transrectal} `pelvic` {abscess}  
+45005	[incision and drainage] {abscess} `submucosal` `rectum`  
+45020	[incision and drainage] {abscess} `deep supralevator` `pelvirectal/retrorectal`   
+45100	[biopsy] `anorectal wall` {anal}  
+45108	[myomectomy] `anorectal`  
+45110	[proctectomy] {complete} `abdominoperineal` & [colostomy]  
+45111	[proctectomy] {partial} {transabdominal}  
+45112	[proctectomy] `abdominoperineal` {pull-through}   
+45113	[proctectomy] {partial} `rectal` & [mucosectomy] `ileoanal` & [anastomosis] & [creation] `ileal` {reservoir}   
+45114	[proctectomy] {partial} & [anastomosis]  
+45116	[proctectomy] {partial} & [anastomosis]  
+45119	[proctectomy] `abdominoperineal` {pull-through} & [creation] `colonic` {reservior}  
+45120	[proctectomy] {complete} {abdominal} {perineal}  {pull-through} & [anastomosis]  
+45121	[proctectomy] {complete} {abd} {perineal} & [colectomy] {subtotal or total} & [biopsy] {multiple}  
+45123	[proctectomy] {partial} {perineal} & ![anastomosis]  
+45126	[exenteration] & [proctectomy] & [removal] `colorectal` {malignancy}  
+45130	[excision] `rectal procidentia` & [anastomosis] {perineal}  
+45135	[excision] `rectal procidentia` & [anastomosis] {abdominal}  {perineal}  
+45136	[excision] `ileoanal reservoir` & [ileostomy]  
+45150	[division] {stricture} `rectum`  
+45160	[proctotomy] `rectal` {tumor} !{transanal}   
+45170	[excision] `rectal` {tumor} {transanal}  
+45171	[excision] `rectal` {tumor} {transanal} & ![muscularis propria]  
+45172	[excision] {tumor}  `rectal` {transanal} & [muscularis propria]   
+45190	[destruction] `rectal` {tumor} {transanal}  
+45300	[proctosigmoidoscopy] {rigid} & ![dilation] & ![biopsy] & ![removal] & ![control bleeding] & ![ablation] & ![decompression] & ![stent] 
+45303	[proctosigmoidoscopy] {rigid} & [dilation]  
+45305	[proctosigmoidoscopy] {rigid} & [biopsy]  
+45307	[proctosigmoidoscopy] {rigid} & [removal] {fb}  
+45308	[proctosigmoidoscopy] {rigid} & [removal] {tumor or polyp or lesion} {hot forceps or cautery}  
+45309	[proctosigmoidoscopy] {rigid} & [removal] {tumor or polyp or lesion} {snare}  
+45315	[proctosigmoidoscopy] {rigid} & [removal] {multi} {tumor or polyp or lesion} & [hot forceps, cautery or snare]  
+45317	[proctosigmoidoscopy] {rigid} & [control bleeding]  
+45320	[proctosigmoidoscopy] {rigid} & [ablation] & ![hot forceps] & ![snare]  
+45321	[proctosigmoidoscopy] {rigid} & [decompression] `volvulus`  
+45327	[proctosigmoidoscopy] {rigid} & [stent]  
+45330	[sigmoidoscopy] & ![other sigmoidoscopy procedure]  
+45331	[sigmoidoscopy] & [biopsy]
+45332	[sigmoidoscopy] & [removal] {fb}  
+45333	[sigmoidoscopy] & [polyp removal] & [hot forceps]  
+45334	[sigmoidoscopy] & [control bleeding]  
+45335	[sigmoidoscopy] & [submucosal injection]
+45337	[sigmoidoscopy] & [decompression]   
+45338	[sigmoidoscopy] & [polyp removal] & [snare]  
+45340	[sigmoidoscopy] & [balloon dilation]   
+45341	[sigmoidoscopy] & [endoscopic ultrasound]   
+45342	[sigmoidoscopy] & [biopsy fine needle] & [ultrasound guidance]
+45346	[sigmoidoscopy] & [ablation]
+45347	[sigmoidoscopy] & [stent]
+45349	[sigmoidoscopy] & [mucosal resection]
+45350	[sigmoidoscopy] & [band ligation] `hemorrhoid`
+45378	[colonoscopy] !{stoma} !{past status} & ![ablation] & ![balloon dilation] & ![polyp removal] & ![biopsy] & ![snare] & ![hot biopsy forceps] & ![submucosal injection] 
+45379	[colonoscopy] !{past status} & [removal] {fb} & ![stoma approach]
+45380	[colonoscopy] !{past status} & [biopsy] 
+45381   [colonoscopy] !{past status} & [submucosal injection] & ![stoma approach]
+        [colonoscopy] !{past status} & [tattoo marking] & ![stoma approach]
+45382	[colonoscopy] !{past status} & [control bleeding] & ![stoma approach] 
+45384	[colonoscopy] !{past status} & [hot biopsy forceps] & [biopsy] & ![stoma approach] & ![snare]
+45385	[colonoscopy] !{past status} & [polyp removal] & [snare]
+45386	[colonoscopy] !{past status} & [balloon dilation] & ![stoma approach] 
+45388	[colonoscopy] !{past status} & [ablation] `polyp` & ![stoma approach]
+45389	[colonoscopy] !{past status} & [stent] & ![stoma approach]  
+45390	[colonoscopy] !{past status} & [endoscopic mucosal resection] {polyp} & ![stoma approach]
+        [colonoscopy] !{past status} & [emr technique] `polyp`
+45391*	[colonoscopy] !{past status} & [ultrasound guidance] & ![stoma approach]       
+45392	[colonoscopy] !{past status} & [biopsy fine needle] & [ultrasound guidance] 
+45393	[colonoscopy] !{past status} & [decompression] {distention} & ![stoma approach]  
+45395	[proctectomy] {complete} & [colostomy] & [laparoscopy]  
+45397	[proctectomy] & [pull-thru procedure] & [creation] {reservoir}   
+45398	[colonoscopy] !{past status} & [band ligation] `hemorrhoid`  
+453__   [colonoscopy] !{diagnostic} !{past status} & ![control bleeding] & ![polyp removal] & ![snare] & ![balloon dilation] & ![ablation] & ![biopsy] "Partial Coding"
+45399*	unlisted procedure colon   
+45400	[laparoscopy] & [proctopexy] {prolapse} & ![resection] `sigmoid`   
+45402	[laparoscopy] & [proctopexy] {prolapse} & [resection] `sigmoid`  
+45499*	unlisted [laparoscopy] procedure rectum  
+45500	[proctoplasty] {stenosis}  
+45505	[proctoplasty] {prolapse} `mucous membrane`  
+45520	[injection] `perirectal` {sclerosing solution} {prolapse}  
+45540	[proctopexy] {prolapse} {abdominal}  
+45541	[proctopexy] {prolapse} {perineal}  
+45550	[proctopexy] & [resection] `sigmiod` {abdominal}  
+45560	[repair] `rectocele` & ![posterior colporrhaphy] & ![perineorrhaphy] & ![vaginectomy] & ![repair vaginal]  
+45562	[repair] & [drainage] `presacral` {rectal injury} & ![colostomy]   
+45563	[repair] & [drainage] `presacral` {rectal injury} & [colostomy]  
+45800	[closure] {rectovesical fistula} & ![colostomy]   
+45805	[closure] {rectovesical fistula} & [colostomy]  
+45820	[closure] {rectourethral fistula} & ![colostomy]   
+45825	[closure] {rectourethral fistula} & [colostomy]  
+45900	[reduction] {procidentia} & [anesthesia] !{local}  
+45905   [dilation] `anal spincter` & [anesthesia] !{local}  
+45910	[dilation] `rectal stricture` & [anesthesia] !{local}  
+45915	[removal] {fecal impaction or fb} {rectum} & [anesthesia]  
+45990	[anorectal exam] & [anesthesia] 
+45999*	unlisted proc rectum  
+46020   [placement] {seton} `anal` 
+46030	[removal] {seton} `anal`  
+46040	[incision and drainage] `perirectal abscess`  
+46045	[incision and drainage]  `intramural/intramuscular/submucosal` `transanal` {abscess} & [anesthesia]  
+46050	[incision and drainage] {superficial} `perianal abscess`   
+46060	[incision and drainage] `ischiorectal or intramural abscess` {fistulectomy, fistulotomy or submuscular}   
+46070	[incision] `anal septum` !"adult"
+46080	[sphincterotomy] & [division] `anal`   
+46083	[incision] {thrombosed} `hemorrhoid` !{internal}   
+46200	[fissurectomy]  
+46210	[cryptectomy]   
+46211	[cryptectomy] {multiple}  
+46220	[excision] !{internal}  {papilla or tag} `anus`  
+46221	[hemorrhoidectomy] {band ligation} {internal}
+46230	[excision] {multiple} {external} {papillae or tags} `anus`  
+46250	[hemorrhoidectomy] !{internal} `hemorrhoid` 
+        [hemorrhoidectomy] & [external] `hemorrhoid` & ![internal] `hemorrhoid`
+46255	[hemorrhoidectomy] !{two column} {internal} {external} `hemorrhoid`
+        [hemorrhoidectomy] !{two column} & [internal] `hemorrhoid` & [external] `hemorrhoid`
+46257	[hemorrhoidectomy] !{two column} {internal} {external} & [fissurectomy]
+        [hemorrhoidectomy] !{two column} & [internal] `hemorrhoid` & [external] `hemorrhoid` & [fissurectomy]
+46258	[hemorrhoidectomy] !{two column} {internal} {external} & [fistulectomy]  
+46260	[hemorrhoidectomy] & [internal] `hemorrhoid` & [external] `hemorrhoid` & ![fissurectomy] & ![fistulectomy]
+        [hemorrhoidectomy] {internal} {external} & ![fissurectomy] & ![fistulectomy]
+46261	[hemorrhoidectomy] {internal} {external} & [fissurectomy] & ![fistulectomy]
+        [hemorrhoidectomy] & [internal] `hemorrhoid` & [external] `hemorrhoid` & [fissurectomy] & ![fistulectomy]
+46262	[hemorrhoidectomy] {internal} {external} !{single column} & [fistulectomy]  
+46270	[fistulectomy/fistulotomy] `anal canal` & [subcutaneous track] `fistula`
+46275	[fistulectomy/fistulotomy] `intersphincteric`  
+46280	[fistulectomy/fistulotomy] `anal` {fistula} {transsphincteric or multiple}   
+46285	[fistulectomy/fistulotomy] `anal` {fistula}  {2nd stage}  
+46288	[closure] {fistula} {rectal advancement flap}  
+46320	[excision] {thrombosed} `hemorrhoid` {external}  
+46500	[injection] {sclerosing solution} `hemorrhoids`  
+46505	[chemodenervation] {internal} `anal sphincter`  
+46600	[anoscopy] !{chemical agents} & ![dilation] & ![biopsy] & ![removal] & ![control bleeding] & ![ablation] 
+46601	[anoscopy] {chemical agents}  
+46604	[anoscopy] & [dilation]  
+46606	[anoscopy] & [biopsy]  
+46607	[anoscopy] & [biopsy] {chemical agents}   
+46608	[anoscopy] & [removal] {fb}  
+46610	[anoscopy] & [removal] {tumor or polyp or lesion} {hot forceps or cautery}  
+46611	[anoscopy] & [removal] {tumor or polyp or lesion} {snare}  
+46612	[anoscopy] & [removal] {tumor or polyp or lesion} & [hot forceps, cautery or snare]  
+46614	[anoscopy] & [control bleeding]  
+46615	[anoscopy] & [ablation] {tumor or polyp or lesion} & ![hot forceps, cautery or snare]  
+46700	[anoplasty] {stricture} "adult"  
+46705	[anoplasty] {stricture} !"adult"   
+46706	[repair] `anal` {fistula} {fibrin glue}  
+46707	[repair] `anorectal` {fistula} {plug}    
+46710	[repair] `ileoanal pouch` {fistula/sinus} {pouch advancement} {transperineal}  
+46712	[repair] `ileoanal pouch` {fistula/sinus} {pouch advancement} {transperineal} {transabdominal}  
+46715	[repair] {low imperforate anus} `anoperineal` {fistula}  
+46716	[repair] {low imperforate anus} & [transposition] `anoperineal or anovestibular` {fistula}  
+46730	[repair] {high imperforate anus} {perineal or sacroperineal} & ![fistula]  
+46735	[repair] {high imperforate anus} {transabdominal and sacroperineal} & ![fistula]  
+46740	[repair] {high imperforate anus} `recto-urethral or vaginal` {fistula} {perineal or sacroperineal}  
+46742	[repair] {high imperf anus} `recto-urethral or vaginal` {fistula} {transabdominal and sacroperineal}  
+46744	[anorectovaginoplasty] {sacroperineal} & [urethroplasty]
+46746	[anorectovaginoplasty] !{sacroperineal} & [urethroplasty]
+46748	[anorectovaginoplasty] !{sacroperineal} & [urethroplsty] & [vaginl lengthning]
+46750	[sphincteroplasty] `anal` {incontinence or prolapse} "adult"  
+46751	[sphincteroplasty] `anal` {incontinence or prolapse} !"adult"   
+46753	[graft] `rectal` {incontinence or prolapse}  
+46754	[removal] {thiersch wire or suture} `anal canal`  
+46760	[sphincteroplasty] `anal` {incontinence} & [muscle transplant] "adult"   
+46761	[sphincteroplasty] `anal` {incontinence} & [levator muscle imbrication] "adult"   
+46762	[sphincteroplasty] `anal` {incontinence} & [implantation artificial sphincter] "adult"   
+46900	[destruction] `anal` {lesion} {chemical}  
+46910	[destruction] `anal` {lesion} {electrodesiccation}  
+46916	[destruction] `anal` {lesion} {cryosurgery}  
+46917	[destruction] `anal` {lesion} {laser surgery}  
+46922	[excision] {lesion} `anal`  
+46924	[destruction] `anal` {lesion} {extensive}  
+46930	[destruction] `internal hemorrhoid` {thermal energy}   
+46940	[curettage or cautery] `anal` {fissure} & [dilation] `sphincter`   
+46942	[curettage or cautery] `anal` {fissure} & [dilation] `sphincter` {subsequent}  
+46945	[hemorrhoidectomy] {internal} {ligation} & ![rubber band]   
+46946	[hemorrhoidectomy] {internal} {ligation} {2 or more hemorrhoid} & ![rubber band]    
+46947	[hemorrhoidopexy] {stapling}
+46948	[hemorrhoidectomy] {internal} {dearterialization} 
+46999*	unlisted proc anus  
+47000	[biopsy] `liver` & [needle placement] !{with other major procedure}
+47001	[biopsy] `liver` & [needle placement] {with other major procedure} 
+47010	[hepatotomy] & [drainage] `liver` {abscess or cyst}   
+47011*	hepatotomy percutaneous [drainage] abscess/cyst one/two stages  
+47015	[laparotomy] & [aspiration and/or injection] `hepatic parasitic` {cyst or abscess}  
+47100	[biopsy] `liver` {wedge}  
+47120	[hepatectomy] `liver` {partial lobectomy}  
+47122	[hepatectomy] `liver` {trisegmentectomy}  
+47125	[hepatectomy] `liver` !{partial} {left} {lobectomy}  
+47130	[hepatectomy] `liver` !{partial} {right} {lobectomy}  
+47133	[donor hepatectomy] `liver` {cold preservation} {cadaver donor}  
+47135	[allotransplantation] {orthotopic} `liver`  
+47140	[donor hepatectomy] {living donor} {left} {lateral segment}   
+47141	[donor hepatectomy] {living donor} {left} {total lobectomy}  
+47142	[donor hepatectomy] {living donor} {right} {total lobectomy}  
+47143*	backbench prep cadaver donor whole liver graft w/o trisegment/lobe split  
+47144*	backbench prep cadaver whole liver graft w/trisegment split/whole liver graft 2 liver grafts  
+47145*	backbench prep cadaver donor whole liver graft w/graft lobe split-2 liver grafts (left/right lobe)  
+47146*	backbench cadaver/living donor liver graft reconstruct venous anastomosis ea  
+47147*	backbench cadaver/living donor liver graft reconstruct arterial anastomosis ea  
+47300	[marsupialization] {cyst or abscess} `liver`  
+47350	[suture] `liver` !{complex}   
+47360	[suture] `liver` {complex}   
+47361	[exploration hepatic wound] `liver` &  [debridement, coagulation and/or suture]  
+47362	[re-exploration hepatic wound] `liver` & [removal packing]  
+47370	[laparoscopy] & [ablation] `liver` {tumor} {radiofrequency}  
+47371	[laparoscopy] & [ablation] `liver` {tumor} {cryosurgical}  
+47379*	unlisted laparoscopy procedure liver  
+47380	[ablation] {open} `liver` {tumor} {radiofrequency}  
+47381	[ablation] {open} `liver` {tumor} {cryosurgical}  
+47382   [ablation] {percutaneous} `liver` {tumor} {radiofrequency}  
+47383	[ablation] {percutaneous} `liver` {tumor} {cryosurgery}  
+47399*	unlisted proc liver  
+47400	[hepaticotomy/hepaticostomy] {exploration/drainage/removal calculus}  
+47420	[choledochotomy/choledochostomy] {exploration/drainage/removal calculus} & ![transduodenal sphincterotomy/plasty]  
+47425	[choledochotomy/choledochostomy] {exploration/drainage/removal calculus} & [transduodenal sphincterotomy/plasty]  
+47460	[sphincterotomy/sphincteroplasty] {transduodenal}
+47480	[cholecystotomy or cholecystostomy] {open} {exploration/drainage/removal calculus}  
+47490	[cholecystostomy] {percutaneous}   
+47531	[cholangiography] {existing access}  
+47532	[cholangiography] !{past status}  
+47533	[placement] `biliary` {drainage catheter} {external} & [percutaneous]
+47534	[placement] `biliary` {drainage catheter} {internal-external} & [percutaneous] 
+47535	[conversion] `biliary` {drainage catheter} {internal-external} & [percutaneous]  
+47536	[exchange] `biliary` {drainage catheter} & [percutaneous]  
+47537	[removal] `biliary` {drainage catheter} {fluoroscopic guidance} & [percutaneous]  
+47538	[stent] `bile duct` & [percutaneous]  
+47539	[stent] `bile duct` !{past status} !{drainage catheter} & [percutaneous]  
+47540	[stent] `bile duct` !{past status} & [placement] `biliary` {drainage catheter} & [percutaneous]  
+47541	[placement access] `biliary tree` `small bowel` {assist endoscopic procedure} {percutaneous}  
+47542	[balloon dilattion] `biliary duct or ampulla` & [percutaneous]   
+47543	[endoluminal biopsy] `biliary tree` & [percutaneous] 
+47544	[removal] {calculi or debris} `bile ducts or gallbladder` & [percutaneous]  
+47550	[choledochoscopy] {intraoperative}  
+47552	[biliary endoscopy] {t-tube or other tract} & ![biopsy] & ![removal]
+47553	[biliary endoscopy] {t-tube or other tract} & [biopsy]
+47554	[biliary endoscopy] {t-tube or other tract} & [removal] {calculus} 
+47555	[biliary endoscopy] & [dilation] `biliary duct` & ![stent]
+47556	[biliary endoscopy] & [dilation] `biliary duct` & [stent]  
+47562	[cholecystectomy] {laparoscopy} !{past status} & ![cholangiography] 
+47563	[cholecystectomy] {laparoscopy} !{past status} & [cholangiography]  
+47564	[cholecystectomy] {laparoscopy} {exploration} !{past status} `common duct`  
+47570	[laparoscopy cholecystoenterostomy]  
+47579*	unlisted proc [laparoscopy] biliary tract  
+47600	[cholecystectomy] !{robotic} !{past status} !{cholangiography} & ![laparoscopy]
+47605	[cholecystectomy] !{past status} !{laparoscopy} & [cholangiography] !{laparoscopy}
+47610	[cholecystectomy] {exploration} `common duct` !{laparoscopy}  
+47612	[cholecystectomy] {exploration} `common duct` & [choledochoenterostomy] !{laparoscopy}  
+47620	[cholecystectomy] {exploration} `common duct` & [transduodenal sphincterotomy] & [sphinctoplasty] !{laparoscopy}  
+47700	[exploration] `bile ducts` {congenital atresia} & ![repair]    
+47701	[portoenterostomy]  
+47711	[excision] `bile duct` {tumor} {extrahepatic}  
+47712	[excision] `bile duct` {tumor} {intrahepatic}  
+47715	[excision] `choledochal` {cyst}  
+47719*	anastomosis choledochal cyst without excision  
+47720	[cholecystoenterostomy] {direct}  
+47721	[cholecystoenterostomy] & [gastroenterostomy]  
+47740	[cholecystoenterostomy] & [roux-en-y] & ![gastroenterostomy] 
+47741	[cholecystoenterostomy] & [roux-en-y] & [gastroenterostomy]  
+47760	[anastomosis] `extrahepatic` `biliary ducts` `gastrointestinal tract`  
+47765	[anastomosis] `intrahepatic` `biliary ducts` `gastrointestinal tract`  
+47780	[anastomosis] & [roux-en-y] `extrahepatic` `biliary ducts`
+47785	[anastomosis] & [roux-en-y] `intrahepatic` `biliary ducts`
+47800	[reconstruction] {plastic} `extrahepatic` `biliary ducts` & [anastomosis] {end-to-end}  
+47801	[stent] `choledochal`  
+47802	[hepaticoenterostomy]  
+47900	[suture] `extrahepatic` `biliary duct` {pre-existing injury}
+47999*	unlisted proc biliary tract
+48000	[placement] {drains} `peripancreatic`   
+48001	[placement] {drains} `peripancreatic` & [cholecystostomy] & [gastrostomy] & [jejunostomy]  
+48020	[removal] `pancreatic` {calculus}
+48100	[biopsy] `pancreas` {open}  
+48102	[biopsy] `pancreas` {needle} & [percutaneous]
+48105	[resection or debridement] `pancreas` `peripancreatic tissue` {necrotizing}
+48120	[excision] `pancreas` {lesion}  
+48140	[pancreatectomy] {distal} {subtotal} & ![pancreaticojejunostomy]
+48145	[pancreatectomy] {distal} {subtotal} & ![pancreaticojejunostomy]
+48146	[pancreatectomy] {distal} {near-total} {preservation duodenum} !"adult" 
+48148	[excision] `ampulla vater`  
+48150	[pancreatectomy] & [pancreatojejunostomy]  
+48152	[pancreatectomy] & ![pancreatojejunostomy]  
+48153	[pancreatectomy] & [pancreatojejunostomy] {pylorus sparing}  
+48154	[pancreatectomy] & ![pancreatojejunostomy] {pylorus sparing}  
+48155	[pancreatectomy] !{partial}  
+48160	[pancreatectomy] & [transplantation] `pancreas/pancreatic islets` {autologous}   
+48400	[injection] & [pancreatography] {intraoperative}  
+48500	[marsupialization] {cyst} `pancreas`  
+48510	[external drainage] {pseudocyst} `pancreas` {open}  
+48511*	ext [drainage] pseudocyst pancreas percutaneous  
+48520	[anastomosis] `pancreatic cyst` `gastrointestinal tract` {direct}  
+48540	[roux-en-y] `pancreatic cyst` `gastrointestinal tract`  
+48545	[pancreatorrhaphy] {injury}  
+48547	[duodenal exclusion] & [gastrojejunostomy] `pancreatic` {injury}  
+48548	[pancreaticojejunostomy] {side-to-side anastomosis}  
+48550*	donor pancreatectomy (w/cold preservation) w/wo duodenal segment for transplantation  
+48551*	backbench prep cadaver donor pancreas allograft w/allograft dissect from tiss  
+48552*	backbench cadaver donor pancreas allograft reconstruct venous anastomosis ea  
+48554	[transplantation] `pancreatic` {allograft}  
+48556	[removal] `pancreatic` {transplanted} {allograft}  
+48999*	unlisted proc pancreas  
+49000	[laparotomy] & ![reopening]  
+49002	[reopening] & [laparotomy] {recent}   
+49010	[exploration] `retroperitoneal`
+49013*	preperitoneal pelvic packing for hemorrhage associated with pelvic trauma, including local exploration 
+49014*	re-exploration of pelvic wound with removal of preperitoneal pelvic packing, including repacking, when performed  
+49020	[drainage] `peritoneal` {abscess or peritonitis} {open} & ![appendiceal abscess]   
+49021	[drainage] `peritoneal` {abscess or peritonitis} {percutaneous} & ![appendiceal abscess]  
+49040	[drainage] `subdiaphragmatic or subphrenic` {abscess} {open}  
+49041	[drainage] `subdiaphragmatic or subphrenic` {abscess} {percutaneous}  
+49060	[drainage] `retroperitoneal` {abscess} {open}  
+49061	[drainage] `retroperitoneal` {abscess} {percutaneous}  
+49062	[drainage] {extraperitoneal lymphocele} `peritoneal cavity` {open}  
+49080*	peritoneocentesis abdominal paracentesis/peritoneal lavage initial  
+49081*	peritoneocentesis abdominal paracentesis/peritoneal lavage subsequent  
+49082	[paracentesis]  & ![imaging guidance] 
+49083	[paracentesis]  & [imaging guidance]
+49084	[lavage] `peritoneal`  
+49180	[biopsy] `abdominal or retroperitoneal` {mass} & [needle placement]  
+49185	[sclerotherapy] {fluid collection}  
+49200*	excision/[destruction] {open} intra-abdominal/retroperitoneal lesion  
+49201*	excision/[destruction] any method intra-abdominal/retroperitoneal lesion extensive  
+49203	[excision or destruction] {open} {intra-abdominal tumors} {< 5 cm}   
+49204	[excision or destruction] {open} {intra-abdominal tumors} {5.1-10.0 cm}  
+49205	[excision or destruction] {open} {intra-abdominal tumors} {> 10.0 cm}  
+49215	[excision] `presacral or sacrococcygeal` {tumor}  
+49250	[umbilectomy]
+49255	[omentectomy]
+49320	[laparoscopy] `peritoneal` & ![biopsy] & ![salpingectomy] & ![other surgical procedure]
+49321	[laparoscopy] `peritoneal` & [biopsy] & ![other surgical procedure]
+49322	[laparoscopy] & [aspiration] {cavity or cyst} 
+49323	[laparoscopy] & [drainage] {lymphocele} `peritoneal cavity`
+49324	[catheter placement] `peritoneal`  & [laparoscopy]
+49325	[revision] {intraperitoneal cannula or catheter}
+49326	[omentopexy] {laparoscopy}
+49327	[placement] {interstitial device}
+49329*	unlisted proc [laparoscopy] abdomen peritoneum & omentum   
+49400	[injection] {air or contrast} `peritoneal cavity`  
+49402	[removal] {fb} `peritoneal cavity`  
+49405	[drainage] {fluid collection} `visceral` {guidance} {percutaneous}  
+49406	[drainage] {fluid collection} {guidance} {percutaneous} !`visceral` 
+49407	[drainage] {fluid collection} {catheter} `peritoneal or retroperitoneal` {transrectal or transvaginal} {imaging guidance}  
+49411	[placement] {interstitial device} {percutaneous} `intra-abdominal, pelvic or retroperitoneum`  
+49412	[placement] {interstitial device} {open} `intra-abdominal, pelvic or retroperitoneum`  
+49418	[insertion] {tunneled} {catheter} `intraperitoneal` {percutaneous}  
+49419	[insertion] {tunneled} {catheter} `intraperitoneal` {subcutaneous port}   
+49421	[insertion] {tunneled} {catheter} `intraperitoneal` {open}  
+49422	[removal] {tunneled} {catheter} `intraperitoneal`   
+49423	[exchange] {drainage catheter} {abscess/cyst} {imaging guidance}  
+49424	[contrast injection] {ssessment} {abscess/cyst} {drainage catheter tube}  
+49425	[insertion] `peritoneal-venou` {shunt}  
+49426	[revision] `peritoneal-venous` {shunt}  
+49427	[injection] {evaluation} {previously placed} `peritoneal-venous` {shunt}  
+49428	[ligation] `peritoneal-venous` {shunt}  
+49429	[removal] `peritoneal-venous` {shunt}  
+49435*	[insertion] of subcut extension to intraperitoneal cannula or catheter w/ remote chest exit site  
+49436*	delayed creation of exit site from embedded subcut segment of intraperitoneal cannula or catheter   
+49440	[gastrostomy] !{status} !{replacement} !{exchange} !{placement} & [laparoscopy]
+49441	[duodenostomy/jejunostomy]   
+49442	[cecostomy or colonic tube]  
+49446	[conversion] {gastrostomy} {gastro-jejunostomy}   
+49450	[exchange] {percutaneous} {g-tube/cecostomy/colon tube}
+        [exchange] `percutaneous endoscopy gastrostomy tube` & [fluoroscopy]
+49451	[exchange] {duodenostomy/jejunostomy tube}
+49452	[exchange] {gastro-jejunostomy tube}
+49460   [removal] {obstruction} {stomy tube}
+49465	[contrast injection] {ostomy tube}
+49491   [inguinal hernia repair] & [up to 50 weeks old] & [preemie at birth] 
+49492	[inguinal hernia repair] & [incarcerated or strangulated] !{ovary} & [up to 50 weeks old] & [preemie at birth] 
+49495	[inguinal hernia repair] "infant"
+49496	[inguinal hernia repair] & [incarcerated or strangulated] !{ovary} "infant"
+49500	[inguinal hernia repair] & ![incarcerated or strangulated] !{ovary} "younger than 5"
+49501	[inguinal hernia repair] & [incarcerated or strangulated] !{ovary} "younger than 5"
+49505	[repair] !{laparoscopy} `inguinal hernia` & ![incarcerated] !{ovary} !"younger than 5"
+49507	[repair] {open} `inguinal hernia` & [incarcerated or strangulated] !{ovary} !"younger than 5"
+49520	[repair] `inguinal hernia` & [recurrent]
+49521   [inguinal hernia repair] & [recurrent] & [incarcerated or strangulated] 
+49525	[inguinal hernia repair] {sliding}
+49540	[repair] `lumbar hernia`  
+49550	[repair] `femoral hernia` {reducible}  
+49553	[repair] `femoral hernia` & [incarcerated or strangulated] 
+49555	[repair] {recurrent} `femoral hernia` {reducible}  
+49557	[repair] {recurrent} `femoral hernia` & [incarcerated or strangulated] 
+49560	[repair] {open} `incisional or ventral hernia` & ![incarcerated or strangulated]
+        [repair] !{laparoscopy} `incisional or ventral hernia` & ![incarcerated or strangulated]
+49561	[repair] {open} {incisional or ventral hernia} & [incarcerated or strangulated]
+        [repair] !{laparoscopy} `incisional or ventral hernia` & [incarcerated or strangulated]
+49565	[repair] {open} `incisional or ventral hernia` {reducible} 
+        [repair] `incisional or ventral hernia` {reducible} !{laparoscopy}
+49566	[repair] {open} `incisional or ventral hernia` {recurrent} & [incarcerated or strangulated]
+        [repair] !{laparoscopy} `incisional or ventral hernia` {recurrent} & [incarcerated or strangulated]
+49568 	[repair] `hernia` & [mesh] & [removal/debridement] {infection or necrosis or defect}
+49570	[repair] `epigastric hernia` & [reducible]
+49572	[repair] `epigastric hernia` & [nonreducible hernia]
+49580	[repair] `umbilical hernia` {reducible} "younger than 5"
+49582	[repair] `umbilical hernia` & [incarcerated or strangulated] "younger than 5"
+49585	[repair] !{laparoscopy} `umbilical hernia` & ![nonreducible] !"younger than 5"
+49587	[repair] !{laparoscopy} `umbilical hernia` & [nonreducible] !"younger than 5"
+49590	[repair] `spigelian hernia`  
+49600	[repair] `small omphalocele` {primary closure}  
+49605	[repair] `large omphalocele/gastroschisis` & ![removal]  
+49606	[repair] `large omphalocele/gastroschisis` & [removal] {prosthesis}  
+49610	[repair] `omphalocele` !{2nd stage} 
+49611	[repair] `omphalocele` {2nd stage} 
+49650	[laparoscopy] `inguinal hernia` & ![recurrent repair]
+49651	[laparoscopy] `inguinal hernia` {recurrent} 
+49652	[laparoscopy] & [repair] `hernia` {umbilical} !{incarcerated} !{recurrent} 
+        [laparoscopy] & [repair] `hernia` {ventral} !{incarcerated} !{recurrent} 
+        [laparoscopy] & [repair] `hernia` {spigelian} !{incarcerated} !{recurrent} 
+        [laparoscopy] & [repair] `hernia` {epigastric} !{incarcerated} !{recurrent} 
+49653	[laparoscopy] & [repair] !{open} `hernia` {umbilical} {incarcerated} !{recurrent} 
+        [laparoscopy] & [repair] !{open} `hernia` {ventral} {incarcerated} !{recurrent} 
+        [laparoscopy] & [repair] !{open} `hernia` {spigelian} {incarcerated} !{recurrent} 
+        [laparoscopy] & [repair] !{open} `hernia` {epigastric} {incarcerated} !{recurrent} 
+49654	[laparoscopy] & [repair] !{open} `incisional hernia` !{incarcerated}  !{recurrent}
+        [repair] {laparoscopy} `incisional hernia`
+49655	[laparoscopy] & [repair] !{open} `incisional hernia` {incarcerated}  !{recurrent} 
+        [laparoscopy] `ventral hernia` {incarcerated}
+49656	[laparoscopy] {recurrent} `incisional hernia` !{incarcerated}  
+        [laparoscopy] & [repair] !{open} {recurrent} `incisional hernia` !{incarcerated} 
+49657	[laparoscopy] {recurrent} `incisional hernia` {incarcerated}  
+        [laparoscopy] & [repair] !{open} {recurrent} `incisional hernia` {incarcerated} 
+49659*	unlisted proc laparoscopy hernioplasty/herniorrhaphy/herniotomy  
+49900	[suture] `abdominal wall` {dehiscence}  
+49904	[omental flap] `extra-abdominal`  
+49905	[omental flap] `intra-abdominal`   
+49906	[omental flap] {free} & [anastomosis]  
+49999*	unlisted proc abdomen peritoneum & omentum  

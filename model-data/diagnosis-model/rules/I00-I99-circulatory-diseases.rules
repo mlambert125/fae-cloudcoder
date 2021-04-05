@@ -1,0 +1,1438 @@
+I00     [rheumatic fever] !{family hx} !`heart`
+I010    [pericarditis] !{family hx} {rheumatic} 
+I011    [endocarditis] !{family hx} {rheumatic} 
+I012    [rheumatic myocarditis] !{family hx} 
+I018    [other heart disease rheumatic] !{family hx}
+I019    [heart disease] !{family hx} {rheumatic} {acute} !{nonrheumatic}  
+I020    [chorea] !{family hx} {rheumatic} `heart`
+I029    [chorea] !{family hx} {rheumatic} !`heart`
+I050    [stenosis] !{family hx} !{nonrheumatic} `mitral valve`
+        [rheumatic mitral stenosis] & ![insufficiency] `mitral valve`
+I051    [insufficiency] !{family hx} {rheumatic} `mitral valve` & ![stenosis] {mitral}
+I052    [stenosis] !{family hx} !{nonrheumatic} `mitral valve` & [insufficiency] !{family hx} `mitral valve` & ![insufficiency] `aorta` & ![insufficiency] `tricuspid`
+I058    [other rheumatic mitral valve diseases] !{family hx}  
+I059    [disease] !{family hx} !{nonrheumatic} `mitral valve`
+I060    [rheumatic aortic stenosis] !{family hx}
+I061    [rheumatic aortic insufficiency] !{family hx}
+I062    [rheumatic aortic stenosis] !{family hx} & [insufficiency] !{family hx} `aorta`
+I068    [other rheumatic aortic valve diseases] !{family hx}
+I069    [rheumatic] !{family hx} `aortic valve` !{nonrheumatic}
+I070    [stenosis] !{family hx} {rheumatic} `tricuspid`
+I071    [insufficiency] !{family hx} `tricuspid` !`aortic valves` !`mitral` & ![nonrheumatic]
+I072    [stenosis] !{family hx} {rheumatic} `tricuspid` & [insufficiency] !{family hx} `tricuspid`
+I078    [other rheumatic tricuspid valve diseases] !{family hx} 
+I079    [disease] !{family hx} !{nonrheumatic} `tricuspid valve`
+I080    [disorder] !{family hx} !{nonrheumatic} `mitral valve` & [disorder] !{family hx} !{nonrheumatic} `aortic valves`
+I081    [insufficiency] !{family hx} `tricuspid` `mitral valve`
+        [regurgitation] !{family hx} `mitral` & [insufficiency] `tricuspid`
+I082    [insufficiency] !{family hx} `aortic valves` `tricuspid valve`
+I083    [disorder] !{family hx} `mitral valve` `aortic valves` `tricuspid valve` & ![nonrheumatic]
+I088    [other rheumatic multiple valve diseases] !{family hx} & ![nonrheumatic]
+I089    [rheumatic multiple valve disease] !{family hx} & ![nonrheumatic]
+I090    [rheumatic myocarditis] !{family hx} 
+I091    [disease] !{family hx} {rheumatic} `endocardium`
+I092    [pericarditis] !{family hx} {chronic} {rheumatic}
+I0981   [heart failure] !{family hx} {rheumatic}
+I0989   [other specified rheumatic heart diseases] !{family hx} 
+I099    [rheumatic carditis] !{family hx} !{acute} 
+I10     [hypertension] !{family hx} !{pulmonary hypertension} !{borderline} & ![chronic kidney disease or heart failure or portal] !{family hx} & ![gestational] !{family hx}
+I110    [hypertension] !{family hx} !{borderline} & [heart failure] !{family hx} & ![chronic kidney disease] !{family hx} & ![pregnancy] !{family hx} !{lab or test or history}
+I119    [hypertension] !{family hx} {heart disease} & ![heart failure] !{family hx} & ![chronic kidney disease]
+I120    [hypertension] !{family hx} !{borderline} & [esrd] !{family hx} & ![heart failure] !{family hx} & ![pregnancy] !{family hx} !{lab or test or history}
+        [hypertension] !{family hx} !{borderline} & [chronic kidney disease] !{family hx} {stage 5} & ![heart failure] !{family hx} & ![pregnancy] !{family hx} !{lab or test or history}
+I129    [hypertension] !{family hx} !{borderline} & [chronic kidney disease] !{family hx} !{end stage} !{stage 5} & ![heart failure] !{family hx} & ![pregnancy] !{family hx} !{lab or test or history}
+I130    [hypertension] !{family hx} & [chronic kidney disease] !{family hx} !{stage 5} & [heart failure] !{family hx} & ![pregnancy] !{family hx} !{lab or test or history}
+I1310   [hypertensive heart disease] !{family hx} & [chronic kidney disease] !{family hx} !{stage 5} & ![heart failure] !{family hx} & ![pregnancy] !{family hx} !{lab or test or history}
+I1311   [hypertensive heart disease] !{family hx} & [chronic kidney disease] !{family hx} !{stage 5}& [chronic kidney disease] !{family hx} {stage 5} & ![pregnancy] !{family hx} !{lab or test or history}
+I132    [hypertensive heart disease] !{family hx} & [chronic kidney disease] !{family hx} {stage 5} & [heart failure] !{family hx} & ![pregnancy] !{family hx} !{lab or test or history}
+        [hypertensive heart disease] !{family hx} & [esrd] !{family hx} & [heart failure] !{family hx} & ![pregnancy] !{family hx} !{lab or test or history}
+I150    [hypertension] !{family hx} `renovascular` & ![pregnancy] !{family hx} !{lab or test or history}
+I151    [hypertension] !{family hx} {secondary} & [renal disorder] !{family hx} & ![pregnancy] !{family hx} !{lab or test or history}
+I152    [hypertension] !{family hx} {secondary} & [endocrine disorder] !{family hx} & ![pregnancy] !{family hx} !{lab or test or history}
+I158    [hypertension] !{family hx} {other secondary} & ![pregnancy] !{family hx} !{lab or test or history}
+I159    [hypertension] !{family hx} {secondary} !{secondary to} & ![pregnancy] !{family hx} !{lab or test or history}
+I160    [hypertensive urgency] !{family hx}
+I161    [hypertensive emergency] !{family hx}
+I169    [hypertensive crisis] !{family hx}
+I724    [aneurysm] `artery of lower extremity`
+I725    [aneurysm] !{family hx} `precerebral arteries` 
+I726    [aneurysm] !{family hx} `vertebral artery` 
+I7770   [dissection of unspecified artery] !{family hx} 
+I7775   [dissection] !{family hx} `precerebral arteries` 
+I7776   [dissection] !{family hx} `artery of upper extremity` 
+I7777   [dissection] !{family hx} `artery of lower extremity` 
+I200    [unstable angina] !{family hx} !{coronary artery disease} & ![atherosclerotic heart disease] !{family hx} 
+I201    [angina pectoris] !{family hx} & [spasm] !{family hx} & ![atherosclerotic heart disease] !{family hx} 
+I208    [other angina pectoris] !{family hx} 
+I209    [angina pectoris] !{family hx} & ![atherosclerotic heart disease] !{family hx} 
+I2101   [myocardial infarction] !{family hx} {st elevation} {left} `main coronary artery` 
+I2102   [myocardial infarction] !{family hx} {st elevation} {left} `anterior descending coronary artery` 
+I2109   [myocardial infarction] !{family hx} {st elevation} `coronary artery of anterior wall` 
+I2111   [myocardial infarction] !{family hx} {st elevation} {right} `coronary artery` 
+I2119   [myocardial infarction] !{family hx} {st elevation} `coronary artery of inferior wall` 
+I2121   [myocardial infarction] !{family hx} {st elevation} {left} `circumflex coronary artery` 
+I2129   [myocardial infarction] !{family hx} {st elevation} `involving other sites`
+I213    [myocardial infarction] !{family hx} {st elevation} 
+        [acute stemi] !{family hx}
+I214    [nstemi] !{family hx} 
+I219    [acute myocardial infarction] !{family hx} !{history} & ![stemi] !{family hx} & ![nstemi] !{family hx} 
+I21A1   [myocardial infarction type 2] !{family hx} 
+I21A9   [other myocardial infarction type] !{family hx} 
+I220    [myocardial infarction] !{family hx} {subsequent} {st elevation} `anterior wall` 
+I221    [myocardial infarction] !{family hx} {subsequent} {st elevation} `inferior wall` 
+I222*   [myocardial infarction] !{family hx} {subsequent} {st elevation} 
+I228*   [myocardial infarction] !{family hx} {subsequent} {st elevation} of other sites 
+I229    [myocardial infarction] !{family hx} {subsequent} {st elevation} 
+I230    [hemopericardium] !{family hx} & [acute myocardial infarction] !{family hx} 
+I231    [septal defect] !{family hx} {atrial} & [acute myocardial infarction] !{family hx} 
+I232    [septal defect] !{family hx} {ventricular} & [acute myocardial infarction] !{family hx} 
+I233    [rupture] !{family hx} `cardiac wall` & [acute myocardial infarction] !{family hx} & ![hemopericardium] !{family hx} 
+I234    [rupture] !{family hx} `chordae tendineae` & [acute myocardial infarction] !{family hx} 
+I235    [rupture] !{family hx} `papillary muscle` & [acute myocardial infarction] !{family hx} 
+I236    [thrombosis] !{family hx} `atrium` & [acute myocardial infarction] !{family hx} 
+        [thrombosis] !{family hx} `auricular appendage` & [acute myocardial infarction] !{family hx} 
+        [thrombosis] !{family hx} `ventricle` & [acute myocardial infarction] !{family hx} 
+I237    [postinfarction angina] !{family hx} 
+I238*   other current complications following myocardial infarction 
+I240    [thrombosis] !{family hx} `coronary` & ![myocardial infarction] !{family hx} 
+I241    [dresslers syndrome] !{family hx} 
+I248*   [other forms of ischemic heart disease] !{family hx}
+I249    [ischemic heart disease] !{family hx} {acute} 
+I2510   [atherosclerotic heart disease] !{family hx} & ![angina pectoris] !{family hx} & ![mammogram]
+        [atherosclerotic heart disease] !{family hx} & [angina pectoris] {without} !{family hx} & ![mammogram]
+I25110  [atherosclerotic heart disease] !{family hx} & [unstable angina] !{family hx}
+I25111  [atherosclerotic heart disease] !{family hx} & [angina pectoris with spasm] !{family hx} 
+I25118  [atherosclerotic heart disease] !{family hx} & [other forms of angina pectoris] !{family hx} 
+I25119  [atherosclerotic heart disease] !{family hx} & [angina pectoris] !{family hx} !{unstable} !{without}
+I252    [myocardial infarction] {history} !{family hx} 
+I253    [aneurysm] !{family hx} `heart` !{personal history}
+I2541   [aneurysm] !{family hx} `coronary artery` !{personal history}
+I2542   [dissection] !{family hx} `coronary artery`!{personal history}
+I255    [ischemic cardiomyopathy] !{family hx} !{non ischemic}
+I256    [ischemia] !{family hx} {silent} {myocardial} 
+I25700  [atherosclerosis] !{family hx} `coronary artery bypass graft` & [angina pectoris] !{family hx} {unstable} 
+I25701  [atherosclerosis] !{family hx} `coronary artery bypass graft` & [angina pectoris] !{family hx} & [spasm] !{family hx} 
+I25708* [atherosclerosis] !{family hx} `coronary artery bypass graft` & other forms of [angina pectoris] !{family hx} 
+I25709  [atherosclerosis] !{family hx} `coronary artery bypass graft` & [angina pectoris] !{family hx} 
+I25710  [atherosclerosis] !{family hx} {autologous} `autologous vein coronary artery bypass graft` & [angina pectoris] !{family hx} {unstable} 
+I25711  [atherosclerosis] !{family hx} `autologous vein coronary artery bypass graft` & [angina pectoris] !{family hx} & [spasm] !{family hx} 
+I25718* [atherosclerosis] !{family hx} `autologous vein coronary artery bypass graft` & other forms of [angina pectoris] !{family hx} 
+I25719  [atherosclerosis] !{family hx} `autologous vein coronary artery bypass graft` & [angina pectoris] !{family hx} 
+I25720  [atherosclerosis] !{family hx} `autologous artery coronary artery bypass graft` & [angina pectoris] !{family hx} {unstable} 
+I25721  [atherosclerosis] !{family hx} `autologous artery coronary artery bypass graft` & [angina pectoris] !{family hx} & [spasm] !{family hx} 
+I25728* [atherosclerosis] !{family hx} `autologous artery coronary artery bypass graft` & other forms of [angina pectoris] !{family hx} 
+I25729  [atherosclerosis] !{family hx} `autologous artery coronary artery bypass graft` & [angina pectoris] !{family hx} 
+I25730  [atherosclerosis] !{family hx} `nonautologous biological coronary artery bypass graft` & [angina pectoris] !{family hx} {unstable} 
+I25731  [atherosclerosis] !{family hx} `nonautologous biological coronary artery bypass graft` & [angina pectoris] !{family hx} & [spasm] !{family hx} 
+I25738* [atherosclerosis] !{family hx} `nonautologous biological coronary artery bypass graft` & other forms of [angina pectoris] !{family hx} 
+I25739  [atherosclerosis] !{family hx} `nonautologous biological coronary artery bypass graft` & [angina pectoris] !{family hx} 
+I25750  [atherosclerosis] !{family hx} `native coronary artery of transplanted heart` & [angina] !{family hx} {unstable} 
+I25751  [atherosclerosis] !{family hx} `native coronary artery of transplanted heart` & [angina pectoris] !{family hx} & [spasm] !{family hx} 
+I25758* [atherosclerosis] !{family hx} `native coronary artery of transplanted heart` with other forms of [angina pectoris] !{family hx} 
+I25759  [atherosclerosis] !{family hx} `native coronary artery of transplanted heart` & [angina pectoris] !{family hx} 
+I25760  [atherosclerosis] !{family hx} `bypass graft of coronary artery of transplanted heart` & [angina] !{family hx} {unstable} 
+I25761  [atherosclerosis] !{family hx} `bypass graft of coronary artery of transplanted heart` & [angina pectoris] !{family hx} & [spasm] !{family hx} 
+I25768* [atherosclerosis] !{family hx} `bypass graft of coronary artery of transplanted heart` with other forms of [angina pectoris] !{family hx} 
+I25769  [atherosclerosis] !{family hx} `bypass graft of coronary artery of transplanted heart` & [angina pectoris] !{family hx} 
+I25790  [atherosclerosis] !{family hx} `coronary artery bypass graft` & [angina pectoris] !{family hx} {unstable} 
+I25791  [atherosclerosis] !{family hx} `coronary artery bypass graft` & [angina pectoris] !{family hx} & [spasm] !{family hx} 
+I25798* [atherosclerosis] !{family hx} `coronary artery bypass graft` & other forms of [angina pectoris] !{family hx} 
+I25799  [atherosclerosis] !{family hx} `coronary artery bypass graft` & [angina pectoris] !{family hx} 
+I25810  [atherosclerosis] !{family hx} `coronary artery bypass graft` & ![angina pectoris] !{family hx}
+I25811  [atherosclerosis] !{family hx} `native coronary artery of transplanted heart` & ![angina pectoris] !{family hx} 
+I25812  [atherosclerosis] !{family hx} `bypass graft of coronary artery of transplanted heart` & ![angina pectoris] !{family hx} 
+I2582   [occlusion] !{family hx} {chronic} `coronary artery` 
+I2583   [atherosclerosis] !{family hx} `coronary` & [lipid rich plaque] !{family hx} 
+I2584   [atherosclerosis] !{family hx} `coronary` & [calcified coronary lesion] !{family hx} 
+I2589*  other forms of {chronic} [ischemic heart disease] !{family hx} 
+I259    [ischemic heart disease] !{family hx} {chronic} 
+I2601   [embolism] !{family hx} {septic} `pulmonary` & [cor pulmonale] !{family hx} 
+I2602   [saddle embolus] !{family hx} `pulmonary artery` & [cor pulmonale] !{family hx} 
+I2609   [embolism] !{family hx} `pulmonary` & [cor pulmonale] !{family hx} 
+I2690   [embolism] !{family hx} {septic} `pulmonary` & ![cor pulmonale] !{family hx} & ![acute] !{family hx} 
+I2692   [saddle embolus] !{family hx} `pulmonary artery` & ![cor pulmonale] !{family hx} & ![acute] !{family hx} 
+I2693	[single subsegmental pulmon emblsm w/o acute cor pulmonale] !{family hx}
+I2694	[mult subsegmental pulmon emboli without acute cor pulmonale] !{family hx}
+I2699   [embolism] !{family hx} `pulmonary`!{history} & ![cor pulmonale] !{family hx} & ![acute] !{family hx} & ![checking] !{family hx} 
+I270    [pulmonary hypertension] !{family hx} {primary} 
+I271    [heart disease] !{family hx} {kyphoscoliotic} 
+I2720   [pulmonary hypertension] !{family hx} 
+I2721   [secondary pulmonary arterial hypertension] !{family hx} 
+I2722   [pulmonary hypertension] !{family hx} {due to} & [left heart disease] !{family hx} 
+I2723   [pulmonary hypertension] !{family hx} {secondary to} & [lung diseases] !{family hx} & [hypoxia] !{family hx} 
+I2724   [chronic thromboembolic pulmonary hypertension] !{family hx} 
+I2729   [other secondary pulmonary hypertension]
+I2781   [cor pulmonale] !{family hx} {chronic} 
+I2782   [embolism] !{family hx} {chronic} `pulmonary` 
+I2783   [eisenmengers syndrome] !{family hx} 
+I2789   [pulmonary heart diseases] !{family hx} 
+I279    [heart disease] !{family hx}  `pulmonary`
+I280    [fistula] !{family hx} {arteriovenous} `pulmonary vessels`
+I281    [aneurysm] !{family hx} `pulmonary artery` 
+I288*   other [disease] !{family hx} `pulmonary vessels` 
+I289    [disease] !{family hx} `pulmonary vessels` 
+I300    [pericarditis] !{family hx} {idiopathic} 
+I301    [pericarditis] !{family hx} {infective} 
+I308*   other forms of [pericarditis] !{family hx} 
+I309    [pericarditis] !{family hx} !{chronic}
+I310    [pericarditis] !{family hx} {chronic} {adhesive} 
+I311    [pericarditis] !{family hx} {chronic} {constrictive} 
+I312    [hemopericardium] !{family hx} 
+I313    [effusion] !{family hx} `pericardial` 
+I314    [cardiac tamponade] !{family hx} 
+I318*   other specified [disease] !{family hx} `pericardium` 
+I319    [disease] !{family hx} `pericardium` 
+I32*    pericarditis in diseases classified elsewhere 
+I330    [bacterial endocarditis] !{rheumatic} !{family hx} {subacute} 
+I339    [endocarditis] !{rheumatic} !{family hx} {subacute} 
+I340    [insufficiency] !{rheumatic} !{family hx} !{aortic} `mitral valve` & ![stenosis] `mitral valve`
+I341    [prolapse] !{family hx} !{rheumatic} `mitral valve`
+I342    [stenosis] !{family hx} !{rheumatic} `mitral valve`
+I348*   other mitral valve disorders 
+I349    [disorder] {nonrheumatic} !{family hx} `mitral valve` !`aortic valve`
+I350    [stenosis] !{rheumatic} !{family hx} `aortic valve` !`mitral valve`
+I351    [insufficiency] !{family hx} !{rheumatic} `aortic valve` !`mitral valve` !{congenital}
+I352    [stenosis] !{family hx} !{rheumatic} `aortic valve` !`mitral valve` & [insufficiency] `aortic valve` !`mitral valve` !{family hx} & ![rheumatic]
+I358*   other aortic valve disorders 
+I359    [disorder] !{family hx} !{rheumatic} `aortic valve` !`mitral valve`
+I360    [stenosis] !{family hx} !{rheumatic} `tricuspid valve` 
+I361    [insufficiency] !{family hx} !{rheumatic} `tricuspid valve` & ![stenosis] `mitral valve` & ![insufficiency] `mitral valve`
+        [straddling] !{family hx} !{rheumatic} `tricuspid`
+I362    [stenosis] !{family hx} `tricuspid valve` & [insufficiency] !{family hx} & ![rheumatic]
+I368*   other tricuspid valve disorders 
+I369    [disorder] !{family hx} !{rheumatic} `tricuspid valve` 
+I370    [stenosis] !{family hx} !{rheumatic} `pulmonary valve` & ![congenital] !{family hx} 
+I371    [insufficiency] !{family hx} !{rheumatic} `pulmonary valve` 
+I372    [stenosis] !{family hx} !{rheumatic} `pulmonary valve` & [insufficiency] !{family hx} 
+I378*   other pulmonary valve disorders 
+I379    [disorder] !{family hx} `pulmonary valve` 
+I38     [endocarditis] !{acute} !`tricuspid valve` !`pulmonary valve` !`aortic valve` !{rheumatic} !{nonrheumatic} !{family hx} 
+I39*    endocarditis and heart valve disorders in diseases classified elsewhere  
+I400    [myocarditis] !{rheumatic} !{family hx} {infective} 
+I401    [myocarditis] !{rheumatic} !{family hx} {isolated} 
+I408*   other [myocarditis] !{family hx} 
+I409    [myocarditis] !{rheumatic} !{family hx} 
+I41*    myocarditis in diseases classified elsewhere 
+I420    [cardiomyopathy] !{family hx} {dilated} & ![ischemic] !{family hx} !{alcohol related}
+I421    [cardiomyopathy] !{family hx} {obstructive} {hypertrophic} 
+I422    [cardiomyopathy] !{family hx} {hypertrophic} 
+I423    [disease] !{family hx} `endomyocardial` 
+I424    [fibroelastosis] !{family hx} `endocardial` 
+I425    [cardiomyopathy] !{family hx} {restrictive} 
+I426    [cardiomyopathy] !{family hx} {alcoholic} & ![dilated] !{family hx}
+I427    [cardiomyopathy] !{family hx} {secondary to drug}
+I428    [other cardiomyopathies] !{family hx} 
+I429    [cardiomyopathy] !{hypertrophic} !{obstructive} !{family hx} !{ischemic} !{secondary to drug} !{secondary} !{restrictive}
+I43*    cardiomyopathy in diseases classified elsewhere 
+I440    [atrioventricular block] !{family hx} {first degree} 
+I441    [atrioventricular block] !{family hx} {second degree}
+        [mobitz type ii] !{family hx}
+I442    [atrioventricular block] !{family hx} {complete} 
+I4430   [atrioventricular block] !{family hx} !{congenital}
+I4439*  other [atrioventricular block] !{family hx} 
+I444    [left anterior fascicular block] !{family hx} 
+I445    [left posterior fascicular block] !{family hx} 
+I4460   [fascicular block] !{family hx} 
+I4469*  other [fascicular block] !{family hx} 
+I447    [left bundle branch block] !{family hx} 
+I450    [right fascicular block] !{family hx} 
+I4510   [right bundle branch block] !{family hx} 
+I4519*  other [right bundle branch block] !{family hx} 
+I452    [bifascicular block] !{family hx} 
+I453    [trifascicular block] !{family hx} 
+I454    [intraventricular block] !{family hx} 
+I455    [heart block] !{family hx} & ![congenital] !{family hx} 
+I456    [pre excitation syndrome] !{family hx} 
+I4581   [long qt syndrome] !{family hx} 
+I4589*  other specified conduction disorders 
+I459    [conduction disorder] !{family hx} 
+I462    [cardiac arrest] !{family hx} !{history} & [underlying cardiac condition] !{family hx} 
+I468*   cardiac arrest due to other underlying condition 
+I469    [cardiac arrest] !{family hx} !{history}
+I470    [arrhythmia] !{family hx} `ventricle` 
+I471    [supraventricular tachycardia] !{family hx}
+I472    [tachycardia] !{family hx} `ventricle` 
+I479    [tachycardia] !{family hx} `paroxysmal` 
+I480    [paroxysmal atrial fibrillation] !{family hx} !{persistent} 
+I481    [atrial fibrillation] !{family hx} {persistent} !{longstanding} "delete icd10 fy2020"
+I4811   [atrial fibrillation] !{family hx} {persistent} {longstanding}
+I4819   [atrial fibrillation] !{family hx} {persistent} !{longstanding}
+I482    [atrial fibrillation] !{family hx} {chronic} "delete icd10 fy2020"
+I4820   [chronic atrial fibrillation] !{family hx}
+I4821   [atrial fibrillation] !{family hx} {permanent}
+I483    [atrial flutter] !{family hx} {typical}
+I484    [atrial flutter] !{family hx} {atypical}
+I4891   [atrial fibrillation] !{family hx} !{persistent} !{chronic} & ![paroxysmal] !{family hx}
+I4892   [atrial flutter] !{family hx}
+I4901   [ventricular fibrillation] !{family hx}
+I4902   [ventricular flutter] !{family hx}
+I491    [depolarization] !{family hx} {premature} `atrial`
+        [premature atrial depolarization]
+I492    [depolarization] !{family hx} {premature} `junctional`
+I493    [ventricular premature depolarization] !{family hx} !{infrequent}
+I4940   [depolarization] !{family hx} {premature}
+I4949*  other [depolarization] !{family hx} {premature}   
+I495    [sick sinus syndrome] !{family hx} 
+I498    [potts syndrome] !{family hx}
+I499    [arrhythmia] !{family hx} 
+I501    [dysfunction] !{family hx} {left} `ventricular` 
+I5020   [congestive heart failure] !{family hx} {systolic} !{diastolic} !{chronic} !{acute}
+I5021   [congestive heart failure] !{family hx} {acute} !{chronic} {systolic} !{diastolic} 
+I5022   [congestive heart failure] !{family hx} {chronic} {systolic} !{diastolic} !{acute}
+I5023   [congestive heart failure] !{family hx} {acute on chronic} {systolic} !{diastolic}
+I5030   [congestive heart failure] !{family hx} {diastolic} !{systolic} !{chronic} !{acute} 
+I5031   [congestive heart failure] !{family hx} {acute} {diastolic} !{chronic} !{systolic}
+I5032   [congestive heart failure] !{family hx} {diastolic} !{acute} !{systolic}
+I5033   [congestive heart failure] !{family hx} {acute on chronic} {diastolic} !{systolic}
+I5040   [congestive heart failure] !{family hx} {combined heart failure} !{acute} !{chronic}
+I5041   [congestive heart failure] !{family hx} {acute} {combined heart failure} !{chronic}
+I5042   [congestive heart failure] !{family hx} {chronic} {combined} !{acute}
+I5043   [congestive heart failure] !{family hx} {acute on chronic} {combined heart failure}
+I50810  [right heart failure] !{family hx} !{acute}
+I50811  [right heart failure] !{family hx} {acute}
+I50812  [right heart failure] !{family hx} {chronic} !{acute}
+I50813  [right heart failure] !{family hx} {acute on chronic}
+I50814  [right heart failure] !{family hx} {due to} & [left heart failure] !{family hx} 
+I5082   [biventricular heart failure] !{family hx} 
+I5083   [high output heart failure] !{family hx} 
+I5084   [end stage heart failure] !{family hx} 
+I5089*  other heart failure 
+I509    [congestive heart failure] !{family hx} !{systolic} !{diastolic} !{acute exacerbation} !{family hx}
+I510    [septal defect] !{family hx} {cardiac} {acquired} 
+I511    [rupture] !{family hx} `chordae tendineae` 
+I512    [rupture] !{family hx} `papillary muscle` 
+I513    [thrombosis] !{family hx} `intracardiac` 
+I514    [myocarditis] !{family hx} 
+I515    [myocardial degeneration] !{family hx} 
+I517    [cardiomegaly] !{family hx} 
+I5181   [takotsubo syndrome] !{family hx} 
+I5189   [other ill defined heart diseases] !{family hx} !{stage 1}
+I519    [heart disease] !{arteriosclerotic} !{family hx}
+I52*    other heart disorders in diseases classified elsewhere 
+I6000   [hemorrhage] !{family hx} `subarachnoid` & [siphon and bifurcation] !{family hx} `carotid` 
+I6001   [sah] {acute} !{family hx} & [ica siphon and bifurcation] {right} !{family hx}
+        [hemorrhage] !{family hx} `subarachnoid` & [ica siphon and bifurcation] {right}  !{family hx}
+I6002   [hemorrhage] !{family hx} `subarachnoid` & [ica siphon and bifurcation] !{family hx} {left} `carotid` 
+I6010   [hemorrhage] !{family hx} `subarachnoid` `middle cerebral artery` 
+I6011   [hemorrhage] !{family hx} `subarachnoid` {right} `middle cerebral artery` 
+I6012   [hemorrhage] !{family hx} `subarachnoid` {left} `middle cerebral artery` 
+I6020   [hemorrhage] !{family hx} `subarachnoid` `anterior communicating artery` 
+I6021   [hemorrhage] !{family hx} `subarachnoid` {right} `anterior communicating artery` 
+I6022   [hemorrhage] !{family hx} `subarachnoid` {left} `anterior communicating artery` 
+I6030   [hemorrhage] !{family hx} `subarachnoid` `posterior communicating artery` 
+I6031   [hemorrhage] !{family hx} `subarachnoid` {right} `posterior communicating artery` 
+I6032   [hemorrhage] !{family hx} `subarachnoid` {left} `posterior communicating artery` 
+I604    [hemorrhage] !{family hx} `subarachnoid` `basilar artery` 
+I6050   [hemorrhage] !{family hx} `subarachnoid` `vertebral artery` 
+I6051   [hemorrhage] !{family hx} `subarachnoid` {right} `vertebral artery` 
+I6052   [hemorrhage] !{family hx} `subarachnoid` {left} `vertebral artery` 
+I606    [hemorrhage] !{family hx} `subarachnoid` `intracranial artery` 
+I607    [hemorrhage] !{family hx} `subarachnoid` `intracranial artery` 
+I608*   other [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` 
+I609    [hemorrhage] !{acute} !{family hx} `subarachnoid`
+        [sah] !{acute} !{family hx}
+I610    [hemorrhage] !{family hx} `intracerebral` `subcortical hemisphere` 
+I611    [hemorrhage] !{family hx} `intracerebral` `cortical hemisphere` 
+I612    [hemorrhage] !{family hx} `intracerebral` `hemisphere` 
+I613    [hemorrhage] !{family hx} `intracerebral` `brain stem` 
+I614    [hemorrhage] !{family hx} `intracerebral` `cerebellum` 
+I615    [hemorrhage] !{family hx} `intracerebral` `intraventricular` 
+I616*    [hemorrhage] !{family hx} {nontraumatic} `intracerebral`, multiple localized 
+I618*   other [hemorrhage] !{family hx} {nontraumatic} `intracerebral` 
+I619    [hemorrhage] !{family hx} `intracerebral` 
+I6200   [hemorrhage] !{family hx} !{status post} `subdural` & ![head trauma] !{family hx} 
+I6201   [hemorrhage] !{family hx} {acute} `subdural` 
+I6202   [hemorrhage] !{family hx} {subacute} `subdural` 
+I6203   [hemorrhage] !{family hx} {chronic} `subdural` 
+I621    [hemorrhage] !{family hx} `extradural` 
+I629    [hemorrhage] !{family hx} `intracranial` {nontraumatic} !{due to trauma}
+I6300   [infarction] !{family hx} !{history} & [thrombosis] !{family hx} `precerebral artery` 
+I63011  [infarction] !{family hx} !{history} & [thrombosis] !{family hx} {right} `vertebral artery` 
+I63012  [infarction] !{family hx} !{history} & [thrombosis] !{family hx} {left} `vertebral artery` 
+I63019  [infarction] !{family hx} !{history} & [thrombosis] !{family hx} `vertebral artery` 
+I6302   [infarction] !{family hx} !{history} & [thrombosis] !{family hx} `basilar artery` 
+I63031  [infarction] !{family hx} !{history} & [thrombosis] !{family hx} {right} `carotid artery` 
+I63032  [infarction] !{family hx} !{history} & [thrombosis] !{family hx} {left} `carotid artery` 
+I63039  [infarction] !{family hx} !{history} & [thrombosis] !{family hx} `carotid artery` 
+I6309   [infarction] !{family hx} !{history} & [thrombosis] !{family hx} `precerebral artery` 
+I6310   [infarction] !{family hx} !{history} & [embolism] !{family hx} `precerebral artery` 
+I63111  [infarction] !{family hx} !{history} & [embolism] !{family hx} {right} `vertebral artery` 
+I63112  [infarction] !{family hx} !{history} & [embolism] !{family hx} {left} `vertebral artery` 
+I63119  [infarction] !{family hx} !{history} & [embolism] !{family hx} `vertebral artery` 
+I6312   [infarction] !{family hx} !{history} & [embolism] !{family hx} `basilar artery` 
+I63131  [infarction] !{family hx} !{history} & [embolism] !{family hx} {right} `carotid artery` 
+I63132  [infarction] !{family hx} !{history} & [embolism] !{family hx} {left} `carotid artery` 
+I63139  [infarction] !{family hx} !{history} & [embolism] !{family hx} `carotid artery` 
+I6319   [infarction] !{family hx} !{history} & [embolism] !{family hx} `precerebral artery` 
+I6320   [infarction] !{family hx} !{history} & [occlusion] !{family hx} `precerebral artery` 
+I63211  [infarction] !{family hx} !{history} & [occlusion] !{family hx} {right} `vertebral artery` 
+I63212  [infarction] !{family hx} !{history} & [occlusion] !{family hx} {left} `vertebral artery` 
+I63219  [infarction] !{family hx} !{history} & [occlusion] !{family hx} `vertebral artery` 
+I6322   [infarction] !{family hx} !{history} & [occlusion] !{family hx} `basilar artery` 
+I63231  [infarction] !{family hx} !{history} & [occlusion] !{family hx} {right} `carotid artery` 
+I63232  [infarction] !{family hx} !{history} & [occlusion] !{family hx} {left} `carotid artery` 
+163233  [infarction] !{family hx} !{history} & [occlusion] !{family hx} {bilateral} `carotid artery` 
+I63239  [infarction] !{family hx} !{history} & [occlusion] !{family hx} `carotid artery` 
+I6329   [infarction] !{family hx} !{history} & [occlusion] !{family hx} `precerebral artery` 
+I6330   [infarction] !{family hx} !{history} & [thrombosis] !{family hx} `cerebral artery` 
+I63311  [infarction] !{family hx} !{history} & [thrombosis] !{family hx} {right} `middle cerebral artery` 
+I63312  [infarction] !{family hx} !{history} & [thrombosis] !{family hx} {left} `middle cerebral artery` 
+I63319  [infarction] !{family hx} !{history} & [thrombosis] !{family hx} `middle cerebral artery` 
+I63321  [infarction] !{family hx} !{history} & [thrombosis] !{family hx} {right} `anterior cerebral artery` 
+I63322  [infarction] !{family hx} !{history} & [thrombosis] !{family hx} {left} `anterior cerebral artery` 
+I63329  [infarction] !{family hx} !{history} & [thrombosis] !{family hx} `anterior cerebral artery` 
+I63331  [infarction] !{family hx} !{history} & [thrombosis] !{family hx} {right} `posterior cerebral artery` 
+I63332  [infarction] !{family hx} !{history} & [thrombosis] !{family hx} {left} `posterior cerebral artery` 
+I63339  [infarction] !{family hx} !{history} & [thrombosis] !{family hx} `posterior cerebral artery` 
+I63341  [infarction] !{family hx} !{history} & [thrombosis] !{family hx} {right} `cerebellar artery` 
+I63342  [infarction] !{family hx} !{history} & [thrombosis] !{family hx} {left} `cerebellar artery` 
+I63349  [infarction] !{family hx} !{history} & [thrombosis] !{family hx} `cerebellar artery` 
+I6339   [infarction] !{family hx} !{history} & [thrombosis] !{family hx} `other cerebral artery` 
+I6340   [infarction] !{family hx} !{history} & [embolism] !{family hx} `cerebral artery` 
+I63411  [infarction] !{family hx} !{history} & [embolism] !{family hx} {right} `middle cerebral artery` 
+I63412  [infarction] !{family hx} !{history} & [embolism] !{family hx} {left} `middle cerebral artery` 
+I63419  [infarction] !{family hx} !{history} & [embolism] !{family hx} `middle cerebral artery` 
+I63421  [infarction] !{family hx} !{history} & [embolism] !{family hx} {right} `anterior cerebral artery` 
+I63422  [infarction] !{family hx} !{history} & [embolism] !{family hx} {left} `anterior cerebral artery` 
+I63429  [infarction] !{family hx} !{history} & [embolism] !{family hx} `anterior cerebral artery` 
+I63431  [infarction] !{family hx} !{history} & [embolism] !{family hx} {right} `posterior cerebral artery` 
+I63432  [infarction] !{family hx} !{history} & [embolism] !{family hx} {left} `posterior cerebral artery` 
+I63439  [infarction] !{family hx} !{history} & [embolism] !{family hx} `posterior cerebral artery` 
+I63441  [infarction] !{family hx} !{history} & [embolism] !{family hx} {right} `cerebellar artery` 
+I63442  [infarction] !{family hx} !{history} & [embolism] !{family hx} {left} `cerebellar artery` 
+I63449  [infarction] !{family hx} !{history} & [embolism] !{family hx} `cerebellar artery` 
+I6349   [infarction] !{family hx} !{history} & [embolism] !{family hx} `other cerebral artery` 
+I6350   [infarction] !{family hx} !{history} & [occlusion] !{family hx} `cerebral artery` 
+        [infarction] !{family hx} !{history} & [stenosis] !{family hx} `cerebral artery` 
+I63511  [infarction] !{family hx} !{history} & [occlusion] !{family hx} {right} `middle cerebral artery` 
+        [infarction] !{family hx} !{history} & [stenosis] !{family hx} {right} `middle cerebral artery` 
+I63512  [infarction] !{family hx} !{history} & [occlusion] !{family hx} {left} `middle cerebral artery` 
+        [infarction] !{family hx} !{history} & [stenosis] !{family hx} {left} `middle cerebral artery` 
+I63519  [infarction] !{family hx} !{history} & [occlusion] !{family hx} `middle cerebral artery` 
+        [infarction] !{family hx} !{history} & [stenosis] !{family hx} `middle cerebral artery` 
+I63521  [infarction] !{family hx} !{history} & [occlusion] !{family hx} {right} `anterior cerebral artery` 
+        [infarction] !{family hx} !{history} & [stenosis] !{family hx} {right} `anterior cerebral artery` 
+I63522  [infarction] !{family hx} !{history} & [occlusion] !{family hx} {left} `anterior cerebral artery` 
+        [infarction] !{family hx} !{history} & [stenosis] !{family hx} {left} `anterior cerebral artery` 
+I63529  [infarction] !{family hx} !{history} & [occlusion] !{family hx} `anterior cerebral artery` 
+        [infarction] !{family hx} !{history} & [stenosis] !{family hx} `anterior cerebral artery` 
+I63531  [infarction] !{family hx} !{history} & [occlusion] !{family hx} {right} `posterior cerebral artery` 
+        [infarction] !{family hx} !{history} & [stenosis] !{family hx} {right} `posterior cerebral artery` 
+I63532  [infarction] !{family hx} !{history} & [occlusion] !{family hx} {left} `posterior cerebral artery` 
+        [infarction] !{family hx} !{history} & [stenosis] !{family hx} {left} `posterior cerebral artery` 
+I63539  [infarction] !{family hx} !{history} & [occlusion] !{family hx} `posterior cerebral artery` 
+        [infarction] !{family hx} !{history} & [stenosis] !{family hx} `posterior cerebral artery` 
+I63541  [infarction] !{family hx} !{history} & [occlusion] !{family hx} {right} `cerebellar artery` 
+        [infarction] !{family hx} !{history} & [stenosis] !{family hx} {right} `cerebellar artery` 
+I63542  [infarction] !{family hx} !{history} & [occlusion] !{family hx} {left} `cerebellar artery` 
+        [infarction] !{family hx} !{history} & [stenosis] !{family hx} {left} `cerebellar artery` 
+I63549  [infarction] !{family hx} !{history} & [occlusion] !{family hx} `cerebellar artery` 
+        [infarction] !{family hx} !{history} & [stenosis] !{family hx} `cerebellar artery` 
+I6359   [infarction] !{family hx} !{history} & [occlusion] !{family hx} `other cerebral artery` 
+        [infarction] !{family hx} !{history} & [stenosis] !{family hx} `other cerebral artery` 
+I636    [infarction] !{family hx} !{history} & [thrombosis] !{family hx} {nonpyogenic} `cerebral venous` 
+I6381   [other infarction] !{family hx} 
+I639    [cerebral infarction] !{family hx} !{past or family hx or specimens} !{myocardial infarction} !{residual neurological deficit} !{symptoms} !{tenderness}
+I6501   [occlusion] !{family hx} {right} `vertebral artery` & [stenosis] !{family hx} {right} `vertebral artery` 
+I6502   [occlusion] !{family hx} {left} `vertebral artery` & [stenosis] !{family hx} {left} `vertebral artery` 
+I6503   [occlusion] !{family hx} `bilateral vertebral artery` & [stenosis] !{family hx} `bilateral vertebral artery` 
+I6509   [occlusion] !{family hx} `vertebral artery` & [stenosis] !{family hx} `vertebral artery` 
+I651    [occlusion] !{family hx} `basilar artery` & [stenosis] !{family hx} `basilar artery` 
+I6521   [stenosis] !{family hx} {right} !{bilateral} `carotid artery`  
+        [right ica stenosis] !{family hx} !{bilateral}   
+I6522   [stenosis] !{family hx} {left} !{bilateral} `carotid artery` 
+        [left ica stenosis] !{family hx} !{bilateral}
+I6523   [occlusion and stenosis] !{family hx} {bilateral} `carotid artery` 
+I6529   [stenosis] !{family hx} `carotid` !{left} !{right} !{bilateral} 
+I658*   [occlusion] !{family hx} of other `precerebral artery` & [stenosis] !{family hx} of other `precerebral artery`  
+I659    [occlusion] !{family hx} `precerebral artery` & [stenosis] !{family hx} `precerebral artery` 
+I6601   [occlusion] !{family hx} {right} `middle cerebral artery` & [stenosis] !{family hx} {right} `middle cerebral artery` 
+I6602   [occlusion] !{family hx} {left} `middle cerebral artery` & [stenosis] !{family hx} {left} `middle cerebral artery` 
+I6603   [occlusion] !{family hx} `bilateral middle cerebral artery` & [stenosis] !{family hx} `bilateral middle cerebral artery` 
+I6609   [occlusion] !{family hx} `middle cerebral artery` & [stenosis] !{family hx} `middle cerebral artery` 
+I6611   [occlusion] !{family hx} {right} `anterior cerebral artery` & [stenosis] !{family hx} {right} `anterior cerebral artery` 
+I6612   [occlusion] !{family hx} {left} `anterior cerebral artery` & [stenosis] !{family hx} {left} `anterior cerebral artery` 
+I6613   [occlusion] !{family hx} `bilateral anterior cerebral artery` & [stenosis] !{family hx} `bilateral anterior cerebral artery` 
+I6619   [occlusion] !{family hx} `anterior cerebral artery` & [stenosis] !{family hx} `anterior cerebral artery` 
+I6621   [occlusion] !{family hx} {right} `posterior cerebral artery` & [stenosis] !{family hx} {right} `posterior cerebral artery` 
+I6622   [occlusion] !{family hx} {left} `posterior cerebral artery` & [stenosis] !{family hx} {left} `posterior cerebral artery` 
+I6623   [occlusion] !{family hx} `bilateral posterior cerebral artery` & [stenosis] !{family hx} `bilateral posterior cerebral artery` 
+I6629   [occlusion] !{family hx} `posterior cerebral artery` & [stenosis] !{family hx} `posterior cerebral artery` 
+I663    [occlusion] !{family hx} `cerebellar artery` & [stenosis] !{family hx} `cerebellar artery` 
+I668*   [occlusion] !{family hx} of other `cerebral artery` & [stenosis] !{family hx} of other `cerebral artery` 
+I669    [occlusion] !{family hx} `cerebral artery` & [stenosis] !{family hx} `cerebral artery` 
+I670    [dissection] !{family hx} `cerebral artery` {nonruptured} 
+I671    [aneurysm] !{family hx} {nonruptured} `cerebral` 
+I672    [atherosclerosis] !{family hx} `cerebral artery` 
+I673    [leukoencephalopathy] !{family hx} {progressive} `vascular` 
+I674    [encephalopathy] !{family hx} {hypertensive}
+I675    [moyamoya disease] !{family hx} 
+I676    [thrombosis] !{family hx} {nonpyogenic} `intracranial venous system` 
+I677    [arteritis] !{family hx} `cerebral` 
+I6781   [sinsufficiency] !{family hx} `cerebrovascular` 
+I6782   [ischemia] !{family hx} `cerebral` 
+I6783   [posterior reversible encephalopathy syndrome] !{family hx} 
+I67841  [reversible cerebrovascular vasoconstriction syndrome] !{family hx} 
+I67848* other cerebrovascular vasospasm and vasoconstriction 
+I6789*  other cerebrovascular disease 
+I679    [disease] !{family hx} `cerebrovascular` 
+I680    [angiopathy] !{family hx} {amyloid} `cerebral` 
+I682*   cerebral arteritis in other diseases classified elsewhere 
+I688*   other cerebrovascular disorders in diseases classified elsewhere 
+I6900*  unspecified sequela of nontraumatic subarachnoid hemorrhage 
+I6901   [cognitive deficit] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` 
+I69020  [aphasia] !{family hx} {hemorrhage} {nontraumatic} `subarachnoid` 
+        [expressive aphasia] !{family hx}
+I69021  [dysphasia] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` 
+I69022  [dysarthria] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` 
+I69023  [fluency disorder] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` 
+I69028* other speech and language deficits following nontraumatic subarachnoid hemorrhage 
+I69031  [monoplegia] !{family hx} `upper extremity` & [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` & [upper extremity] !{family hx} {right} & ![non dominant] !{family hx} {right} 
+I69032  [monoplegia] !{family hx} `upper extremity` & [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` & [dominant side] !{family hx} {left} `upper extremity`
+I69033  [monoplegia] !{family hx} `upper extremity` & [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` & [non dominant] !{family hx} {right} `upper extremity`
+I69034  [monoplegia] !{family hx} `upper extremity` & [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` & [upper extremity] !{family hx} {left} & ![dominant side] !{family hx}
+I69039  [monoplegia] !{family hx} `upper extremity` & [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` 
+I69041  [monoplegia] !{family hx} `lower limb` & [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` & [right] !{family hx} 
+I69042  [monoplegia] !{family hx} `lower limb` & [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` & [dominant side] !{family hx} {left} 
+I69043  [monoplegia] !{family hx} `lower limb` & [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` & [non dominant] !{family hx} {right} 
+I69044  [monoplegia] !{family hx} `lower limb` & [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` & [left] !{family hx} {side} & ![dominant side] !{family hx} {left} 
+I69049  [monoplegia] !{family hx} `lower limb` & [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` 
+I69051  [hemiplegia] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` {right} `dominant side` 
+I69052  [hemiplegia] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` & [dominant side] !{family hx} {left} 
+I69053  [hemiplegia] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` & [non dominant] !{family hx} {right} 
+I69054  [hemiplegia] !{family hx} {left} & [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` & [left] !{family hx} {side} & ![dominant side] !{family hx} {left} 
+I69059  [hemiplegia] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` 
+I69061* other paralytic syndrome following [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` {right} `dominant side` 
+I69062* other paralytic syndrome following [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` & [dominant side] !{family hx} {left} 
+I69063* other paralytic syndrome following [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` & [non dominant] !{family hx} {right} 
+I69064* other paralytic syndrome following [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` & [left] !{family hx} {side} & ![dominant side] !{family hx} {left} 
+I69065* other paralytic syndrome following [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` `bilateral` 
+I69069* other paralytic syndrome following [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` 
+I69090  [apraxia] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` 
+I69091  [dysphagia] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` 
+I69092  [facial weakness] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` 
+I69093  [ataxia] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` 
+I69098* other sequela following [hemorrhage] !{family hx} {nontraumatic} `subarachnoid` 
+I6910*  unspecified sequela of [hemorrhage] !{family hx} {nontraumatic} `intracerebral` 
+I6911   [cognitive deficit] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracerebral` 
+I69120  [aphasia] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracerebral` 
+I69121  [dysphasia] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracerebral` 
+I69122  [dysarthria] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracerebral` 
+I69123  [fluency disorder] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracerebral` 
+I69128* other speech and language deficits following [hemorrhage] !{family hx} {nontraumatic} `intracerebral` 
+I69131  [monoplegia] !{family hx} `upper extremity` & [hemorrhage] !{family hx} {nontraumatic} `intracerebral` {right} `dominant side` 
+I69132  [monoplegia] !{family hx} `upper extremity` & [hemorrhage] !{family hx} {nontraumatic} `intracerebral` & [dominant side] !{family hx} {left} 
+I69133  [monoplegia] !{family hx} `upper extremity` & [hemorrhage] !{family hx} {nontraumatic} `intracerebral` & [non dominant] !{family hx} {right} 
+I69134  [monoplegia] !{family hx} `upper extremity` & [hemorrhage] !{family hx} {nontraumatic} `intracerebral` & [left] !{family hx} {side} & ![dominant side] !{family hx} {left} 
+I69139  [monoplegia] !{family hx} `upper extremity` & [hemorrhage] !{family hx} {nontraumatic} `intracerebral` 
+I69141  [monoplegia] !{family hx} `lower limb` & [hemorrhage] !{family hx} {nontraumatic} `intracerebral` {right} `dominant side`
+I69142  [monoplegia] !{family hx} `lower limb` & [hemorrhage] !{family hx} {nontraumatic} `intracerebral` & [dominant side] !{family hx} {left} 
+I69143  [monoplegia] !{family hx} `lower limb` & [hemorrhage] !{family hx} {nontraumatic} `intracerebral` & [non dominant] !{family hx} {right} 
+I69144  [monoplegia] !{family hx} `lower limb` & [hemorrhage] !{family hx} {nontraumatic} `intracerebral` & [left] !{family hx} {side} & ![dominant side] !{family hx} {left} 
+I69149  [monoplegia] !{family hx} `lower limb` & [hemorrhage] !{family hx} {nontraumatic} `intracerebral` 
+I69151  [hemiplegia] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracerebral` {right} `dominant side` 
+I69152  [hemiplegia] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracerebral` & [dominant side] !{family hx} {left} 
+I69153  [hemiplegia] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracerebral` & [non dominant] !{family hx} {right} 
+I69154  [hemiplegia] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracerebral` & [left] !{family hx} {side} & ![dominant side] !{family hx} {left} 
+I69159  [hemiplegia] !{family hx} !{left} !{right} & [hemorrhage] !{family hx} {nontraumatic} `intracerebral`
+I69161* other paralytic syndrome following nontraumatic intracerebral hemorrhage affecting right dominant side 
+I69162* other paralytic syndrome following nontraumatic intracerebral hemorrhage affecting left dominant side 
+I69163* other paralytic syndrome following nontraumatic intracerebral hemorrhage affecting right non dominant side 
+I69164* other paralytic syndrome following nontraumatic intracerebral hemorrhage affecting left non dominant side 
+I69165* other paralytic syndrome following nontraumatic intracerebral hemorrhage, bilateral 
+I69169* other paralytic syndrome following nontraumatic intracerebral hemorrhage affecting unspecified side 
+I69190  [apraxia] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracerebral` 
+I69191  [dysphagia] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracerebral` 
+I69192  [facial weakness] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracerebral` 
+I69193  [ataxia] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracerebral` 
+I69198* other sequela of nontraumatic intracerebral hemorrhage 
+I6920*  unspecified sequela of other nontraumatic intracranial hemorrhage 
+I6921   [cognitive deficit] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracranial` 
+I69220  [aphasia] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracranial` 
+I69221  [dysphasia] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracranial` 
+I69222  [dysarthria] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracranial` 
+I69223  [fluency disorder] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracranial` 
+I69228* other speech and language deficits & nontraumatic intracranial hemorrhage 
+I69231  [monoplegia] !{family hx} `upper extremity` & [hemorrhage] !{family hx} {nontraumatic} `intracranial` {right} `dominant side` 
+I69232  [monoplegia] !{family hx} `upper extremity` & [hemorrhage] !{family hx} {nontraumatic} `intracranial` & [dominant side] !{family hx} {left} 
+I69233  [monoplegia] !{family hx} `upper extremity` & [hemorrhage] !{family hx} {nontraumatic} `intracranial`& [non dominant] !{family hx} {right} 
+I69234  [monoplegia] !{family hx} `upper extremity` & [hemorrhage] !{family hx} {nontraumatic} `intracranial`& [left] !{family hx} {side} & ![dominant side] !{family hx} {left} 
+I69239  [monoplegia] !{family hx} `upper extremity` & [hemorrhage] !{family hx} {nontraumatic} `intracranial` 
+I69241  [monoplegia] !{family hx} `lower limb` & [hemorrhage] !{family hx} {nontraumatic} `intracranial` {right} `dominant side` 
+I69242  [monoplegia] !{family hx} `lower limb` & [hemorrhage] !{family hx} {nontraumatic} `intracranial` & [dominant side] !{family hx} {left} 
+I69243  [monoplegia] !{family hx} `lower limb` & [hemorrhage] !{family hx} {nontraumatic} `intracranial`& [non dominant] !{family hx} {right} 
+I69244  [monoplegia] !{family hx} `lower limb` & [hemorrhage] !{family hx} {nontraumatic} `intracranial`& [left] !{family hx} {side} & ![dominant side] !{family hx} {left} 
+I69249  [monoplegia] !{family hx} `lower limb` & [hemorrhage] !{family hx} {nontraumatic} `intracranial` 
+I69251  [hemiplegia] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracranial` {right} `dominant side` 
+        [hemiparesis] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracranial` {right} `dominant side` 
+I69252  [hemiplegia] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracranial` & [dominant side] !{family hx} {left} 
+        [hemiparesis] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracranial` & [dominant side] !{family hx} {left} 
+I69253  [hemiplegia] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracranial`& [non dominant] !{family hx} {right} 
+        [hemiparesis] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracranial`& [non dominant] !{family hx} {right} 
+I69254  [hemiplegia] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracranial`& [left] !{family hx} {side} & ![dominant side] !{family hx} {left} 
+        [hemiparesis] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracranial`& [left] !{family hx} {side} & ![dominant side] !{family hx} {left} 
+I69259  [hemiplegia] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracranial` 
+        [hemiparesis] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracranial` 
+I69261* other paralytic syndrome & nontraumatic intracranial hemorrhage affecting right dominant side 
+I69262* other paralytic syndrome & nontraumatic intracranial hemorrhage affecting left dominant side 
+I69263* other paralytic syndrome & nontraumatic intracranial hemorrhage affecting right non dominant side 
+I69264* other paralytic syndrome & nontraumatic intracranial hemorrhage affecting left non dominant side 
+I69265* other paralytic syndrome & nontraumatic intracranial hemorrhage, bilateral 
+I69269* other paralytic syndrome & nontraumatic intracranial hemorrhage affecting unspecified side 
+I69290  [apraxia] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracranial` 
+I69291  [dysphagia] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracranial` 
+I69292  [facial weakness] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracranial` 
+I69293  [ataxia] !{family hx} & [hemorrhage] !{family hx} {nontraumatic} `intracranial` 
+I69298* other sequela of other nontraumatic intracranial hemorrhage 
+I6930*  unspecified sequela of cerebral infarction 
+I6931   [cognitive deficit] !{family hx} & [infarction] !{family hx} 
+I69320  [aphasia] !{family hx} & [infarction] !{family hx}
+I69321  [dysphasia] !{family hx} & [infarction] !{family hx} 
+I69322  [dysarthria] !{family hx} & [infarction] !{family hx} 
+I69323  [fluency disorder] !{family hx} & [infarction] !{family hx} 
+I69328* other speech and language deficits following cerebral infarction 
+I69331  [monoplegia] !{family hx} `upper extremity` & [infarction] !{family hx} {right} 
+I69332  [monoplegia] !{family hx} `upper extremity` & [infarction] !{family hx} & [dominant side] !{family hx} {left} 
+I69333  [monoplegia] !{family hx} `upper extremity` & [infarction] !{family hx}& [non dominant] !{family hx} {right} 
+I69334  [monoplegia] !{family hx} `upper extremity` & [infarction] !{family hx}& [left] !{family hx} {side} & ![dominant side] !{family hx} {left} 
+I69339  [monoplegia] !{family hx} `upper extremity` & [infarction] !{family hx} 
+I69341  [monoplegia] !{family hx} `lower limb` & [infarction] !{family hx} {right} 
+I69342  [monoplegia] !{family hx} `lower limb` & [infarction] !{family hx} & [dominant side] !{family hx} {left} 
+I69343  [monoplegia] !{family hx} `lower limb` & [infarction] !{family hx}& [non dominant] !{family hx} {right} 
+I69344  [monoplegia] !{family hx} `lower limb` & [infarction] !{family hx}& [left] !{family hx} {side} & ![dominant side] !{family hx} {left} 
+I69349  [monoplegia] !{family hx} `lower limb` & [infarction] !{family hx} 
+I69351  [right] !{family hx} {residual neurological deficit} {following cva}
+        [past event] !{family hx} {cva} {right} {residual neurological deficit}
+        [cerebral infarction] !{family hx} !{code or protocal} & [right] !{family hx} {residual neurological deficit}
+        [infarction] !{family hx} & [hemiplegia] !{family hx} {right}
+        [infarction] !{family hx} & [hemiparesis] !{family hx} {right}
+        [cva w/ residual r hemiparesis] !{family hx} 
+I69352  [cerebral infarction] !{family hx} !{code or protocal} & [left] !{family hx} {dominant} {residual neurological deficit}
+        [hemiplegia] !{family hx} & [infarction] !{family hx} !{code or protocal} & [dominant side] !{family hx} {left} 
+        [hemiparesis] !{family hx} & [infarction] !{family hx} !{code or protocal} & [dominant side] !{family hx} {left} 
+I69353  [cerebral infarction] !{family hx} & [right] !{family hx} {nondominant} {residual neurological deficit}
+        [hemiplegia] !{family hx} & [infarction] !{family hx} !{code or protocal} & ![dominant side] !{family hx} {right} 
+        [hemiparesis] !{family hx} & [infarction] !{family hx} !{code or protocal} & ![dominant side] !{family hx} {right} 
+I69354  [past event] !{family hx} {cva} {left} {residual neurological deficit}
+        [cerebral infarction] !{family hx} !{code or protocal} & [left] !{family hx} {residual neurological deficit}
+        [hemiplegia] !{family hx} {left} & [cerebral infarction] !{family hx}
+        [hemiparesis] !{family hx} {left} & [infarction] !{family hx}
+I69359  [hemiplegia] !{family hx} & [infarction] !{family hx} !{left} !{right} 
+        [hemiparesis] !{family hx} & [infarction] !{family hx} !{left} !{right}
+I69361* other paralytic syndrome following cerebral infarction affecting right dominant side 
+I69362* other paralytic syndrome following cerebral infarction affecting left dominant side 
+I69363* other paralytic syndrome following cerebral infarction affecting right non dominant side 
+I69364* other paralytic syndrome following cerebral infarction affecting left non dominant side 
+I69365* other paralytic syndrome following cerebral infarction, bilateral 
+I69369* other paralytic syndrome following cerebral infarction affecting unspecified side 
+I69390  [apraxia] !{family hx} & [infarction] !{family hx} 
+I69391  [dysphagia] !{family hx} & [infarction] !{family hx} 
+I69392  [facial weakness] !{family hx} & [cerebral infarction] !{family hx} 
+I69393  [ataxia] !{family hx} & [infarction] !{family hx} 
+I69398* other sequela of cerebral infarction 
+I6980*  unspecified sequela of other cerebrovascular disease 
+I6981   [cognitive deficit] !{family hx} & [disease] !{family hx} `cerebrovascular` 
+I69820  [aphasia] !{family hx} & [disease] !{family hx} `cerebrovascular` 
+I69821  [dysphasia] !{family hx} & [disease] !{family hx} `cerebrovascular` 
+I69822  [dysarthria] !{family hx} & [disease] !{family hx} `cerebrovascular` 
+I69823  [fluency disorder] !{family hx} & [disease] !{family hx} `cerebrovascular` 
+I69828* other speech and language deficits following other cerebrovascular disease 
+I69831  [monoplegia] !{family hx} `upper extremity` & `cerebrovascular` [disease] !{family hx} {right} `dominant side` 
+I69832  [monoplegia] !{family hx} `upper extremity` & `cerebrovascular` [disease] !{family hx} & [dominant side] !{family hx} {left} 
+I69833  [monoplegia] !{family hx} `upper extremity` & `cerebrovascular` [disease] !{family hx}& [non dominant] !{family hx} {right} 
+I69834  [monoplegia] !{family hx} `upper extremity` & `cerebrovascular` [disease] !{family hx}& [left] !{family hx} {side} & ![dominant side] !{family hx} {left} 
+I69839  [monoplegia] !{family hx} `upper extremity` & `cerebrovascular` [disease] !{family hx} 
+I69841  [monoplegia] !{family hx} `lower limb` & `cerebrovascular` [disease] !{family hx} {right} `dominant side` 
+I69842  [monoplegia] !{family hx} `lower limb` & `cerebrovascular` [disease] !{family hx} & [dominant side] !{family hx} {left} 
+I69843  [monoplegia] !{family hx} `lower limb` & `cerebrovascular` [disease] !{family hx}& [non dominant] !{family hx} {right} 
+I69844  [monoplegia] !{family hx} `lower limb` & `cerebrovascular` [disease] !{family hx}& [left] !{family hx} {side} & ![dominant side] !{family hx} {left} 
+I69849  [monoplegia] !{family hx} `lower limb` & `cerebrovascular` [disease] !{family hx} 
+I69851  [hemiplegia] !{family hx} & [disease] !{family hx} `cerebrovascular` {right} `dominant side` 
+        [hemiparesis] !{family hx} & [disease] !{family hx} `cerebrovascular` {right} `dominant side` 
+I69852  [hemiplegia] !{family hx} & [disease] !{family hx} `cerebrovascular` & [dominant side] !{family hx} {left} 
+        [hemiparesis] !{family hx} & [disease] !{family hx} `cerebrovascular` & [dominant side] !{family hx} {left} 
+I69853  [hemiplegia] !{family hx} & [disease] !{family hx} `cerebrovascular`& [non dominant] !{family hx} {right} 
+        [hemiparesis] !{family hx} & [disease] !{family hx} `cerebrovascular`& [non dominant] !{family hx} {right} 
+I69854  [hemiplegia] !{family hx} & [disease] !{family hx} `cerebrovascular`& [left] !{family hx} {side} & ![dominant side] !{family hx} {left} 
+        [hemiparesis] !{family hx} & [disease] !{family hx} `cerebrovascular`& [left] !{family hx} {side} & ![dominant side] !{family hx} {left} 
+I69859  [hemiplegia] !{family hx} & [disease] !{family hx} `cerebrovascular` 
+        [hemiparesis] !{family hx} & [disease] !{family hx} `cerebrovascular` 
+I69861* other paralytic syndrome following other cerebrovascular disease affecting right dominant side 
+I69862* other paralytic syndrome following other cerebrovascular disease affecting left dominant side 
+I69863* other paralytic syndrome following other cerebrovascular disease affecting right non dominant side 
+I69864* other paralytic syndrome following other cerebrovascular disease affecting left non dominant side 
+I69865* other paralytic syndrome following other cerebrovascular disease, bilateral 
+I69869* other paralytic syndrome following other cerebrovascular disease affecting unspecified side 
+I69890  [apraxia] !{family hx} & [disease] !{family hx} `cerebrovascular` 
+I69891  [dysphagia] !{family hx} & [disease] !{family hx} `cerebrovascular` 
+I69892  [facial weakness] !{family hx} & [disease] !{family hx} `cerebrovascular` 
+I69893  [ataxia] !{family hx} & [disease] !{family hx} `cerebrovascular` 
+I69898* other sequela of other cerebrovascular disease 
+I6990*  unspecified sequela of unspecified cerebrovascular disease 
+I6991   [cognitive deficit] !{family hx} & [disease] !{family hx} `cerebrovascular` 
+I69920  [aphasia] !{family hx} & [disease] !{family hx} `cerebrovascular` 
+I69921  [dysphasia] !{family hx} & [disease] !{family hx} `cerebrovascular` 
+I69922  [dysarthria] !{family hx} & [disease] !{family hx} `cerebrovascular` 
+I69923  [fluency disorder] !{family hx} & [disease] !{family hx} `cerebrovascular` 
+I69928* other speech and language deficits following unspecified cerebrovascular disease 
+I69931  [monoplegia] !{family hx} `upper extremity` & [disease] !{family hx} `cerebrovascular` {right} `dominant side` 
+I69932  [monoplegia] !{family hx} `upper extremity` {left} & [disease] !{family hx} `cerebrovascular` & [dominant side] !{family hx} {left} `upper extremity`
+I69933  [monoplegia] !{family hx} `upper extremity` & [disease] !{family hx} `cerebrovascular`& [non dominant] !{family hx} {right} 
+I69934  [monoplegia] !{family hx} `upper extremity` & [disease] !{family hx} `cerebrovascular`& [left] !{family hx} `arm or hand `& ![dominant side] !{family hx} {left} 
+I69939  [monoplegia] !{family hx} `upper extremity` & [disease] !{family hx} `cerebrovascular` 
+I69941  [monoplegia] !{family hx} `lower limb` & [disease] !{family hx} `cerebrovascular` {right} `dominant side` 
+I69942  [monoplegia] !{family hx} `lower limb` & [disease] !{family hx} `cerebrovascular` & [dominant side] !{family hx} {left} 
+I69943  [monoplegia] !{family hx} `lower limb` & [disease] !{family hx} `cerebrovascular`& [non dominant] !{family hx} {right} 
+I69944  [monoplegia] !{family hx} `leg` & [disease] !{family hx} `cerebrovascular`& [left] !{family hx} {arm or hand} & ![dominant side] !{family hx} {left} 
+I69949  [monoplegia] !{family hx} `leg` & [disease] !{family hx} `cerebrovascular` 
+I69951  [hemiplegia] !{family hx} & [disease] !{family hx} `cerebrovascular` {right} 
+        [hemiparesis] !{family hx} & [disease] !{family hx} `cerebrovascular` {right} `dominant side` 
+I69952  [hemiplegia] !{family hx} & [disease] !{family hx} `cerebrovascular` & [dominant side] !{family hx} {left} 
+        [hemiparesis] !{family hx} & [disease] !{family hx} `cerebrovascular` & [dominant side] !{family hx} {left} 
+I69953  [hemiplegia] !{family hx} & [disease] !{family hx} `cerebrovascular`& [non dominant] !{family hx} {right} 
+        [hemiparesis] !{family hx} & [disease] !{family hx} `cerebrovascular`& [non dominant] !{family hx} {right} 
+I69954  [hemiplegia] !{family hx} & [disease] !{family hx} `cerebrovascular`& [left] !{family hx} {side} & ![dominant side] !{family hx} {left} 
+        [hemiparesis] !{family hx} & [disease] !{family hx} `cerebrovascular`& [left] !{family hx} {side} & ![dominant side] !{family hx} {left} 
+I69959  [hemiplegia] !{family hx} & [disease] !{family hx} `cerebrovascular` 
+        [hemiparesis] !{family hx} & [disease] !{family hx} `cerebrovascular` 
+I69961* other paralytic syndrome following unspecified cerebrovascular disease affecting right dominant side 
+I69962* other paralytic syndrome following unspecified cerebrovascular disease affecting left dominant side 
+I69963* other paralytic syndrome following unspecified cerebrovascular disease affecting right non dominant side 
+I69964* other paralytic syndrome following unspecified cerebrovascular disease affecting left non dominant side 
+I69965* other paralytic syndrome following unspecified cerebrovascular disease, bilateral 
+I69969* other paralytic syndrome following unspecified cerebrovascular disease affecting unspecified side 
+I69990  [apraxia] !{family hx} & [disease] !{family hx} `cerebrovascular` 
+I69991  [dysphagia] !{family hx} & [disease] !{family hx} `cerebrovascular` 
+I69992  [facial weakness] !{family hx} & [disease] !{family hx} `cerebrovascular` 
+I69993  [ataxia] !{family hx} & [disease] !{family hx} `cerebrovascular` 
+I69998* other sequela & [disease] !{family hx} `cerebrovascular` 
+I700    [atherosclerosis] !{family hx} `aortic` 
+I701    [atherosclerosis] !{family hx} `renal artery` 
+I70201* [atherosclerosis] !{family hx} `leg` {right} !{claudication} !{rest pain} !{ulceration} !{graft} 
+I70202* [atherosclerosis] !{family hx} `leg` {left} !{graft}
+I70203* [atherosclerosis] !{family hx}  `legs` {bilateral} !{graft}
+I70208* [atherosclerosis] !{family hx} `extremities` !{graft}
+I70209  [atherosclerosis] !{family hx} `extremities` !{graft} !{left} !{right} !{bilateral}
+I70211  [atherosclerosis] !{family hx} `leg` {right} & [claudication] !{family hx} & ![rest pain] !{family hx} !{graft}
+        [atherosclerosis] !{family hx} `leg` {right} & [claudication] !{family hx} & ![rest pain] !{family hx} !{graft}
+I70212  [atherosclerosis] !{family hx} `leg` {left} & [claudication] !{family hx} & ![rest pain] !{family hx} !{graft} {left}
+I70213  [atherosclerosis] !{family hx} `leg` {bilateral} & [claudication] !{family hx} & ![rest pain] !{family hx} !{graft}
+        [atherosclerosis] !{family hx} `leg` {left} {right} & [claudication] !{family hx} & ![rest pain] !{family hx} !{graft}
+I70218* [atherosclerosis] !{family hx} `extremities` & [claudication] !{family hx} !{graft}
+I70219  [atherosclerosis] !{family hx} `extremities` & [claudication] !{family hx} & ![rest pain] !{family hx} !{graft} !{left} !{right} !{bilateral}
+I70221  [atherosclerosis] !{family hx} `leg` {right} & [rest pain] !{family hx} {claudication} !{graft}
+I70222  [atherosclerosis] !{family hx} `leg` {left} & [rest pain] !{family hx} {claudication} !{graft}
+        [rest pain] !{family hx} {left} `leg` & [atherosclerosis] !{family hx}
+I70223  [atherosclerosis] !{family hx} `leg` {bilateral} & [rest pain] !{family hx} !{graft}
+I70228* [atherosclerosis] !{family hx} `extremities` & [rest pain] !{family hx} !{graft}
+I70229  [atherosclerosis] !{family hx} `extremities` & [rest pain] !{family hx} !{graft} !{left} !{right} !{bilateral}
+I70231  [atherosclerosis] !{family hx} `leg` {right} & [ulceration] !{family hx} `thigh` !{graft}
+I70232  [atherosclerosis] !{family hx} `leg` {right} & [ulceration] !{family hx} `calf` !{graft}
+I70233  [atherosclerosis] !{family hx} `leg` {right} & [ulceration] !{family hx} `ankle` !{graft}
+I70234  [atherosclerosis] !{family hx} `leg` {right} & [ulceration] !{family hx} `heel` !{graft}
+        [atherosclerosis] !{family hx} `leg` {right} & [ulceration] !{family hx} `midfoot` !{graft}
+I70235  [atherosclerosis] !{family hx} `leg` {right} & [ulceration] !{family hx} `other part of foot` !{graft}
+I70238* [atherosclerosis] !{family hx} `leg` {right} & [ulceration] !{family hx} of other part of `lower right leg` !{graft}
+I70239  [atherosclerosis] !{family hx} `leg` {right} & [ulceration] !{family hx} !{graft}
+I70241  [atherosclerosis] !{family hx} `leg` {left} & [ulceration] !{family hx} `thigh` !{graft}
+I70242  [atherosclerosis] !{family hx} `leg` {left} & [ulceration] !{family hx} `calf` !{graft}
+I70243  [atherosclerosis] !{family hx} `leg` {left} & [ulceration] !{family hx} `ankle` !{graft}
+I70244  [atherosclerosis] !{family hx} `leg` {left} & [ulceration] !{family hx} `heel` !{graft}
+        [atherosclerosis] !{family hx} `leg` {left} & [ulceration] !{family hx} `midfoot` !{graft}
+I70245  [atherosclerosis] !{family hx} `leg` {left} & [ulceration] !{family hx} `foot` !{graft}
+I70248* [atherosclerosis] !{family hx} `leg` {left} & [ulceration] !{family hx} of other part of `lower left leg` !{graft}
+I70249  [atherosclerosis] !{family hx} `leg` {left} & [ulceration] !{family hx} !{graft}
+I7025*  [atherosclerosis] !{family hx}  `native artery of other extremities` & [ulceration] !{family hx} !{graft}
+I70261  [atherosclerosis] !{family hx} `leg` {right} & [gangrene] !{family hx} !{graft}
+I70262  [atherosclerosis] !{family hx} `leg` {left} & [gangrene] !{family hx} !{graft}
+I70263  [atherosclerosis] !{family hx}  `legs` {bilateral} & [gangrene] !{family hx} !{graft}
+I70268* [atherosclerosis] !{family hx} `extremities` & [gangrene] !{family hx} !{graft} 
+I70269  [atherosclerosis] !{family hx} `extremities` & [gangrene] !{family hx} !{graft} !{left} !{right} !{bilateral}
+I70291  [atherosclerosis] !{family hx} `leg` {right} !{graft} 
+I70292  [atherosclerosis] !{family hx} `leg` {left} !{graft}
+I70293  [atherosclerosis] !{family hx}  `legs` {bilateral} !{graft}
+I70298* [atherosclerosis] !{family hx} `extremities` !{graft}
+I70299* [atherosclerosis] !{family hx} `extremities` `extremity` !{graft} !{left} !{right} !{bilateral}
+I70301  [atherosclerosis] !{family hx} {bypass graft} `leg` {right}
+I70302* [atherosclerosis] !{family hx} {bypass graft} `leg` {left}
+I70303  [atherosclerosis] !{family hx} {bypass graft} {bilateral} `legs`
+I70308* [atherosclerosis] !{family hx}  `bypass graft of the extremities, other `extremity`
+I70309* [atherosclerosis] !{family hx} {bypass graft} `extremity`
+I70311  [atherosclerosis] !{family hx} {bypass graft} `leg` {right} & [intermittent claudication] !{family hx} !{autologous} !{native}
+I70312  [atherosclerosis] !{family hx} {bypass graft} `leg` {left} & [intermittent claudication] !{family hx} !{autologous} !{native}
+I70313  [atherosclerosis] !{family hx} {bypass graft} {bilateral} `legs` & [intermittent claudication] !{family hx} !{autologous} !{native}
+I70318* [atherosclerosis] !{family hx} {bypass graft} & [intermittent claudication] !{family hx}
+I70319  [atherosclerosis] !{family hx} {bypass graft} & [intermittent claudication] !{family hx} `extremity` !{left} !{right} !{bilateral}
+I70321  [atherosclerosis] !{family hx} {bypass graft} & [rest pain] !{family hx} `leg` {right}
+I70322  [atherosclerosis] !{family hx} {bypass graft} & [rest pain] !{family hx} `leg` {left}
+I70323  [atherosclerosis] !{family hx} {bypass graft} & [rest pain] !{family hx} {bilateral} `legs`
+I70328* [atherosclerosis] !{family hx} {bypass graft} & [rest pain] !{family hx} 
+I70329  [atherosclerosis] !{family hx} {bypass graft} & [rest pain] !{family hx} `extremity` 
+I70331  [atherosclerosis] !{family hx} {bypass graft} `leg` {right} & [ulceration] !{family hx} `thigh` 
+I70332  [atherosclerosis] !{family hx} {bypass graft} `leg` {right} & [ulceration] !{family hx} `calf` 
+I70333  [atherosclerosis] !{family hx} {bypass graft} `leg` {right} & [ulceration] !{family hx} `ankle` 
+I70334  [atherosclerosis] !{family hx} {bypass graft} `leg` {right} & [ulceration] !{family hx} `heel` 
+        [atherosclerosis] !{family hx} {bypass graft} `leg` {right} & [ulceration] !{family hx} `midfoot` 
+I70335  [atherosclerosis] !{family hx} {bypass graft} `leg` {right} & [ulceration] !{family hx} `foot` 
+I70338* [atherosclerosis] !{family hx} {bypass graft} `leg` {right} & [ulceration] !{family hx} of other part of `lower leg` 
+I70339  [atherosclerosis] !{family hx} {bypass graft} `leg` {right} & [ulceration] !{family hx} 
+I70341  [atherosclerosis] !{family hx} {bypass graft} `leg` {left} & [ulceration] !{family hx} `thigh` 
+I70342  [atherosclerosis] !{family hx} {bypass graft} `leg` {left} & [ulceration] !{family hx} `calf` 
+I70343  [atherosclerosis] !{family hx} {bypass graft} `leg` {left} & [ulceration] !{family hx} `ankle` 
+I70344  [atherosclerosis] !{family hx} {bypass graft} `leg` {left} & [ulceration] !{family hx} `heel` 
+        [atherosclerosis] !{family hx} {bypass graft} `leg` {left} & [ulceration] !{family hx} `midfoot` 
+I70345  [atherosclerosis] !{family hx} {bypass graft} `leg` {left} & [ulceration] !{family hx} `foot` 
+I70348* [atherosclerosis] !{family hx} `bypass graft of the left leg with [ulceration] !{family hx} of other part of `lower leg` 
+I70349  [atherosclerosis] !{family hx} {bypass graft} `leg` {left} & [ulceration] !{family hx} 
+I7035   [atherosclerosis] !{family hx} `bypass graft of other extremity` & [ulceration] !{family hx} 
+I70361  [atherosclerosis] !{family hx} {bypass graft} & [gangrene] !{family hx} `leg` {right} 
+I70362  [atherosclerosis] !{family hx} {bypass graft} & [gangrene] !{family hx} `leg` {left} 
+I70363  [atherosclerosis] !{family hx} {bypass graft} & [gangrene] !{family hx} {bilateral} `legs` 
+I70368* [atherosclerosis] !{family hx} `bypass graft of the extremities with [gangrene] !{family hx} 
+I70369  [atherosclerosis] !{family hx} {bypass graft} & [gangrene] !{family hx} `extremity` 
+I70391  [atherosclerosis] !{family hx} {bypass graft} `leg` {right} 
+I70392* [atherosclerosis] !{family hx} {bypass graft} `leg` {left} 
+I70393  [atherosclerosis] !{family hx} {bypass graft} {bilateral} `legs` 
+I70398* [atherosclerosis] !{family hx} {bypass graft} 
+I70399* [atherosclerosis] !{family hx} {bypass graft} `extremity` 
+I70401  [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` `leg` {right} 
+I70402  [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` `leg` {left} 
+I70403  [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` {bilateral} `leg` 
+I70408* [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` 
+I70409* [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` `extremity` 
+I70411  [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` {autologous} `leg` {right} & [intermittent claudication] !{family hx} 
+I70412  [atherosclerosis] !{family hx} `leg` {left} {autologous} `autologous vein bypass graft of extremities` & [intermittent claudication] !{family hx} 
+I70413  [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` & [intermittent claudication] !{family hx} {bilateral} `leg` 
+I70418* [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` & [intermittent claudication] !{family hx} 
+I70419  [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` & [intermittent claudication] !{family hx} `extremity` 
+I70421  [atherosclerosis] !{family hx} `leg` {right} `autologous vein bypass graft of extremities` & [rest pain] !{family hx} 
+I70422  [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` & [rest pain] !{family hx} `leg` {left} 
+I70423  [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` & [rest pain] !{family hx} {bilateral} `leg` 
+I70428* [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` & [rest pain] !{family hx} 
+I70429  [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` & [rest pain] !{family hx} `extremity` 
+I70431  [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` `leg` {right} & [ulceration] !{family hx} `thigh` 
+I70432  [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` `leg` {right} & [ulceration] !{family hx} `calf` 
+I70433  [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` `leg` {right} & [ulceration] !{family hx} `ankle` 
+I70434  [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` `leg` {right} & [ulceration] !{family hx} `heel` 
+        [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` `leg` {right} & [ulceration] !{family hx} `midfoot` 
+I70435  [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` `leg` {right} & [ulceration] !{family hx} `foot` 
+I70438* [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` `leg` {right} & [ulceration] !{family hx} of other part of `lower leg` 
+I70439  [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` `leg` {right} & [ulceration] !{family hx} 
+I70441  [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` `leg` {left} & [ulceration] !{family hx} `thigh` 
+I70442  [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` `leg` {left} & [ulceration] !{family hx} `calf` 
+I70443  [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` `leg` {left} & [ulceration] !{family hx} `ankle` 
+I70444  [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` `leg` {left} & [ulceration] !{family hx} `heel` 
+        [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` `leg` {left} & [ulceration] !{family hx} `midfoot` 
+I70445  [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` `leg` {left} & [ulceration] !{family hx} `foot` 
+I70448* [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` `leg` {left} & [ulceration] !{family hx} of other part of `lower leg` 
+I70449  [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` `leg` {left} & [ulceration] !{family hx} 
+I7045   [atherosclerosis] !{family hx} `autologous vein bypass graft of other extremities` & [ulceration] !{family hx} 
+I70461  [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` & [gangrene] !{family hx} `leg` {right} 
+I70462  [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` & [gangrene] !{family hx} `leg` {left} 
+I70463  [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` & [gangrene] !{family hx} {bilateral} `legs` 
+I70468* [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` & [gangrene] !{family hx} 
+I70469  [atherosclerosis] !{family hx} `autologous vein bypass graft of extremities` & [gangrene] !{family hx} `extremity` 
+I70491  [other atherosclerosis of extremity autologous vein bypass graft] !{family hx} `leg` {right} 
+I70492  [other atherosclerosis of extremity autologous vein bypass graft] !{family hx} `leg` {left} 
+I70493  [other atherosclerosis of extremity autologous vein bypass graft] !{family hx} {bilateral} `leg` 
+I70498* [other atherosclerosis of extremity autologous vein bypass graft] !{family hx} `autologous vein bypass graft of extremities` 
+I70499  [other atherosclerosis of extremity autologous vein bypass graft] !{family hx} `extremity` 
+I70501  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the extremities` `leg` {right} 
+I70502  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the extremities` `leg` {left} 
+I70503  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the extremities` {bilateral} `leg` 
+I70508* [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the extremities` 
+I70509  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the extremities` `extremity` 
+I70511  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the extremities` & [intermittent claudication] !{family hx} `leg` {right} 
+I70512  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the extremities` & [intermittent claudication] !{family hx} `leg` {left} 
+I70513  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the extremities` & [intermittent claudication] !{family hx} {bilateral} `legs` 
+I70518* [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the extremities` & [intermittent claudication] !{family hx} 
+I70519  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the extremities` & [intermittent claudication] !{family hx} `extremity` 
+I70521  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the extremities` & [rest pain] !{family hx} `leg` {right} 
+I70522  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the extremities` & [rest pain] !{family hx} `leg` {left} 
+I70523  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the extremities` & [rest pain] !{family hx} {bilateral} `legs` 
+I70528* [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the extremities` & [rest pain] !{family hx} 
+I70529  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the extremities` & [rest pain] !{family hx} `extremity` 
+I70531  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the right leg` & [ulceration] !{family hx} `thigh` 
+I70532  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the right leg` & [ulceration] !{family hx} `calf` 
+I70533  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the right leg` & [ulceration] !{family hx} `ankle` 
+I70534  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the right leg` & [ulceration] !{family hx} `heel` 
+        [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the right leg` & [ulceration] !{family hx} `midfoot` 
+I70535  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the right leg` & [ulceration] !{family hx} `foot` 
+I70538* [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the right leg` & [ulceration] !{family hx} of other part of `lower leg` 
+I70539  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the right leg` & [ulceration] !{family hx} 
+I70541  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the left leg` & [ulceration] !{family hx} `thigh` 
+I70542  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the left leg` & [ulceration] !{family hx} `calf` 
+I70543  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the left leg` & [ulceration] !{family hx} `ankle` 
+I70544  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the left leg` & [ulceration] !{family hx} `heel` 
+        [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the left leg` & [ulceration] !{family hx} `midfoot` 
+I70545  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the left leg` & [ulceration] !{family hx} `foot` 
+I70548* [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the left leg` & [ulceration] !{family hx} of other part of `lower leg` 
+I70549  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the left leg` & [ulceration] !{family hx} 
+I7055   [atherosclerosis] !{family hx} `nonautologous biological bypass graft of extremity` & [ulceration] !{family hx} 
+I70561  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the extremities` & [gangrene] !{family hx} `leg` {right} 
+I70562  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the extremities` & [gangrene] !{family hx} `leg` {left} 
+I70563  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the extremities` & [gangrene] !{family hx} {bilateral} `legs` 
+I70568* [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the extremities` & [gangrene] !{family hx} 
+I70569  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the extremities` & [gangrene] !{family hx} `extremity` 
+I70591  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the extremities` `leg` {right} 
+I70592  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the extremities` `leg` {left} 
+I70593  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the extremities` {bilateral} `legs` 
+I70598  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the extremities` 
+I70599  [atherosclerosis] !{family hx} `nonautologous biological bypass graft of the extremities` `extremity` 
+I70601  [atherosclerosis] !{family hx} `nonbiological bypass graft of the extremities` `leg` {right} 
+I70602  [atherosclerosis] !{family hx} `nonbiological bypass graft of the extremities` `leg` {left} 
+I70603  [atherosclerosis] !{family hx} `nonbiological bypass graft of the extremities` {bilateral} `legs` 
+I70608* [atherosclerosis] !{family hx} `nonbiological bypass graft of the extremities` 
+I70609  [atherosclerosis] !{family hx} `nonbiological bypass graft of the extremities` `extremity` 
+I70611  [atherosclerosis] !{family hx} `nonbiological bypass graft of the extremities` & [intermittent claudication] !{family hx} `leg` {right} 
+I70612  [atherosclerosis] !{family hx} `nonbiological bypass graft of the extremities` & [intermittent claudication] !{family hx} `leg` {left} 
+I70613  [atherosclerosis] !{family hx} `nonbiological bypass graft of the extremities` & [intermittent claudication] !{family hx} {bilateral} `legs` 
+I70618* [atherosclerosis] !{family hx} `nonbiological bypass graft of the extremities` & [intermittent claudication] !{family hx} 
+I70619  [atherosclerosis] !{family hx} `nonbiological bypass graft of the extremities` & [intermittent claudication] !{family hx} `extremity` 
+I70621  [atherosclerosis] !{family hx} `nonbiological bypass graft of the extremities` & [rest pain] !{family hx} `leg` {right} 
+I70622  [atherosclerosis] !{family hx} `nonbiological bypass graft of the extremities` & [rest pain] !{family hx} `leg` {left} 
+I70623  [atherosclerosis] !{family hx} `nonbiological bypass graft of the extremities` & [rest pain] !{family hx} {bilateral} `legs` 
+I70628* [atherosclerosis] !{family hx} `nonbiological bypass graft of the extremities` & [rest pain] !{family hx} 
+I70629  [atherosclerosis] !{family hx} `nonbiological bypass graft of the extremities` & [rest pain] !{family hx} `extremity` 
+I70631  [atherosclerosis] !{family hx} `nonbiological bypass graft of the right leg` & [ulceration] !{family hx} `thigh` 
+I70632  [atherosclerosis] !{family hx} `nonbiological bypass graft of the right leg` & [ulceration] !{family hx} `calf` 
+I70633  [atherosclerosis] !{family hx} `nonbiological bypass graft of the right leg` & [ulceration] !{family hx} `ankle` 
+I70634  [atherosclerosis] !{family hx} `nonbiological bypass graft of the right leg` & [ulceration] !{family hx} `heel` 
+        [atherosclerosis] !{family hx} `nonbiological bypass graft of the right leg` & [ulceration] !{family hx} `midfoot` 
+I70635  [atherosclerosis] !{family hx} `nonbiological bypass graft of the right leg` & [ulceration] !{family hx} `foot` 
+I70638* [atherosclerosis] !{family hx} `nonbiological bypass graft of the right leg` & [ulceration] !{family hx} of other part of `lower leg` 
+I70639  [atherosclerosis] !{family hx} `nonbiological bypass graft of the right leg` & [ulceration] !{family hx} 
+I70641  [atherosclerosis] !{family hx} `nonbiological bypass graft of the left leg` & [ulceration] !{family hx} `thigh` 
+I70642  [atherosclerosis] !{family hx} `nonbiological bypass graft of the left leg` & [ulceration] !{family hx} `calf` 
+I70643  [atherosclerosis] !{family hx} `nonbiological bypass graft of the left leg` & [ulceration] !{family hx} `ankle` 
+I70644  [atherosclerosis] !{family hx} `nonbiological bypass graft of the left leg` & [ulceration] !{family hx} `heel` 
+        [atherosclerosis] !{family hx} `nonbiological bypass graft of the left leg` & [ulceration] !{family hx} `midfoot` 
+I70645  [atherosclerosis] !{family hx} `nonbiological bypass graft of the left leg` & [ulceration] !{family hx} `foot` 
+I70648* [atherosclerosis] !{family hx} `nonbiological bypass graft of the left leg` & [ulceration] !{family hx} of other part of `lower leg` 
+I70649  [atherosclerosis] !{family hx} `nonbiological bypass graft of the left leg` & [ulceration] !{family hx} 
+I7065   [atherosclerosis] !{family hx} `nonbiological bypass graft of extremity` & [ulceration] !{family hx} 
+I70661  [atherosclerosis] !{family hx} `nonbiological bypass graft of the extremities` & [gangrene] !{family hx} `leg` {right} 
+I70662  [atherosclerosis] !{family hx} `nonbiological bypass graft of the extremities` & [gangrene] !{family hx} `leg` {left} 
+I70663  [atherosclerosis] !{family hx} `nonbiological bypass graft of the extremities` & [gangrene] !{family hx} {bilateral} `legs` 
+I70668* [atherosclerosis] !{family hx} `nonbiological bypass graft of the extremities` & [gangrene] !{family hx} 
+I70669  [atherosclerosis] !{family hx} `nonbiological bypass graft of the extremities` & [gangrene] !{family hx} `extremity` 
+I70691  [atherosclerosis] !{family hx} `nonbiological bypass graft of the extremities` `leg` {right} 
+I70692  [atherosclerosis] !{family hx} `nonbiological bypass graft of the extremities` `leg` {left} 
+I70693  [atherosclerosis] !{family hx} `nonbiological bypass graft of the extremities` {bilateral} `legs` 
+I70698* [atherosclerosis] !{family hx} `nonbiological bypass graft of the extremities`, `extremity` 
+I70699  [atherosclerosis] !{family hx} `nonbiological bypass graft of the extremities` 
+I70701  [atherosclerosis] !{family hx} {bypass graft} `leg` {right} 
+I70702  [atherosclerosis] !{family hx} {bypass graft} `leg` {left} 
+I70703  [atherosclerosis] !{family hx} {bypass graft} {bilateral} `legs` 
+I70708* [atherosclerosis] !{family hx} {bypass graft} 
+I70709  [atherosclerosis] !{family hx} {bypass graft} `extremity` 
+I70711  [atherosclerosis] !{family hx} {bypass graft} & [intermittent claudication] !{family hx} `leg` {right} 
+I70712  [atherosclerosis] !{family hx} {bypass graft} & [intermittent claudication] !{family hx} `leg` {left} 
+I70713  [atherosclerosis] !{family hx} {bypass graft} & [intermittent claudication] !{family hx} {bilateral} `legs` 
+I70718* [atherosclerosis] !{family hx} {bypass graft} & [intermittent claudication] !{family hx} 
+I70719  [atherosclerosis] !{family hx} {bypass graft} & [intermittent claudication] !{family hx} `extremity` 
+I70721  [atherosclerosis] !{family hx} {bypass graft} & [rest pain] !{family hx} `leg` {right} 
+I70722  [atherosclerosis] !{family hx} {bypass graft} & [rest pain] !{family hx} `leg` {left} 
+I70723  [atherosclerosis] !{family hx} {bypass graft} & [rest pain] !{family hx} {bilateral} `legs` 
+I70728* [atherosclerosis] !{family hx} {bypass graft} & [rest pain] !{family hx} 
+I70729  [atherosclerosis] !{family hx} {bypass graft} & [rest pain] !{family hx} `extremity` 
+I70731  [atherosclerosis] !{family hx} {bypass graft} `leg` {right} & [ulceration] !{family hx} `thigh` 
+I70732  [atherosclerosis] !{family hx} {bypass graft} `leg` {right} & [ulceration] !{family hx} `calf` 
+I70733  [atherosclerosis] !{family hx} {bypass graft} `leg` {right} & [ulceration] !{family hx} `ankle` 
+I70734  [atherosclerosis] !{family hx} {bypass graft} `leg` {right} & [ulceration] !{family hx} `heel` 
+I70735  [atherosclerosis] !{family hx} {bypass graft} `leg` {right} & [ulceration] !{family hx} `foot` 
+I70738* [atherosclerosis] !{family hx} {bypass graft} `leg` {right} & [ulceration] !{family hx} of other part of `lower leg` 
+I70739  [atherosclerosis] !{family hx} {bypass graft} `leg` {right} & [ulceration] !{family hx} 
+I70741  [atherosclerosis] !{family hx} {bypass graft} `leg` {left} & [ulceration] !{family hx} `thigh` 
+I70742  [atherosclerosis] !{family hx} {bypass graft} `leg` {left} & [ulceration] !{family hx} `calf` 
+I70743  [atherosclerosis] !{family hx} {bypass graft} `leg` {left} & [ulceration] !{family hx} `ankle` 
+I70744  [atherosclerosis] !{family hx} {bypass graft} `leg` {left} & [ulceration] !{family hx} `heel` 
+I70745  [atherosclerosis] !{family hx} {bypass graft} `leg` {left} & [ulceration] !{family hx} `foot` 
+I70748* [atherosclerosis] !{family hx} `bypass graft of the left` leg with [ulceration] !{family hx} of other part of `lower leg` 
+I70749  [atherosclerosis] !{family hx} {bypass graft} `leg` {left} & [ulceration] !{family hx} 
+I7075   [atherosclerosis] !{family hx} `bypass graft of extremity` & [ulceration] !{family hx} 
+I70761  [atherosclerosis] !{family hx} {bypass graft} & [gangrene] !{family hx} `leg` {right}
+I70762  [atherosclerosis] !{family hx} {bypass graft} & [gangrene] !{family hx} `leg` {left}
+I70763  [atherosclerosis] !{family hx} {bypass graft} & [gangrene] !{family hx} {bilateral} `legs`
+I70768* [atherosclerosis] !{family hx} {bypass graft} & [gangrene] !{family hx}
+I70769  [atherosclerosis] !{family hx} {bypass graft} & [gangrene] !{family hx} `extremity`
+I70791  [atherosclerosis] !{family hx} {bypass graft} `leg` {right}
+I70792  [atherosclerosis] !{family hx} {bypass graft} `leg` {left}
+I70793  [atherosclerosis] !{family hx} {bypass graft} {bilateral} `legs`
+I70798* [atherosclerosis] !{family hx} {bypass graft}
+I70799  [atherosclerosis] !{family hx} `bypass graft of the extremities extremity` 
+I708*   atherosclerosis of other artery 
+I7090*  [atherosclerosis] !{family hx} !{bypass graft} !{peripheral vascular disease unspecified}
+I7091   [atherosclerosis] !{family hx} {generalized} 
+I7092   [occlusion] !{family hx} {chronic} {total} `artery of extremities` 
+I7100   [dissection] !{family hx} !{thoracic} !{abdominal} `aorta` 
+I7101   [dissection] !{family hx} `thoracic aorta` !{acute} 
+I7102   [dissection] !{family hx} `abdominal aorta` 
+I7103   [dissection] !{family hx} `thoracoabdominal aorta` 
+I711    [aneurysm] !{family hx} `thoracic aorta` & [rupture] !{family hx} 
+I712    [aneurysm] !{family hx} `thoracic aorta` !{rupture}  
+I713    [aneurysm] !{family hx} `abdominal aortic` & [rupture] !{family hx}  
+I714    [aneurysm] !{family hx} `abdominal aortic` !{rupture}
+        [aaa] !{family hx} !{rupture}
+I715    [aneurysm] !{family hx} `thoracoabdominal aortic` & [rupture] !{family hx}  
+I716    [aneurysm] !{family hx} `thoracoabdominal aortic` !{rupture}  
+I718    [aneurysm] !{family hx} `aorta` & [rupture] !{family hx}  
+I719    [aneurysm] !{family hx} !{abdominal} `aorta` !{rupture}  
+I720    [aneurysm] !{family hx} `carotid artery`
+I721    [aneurysm] !{family hx} `artery of upper extremity`
+I722    [aneurysm] !{family hx} `renal artery`
+I723    [aneurysm] !{family hx} `iliac artery`
+I724    [aneurysm] !{family hx} `artery of lower extremity`
+I728    [aneurysm] !{family hx} `other specified artery` 
+I729    [aneurysm] !{family hx} !`aorta` !`artery`
+I7300   [raynauds syndrome] !{family hx} !{gangrene}
+I7301   [raynauds syndrome] !{family hx} & [gangrene] !{family hx} 
+I731    [thromboangiitis obliterans] !{family hx} 
+I7381   [erythromelalgia] !{family hx} 
+I7389*  other specified peripheral vascular diseases 
+I739    [peripheral vascular disease unspecified] !{family hx} !{claudication} !{neurogenic}
+I7401   [saddle embolus] !{family hx} `abdominal aorta` 
+I7409   [embolism] !{family hx}  `arterial` & [thrombosis] !{family hx} `abdominal aorta` 
+I7410   [embolism] !{family hx}  `aorta` & [thrombosis] !{family hx} `aorta` 
+I7411   [embolism] !{family hx}  `thoracic aorta` & [thrombosis] !{family hx} `aorta` 
+I7419*  [embolism] !{family hx} of other parts of `aorta` & [thrombosis] !{family hx} 
+I742    [embolism] !{family hx}  `artery of the upper extremities` & [thrombosis] !{family hx} `artery of the upper extremities` 
+I743    [embolism] !{family hx}  `artery of the lower extremities` & [thrombosis] !{family hx} `artery of the lower extremities`
+        [occlusive thrombus] !{family hx}
+I744    [embolism] !{family hx}  `artery of extremities` & [thrombosis] !{family hx} `artery of extremities` 
+I745    [embolism] !{family hx}  `iliac artery` & [thrombosis] !{family hx} `artery of extremities` 
+I748*   embolism and thrombosis of other artery 
+I749    [embolism] !{family hx}  `artery` & [thrombosis] !{family hx} `artery` 
+I75011  [atheroembolism] !{family hx} {right} `upper extremity` 
+I75012  [atheroembolism] !{family hx} {left} `upper extremity` 
+I75013  [atheroembolism] !{family hx} `bilateral upper extremities` 
+I75019  [atheroembolism] !{family hx} `upper extremity` 
+I75021  [atheroembolism] !{family hx} {right} `lower extremity` 
+        [blue toe syndrome] !{family hx} {right} `lower extremity`  
+I75022  [atheroembolism] !{family hx} {left} `lower extremity` 
+        [blue toe syndrome] !{family hx} {left} `lower extremity` 
+I75023  [atheroembolism] !{family hx} `bilateral lower extremities` 
+        [blue toe syndrome] !{family hx} `bilateral lower extremities` 
+I75029  [atheroembolism] !{family hx} `lower extremity` 
+I7581   [atheroembolism] !{family hx} `kidney` 
+I7589   [atheroembolism] !{family hx} 
+I76     [embolism] !{family hx} {septic} `arterial` 
+I770    [fistula] !{family hx} {acquired} `arteriovenous` 
+I771    [stricture] !{family hx} `artery` 
+I772    [rupture] !{family hx} `artery` 
+I773    [dysplasia] !{family hx} `arterial` `fibromuscular` 
+I774    [celiac artery compression syndrome] !{family hx} 
+I775    [necrosis] !{family hx} `artery` 
+I776    [arteritis] !{specified type of arteritis} !{giant cell} !{family hx}
+I7771   [dissection] !{family hx} `carotid artery` & ![surgical technique]
+I7772   [dissection] !{family hx} `iliac artery` 
+I7773   [dissection] !{family hx} `renal artery` 
+I7774   [dissection] !{family hx} `vertebral artery` 
+I7779*  [dissection] !{family hx} `artery` 
+I77810  [ectasia] !{family hx} `thoracic aorta` 
+I77811  [ectasia] !{family hx} `abdominal aorta` 
+I77812  [ectasia] !{family hx} `thoracoabdominal aortic` 
+I77819  [ectasia] !{family hx} `aorta` !`abdominal` !`thoracoabdominal` !`thoracic`
+I7789*  other specified disorders of artery and arterioles 
+I779*   [disorder] !{family hx} `artery` 
+        [disorder] !{family hx} `arterioles` 
+I780    [telangiectasia] !{family hx} {hereditary} {hemorrhagic} 
+I781    [nevus] !{family hx} {non neoplastic} 
+I788*   other diseases of capillaries 
+I789    [disease] !{family hx} `capillaries` 
+I790*   aneurysm of aorta in diseases classified elsewhere 
+I791*   aortitis in diseases classified elsewhere 
+I798*   other disorders of artery, arterioles and capillaries in diseases classified elsewhere 
+I8000   [phlebitis] !{family hx} `superficial vessels of lower extremity` 
+        [thrombophlebitis] !{family hx} `superficial vessels of lower extremity` 
+I8001   [phlebitis] !{family hx} {superficial} `right lower extremity` 
+        [thrombophlebitis] !{family hx} `right lower extremity` 
+I8002   [phlebitis] !{family hx} `superficial vessels of left lower extremity` 
+        [thrombophlebitis] !{family hx} `superficial vessels of left lower extremity` 
+I8003   [phlebitis] !{family hx} `superficial vessels of bilateral lower extremities` 
+        [thrombophlebitis] !{family hx} `superficial vessels of bilateral lower extremities` 
+I8010   [phlebitis] !{family hx} `femoral vein` 
+        [thrombophlebitis] !{family hx} `femoral vein` 
+I8011   [phlebitis] !{family hx} {right} `femoral vein` 
+        [thrombophlebitis] !{family hx} {right} `femoral vein` 
+I8012   [phlebitis] !{family hx} {left} `femoral vein` 
+        [thrombophlebitis] !{family hx} {left} `femoral vein` 
+I8013   [phlebitis] !{family hx} `femoral vein, bilateral` 
+        [thrombophlebitis] !{family hx} `femoral vein, bilateral` 
+I80201  [phlebitis] !{family hx} `deep vein of right lower extremity` 
+        [thrombophlebitis] !{family hx} `deep vein of right lower extremity` 
+I80202  [phlebitis] !{family hx} `deep vein of left lower extremity` 
+        [thrombophlebitis] !{family hx} `deep vein of left lower extremity` 
+I80203  [phlebitis] !{family hx}  `deep vein` & [bilateral] !{family hx} `lower extremities`
+        [thrombophlebitis] !{family hx} `deep vein` & [bilateral] !{family hx} `lower extremities` 
+I80209  [phlebitis] !{family hx} `deep vessels of lower extremity` 
+        [thrombophlebitis] !{family hx} `deep vessels of lower extremity` 
+I80211  [phlebitis] !{family hx} {right} `iliac vein` 
+        [thrombophlebitis] !{family hx} {right} `iliac vein` 
+I80212  [phlebitis] !{family hx} {left} `iliac vein` 
+        [thrombophlebitis] !{family hx} {left} `iliac vein` 
+I80213  [phlebitis] !{family hx} `iliac vein, bilateral` 
+        [thrombophlebitis] !{family hx} `iliac vein, bilateral` 
+I80219  [phlebitis] !{family hx} `iliac vein` 
+        [thrombophlebitis] !{family hx} `iliac vein` 
+I80221  [phlebitis] !{family hx} {right} `popliteal vein` 
+        [thrombophlebitis] !{family hx} {right} `popliteal vein` 
+I80222  [phlebitis] !{family hx} {left} `popliteal vein` 
+        [thrombophlebitis] !{family hx} {left} `popliteal vein` 
+I80223  [phlebitis] !{family hx} `popliteal vein, bilateral` 
+        [thrombophlebitis] !{family hx} `popliteal vein, bilateral` 
+I80229  [phlebitis] !{family hx} `popliteal vein` 
+        [thrombophlebitis] !{family hx} `popliteal vein` 
+I80231  [phlebitis] !{family hx} {right} `tibial vein` 
+        [thrombophlebitis] !{family hx} {right} `tibial vein` 
+I80232  [phlebitis] !{family hx} {left} `tibial vein` 
+        [thrombophlebitis] !{family hx} {left} `tibial vein` 
+I80233  [phlebitis] !{family hx} `tibial vein, bilateral` 
+        [thrombophlebitis] !{family hx} `tibial vein, bilateral` 
+I80239  [phlebitis] !{family hx} `tibial vein` 
+        [thrombophlebitis] !{family hx} `tibial vein`
+I8024	[phlebitis] !{family hx} & [thrombophlebitis] !{family hx} `peroneal vein` !{right} !{left}	
+I80241	[phlebitis] !{family hx} & [thrombophlebitis] !{family hx} {right} `peroneal vein`		
+I80242	[phlebitis] !{family hx} & [thrombophlebitis] !{family hx} {left} `peroneal vein`		
+I80243	[phlebitis] !{family hx} & [thrombophlebitis] !{family hx} `peroneal vein` {bilateral}		
+I80249	[phlebitis] !{family hx} & [thrombophlebitis] !{family hx} !{right} !{left} `peroneal vein`		
+I80251	[phlebitis] !{family hx} & [thrombophlebitis] !{family hx} {right} `calf vein`		
+I80252	[phlebitis] !{family hx} & [thrombophlebitis] !{family hx} {left} `calf vein`		
+I80253	[phlebitis] !{family hx} & [thrombophlebitis] !{family hx} `calf vein` {bilateral}		
+I80259	[phlebitis] !{family hx} & [thrombophlebitis] !{family hx} `calf vein` !{right} !{left}	
+I80291  [phlebitis] !{family hx} `deep vein of right lower extremity` 
+        [thrombophlebitis] !{family hx} `deep vein of right lower extremity` 
+I80292  [phlebitis] !{family hx} `deep vein of left lower extremity` 
+        [thrombophlebitis] !{family hx} `deep vein of left lower extremity` 
+I80293  [phlebitis] !{family hx} `deep vessels of bilateral lower extremities` 
+        [thrombophlebitis] !{family hx} `deep vessels of bilateral lower extremities`
+I80299  [phlebitis] !{family hx} `deep vessels of lower extremity` 
+        [thrombophlebitis] !{family hx} `deep vessels of lower extremity` 
+I803    [phlebitis] !{family hx} `leg` !{left} !{right}
+        [thrombophlebitis] !{family hx} `leg` !{left} !{right} 
+I808*   phlebitis of other sites 
+I809    [phlebitis] !{family hx} 
+        [thrombophlebitis] !{family hx} 
+I81     [thrombosis] !{family hx} `portal vein` 
+I820    [budd chiari syndrome] !{family hx} 
+I821    [thrombophlebitis migrans] !{family hx} 
+I82210  [embolism and thrombosis] !{family hx} !{history} `superior vena cava` 
+I82211  [embolism and thrombosis] !{family hx} !{history} {chronic} `superior vena cava` 
+I82220  [embolism and thrombosis] !{family hx} !{history} `inferior vena cava` 
+I82221  [embolism and thrombosis] !{family hx} !{history} {chronic} `inferior vena cava` 
+I82290  [embolism and thrombosis] !{family hx} !{history} `thoracic veins` 
+I82291  [embolism and thrombosis] !{family hx} !{history} {chronic} `thoracic veins` 
+I823    [embolism and thrombosis] !{family hx} !{history} `renal vein` 
+I82401  [embolism and thrombosis] !{family hx} !{history} {right} `lower extremity` 
+I82402  [embolism and thrombosis] !{family hx} !{history} {left} `lower extremity` 
+I82403  [embolism and thrombosis] !{family hx} !{history} {bilateral} `lower extremity`
+I82409  [embolism and thrombosis] !{family hx} !{history} !{left} !{right} !{bilateral} `lower extremity` !{prophylaxis} !`other specified` 
+I82411  [embolism and thrombosis] !{family hx} !{history} {right} `femoral vein` 
+I82412  [embolism and thrombosis] !{family hx} !{history} {left} `femoral vein` 
+I82413  [embolism and thrombosis] !{family hx} !{history}  `femoral vein bilateral` 
+I82419  [embolism and thrombosis] !{family hx} !{history} `femoral vein` !{left} !{right} !{bilateral} 
+I82421  [embolism and thrombosis] !{family hx} !{history} {right} `iliac vein` 
+I82422  [embolism and thrombosis] !{family hx} !{history} {left} `iliac vein` 
+I82423  [embolism and thrombosis] !{family hx} !{history} `iliac vein, bilateral` 
+I82429  [embolism and thrombosis] !{family hx} !{history} !{left} !{right} !{bilateral}  `iliac vein` 
+I82431  [embolism and thrombosis] !{family hx} !{history} {right} `popliteal vein` 
+I82432  [embolism and thrombosis] !{family hx} !{history} {left} `popliteal vein` 
+I82433  [embolism and thrombosis] !{family hx} !{history} `popliteal vein, bilateral` 
+I82439  [embolism and thrombosis] !{family hx} !{history} !{left} !{right} !{bilateral}  `popliteal vein` 
+I82441  [embolism and thrombosis] !{family hx} !{history} {right} `tibial vein` 
+I82442  [embolism and thrombosis] !{family hx} !{history} {left} `tibial vein` 
+I82443  [embolism and thrombosis] !{family hx} !{history} `tibial vein, bilateral` 
+I82449  [embolism and thrombosis] !{family hx} !{history} !{left} !{right} !{bilateral} `tibial vein` 
+I82491  [embolism and thrombosis] !{family hx} !{history} `deep vein of right lower extremity` 
+I82492  [embolism and thrombosis] !{family hx} !{history} `deep vein of left lower extremity` 
+I82493  [embolism and thrombosis] !{family hx} !{history} `deep vein of lower extremity` `bilateral` 
+I82499  [embolism and thrombosis] !{family hx} !{history} !{left} !{right} !{bilateral} `deep vein of lower extremity` 
+I824Y1  [embolism and thrombosis] !{family hx} !{history} `deep veins of right proximal lower extremity` 
+I824Y2  [embolism and thrombosis] !{family hx} !{history} `deep veins of left proximal lower extremity` 
+I824Y3  [embolism and thrombosis] !{family hx} !{history} `deep veins of proximal lower extremity` `bilateral` 
+I824Y9  [embolism and thrombosis] !{family hx} !{history} !{left} !{right} !{bilateral} `deep veins of proximal lower extremity` 
+I824Z1  [embolism and thrombosis] !{family hx} !{history} {acute} `deep veins of right distal lower extremity` 
+I824Z2  [embolism and thrombosis] !{family hx} !{history} {acute} `deep veins of left distal lower extremity` 
+I824Z3  [embolism and thrombosis] !{family hx} !{history} {acute} `deep veins of distal lower extremity` `bilateral` 
+I824Z9  [embolism and thrombosis] !{family hx} !{history}  `deep veins of distal lower extremity` !{left} !{right} !{bilateral}
+I8245	[embolism] !{family hx} {acute} & [thrombosis] !{family hx} !{right} !{left} `peroneal vein`	
+I82451	[embolism] !{family hx} {acute} & [thrombosis] !{family hx} {right} `peroneal vein`	
+I82452	[embolism] !{family hx} {acute} & [thrombosis] !{family hx} {left} `peroneal vein`	
+I82453	[embolism] !{family hx} {acute} & [thrombosis] !{family hx} `peroneal vein` {bilateral}	
+I82459	[embolism] !{family hx} {acute} & [thrombosis] !{family hx} `peroneal vein` !{left} !{right} !{bilateral}		
+I82461	[deep vein thrombosis] !{family hx}  !{chronic} {right} `calf vein`	
+I82462	[deep vein thrombosis] !{family hx} !{chronic} {left} `calf vein`	
+I82463	[deep vein thrombosis] !{family hx} `calf vein` {bilateral}	
+I82469	[embolism] !{family hx} {acute} & [thrombosis] !{family hx}  `calf vein` !{left} !{right} !{bilateral}	
+I82501  [embolism and thrombosis] !{family hx} {chronic} `deep veins of right lower extremity` 
+I82502  [embolism and thrombosis] !{family hx} {chronic} `deep veins of left lower extremity` 
+I82503  [embolism and thrombosis] !{family hx} {chronic} `deep veins of lower extremity` `bilateral` 
+I82509  [embolism and thrombosis] !{family hx} {chronic} !{left} !{right} !{bilateral} `deep veins of unspecified lower extremity` 
+I82511  [embolism and thrombosis] !{family hx} {chronic} {right} `femoral vein` 
+I82512  [embolism and thrombosis] !{family hx} {chronic} {left} `femoral vein` 
+I82513  [embolism and thrombosis] !{family hx} {chronic} `femoral vein, bilateral` 
+I82519  [embolism and thrombosis] !{family hx} {chronic} !{left} !{right} !{bilateral} `femoral vein` 
+I82521  [embolism and thrombosis] !{family hx} {chronic} {right} `iliac vein` 
+I82522  [embolism and thrombosis] !{family hx} {chronic} {left} `iliac vein` 
+I82523  [embolism and thrombosis] !{family hx} {chronic} `iliac vein, bilateral` 
+I82529  [embolism and thrombosis] !{family hx} {chronic} !{left} !{right} !{bilateral} `iliac vein` 
+I82531  [embolism and thrombosis] !{family hx} {chronic} {right} `popliteal vein` 
+I82532  [embolism and thrombosis] !{family hx} {chronic} {left} `popliteal vein` 
+I82533  [embolism and thrombosis] !{family hx} {chronic} `popliteal vein, bilateral` 
+I82539  [embolism and thrombosis] !{family hx} {chronic} !{left} !{right} !{bilateral} `popliteal vein` 
+I82541  [embolism and thrombosis] !{family hx} {chronic} {right} `tibial vein` 
+I82542  [embolism and thrombosis] !{family hx} {chronic} {left} `tibial vein` 
+I82543  [embolism and thrombosis] !{family hx} {chronic} `tibial vein, bilateral` 
+I82549  [embolism and thrombosis] !{family hx} {chronic} !{left} !{right} !{bilateral} `tibial vein` 	
+I82551	[embolism] !{family hx} {chronic} & [thrombosis] !{family hx} {right} `peroneal vein`
+        [embolism and thrombosis] !{family hx} {chronic} {right} `peroneal vein`	
+I82552	[embolism] !{family hx} {chronic} & [thrombosis] !{family hx} {left} `peroneal vein`
+        [embolism and thrombosis] !{family hx} {chronic} {left} `peroneal vein`	
+I82553	[embolism] !{family hx} {chronic} & [thrombosis] !{family hx} `peroneal vein` {bilateral}
+        [embolism and thrombosis] !{family hx} {chronic} {bilateral} `peroneal vein`
+I82559	[embolism] !{family hx} {chronic} & [thrombosis] !{family hx} `peroneal vein` !{left} !{right} !{bilateral}	
+I82561	[embolism] !{family hx} {chronic} & [thrombosis] !{family hx} {right} `calf vein`	
+I82562	[embolism] !{family hx} {chronic} & [thrombosis] !{family hx} {left} `calf vein`	
+I82563	[embolism] !{family hx} {chronic} & [thrombosis] !{family hx}  `calf vein` {bilateral}	
+I82569	[embolism] !{family hx} {chronic} & [thrombosis] !{family hx}  `calf vein` !{left} !{right} !{bilateral}	
+I82591  [embolism and thrombosis] !{family hx} {chronic} `deep vein of right lower extremity` 
+I82592  [embolism and thrombosis] !{family hx} {chronic} `deep vein of left lower extremity` 
+I82593  [embolism and thrombosis] !{family hx} {chronic} `deep vein of lower extremity` `bilateral` 
+I82599  [embolism and thrombosis] !{family hx} {chronic}  !{left} !{right} `deep vein of lower extremity` 
+I825Y1  [embolism and thrombosis] !{family hx} {chronic} `deep veins of right proximal lower extremity` 
+I825Y2  [embolism and thrombosis] !{family hx} {chronic} `deep veins of left proximal lower extremity` 
+I825Y3  [embolism and thrombosis] !{family hx} {chronic} `deep veins of proximal lower extremity` `bilateral` 
+I825Y9  [embolism and thrombosis] !{family hx} {chronic} !{left} !{right}  `deep veins of proximal lower extremity` 
+I825Z1  [embolism and thrombosis] !{family hx} {chronic} `deep veins of right distal lower extremity` 
+I825Z2  [embolism and thrombosis] !{family hx} {chronic} `deep veins of left distal lower extremity` 
+I825Z3  [embolism and thrombosis] !{family hx} {chronic} `deep veins of distal lower extremity` `bilateral` 
+I825Z9  [embolism and thrombosis] !{family hx} {chronic} !{left} !{right}  `deep veins of distal lower extremity` 
+I82601  [embolism and thrombosis] !{family hx} `veins of right upper extremity` 
+I82602  [embolism and thrombosis] !{family hx} `veins of left upper extremity` 
+I82603  [embolism and thrombosis] !{family hx} `veins of upper extremity` `bilateral` 
+I82609  [embolism and thrombosis] !{family hx} !{left} !{right}  `veins of upper extremity` 
+I82611  [embolism and thrombosis] !{family hx} `superficial veins of right upper extremity` 
+I82612  [embolism and thrombosis] !{family hx} `superficial veins of left upper extremity` 
+I82613  [embolism and thrombosis] !{family hx} `superficial veins of upper extremity` `bilateral` 
+I82619  [embolism and thrombosis] !{family hx} !{left} !{right}  `superficial veins of upper extremity` 
+I82621  [embolism and thrombosis] !{family hx} `deep veins of right upper extremity` 
+I82622  [embolism and thrombosis] !{family hx} `deep veins of left upper extremity` 
+I82623  [embolism and thrombosis] !{family hx} `deep veins of bilateral upper extremities` 
+I82629  [embolism and thrombosis] !{family hx} !{left} !{right}  `deep veins of upper extremity` 
+I82701  [embolism and thrombosis] !{family hx} {chronic} `veins of right upper extremity` 
+I82702  [embolism and thrombosis] !{family hx} {chronic} `veins of left upper extremity` 
+I82703  [embolism and thrombosis] !{family hx} {chronic} `veins of upper extremity` `bilateral` 
+I82709  [embolism and thrombosis] !{family hx} {chronic} !{left} !{right}  `veins of upper extremity` 
+I82711  [embolism and thrombosis] !{family hx} {chronic} `superficial veins of right upper extremity` 
+I82712  [embolism and thrombosis] !{family hx} {chronic} `superficial veins of left upper extremity` 
+I82713  [embolism and thrombosis] !{family hx} {chronic} `superficial veins of upper extremity` `bilateral` 
+I82719  [embolism and thrombosis] !{family hx} {chronic} !{left} !{right}  `superficial veins of upper extremity` 
+I82721  [embolism and thrombosis] !{family hx} {chronic} `deep veins of right upper extremity` 
+I82722  [embolism and thrombosis] !{family hx} {chronic} `deep veins of left upper extremity` 
+I82723  [embolism and thrombosis] !{family hx} {chronic} `deep veins of bilateral upper extremities` 
+I82729  [embolism and thrombosis] !{family hx} {chronic} !{left} !{right}  `deep veins of upper extremity` 
+I82A11  [embolism and thrombosis] !{family hx} {right} `axillary vein` 
+I82A12  [embolism and thrombosis] !{family hx} {left} `axillary vein` 
+I82A13  [embolism and thrombosis] !{family hx} `bilateral axillary vein` 
+I82A19  [embolism and thrombosis] !{family hx} !{left} !{right}  `axillary vein` 
+I82A21  [embolism and thrombosis] !{family hx} {chronic} {right} `axillary vein` 
+I82A22  [embolism and thrombosis] !{family hx} {chronic} {left} `axillary vein` 
+I82A23  [embolism and thrombosis] !{family hx} {chronic} `bilateral axillary vein` 
+I82A29  [embolism and thrombosis] !{family hx} {chronic} !{left} !{right}  `axillary vein` 
+I82B11  [embolism and thrombosis] !{family hx} {right} `subclavian vein` 
+I82B12  [embolism and thrombosis] !{family hx} {left} `subclavian vein` 
+I82B13  [embolism and thrombosis] !{family hx} `bilateral subclavian veins` 
+I82B19  [embolism and thrombosis] !{family hx} !{left} !{right}  `subclavian vein` 
+I82B21  [embolism and thrombosis] !{family hx} {chronic} {right} `subclavian vein` 
+I82B22  [embolism and thrombosis] !{family hx} {chronic} {left} `subclavian vein` 
+I82B23  [embolism and thrombosis] !{family hx} {chronic} `bilateral subclavian veins` 
+I82B29  [embolism and thrombosis] !{family hx} {chronic} !{left} !{right}  `subclavian vein` 
+I82C11  [embolism and thrombosis] !{family hx} {right} `internal jugular vein` 
+I82C12  [embolism and thrombosis] !{family hx} {left} `internal jugular vein` 
+I82C13  [embolism and thrombosis] !{family hx} `bilateral internal jugular veins` 
+I82C19  [embolism and thrombosis] !{family hx} !{left} !{right}  `internal jugular vein` 
+I82C21  [embolism and thrombosis] !{family hx} {chronic} {right} `internal jugular vein` 
+I82C22  [embolism and thrombosis] !{family hx} {chronic} {left} `internal jugular vein` 
+I82C23  [embolism and thrombosis] !{family hx} {chronic} `bilateral internal jugular veins` 
+I82C29  [embolism and thrombosis] !{family hx} {chronic} !{left} !{right}  `internal jugular vein` 
+I82811  [embolism and thrombosis] !{family hx} `superficial veins of right lower extremities` 
+I82812  [embolism and thrombosis] !{family hx} `superficial veins of left lower extremities` 
+I82813  [embolism and thrombosis] !{family hx} `superficial veins of bilateral lower extremities` 
+I82819  [embolism and thrombosis] !{family hx} `superficial veins of unspecified lower extremities` 
+I82890* embolism and thrombosis of other specified veins 
+I82891* chronic embolism and thrombosis of other specified veins 
+I8290   [embolism and thrombosis] !{family hx} !{hepatic} !{jugular} !{soleal} !{calf} `vein` !{prophylaxis} !{personal history} !{family hx}
+I8291   [embolism and thrombosis] !{family hx} !{hepatic} !{jugular} !{soleal} !{calf} !{peroneal} {chronic} `vein` 
+I83001  [varicose] !{family hx}  `lower extremity` & [ulcer] !{family hx} `thigh` !{left} !{right}
+I83002  [varicose] !{family hx}  `lower extremity` & [ulcer] !{family hx} `calf` !{left} !{right}
+I83003  [varicose] !{family hx}  `lower extremity` & [ulcer] !{family hx} `ankle` !{left} !{right}
+I83004  [varicose] !{family hx}  `lower extremity` & [ulcer] !{family hx} `heel` !{left} !{right}
+        [varicose] !{family hx}  `lower extremity` & [ulcer] !{family hx} `midfoot` !{left} !{right}
+I83005  [varicose] !{family hx}  `lower extremity` & [ulcer] !{family hx} `foot` !{left} !{right}
+I83008  [varicose] !{family hx}  `lower extremity` & [ulcer] !{family hx} `lower leg` !{left} !{right}
+I83009* [varicose] !{family hx}  `lower extremity` & [ulcer] !{family hx} !{left} !{right}
+I83011  [varicose] !{family hx} {right} `lower extremity` & [ulcer] !{family hx} {right} `thigh`
+I83012  [varicose] !{family hx} {right} `lower extremity` & [ulcer] !{family hx} {right} `calf`
+I83013  [varicose] !{family hx} {right} `lower extremity` & [ulcer] !{family hx} {right} `ankle`
+I83014  [varicose] !{family hx} {right} `lower extremity` & [ulcer] !{family hx} {right} `heel`
+        [varicose] !{family hx} {right} `lower extremity` & [ulcer] !{family hx} {right} `midfoot`
+I83015  [varicose] !{family hx} {right} `lower extremity` & [ulcer] !{family hx} {right} `foot`
+I83018  [varicose] !{family hx} {right} `lower extremity` & [ulcer] !{family hx} {right} `lower leg`
+I83019* [varicose] !{family hx} {right} `lower extremity` & [ulcer] !{family hx} 
+I83021  [varicose] !{family hx} {left} `lower extremity` & [ulcer] !{family hx} {left} `thigh`
+I83022  [varicose] !{family hx} {left} `lower extremity` & [ulcer] !{family hx} {left} `calf`
+I83023  [varicose] !{family hx} {left} `lower extremity` & [ulcer] !{family hx} {left} `ankle`
+I83024  [varicose] !{family hx} {left} `lower extremity` & [ulcer] !{family hx} {left} `heel`
+        [varicose] !{family hx} {left} `lower extremity` & [ulcer] !{family hx} {left} `midfoot`
+I83025  [varicose] !{family hx} {left} `lower extremity` & [ulcer] !{family hx} {left} `foot`
+I83028  [varicose] !{family hx} {left} `lower extremity` & [ulcer] !{family hx} {left} `lower leg`
+I83029  [varicose] !{family hx} {left} `lower extremity` & [ulcer] !{family hx} {left} `lower extremity`
+I8310   [varicose] !{family hx} `lower extremity` !{left} !{right} & [inflammation] !{family hx} 
+I8311   [varicose] !{family hx} {right} `lower extremity` & [inflammation] !{family hx}
+I8312   [varicose] !{family hx} {left} `lower extremity` & [inflammation] !{family hx}
+        [varicose] !{family hx} {left} `lower extremity` {inflammation}
+I83201  [varicose] !{family hx} `lower extremity` & [ulcer] !{family hx} `thigh` & [inflammation] !{family hx} 
+I83202  [varicose] !{family hx} `lower extremity` & [ulcer] !{family hx} `calf` & [inflammation] !{family hx} 
+I83203  [varicose] !{family hx} `lower extremity` & [ulcer] !{family hx} `ankle` & [inflammation] !{family hx} 
+I83204  [varicose] !{family hx} `lower extremity` & [ulcer] !{family hx} `heel and midfoot` & [inflammation] !{family hx} 
+I83205  [varicose] !{family hx} `lower extremity` & [ulcer] !{family hx} `foot` & [inflammation] !{family hx} 
+I83208* [varicose] !{family hx} of unspecified lower extremity & [ulcer] !{family hx} of other part of lower extremity & [inflammation] !{family hx}
+I83209  [varicose] !{family hx} `lower extremity` & [ulcer] !{family hx} & [inflammation] !{family hx}
+I83211  [varicose] !{family hx} {right} `lower extremity` & [ulcer] !{family hx} `thigh` & [inflammation] !{family hx}
+I83212  [varicose] !{family hx} {right} `lower extremity` & [ulcer] !{family hx} `calf` & [inflammation] !{family hx}
+I83213  [varicose] !{family hx} {right} `lower extremity` & [ulcer] !{family hx} `ankle` & [inflammation] !{family hx}
+I83214  [varicose] !{family hx} {right} `lower extremity` & [ulcer] !{family hx} `heel and midfoot` & [inflammation] !{family hx}
+I83215  [varicose] !{family hx} {right} `lower extremity` & [ulcer] !{family hx} `foot` & [inflammation] !{family hx}
+I83218* [varicose] !{family hx} {right} `lower extremity` & [ulcer] !{family hx} of other part of lower extremity & [inflammation] !{family hx}
+I83219  [varicose] !{family hx} {right} `lower extremity` & [ulcer] !{family hx} & [inflammation] !{family hx}
+I83221  [varicose] !{family hx} {left} `lower extremity` & [ulcer] !{family hx} `thigh` & [inflammation] !{family hx}
+I83222  [varicose] !{family hx} {left} `lower extremity` & [ulcer] !{family hx} `calf` & [inflammation] !{family hx}
+I83223  [varicose] !{family hx} {left} `lower extremity` & [ulcer] !{family hx} `ankle` & [inflammation] !{family hx}
+I83224  [varicose] !{family hx} {left} `lower extremity` & [ulcer] !{family hx} `heel and midfoot` & [inflammation] !{family hx}
+I83225  [varicose] !{family hx} {left} `lower extremity` & [ulcer] !{family hx} `foot` & [inflammation] !{family hx}
+I83228* [varicose] !{family hx} {left} `lower extremity` & [ulcer] !{family hx} of other part of lower extremity & [inflammation] !{family hx}
+I83229  [varicose] !{family hx} {left} `lower extremity` & [ulcer] !{family hx} & [inflammation] !{family hx}
+I83811  [varicose] !{family hx} & [pain] !{family hx} !{edema} !{swelling} `lower extremity` {right}
+I83812  [varicose] !{family hx} & [pain] !{family hx} !{edema} !{swelling} `lower extremity` {left}
+I83813  [varicose] !{family hx} & [pain] !{family hx} !{edema} !{swelling} `lower extremities` {bilateral}
+I83819  [varicose] !{family hx} & [pain] !{family hx} `lower extremities` !{left} !{right} 
+I83891  [varicose] !{family hx} {right} `lower extremity` & [edema] !{family hx}
+        [varicose] !{family hx} {right} `lower extremity` & [swelling] !{family hx}
+I83892  [varicose] !{family hx} `lower extremity` {left} & [edema] !{family hx}
+        [varicose] !{family hx} `lower extremity` {left} & [swelling] !{family hx}
+I83893  [varicose] !{family hx} & [edema] !{family hx} `lower extremities` {bilateral}
+        [varicose] !{family hx} & [swelling] !{family hx} `lower extremities` {bilateral}
+I83899  [varicose] !{family hx} `lower extremities` & [complication] !{family hx} !{left} !{right}
+I8390   [varicose] !{family hx} {asymptomatic} `lower extremity` !{left} !{right}
+I8391   [varicose] !{family hx} {asymptomatic} {right} `lower extremity`
+I8392   [varicose] !{family hx} {asymptomatic} {left} `lower extremity`
+I8393   [varicose] !{family hx} {asymptomatic} `bilateral lower extremities`
+I8500   [esophageal varices] !{family hx} !{hemorrhage} 
+I8501   [esophageal varices] !{family hx} {hemorrhage}
+I8510   [esophageal varices] !{family hx} !{hemorrhage} & [secondary causes] !{family hx}
+I8511   [esophageal varices] !{family hx} {hemorrhage} & [secondary causes] !{family hx}
+I860    [varices] !{family hx} `sublingual` 
+I861    [varices] !{family hx} `scrotum` 
+I862    [varices] !{family hx} `pelvis` 
+I863    [varices] !{family hx} `vulva` 
+I864    [varices] !{family hx} `gastric` 
+I868*   [varicose] !{family hx} of other specified sites  
+I87001  [postthrombotic syndrome] !{family hx} !{complication} {right} `lower extremity`
+I87002  [postthrombotic syndrome] !{family hx} !{complication} {left} `lower extremity`
+I87003  [postthrombotic syndrome] !{family hx} !{complication} `bilateral lower extremities`
+I87009  [postthrombotic syndrome] !{family hx} !{complication} `unspecified extremity`
+I87011  [postthrombotic syndrome] !{family hx}  & [ulcer] !{family hx} {right} `lower extremity`
+I87012  [postthrombotic syndrome] !{family hx}  & [ulcer] !{family hx} {left} `lower extremity`
+I87013  [postthrombotic syndrome] !{family hx}  & [ulcer] !{family hx} `bilateral lower extremities`
+I87019  [postthrombotic syndrome] !{family hx}  & [ulcer] !{family hx} `lower extremity`
+I87021  [postthrombotic syndrome] !{family hx}  & [inflammation] !{family hx} {right} `lower extremity`
+I87022  [postthrombotic syndrome] !{family hx}  & [inflammation] !{family hx} {left} `lower extremity` 
+I87023  [postthrombotic syndrome] !{family hx}  & [inflammation] !{family hx} `bilateral lower extremities`
+I87029  [postthrombotic syndrome] !{family hx}  & [inflammation] !{family hx} `lower extremity`
+I87031  [postthrombotic syndrome] !{family hx}  & [ulcer] !{family hx} & [inflammation] !{family hx} {right} `lower extremity`
+I87032  [postthrombotic syndrome] !{family hx}  & [ulcer] !{family hx} & [inflammation] !{family hx} {left} `lower extremity`
+I87033  [postthrombotic syndrome] !{family hx}  & [ulcer] !{family hx} & [inflammation] !{family hx} `bilateral lower extremities`
+I87039  [postthrombotic syndrome] !{family hx}  & [ulcer] !{family hx} & [inflammation] !{family hx} `lower extremity`
+I87091  [postthrombotic syndrome] !{family hx}  & [complication] !{family hx} {right} `lower extremity`
+I87092  [postthrombotic syndrome] !{family hx}  & [complication] !{family hx} {left} `lower extremity`
+I87093  [postthrombotic syndrome] !{family hx}  & [complication] !{family hx} `bilateral lower extremities`
+I87099  [postthrombotic syndrome] !{family hx}  & [complication] !{family hx} `lower extremity`
+I871    [compression] !{family hx} `vein` 
+I872    [venous insufficiency] !{family hx} !{varicose}  & ![varicose ulcer] !{family hx}
+I87301  [hypertension] !{family hx} {chronic} `venous` !{complication} {right} `lower extremity`
+I87302  [hypertension] !{family hx} {chronic} `venous` !{complication} {left} `lower extremity`
+I87303  [hypertension] !{family hx} {chronic} `venous` !{complication} `bilateral lower extremities`
+I87309  [hypertension] !{family hx} {chronic} `venous` !{complication} `unspecified lower extremity`
+I87311  [hypertension] !{family hx} {chronic} `venous` & [ulcer] !{family hx} {right} `lower extremity`
+I87312  [hypertension] !{family hx} {chronic} `venous` & [ulcer] !{family hx} {left} `lower extremity`
+I87313  [hypertension] !{family hx} {chronic} `venous` & [ulcer] !{family hx} `bilateral lower extremities`
+I87319  [hypertension] !{family hx} {chronic} `venous` & [ulcer] !{family hx} `lower extremity`
+I87321  [hypertension] !{family hx} {chronic} `venous` & [inflammation] !{family hx} {right} `lower extremity`
+I87322  [hypertension] !{family hx} {chronic} `venous` & [inflammation] !{family hx} {left} `lower extremity`
+I87323  [hypertension] !{family hx} {chronic} `venous` & [inflammation] !{family hx} `bilateral lower extremities`
+I87329  [hypertension] !{family hx} {chronic} `venous` & [inflammation] !{family hx} `lower extremity`
+I87331  [hypertension] !{family hx} {chronic} `venous` & [ulcer] !{family hx} & [inflammation] !{family hx} {right} `lower extremity`
+I87332  [hypertension] !{family hx} {chronic} `venous` & [ulcer] !{family hx} & [inflammation] !{family hx} {left} `lower extremity`
+I87333  [hypertension] !{family hx} {chronic} `venous` & [ulcer] !{family hx} & [inflammation] !{family hx} `bilateral lower extremities`
+I87339  [hypertension] !{family hx} {chronic} `venous` & [ulcer] !{family hx} & [inflammation] !{family hx} `lower extremity`
+I87391  [hypertension] !{family hx} {chronic} `venous` & [complication] !{family hx} {right} `lower extremity`
+I87392  [hypertension] !{family hx} {chronic} `venous` & [complication] !{family hx} {left} `lower extremity`
+I87393  [hypertension] !{family hx} {chronic} `venous` & [complication] !{family hx} `bilateral lower extremities`
+I87399  [hypertension] !{family hx} {chronic} `venous` & [complication] !{family hx} `lower extremity`
+I878    [other specified disorders of veins] !{family hx}
+I879    [disorder] !{family hx} `vein` 
+I880    [lymphadenitis] !{family hx} {nonspecific} {mesenteric}
+I881    [lymphadenitis] !{family hx} {chronic} & ![mesenteric] !{family hx}
+I888*   other nonspecific lymphadenitis 
+I889    [lymphadenitis] !{family hx} {nonspecific}
+I890    [lymphedema] !{family hx} 
+I891    [lymphangitis] !{family hx} 
+I898    [chylothorax] !{family hx} !{infection}
+I899    [disorder] !{family hx} {noninfective} `lymphatic vessels` `lymph nodes`
+I950    [hypotension] !{family hx} {idiopathic}
+I951    [orthostatic hypotension] !{family hx}
+I952    [hypotension] !{family hx} {drugs}
+I953    [hypotension] !{family hx} {hemodialysis}
+I9581   [postprocedural hypotension] !{family hx} 
+I9589*  other [hypotension] !{family hx} 
+I959    [hypotension] !{drugs} !{hemodialysis} !{ideopathic} !{family hx}
+I96     [gangrene] !{family hx} !{without} !{gas} & ![carcinoma] !{family hx} & ![aseptic necrosis] !{family hx} & ![specified site] !{family hx}
+I970    [postcardiotomy syndrome] !{family hx} 
+I97110  [cardiac insufficiency] !{family hx} {postprocedural} & [cardiac surgery] !{family hx}
+I97111  [cardiac insufficiency] !{family hx} {postprocedural} & [surgery] !{family hx}
+I97120  [cardiac arrest] !{family hx} {postprocedural} & [cardiac surgery] !{family hx}
+I97121  [cardiac arrest] !{family hx} {postprocedural} & [surgery] !{family hx}
+I97130  [heart failure] !{family hx} {postprocedural} & [cardiac surgery] !{family hx}
+I97131  [heart failure] !{family hx} {postprocedural} & [surgery] !{family hx}
+I97190  [functional disturbances] !{family hx} {postprocedural} `cardiac` & [cardiac surgery] !{family hx}
+I97191  [functional disturbances] !{family hx} {postprocedural} `cardiac` & [surgery] !{family hx}
+I972    [postmastectomy lymphedema syndrome] !{family hx} 
+I973    [hypertension] !{family hx} {postprocedural} 
+I97410  [hemorrhage] !{family hx} `circulatory system organ` & [cardiac catheterization] !{family hx} & [intraoperative] !{family hx}
+I97411  [coagulopathy and hemorrhage] !{family hx} & [circulatory system organ] !{family hx} & [cardiac bypass] !{family hx}
+I97418* [hemorrhage] !{family hx} `circulatory system organ` & [circulatory system procedure] !{family hx} & [intraoperative] !{family hx}
+I9742   [hemorrhage] !{family hx} `circulatory system organ` & [intraoperative] !{family hx}
+I9751   [puncture and laceration] !{family hx} {accidental} `circulatory system organ` & [circulatory system procedure] !{family hx}
+I9752   [puncture and laceration] !{family hx} {accidental} `circulatory system organ` & [procedure] !{family hx} & ![circulatory system procedure] !{family hx}
+I97610  [postprocedural hemorrhage] !{family hx} & [cardiac catheterization] !{family hx} 
+        [postprocedural hemorrhage] !{family hx} & [cardiac catherization] !{family hx} 
+        [postprocedural hematoma] !{family hx}  `circulatory system organ` & [cardiac catheterization] !{family hx}
+I97611  [postprocedural hemorrhage] !{family hx}  `circulatory system organ` & [cardiac bypass] !{family hx}
+        [postprocedural hematoma] !{family hx}  `circulatory system organ` & [cardiac bypass] !{family hx}
+I97618* [postprocedural hemorrhage] !{family hx}  of a `circulatory system organ` & [circulatory system procedure] !{family hx}
+        [postprocedural hematoma] !{family hx}  `circulatory system organ` & [circulatory system procedure] !{family hx}
+I9762   [postprocedural hemorrhage] !{family hx}  `circulatory system organ` & [procedure] !{family hx}
+        [postprocedural hematoma] !{family hx}  `circulatory system organ` & [procedure] !{family hx}
+I97710  [cardiac arrest] !{family hx} {intraoperative} & [cardiac surgery] !{family hx}
+I97711  [cardiac arrest] !{family hx} {intraoperative} & [surgery] !{family hx}
+I97790  [functional disturbances] !{family hx} {intraoperative} `cardiac` & [cardiac surgery] !{family hx}
+I97791  [functional disturbances] !{family hx} {intraoperative} `cardiac` & [surgery] !{family hx}
+I97810  [infarction] !{family hx} {intraoperative} `cerebrovascular` & [cardiac surgery] !{family hx}
+I97811  [infarction] !{family hx} {intraoperative} `cerebrovascular` & [surgery] !{family hx}
+I97820  [cerebrovascular infarction] !{family hx} {postprocedural} & [cardiac surgery] !{family hx}
+I97821  [cerebrovascular infarction] !{family hx} {postprocedural} & [surgery] !{family hx}
+I9788*  other intraoperative complications of the `circulatory system`, not elsewhere classified 
+I9789   [complication and disorder] !{family hx} {postprocedural} `circulatory system`
+I998    [other disorder of circulatory system] !{family hx} 
+        [ischemia] !{family hx} `leg` 
+I999    [disorder] !{family hx} `circulatory system` 

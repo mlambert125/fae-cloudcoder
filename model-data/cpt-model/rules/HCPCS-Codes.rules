@@ -1,0 +1,22 @@
+G0105   [normal screening colonoscopy] & [high risk]
+G0121   [normal screening colonoscopy] & [average risk]
+G01__   [normal screening colonoscopy] !{history of} !{average risk} & ![high risk]
+G0260   [injection] `sacroiliac joint`
+C9600   [drug eluting stent] "age-related"
+C9601   [drug eluting stent] & [drug eluting stent] "age-related"
+C9602   [atherectomy] & [drug eluting stent] "age-related"
+C9603   [atherectomy] & [drug eluting stent] & [drug eluting stent] "age-related"
+C9604   [pci] & [drug eluting stent] "age-related"
+C9605   [pci] & [drug eluting stent] & [drug eluting stent] "age-related"
+C9606   [pci of acute mi all interventions with drug-eluting stent single vessel] "age-related"
+C9607   [pci of chronic total occlusion any methods with drug-eluting stent] "age-related"
+C9608   [pci of chronic total occlusion any methods with drug-eluting stent additional branch] "age-related"
+D1351   [dental sealants]
+D2710	[composite resin restorations]
+D9420 	[full-mouth dental rehabilitation]
+D2930	[stainless steel crown]
+D3220	[pulpotomy therapy]
+D7140	[tooth extracted]
+P9612   [catheterized urine collected]
+S2900   [robotic assisted]
+M0239	[bamlanivimab 700mg administered via iv infusion]

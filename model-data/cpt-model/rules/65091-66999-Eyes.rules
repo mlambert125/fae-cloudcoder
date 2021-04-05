@@ -1,0 +1,126 @@
+65091	[evisceration] `ocular` & ![implant]  
+65093	[evisceration] `ocular` & [implant]  
+65101	[enucleation] `eye` !{status post} & ![implant]  
+65103	[enucleation] `eye` & [implant] !{muscles attached}   
+65105	[enucleation] `eye` & [implant] {muscles attached}   
+65110	[exenteration] `orbit`   
+65112	[exenteration] `orbit` & [removal] `bone`  
+65114	[exenteration] `orbit` & [muscle/myocutaneous flap]  
+65125	[modification] {ocular implant} {pegs}   
+65130	[insertion] {ocular implant} {secondary} {after evisceration}   
+65135	[insertion] {ocular implant} {secondary} {after enucleation} !{muscles attached}  
+65140	[insertion] {ocular implan} {secondary} {after enucleation}{muscles attached}  
+65150	[reinsertion] {ocular implant}   
+65155	[reinsertion] {ocular implant} & [reinforcement and/attachment] `muscles`  
+65175	[removal] {ocular implant}  
+65205	[removal] {fb} `conjunctiva`   
+65210	[removal] {fb} `conjunctiva` {embedded}  
+65220	[removal] {fb} {corneal} !{slit lamp} "Delete CPT 2021" 
+65222	[removal] {fb} `corneal` {slit lamp}  
+65235	[removal] {fb} `intraocular` {anterior chamber}   
+65260	[removal] {fb} `intraocular` {posterior segment} & [magnetic extraction]   
+65265	[removal] {fb} `intraocular` {posterior segment} & ![nonmagnetic extraction]  
+65270	[repair] {laceration} `conjunctiva` {direct closure}  
+65272	[repair] {laceration} `conjunctiva` {mobilization and rearrangement} !{hospitalization}  
+65273	[repair] {laceration} `conjunctiva` {mobilization and rearrangement} {hospitalization}  
+65275	[repair] {laceration} `cornea`   
+65280	[repair] {laceration} `cornea and/sclera` {perforating} !{uveal tissue}  
+65285	[repair] {laceration} `cornea and/sclera` {perforating} & [reposition/resection] {uveal tissue}  
+65286	[repair] {laceration} & [tissue glue] `cornea and/sclera`  
+65290	[repair] {wound} `extraocular`   
+65400	[excision] {lesion} `cornea` !`pterygium`  
+65410	[biopsy] `cornea`  
+65420	[excision/transposition] `pterygium` & ![graft]  
+65426	[excision/transposition] `pterygium` & [graft]  
+65430	[scraping] `cornea`   
+65435	[removal] `corneal epithelium`   
+65436	[removal] `corneal epithelium` & [application] {chelating agent}  
+65450	[destruction] {lesion} `cornea`   
+65600	[multiple punctures of anterior cornea]   
+65710	[keratoplasty] {anterior} `lamellar`  
+65730	[keratoplasty] {penetrating} !{aphakia} !{pseudophakia} 
+65750	[keratoplasty] {penetrating} {aphakia}  
+65755	[keratoplasty] {pseudophakia} !{aphakia}  
+65756	[keratoplasty] {endothelial}  
+65757	[backbench preparation] `corneal` {endothelial allograft}   
+65760	[keratomileusis]  
+65765	[keratophakia]  
+65767	[epikeratoplasty]  
+65770	[keratoprosthesis]  
+65771	[radial keratotomy]  
+65772	[corneal relaxing incision] {surgically induced} {astigmatism}  
+65775	[corneal wedge resection] {surgically induced} {astigmatism}  
+65778	[placement amniotic membrane] `ocular` & ![sutured]  
+65779	[placement amniotic membrane] `ocular` & [sutured]  
+65780	[ocular surface reconstruction] & [amniotic membrane transplantation] {multiple layers}  
+65781	[ocular surface reconstruction] & [limbal stem cell allograft]  
+65782	[ocular surface reconstruction] & [limbal conjunctival autograft]  
+65785	[implantation] {intrastromal corneal ring segments}  
+65800	[paracentesis] `eye` {anterior} & [removal] {aqueous}  
+65805*	paracentesis eye anterior chamber  w/release aqueous  
+65810	[paracentesis] `eye` {anterior} & [removal/discission] {vitreous and/anterior hyaloid membrane}  
+65815	[paracentesis] `eye` {anterior} & [removal] {blood}   
+65820	[goniotomy]  
+65850	[trabeculotomy ab externo]  
+65855	[trabeculoplasty] {laser}  
+65860	[severing adhesions] {anterior} {laser}   
+65865	[severing adhesions] {anterior} {incisional} {goniosynechiae}  
+65870	[severing adhesions] {anterior} {incisional} {anterior synechiae} !{goniosynechiae}  
+65875	[severing adhesions] {anterior} {incisional} {posterior synechiae}  
+65880	[severing adhesions] {anterior} {incisional} {corneovitreal adhesions}  
+65900	[removal] {epithelial downgrowth} {anterior chamber} `eye`  
+65920	[removal] {implanted material} {anterior segment} `eye`  
+65930	[removal] {blood clot} {anterior} `eye`  
+66020	[injection] {anterior} `eye` {air/liquid}  
+66030	[injection] {anterior} `eye` {medication}  
+66130	[excision] {lesion} `sclera`  
+66150	[fistulization] `sclera` {glaucoma} & [trephination] & [iridectomy]  
+66155	[fistulization] `sclera` {glaucoma} & [thermocauterization] & [iridectomy]  
+66160	[fistulization] `sclera` {glaucoma} & [sclerectomy] & [iridectomy]  
+66170	[fistulization] `sclera` {glaucoma} & [trabeculectomy ab externo] !{previous surgery}  
+66172	[fistulization] `sclera` {glaucoma} & [trabeculectomy ab externo] {scarring}  
+66174	[transluminal dilation] {aqueous outflow canal} & ![retention device or stent]  
+66175	[transluminal dilation] {aqueous outflow canal} & [retention of device or stent]  
+66179	[aqueous shunt] {extraocular reservoir} & ![graft]  
+66180	[aqueous shunt] {extraocular reservoir} & [graft]  
+66183	[insertion] {anterior} {aqueous} {drainage device} {external} !{extraocular}  
+66184	[revision] {aqueous shunt} {extraocular} & ![graft]  
+66185	[revision] {aqueous shunt} {extraocular} & [graft]  
+66220	[repair] `scleral` {staphyloma} & ![graft]  
+66225	[repair] `scleral` {staphyloma} & [graft]  
+66250	[revision/repair] {operative wound} {anterior}   
+66500	[iridotomy] {stab incision} & ![transfixion]  
+66505	[iridotomy] {stab incision} & [transfixion]  
+66600	[iridectomy] & [removal] {lesion}  
+66605	[iridectomy] & [cyclectomy]  
+66625	[iridectomy] {peripheral glaucoma}   
+66630	[iridectomy] {sector glaucoma}   
+66635	[iridectomy] {optical}   
+66680	[repair] `iris` {ciliary body} 
+66682	[suture] `iris` & [suture retrieval]   
+66700	[ciliary body destruction] & [diathermy]  
+66710	[ciliary body destruction] & [cyclophotocoagulation] {transscleral}  
+66711	[ciliary body destruction] & [cyclophotocoagulation] {endoscopic}  
+66720	[ciliary body destruction] & [cryotherapy]  
+66740	[ciliary body destruction] & [cyclodialysis]  
+66761	[iridotomy/iridectomy] {laser}  
+66762	[iridoplasty] {photocoagulation}   
+66770	[destruction] {cyst/lesion} `iris/ciliary body` & ![excision]  
+66820	[discission] {cataract} {stab incision}   
+66821	[discission] `posterior capsule` & [eye]
+66825	[repositioning] {intraocular lens prosthesis} & [incision]  
+66830	[removal] {cataract} `corneo-scleral`   
+66840	[removal lens] {aspiration}   
+66850	[phacoemulsification] {phacofragmentation} {aspiration} !{insertion lens}  
+66852	[remove] `retained lens material` & [pars plana]
+66920	[removal lens] {intracapsular}  
+66930	[removal lens] {intracapsular} {dislocated lens}  
+66940	[removal lens] {extracapsular}  
+66982	[cataract extraction] & [phacoemulsification] {insertion intraocular lens} & [complex cataract]
+66983	[intracapsular cataract removal] & [insertion lens] `intraocular`  
+66984	[phacoemulsification]
+        [cataract extraction] & [insertion intraocular lens] & [phacoemulsification] 
+66985	[insertion lens] `intraocular` {secondary implant} !{cataract removal}  
+66986	[exchange intraocular lens]  
+66990*	ophthalmic endoscope use  
+66999**	unlisted proc anterior segment eye  

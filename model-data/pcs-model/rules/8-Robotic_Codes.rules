@@ -1,0 +1,78 @@
+8C01X6J  [collection] & [indwelling device] `cerebrospinal fluid`
+8C01X6L  [collection] & [indwelling device] `nervous system` {other fluid}
+8C02X6K  [collection] & [indwelling device] `circulatory system` {blood}
+8C02X6L  [collection] & [indwelling device] `circulatory system` {other fluid}
+8E01XY7  [examination] `nervous system`
+8E0UXY7  [examination] `female reproductive system`
+8E023DZ  [near infrared spectroscopy] `circulatory system` & [percutaneous]
+8E02XDZ	 [near infrared spectroscopy] `circulatory system` & [external] 
+8E090CZ  [robotic-assisted] `head and neck region` & [open]
+8E090EM	 [fluorescence guided] `head and neck region` {aminolevulinic acid} & [open procedure] 
+8E090EZ	 [fluorescence guided] `head and neck region` & [open procedure] 
+8E093CZ  [robotic-assisted] `head and neck region` & [percutaneous]
+8E093EZ	 [fluorescence guided] `head and neck region` & [percutaneous] 
+8E094CZ  [robotic-assisted]  `head and neck region` & [percutaneous endoscopic]
+8E094EZ	 [fluorescence guided] `head and neck region` & [percutaneous endoscopic] 
+8E097CZ  [robotic-assisted] `head and neck region` & [natural opening]
+8E097EZ	 [fluorescence guided] `head and neck region` & [natural opening] 
+8E098CZ  [robotic-assisted] `head and neck region` & [endoscopic]
+8E098EZ	 [fluorescence guided] `head and neck region` & [endoscopic] 
+8E09XBF  [computer assisted procedure] `head and neck region` {flouroscopy}
+8E09XBG  [computer assisted procedure] `head and neck region` {computerized tomography}
+8E09XBH  [computer assisted procedure] `head and neck region` {magnetic resonance imaging}
+8E09XBZ  [computer assisted procedure] `head and neck region`
+8E09XCZ  [robotic-assisted] `head and neck region` & [external]
+8E09XY8  [suture removal] `head and neck region` 
+8E0H300  [acupuncture] `integumentary system and breast` & [anesthesia] & [percutaneous]
+8E0H30Z  [acupuncture] `integumentary system and breast` & ![anesthesia] & [percutaneous]
+8E0HX62  [collection] `integumentary system and breast` {breast milk}
+8E0HXY9  [piercing] `integumentary system and breast`
+8E0KX1Z  [therapeutic massage] `musculoskeletal system`
+8E0kXY7  [examination] `musculoskeletal system`
+8E0VX1C  [therapeutic massage] `prostate`
+8E0VX1D  [therapeutic massage] `rectum`
+8E0VX63  [collection] {sperm}
+8E0W0CZ  [robotic-assisted] & [trunk region] & [open procedure] & ![percutaneous endoscopic]
+8E0W3CZ  [robotic-assisted] & [trunk region] & [percutaneous] & ![percutaneous endoscopic] & ![open procedure]
+8E0W4CZ  [robotic-assisted] & [trunk region] & [percutaneous endoscopic] & ![percutaneous]
+8E0W7CZ  [robotic-assisted] & [trunk region] & [natural opening]
+8E0W8CZ  [robotic-assisted] & [trunk region] & [endoscopic]
+8E0WXCZ  [robotic-assisted] & [trunk region] & [external]  
+8E0W0EZ	 [fluorescence guided] !`lower extremity` !`lower extremity` !`head and neck region` & [open procedure] 
+8E0W3EZ	 [fluorescence guided] !`lower extremity` !`lower extremity` !`head and neck region` & [percutaneous] 
+8E0W4EZ	 [fluorescence guided] !`lower extremity` !`lower extremity` !`head and neck region` & [percutaneous endoscopic] 
+8E0W7EZ	 [fluorescence guided] !`lower extremity` !`lower extremity` !`head and neck region` & [natural opening] 
+8E0W8EZ	 [fluorescence guided] !`lower extremity` !`lower extremity` !`head and neck region` & [endoscopic] 
+8E0WXBF  [computer assisted procedure] !`lower extremity` !`lower extremity` !`head and neck region` {flouroscopy}
+8E0WXBG  [computer assisted procedure] !`lower extremity` !`lower extremity` !`head and neck region` {computerized tomography}
+8E0WXBH  [computer assisted procedure] !`lower extremity` !`lower extremity` !`head and neck region` {magnetic resonance imaging}
+8E0WXBZ  [computer assisted procedure] !`lower extremity` !`lower extremity` !`head and neck region` !{flouroscopy}
+8E0WXY8  [suture removal] `truck region`
+8E0X0CZ  [robotic-assisted] `upper extremity` & [open procedure]
+8E0X3CZ  [robotic-assisted] `upper extremity` & [percutaneous]
+8E0X4CZ  [robotic-assisted] `upper extremity` & [endoscopic]
+8E0X0EZ	 [fluorescence guided] `upper extremity` & [open procedure] 
+8E0X3EZ	 [fluorescence guided] `upper extremity` & [percutaneous] 
+8E0X4EZ	 [fluorescence guided] `upper extremity` & [endoscopic] 
+8E0Y0CZ  [robotic-assisted] `lower extremity` & [open procedure]
+8E0Y3CZ  [robotic-assisted] `lower extremity` & [percutaneous]
+8E0Y4CZ  [robotic-assisted] `lower extremity` & [endoscopic]
+8E0Y0EZ	 [fluorescence guided] `lower extremity` & [open procedure] 
+8E0Y3EZ	 [fluorescence guided] `lower extremity` & [percutaneous] 
+8E0Y4EZ	 [fluorescence guided] `lower extremity` & [endoscopic] 
+8E0XXBF  [computer assisted procedure] `upper extremity` {flouroscopy}
+8E0XXBG  [computer assisted procedure] `upper extremity` {computerized tomography}
+8E0XXBH  [computer assisted procedure] `upper extremity` {magnetic resonance imaging}
+8E0XXBZ  [computer assisted procedure] `upper extremity`
+8E0YXBF  [computer assisted procedure] `lower extremity` {flouroscopy}
+8E0YXBG  [computer assisted procedure] `lower extremity` {computerized tomography}
+8E0YXBH  [computer assisted procedure] `lower extremity` {magnetic resonance imaging}
+8E0YXBZ  [computer assisted procedure] `lower extremity`
+8E0XXCZ  [robotic-assisted] `upper extremity` & [external]
+8E0YXCZ  [robotic-assisted] `lower extremity` & [external]
+8E0XYCZ  [suture removal] `upper extremity` 
+8E0YYCZ  [suture removal] `lower extremity`
+8E0ZXY1  [in vitro fertilization]
+8E0ZXY4* [yoga]
+8E0ZXY5* [meditation]
+8E0ZXY6  [respiratory isolation]

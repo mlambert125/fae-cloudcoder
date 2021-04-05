@@ -1,0 +1,343 @@
+alert
+appears suspicious
+appreciated
+appears to be
+added to her regimen
+as directed
+are not excluded
+are stable
+are ruled out,
+as a child
+as i entered the room
+appears to resolved
+appears to have resolved
+at baseline
+at last visit
+applicable
+awaiting lab results.
+bundle was ordered
+calculated
+cautious
+came back negative
+cannot be excluded
+excluded
+catheter was interted using standard 
+catheter was pulled back
+cessation specific
+clearly needed
+colonization risk
+concerns
+consult/protocol
+control satisfactory
+consideration
+could not be performed
+could obtained for
+could alternatively be
+cyanosis absent
+clips in the right upper quadrant
+checking
+delivery? no
+decision was made to proceed
+disease screening
+did nothing
+drink enough fluid to keep
+does run in
+dose route
+dose was increased to
+due in future
+duration : none
+prescription sent to the pharmacy
+doctor
+dose was decreased to
+education
+exposure comments
+exposure history
+easy-to-read
+for evaluation in the face
+for iv antibiotics
+for routine postpartum evaluation
+guidelines-
+for discomfort
+foundation
+has been discontinued
+has been ruled out
+has been removed
+has not been done
+has improved
+have been ruled out
+have been started
+have resolved
+if necessary
+if applicable
+immunity
+immunization status
+immunization up-to-date
+improved
+in the past
+in 1 week
+in 1 year
+in certain patients
+infectious vs reactive
+inspecting
+instrument(s):
+in the icu, or when obtained in the emergency department or other
+is at times
+is absent
+is appropriate
+is controlled
+is greater than 5 years
+is not likely
+is negative
+is nonreactive
+is not excluded
+is not utd
+is possible
+is reduced
+is identified
+is the primary consideration
+is utd
+is up-to-date
+intake
+is ruled out
+labs sent
+last week
+less likely
+letter of
+lvl
+not likely related to
+likely old
+was monitoring
+may impact clinical judgement
+may obscure underlying
+milestones
+must be excluded
+n/a
+neg
+negative
+:negative
+:neg
+never 
+: never
+no dystocia
+no nuchal cords
+no rash on exam
+not detected
+no reactions were documented
+no known
+: no known exposure
+no longer seen
+: no
+:   no
+:no
+: none
+none
+:n a
+:not
+:none
+non-immune
+nonreactive
+not applicable
+not controlling
+not desired
+not evident 
+not indicated
+not performed
+not prescribed
+not present
+not taking
+not visibly enlarge
+not up-to-date
+on a string
+on ekg comments
+oral syrup
+pht
+panel
+perhaps could give this appearance
+possibly
+ppe worn including
+precautions
+present: no
+preventative measures
+prevention
+prevention in the home
+place the patient
+plan to start
+plans to dose with
+poor inspiratory effort producing
+probably already is a
+profile
+prophylaxis
+prophylaxis:
+ppx
+protocol
+protocol initiated
+recommended
+rating
+rated
+reevaluation
+remains recommended
+regardless of
+regular means of transportation
+requiring pressor support
+resolved
+return to the
+results:
+retractor
+risk assessment:
+risk factors
+risk follow-up
+risk indicators
+risk low
+risk is
+very low prob
+very low possibility
+rule out cardiac
+ruled out
+sent to the pharmacy
+seen before
+satisfactory
+standpoint
+starter pack
+side effects
+settings: (if patient is on vent, you can say "insert vent setting"
+screen score
+screening:
+screening due
+screening on
+screening tests
+screening not due until
+screening program
+screening
+surveillance 
+scrn
+score:
+should be left in place
+should be considered
+side effects of sedation
+scale
+score
+sponges were counted
+stopped
+supplement with iv fluid
+surgery conference
+suspected
+suggested
+suite
+swab pending
+symptoms : no
+table 
+that finally kicked in
+that it brings to the child
+therapies
+therapies attempted
+to explain
+to retract
+trivial
+unlikely
+unable to
+up to date
+utd
+vaccination history
+vaporizer or humidifier in your room or home may help
+vs.
+vs
+watch for
+was 0
+was assessed
+was awake for anesthesia
+was complaining of
+was considered
+was normal
+was denied by his insurance company
+was depressed as a teenager
+was discharged home w  rx
+was having
+was instructed to increase
+was seen this
+was the ibuprofen that finally kicked in
+was told that
+was then marked
+watch for
+was acquired
+was updated last year
+was utilized
+was used
+was advanced to
+was discussed in
+was called
+was done at
+was identified and protected
+was negative,
+was not
+was placed in the supine position
+was utilized at time of interpretation
+we identified an area suitable for
+were monitored throughout the
+were negative
+we stopped her
+we stopped his
+we will increase
+week supply of
+weekly dosage
+will be controlled
+will be performed
+which may
+well controlled with
+went and got the
+were not observed
+what appears to be
+when i get
+without acute injury
+will need as needed flushing
+within 10 years 
+workup is underway
+very low probability scan for
+vs
+younger than 40 years of age
+- n
+-denies
+- denies
+:denies
+: denies
+questions
+speech recognition
+status be assessed at this time
+(order processing)
+(prescribe)
+, no obvious source of infection
+/no evidence of
+/septic shock – potential
+: launch covid 19 screening
+: unknown
+: 0
+: negative
+: reviewed and negative
+: normal
+:0
+:n/a
+:no/not applicable
+: does not
+:does not 
+: n/a
+: never
+:never
+present: no
+: no
+:no
+: other
+: not at all
+: not done
+: history is unknown
+:  no
+: green
+: yellow
+? no
+2v bil
+()y
+~\[x_\] no
+: male
+check
+reviewed if available
+- lactic
+no
+our facility is now required by

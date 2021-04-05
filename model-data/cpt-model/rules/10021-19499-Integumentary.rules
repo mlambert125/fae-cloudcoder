@@ -1,0 +1,471 @@
+10021	[fine needle aspiration] !{imaging guidance}  !{open} & ![egd] & ![colonoscopy]
+10004   [fine needle aspiration] !{imaging guidance} {each additional}  !{open} & ![egd] & ![colonoscopy]
+10005   [fine needle aspiration] {ultrasound guidance} !{open}
+10006   [fine needle aspiration] {ultrasound guidance} {each additional} !{open}
+10007   [fine needle aspiration] {fluoroscopic guidance}  !{open}  
+10008   [fine needle aspiration] {fluoroscopic guidance} {each additional} !{open}
+10009   [fine needle aspiration] {ct guidance} !{open}
+10010   [fine needle aspiration] {ct guidance} {each additional} !{open}
+10011   [fine needle aspiration] {mr guidance} !{open}
+10012   [fine needle aspiration] {mr guidance} {each additional} !{open}
+10030	[drainage] {catheter} {imaging guidance} {fluid collection} `soft tissue` 
+10035	[placement] {imaging guidnce} 
+10036	[placement] {each addl lesion} {imaging guidnce} 
+10040	[acne surgery]
+10060	[incision and drainage] !{past status} & [abscess] & ![other type of abscess] & ![complex]
+10061	[incision and drainage] & [abscess] & ![other type of abscess] & [complex]
+10080	[incision and drainage] & [abscess] `pilonidal` !{complex}
+10081	[incision and drainage] & [abscess] `pilonidal` {complex}
+10120	[incision] & [removal] {fb} !{complex}
+10121	[incision] & [removal] {fb} {complex}
+10140	[incision and drainage] `hematoma or seroma` 
+10160	[aspiration] {abscess, hematoma bulla/cyst} `skin`
+10180	[incision and drainage] {postoperative wound infection}
+11000	[debridement] {eczematous/infected skin}
+11001	[debridement] {eczematous/infected skin} {each addl} {10 percent body surface}
+11004	[debridement] `external genitalia/perineum`  
+11005	[debridement] `abd wall` 
+11006	[debridement] `external genital/perineum/abd wall`
+11008	[removal] {mesh} `abd wall` {infection} 
+11010	[debridement] {open fracture} `skin`
+11011	[debridement] {open fracture} `skin` `muscle fascia`
+11012	[debridement] {open fracture} `bone` 
+11040*	[debridement] skin partial thickness  
+11041*	[debridement] skin full thickness 
+11042	[debridement] & [subcutaneous tissue] !`bone` !`muscle` !`joint` !`tendon`
+11043	[debridement] `muscle/fascia`
+11044	[debridement] `bone` & ![open reduction] & ![rotator cuff repair] & ![graft] & ![arthroscopy] & ![excision]
+11045	[debridement] `subcutaneous tissue` {additional 20 sq cm}
+11046	[debridement] `muscle/fascia` {20 sq cm} 
+11047	[debridement] `bone` {each additional} {20 sq cm}
+11055*  out of order 
+11056	[paring/cutting] {benign hyperkeratotic lesion} {2-4 lesions} 
+11057	[paring/cutting] {benign hyperkeratotic lesion} {> 4 lesions}
+11055	[paring/cutting] {benign hyperkeratotic lesion}
+11100	[biopsy] `skin` {lesion} 
+11101*	[biopsy] `skin` {add'l lesion} 
+11200	[removal] `skin tag`
+11201	[removal] `skin tag` {multiple} {>15} {each addl 10 lesions}
+11300	[shaving] `skin lesion` `trunk/arms/legs`  !{cm}
+11301	[shaving] `skin lesion` `trunk/arms/legs` {diameter 0.6-1.0 cm} 
+11302	[shaving] `skin lesion` `trunk/arms/legs` {diameter 1.1-2.0 cm} 
+11303	[shaving] `skin lesion` `trunk/arms/legs` {diameter > 2.0 cm} 
+11305	[shaving] `skin lesion` `scalp/neck/hands/feet/genitalia`  
+11306	[shaving] `skin lesion` `scalp/neck/hands/feet/genitalia` {diameter 0.6-1.0 cm} 
+11307	[shaving] `skin lesion` `scalp/neck/hands/feet/genitalia` {diameter 1.1-2.0 cm} 
+11308	[shaving] `skin lesion` `scalp/neck/hands/feet/genitalia` {diameter > 2.0 cm} 
+11310	[shaving] `skin lesion` `face/ears/eyelids/nose/lips/mucous membrane` !{cm}
+11311	[shaving] `skin lesion` `face/ears/eyelids/nose/lips/mucous membrane` {diameter 0.6-1.0 cm} 
+11312	[shaving] `skin lesion` `face/ears/eyelids/nose/lips/mucous membrane` {diameter 1.1-2.0 cm} 
+11313	[shaving] `skin lesion` `face/ears/eyelids/nose/lips/mucous membrane` {diameter > 2.0 cm} 
+11400	[excision] `skin lesion` !{malignant lesion} & [trunk/arms/legs] {0.5 cm or less}
+11401	[excision] `skin lesion` !{malignant lesion} & [trunk/arms/legs] {diameter 0.6-1.0 cm} 
+11402	[excision] `skin lesion` !{malignant lesion} & [trunk/arms/legs] {diameter 1.1-2.0 cm} 
+11403	[excision] `skin lesion` !{malignant lesion} & [trunk/arms/legs] {diameter 2.1-3.0 cm} 
+11404	[excision] `skin lesion` !{malignant lesion} & [trunk/arms/legs] {diameter 3.1-4.0 cm} 
+11406	[excision] `skin lesion` !{malignant lesion} & [trunk/arms/legs] {> 4.0 cm} 
+11420	[excision] `skin lesion` !{malignant lesion} & [scalp/neck/hands/feet/genitalia]  !{cm}
+11421	[excision] `skin lesion` !{malignant lesion} & [scalp/neck/hands/feet/genitalia] {diameter 0.6-1.0cm} 
+11422	[excision] `skin lesion` !{malignant lesion} & [scalp/neck/hands/feet/genitalia] {diameter 1.1-2.0cm} 
+11423	[excision] `skin lesion` !{malignant lesion} & [scalp/neck/hands/feet/genitalia] {diameter 2.1-3.0cm} 
+11424	[excision] `skin lesion` !{malignant lesion} & [scalp/neck/hands/feet/genitalia] {diameter 3.1-4.0cm} 
+11426	[excision] `skin lesion` !{malignant lesion} & [scalp/neck/hands/feet/genitalia] {diameter > 4.0cm} 
+11440	[excision] `skin lesion` !{malignant lesion} & [face/ears/eyelids/nose/lips/mucous membrane] !{cm}
+11441	[excision] `skin lesion` !{malignant lesion} & [face/ears/eyelids/nose/lips/mucous membrane] & [diameter 0.6-1.0 cm]
+11442	[excision] `skin lesion` !{malignant lesion} & [face/ears/eyelids/nose/lips/mucous membrane] & [diameter 1.1-2.0 cm]
+11443	[excision] `skin lesion` !{malignant lesion} & [face/ears/eyelids/nose/lips/mucous membrane] & [diameter 2.1-3.0 cm]
+11444	[excision] `skin lesion` !{malignant lesion} & [face/ears/eyelids/nose/lips/mucous membrane] {diameter 3.1-4.0 cm} 
+11446	[excision] `skin lesion` !{malignant lesion} & [face/ears/eyelids/nose/lips/mucous membrane] {diameter > 4.0 cm}
+114__   [excision] `skin lesion` !{malignant lesion} !{stylet} !`trunk/arms/legs` !`face/ears/eyelids/nose/lips/mucous membrane` !`scalp/neck/hands/feet/genitalia` & ![colonoscopy] & ![mastectomy]
+11450	[excision] {hidradenitis} `axillary` !{complex}
+11451	[excision] {hidradenitis} `axillary` {complex} 
+11462	[excision] {hidradenitis} `inguinal` !{complex}
+11463	[excision] {hidradenitis} `inguinal` {complex} 
+11470	[excision] {hidradenitis} `perianal/perineal/umbilical` !{complex}
+11471	[excision] {hidradenitis} `perianal/perineal/umbilical` {complex} 
+11600* 	out of order
+11601	[excision] {malignant lesion} `trunk/arms/legs` {diameter 0.6 to 1.0 cm} 
+11602	[excision] {malignant lesion} `trunk/arms/legs` {diameter 1.1 to 2.0 cm} 
+11603	[excision] {malignant lesion} `trunk/arms/legs` {diameter 2.1 to 3.0 cm} 
+11604	[excision] {malignant lesion} `trunk/arms/legs` {diameter 3.1 to 4.0 cm} 
+11606	[excision] {malignant lesion} `trunk/arms/legs` {diameter > 4.0 cm}
+11600	[excision] {malignant lesion} `trunk/arms/legs`
+1160_   [excision] {malignant lesion} & [trunk/arms/legs]
+11620* 	out of order
+11621	[excision] {malignant lesion} `scalp/neck/hands/feet/genitalia` {diameter 0.6-1.0 cm} 
+11622	[excision] {malignant lesion} `scalp/neck/hands/feet/genitalia` {diameter 1.1-2.0 cm} 
+11623	[excision] {malignant lesion} `scalp/neck/hands/feet/genitalia` {diameter 2.1-3.0 cm} 
+11624	[excision] {malignant lesion} `scalp/neck/hands/feet/genitalia` {diameter 3.1-4.0 cm} 
+11626	[excision] {malignant lesion} `scalp/neck/hands/feet/genitalia` {diameter > 4.0 cm} 
+11620	[excision] {malignant lesion} `scalp/neck/hands/feet/genitalia`
+1162_   [excision] !{past status} {malignant lesion} & [scalp/neck/hands/feet/genitalia]
+11640* 	out of order
+11641	[excision] {malignant lesion} `face/ears/eyelids/nose/lips/mucous membrane` {diameter 0.6-1.0 cm} 
+11642	[excision] {malignant lesion} `face/ears/eyelids/nose/lips/mucous membrane` {diameter 1.1-2.0 cm} 
+11643	[excision] {malignant lesion} `face/ears/eyelids/nose/lips/mucous membrane` {diameter 2.1-3.0 cm} 
+11644	[excision] {malignant lesion} `face/ears/eyelids/nose/lips/mucous membrane` {diameter 3.1-4.0 cm} 
+11646	[excision] {malignant lesion} `face/ears/eyelids/nose/lips/mucous membrane` {diameter > 4.0 cm}
+11640   [excision] {malignant lesion} `face/ears/eyelids/nose/lips/mucous membrane` 
+11719	[trimming] `fingernails`
+11720	[debridement] `fingernails` 
+11721	[debridement] `fingernails` {> 6} 
+11730	[avulsion] `nail plate`
+11732	[avulsion] `nail plate` `finger` {each additional}
+11740	[evacuation] `subungual` {hematoma} 
+11750	[remove] `toenails` 
+11755	[biopsy] `fingernail unit` 
+11760	[repair] `nail bed` `finger` 
+11762	[reconstruction] `nail bed` `finger` {graft}
+11765	[wedge excision] `skin nail fold` `finger` 
+11770	[excision] `pilonidal` !{extensive} !{complicated} 
+11771	[excision] `pilonidal` {extensive}
+11772	[excision] `pilonidal` {complicated} 
+11900	[injection] `intralesional` {< 7 lesions} 
+11901	[injection] `intralesional` {> 7 lesions} 
+11920	[tattooing] {correct color defects}
+11921	[tattooing] {correct color defects} {6.1-20.0 sq cm} 
+11922	[tattooing] {correct color defects} {each additional} {20.0 sq cm} 
+11950	[injection] {subcutaneous} {filling materal} {< 1 cc} 
+11951	[injection] {subcutaneous} {filling materal} {1.1 to 5.0 cc} 
+11952	[injection] {subcutaneous} {filling materal} {5.1 to 10.0 cc} 
+11954	[filling material] `skin` & [injection] {subcutaneous} {> 10.0 cc}
+1195_   [filling material] `skin` & [injection] {subcutaneous} !{ml} !{cc}
+11960	[insertion] {tissue expander} & ![breast reconstruction]
+11970	[replacement] {tissue expander} {permanent prosthesis} 
+11971	[removal] {tissue expander} & ![insertion]
+11975*	insertion implantable contraceptive capsules 
+11976	[removal] {implantable contraceptive capsules} 
+11977*	removal w/reinsertion implantable contraceptive capsules  
+11980	[implantation] {hormone pellet} {subcutaneous} 
+11981	[insertion] {non-biodegradable drug delivery implant} 
+11982	[removal] {non-biodegradable drug delivery implant}
+11983	[removal] & [reinsertion] {non-biodegradable drug delivery implant}
+12001	[wound closure] !{intermediate or complex} & [scalp/neck/axillae/genitalia/trunk/extremities] & ![2.6-7.5 cm] & ![7.6-12.5 cm] & ![12.6-20.0 cm] & ![20.1-30.0 cm] & ![> 30.0 cm] & ![intraoperative] !{hassan port}
+12002	[wound closure] !{intermediate or complex} & [scalp/neck/axillae/genitalia/trunk/extremities] & [2.6-7.5 cm] & ![intraoperative]
+12004	[wound closure] !{intermediate or complex} & [scalp/neck/axillae/genitalia/trunk/extremities] & [7.6-12.5 cm] & ![intraoperative]
+12005	[wound closure] !{intermediate or complex} & ![face/ears/eyelids/nose/lips/mucous membranes] & [12.6-20.0 cm]  & ![intraoperative]
+12006	[wound closure] !{intermediate or complex} & ![face/ears/eyelids/nose/lips/mucous membranes] & [20.1-30.0 cm]  & ![intraoperative]
+12007	[wound closure] !{intermediate or complex} & ![face/ears/eyelids/nose/lips/mucous membranes] & [> 30.0 cm] & ![intraoperative]
+12011	[wound closure] !{intermediate or complex} & [face/ears/eyelids/nose/lips/mucous membranes] & [less than 2.5 cm] & ![2.6-7.5 cm] & ![7.6-12.5 cm] & ![12.6-20.0 cm] & ![20.1-30.0 cm] & ![> 30.0 cm] & ![intraoperative]
+12013	[wound closure] !{intermediate or complex} & [face/ears/eyelids/nose/lips/mucous membranes] & [2.6-7.5 cm] & ![intraoperative]
+12014	[wound closure] !{intermediate or complex} & [face/ears/eyelids/nose/lips/mucous membranes] & [5.1-7.5 cm] & ![intraoperative]
+12015	[wound closure] !{intermediate or complex} & [face/ears/eyelids/nose/lips/mucous membranes] & [7.6-12.5 cm] & ![intraoperative]
+12016	[wound closure] !{intermediate or complex} & [face/ears/eyelids/nose/lips/mucous membranes] & [12.6-20.0 cm] & ![intraoperative]
+12017	[wound closure] !{intermediate or complex} & [face/ears/eyelids/nose/lips/mucous membranes] & [20.1-30.0 cm] & ![intraoperative] 
+12018	[wound closure] !{intermediate or complex} & [face/ears/eyelids/nose/lips/mucous membranes] & [> 30.0 cm] & ![intraoperative]
+120__   [wound closure] !{intermediate or complex} & ![face/ears/eyelids/nose/lips/mucous membranes] & ![scalp/neck/axillae/genitalia/trunk/extremities] & ![intraoperative]
+12020	[closure] {wound dehiscence}
+12021	[packing] {wound dehiscence}
+12031	[wound closure] {intermediate} & [scalp/axillae/trunk/extremities] & ![2.6-7.5 cm] & ![7.6-12.5 cm] & ![12.6-20.0 cm] & ![20.1-30.0 cm] & ![> 30.0 cm] & ![intraoperative] !{hassan port}
+12032	[wound closure] {intermediate} & [scalp/axillae/trunk/extremities] & [2.6 cm to 7.5 cm] 
+12034	[wound closure] {intermediate} & [scalp/axillae/trunk/extremities] & [7.6 cm to 12.5 cm] 
+12035	[wound closure] {intermediate} & [scalp/axillae/trunk/extremities] & [12.6 cm to 20.0 cm] 
+12036	[wound closure] {intermediate} & [scalp/axillae/trunk/extremities] & [20.1 cm to 30.0 cm] 
+12037	[wound closure] {intermediate} & [scalp/axillae/trunk/extremities] & [over 30.0 cm]
+12041	[wound closure] {intermediate} & [neck/hands/feet/external genitalia] & ![2.6-7.5 cm] & ![7.6-12.5 cm] & ![12.6-20.0 cm] & ![20.1-30.0 cm] & ![> 30.0 cm] & ![intraoperative] !{hassan port}
+12042	[wound closure] {intermediate} & [neck/hands/feet/external genitalia] & [2.6 cm to 7.5 cm]  
+12044	[wound closure] {intermediate} & [neck/hands/feet/external genitalia] & [7.6 cm to 12.5 cm]  
+12045	[wound closure] {intermediate} & [neck/hands/feet/external genitalia] & [12.6 cm to 20.0 cm]
+12046	[wound closure] {intermediate} & [neck/hands/feet/external genitalia] & [20.1 cm to 30.0 cm] 
+12047	[wound closure] {intermediate} & [neck/hands/feet/external genitalia] & [over 30.0 cm] 
+12051	[wound closure] {intermediate} & [face/ears/eyelids/nose/lips/mucous membranes] & ![2.6-7.5 cm] & ![7.6-12.5 cm] & ![12.6-20.0 cm] & ![20.1-30.0 cm] & ![> 30.0 cm] & ![intraoperative] !{hassan port}
+12052	[wound closure] {intermediate} & [face/ears/eyelids/nose/lips/mucous membranes] & [2.6 cm to 5.0 cm] 
+12053	[wound closure] {intermediate} & [face/ears/eyelids/nose/lips/mucous membranes] & [5.1 cm to 7.5 cm] 
+12054	[wound closure] {intermediate} & [face/ears/eyelids/nose/lips/mucous membranes] & [7.6 cm to 12.5 cm]  
+12055	[wound closure] {intermediate} & [face/ears/eyelids/nose/lips/mucous membranes] & [12.6 cm to 20.0 cm]
+12056	[wound closure] {intermediate} & [face/ears/eyelids/nose/lips/mucous membranes] & [20.1 cm to 30.0 cm] 
+12057	[wound closure] {intermediate} & [face/ears/eyelids/nose/lips/mucous membranes] & [over 30.0 cm] 
+13100	[wound closure] {complex} & [trunk] & ![2.6-7.5 cm] & ![< 5.0 cm]
+13101	[wound closure] {complex} & [trunk] & [2.6 to 7.5 cm]
+13102	[wound closure] {complex} & [trunk] & [< 5.0 cm]
+13120	[wound closure] {complex} & [scalp arms/legs] & ![2.6-7.5 cm] & ![< 5.0 cm]
+13121	[wound closure] {complex} & [scalp arms/legs] & [2.6 to 7.5 cm]
+13122	[wound closure] {complex} & [scalp/arms/legs] & [each additional 5 cm.]
+13131	[wound closure] {complex} !{past status} & [forehead/cheeks/chin/mouth/neck/axillae/genitalia/hands/feet] & ![2.6-7.5 cm] & ![< 5.0 cm]
+13132	[wound closure] {complex} & [forehead/cheeks/chin/mouth/neck/axillae/genitalia/hands/feet] & [2.6-7.5 cm]
+13133	[wound closure] {complex} & [forehead/cheeks/chin/mouth/neck/axillae/genitalia/hands/feet] & [< 5.0 cm]
+13151	[wound closure] {complex} & [eyelids nose ears or lips] & ![2.6-7.5 cm] & ![< 5.0 cm]
+13152	[wound closure] {complex} & [eyelids nose ears or lips] & [2.6 to 7.5 cm]
+13153	[wound closure] {complex} & [eyelids nose ears or lips] & [< 5.0 cm]
+13160	[closure] {secondary} {surgical wound/dehiscence} {extensive/complicated}
+14000	[flap/skin graft closure] `trunk` !{10.1 sq cm to 30.0 sq cm}
+14001	[flap/skin graft closure] `trunk` {10.1 sq cm to 30.0 sq cm}
+1400_	[flap/skin graft closure] `trunk` !{< 10 sq cm} !{10.1-30.0 sqcm}
+14020	[flap/skin graft closure] `scalp arms or legs` {< 10 sq cm}
+14021	[flap/skin graft closure] `scalp arms or legs` !{10.1 sq cm to 30.0 sq cm}
+1402_	[flap/skin graft closure] `scalp arms or legs` !{< 10 sq cm} !{10.1-30.0 sqcm}
+14040	[flap/skin graft closure] `forehead/cheeks/chin/mouth/neck/axillae/genitalia/hands/feet` !{10.1 sq cm to 30.0 sq cm}
+14041	[flap/skin graft closure] `forehead/cheeks/chin/mouth/neck/axillae/genitalia/hands/feet` {10.1-30.0 sqcm}
+1404_	[flap/skin graft closure] `forehead/cheeks/chin/mouth/neck/axillae/genitalia/hands/feet` !{< 10 sq cm} !{10.1-30.0 sqcm}
+14060	[flap/skin graft closure] `eyelids/nose/ears/lips` !{10.1 sq cm to 30.0 sq cm}
+14061	[flap/skin graft closure] `eyelids/nose/ears/lips` {10.1-30.0 sq cm}
+1406_	[flap/skin graft closure] `eyelids/nose/ears/lips` !{< 10 sq cm} !{10.1-30.0 sqcm}
+14300*	adjacent tissue transfer/rearrangement > 30 sq cm} unusual/complicated any area 
+14301	[flap/skin graft closure] {30.1 sq cm to 60.0 sq cm}
+14302	[flap/skin graft closure] {each addl 30.0 sq cm}
+14350	[flap/skin graft closure] {filleted} `finger/toe`
+15002	[surg prep/creat] {recipient site} `trunk/arms/legs`
+15003	[surg prep/creat] {recipient site} `trunk/arms/legs` {each addl} {100 sqcm or part thereof infants/children}
+15004	[surg prep/creat] {recipient site} `face/ear/genit/hand/feet` {100 sq cm or 1% of body area infants/children}
+15005	[surg prep/creat] {recipient site} `face/ear/genit/hand/feet` {each addl} {100 sq cm or part infants/children} 
+15040	[harvest skin] {autograft} {</100 sq cm}
+15050	[pinch graft] !`facial`
+15100	[split thickness] {autograft} `trunk/arms/legs` {</100 sq cm or 1% body area infants/children} 
+15101	[split-thickness] {autograft} `trunk/arms/legs` {each addl 100 sq cm} 
+15110	[epidermal autograft] `trunk/arms/legs` {</100 cm or 1% body area infants/children} 
+15111	[epidermal autograft] `trunk/arms/legs` {each additional 100 cm}
+15115	[epidermal autograft] `face/scalp/eyeld/mouth/neck/hand/feet/genitalia/digits` {</100 sq cm or 1% body area infants/children} 
+15116	[epidermal autograft] `face/scalp/eyeld/mouth/neck/hand/feet/genitalia/digits` {each addl 100 cm} 
+15120	[skin graft] {split thickness} `face/scalp/eyeld/mouth/neck/hand/feet/genitalia/digits` 
+        [split-thickness] {autograft} `face/scalp/mouth/neck/hand/feet/genitalia/digits` {</100 sq cm or 1% body area infants/children} 
+15121	[skin graft] {split thickness} `face/scalp/eyeld/mouth/neck/hand/feet/genitalia/digits` 
+        [split-thickness] {autograft} `face/scalp/mouth/neck/hand/feet/genitalia/digits` {each addl 100 sq cm} 
+15130	[dermal autograft] `trunk/arms/legs` {</100 sq cm or 1% body area infants/children} 
+15131	[dermal autograft] `trunk/arms/legs` {each addl 100 sq cm}
+15135	[dermal autograft] `face/scalp/eyeld/mouth/neck/hand/feet/genitalia/digits` {</100 sq cm or 1% body area infants/children} 
+15136	[dermal autograft] `face/scalp/eyeld/mouth/neck/hand/feet/genitalia/digits` {each addl 100 sq cm} 
+15150	[tissue cultured skin] {autograft} `trunk/arm/leg`
+15151	[tissue cultured skin] {autograft} `trunk/arm/leg` {26-75 cm} 
+15152	[tissue cultured skin] {autograft} `trunk/arm/leg` {each addl 100 sq cm or 1% body area infants/children} 
+15155	[tissue cultured skin] {autograft} `face/scalp/eyeld/mouth/neck/hand/feet/genitalia/digits` {</25cm} 
+15156	[tissue cultured skin] {autograft} `face/scalp/eyeld/mouth/neck/hand/feet/genitalia/digits` {26-75cm} 
+15157	[tissue cultured skin] {autograft} `face/scalp/eyeld/mouth/neck/hand/feet/genitalia/digits` {each addl 100 sq cm} 
+15170*	acellular dermal replacement trunk/arms/legs 1 st 100 sq cm}/< or 1% bsa of infants and children 
+15171*	acellular dermal replacement trunk/arms/legs each addl 100 sq cm or 1% bsa of infants and children 
+15175*	acellular dermal replacement fce/slp/eyld/mth/nck/ear/orbt/gntl/hnd/ft/dgts 1st 100 sq cm}/</1% bsa 
+15176*	acellular dermal replacement fce/slp/eyld/mth/nck/ear/orbt/gntl/hnd/ft/dgts e add 100 sq cm}/1% bsa 
+15200	[full thickness graft] {free} `trunk` 
+15201	[full thickness graft] {free} `trunk` {each addl 20 sq cm} 
+15220	[full thickness graft] {free} `scalp/arms/legs`
+15221	[full thickness graft] {free} `scalp/arms/legs` {each addl 20 sq cm}
+15240	[full thickness graft] {free} `forehead/cheeks/chin/mouth/neck/axillae/genitalia/hands`
+15241	[full thickness graft] {free} `forehead/cheeks/chin/mouth/neck/axillae/genitalia/hands` {each addl 20 sq cm} 
+15260	[full-thickness skin graft] `nose/ears/eyelids/lips`
+15261	[full thickness graft] {free} `nose/ears/eyelids/lips` {each addl 20 sq cm}
+1526_   [full thickness graft]  !`trunk` !`scalp/arms/legs` !`forehead/cheeks/chin/mouth/neck/axillae/genitalia/hands` !`nose/ears/eyelids/lips`
+15271	[skin substitute graft] `trunk/arms/legs`
+15272	[skin substitute graft] `trunk/arms/legs` {wound < 100 sq cm} {each addl 25 sq cm} 
+15273	[skin substitute graft] `trunk/arms/legs` {wound >/100 sq cm} {</100 sq cm} 
+15274	[skin substitute graft] `trunk/arms/legs` {wound >/100 sq cm} {each addl 100 sq cm} 
+15275	[skin substitute graft] `face/scalp/eyelid/mouth/neck/ear/orbits/genitalia/hand/feet/digits` {wound < 100 sq cm} {</ 25 scm} 
+15276	[skin substitute graft] `face/scalp/eyelid/mouth/neck/ear/orbits/genitalia/hand/feet/digits` {wound < 100 sq cm} {each addl 25 sq cm} 
+15277	[skin substitute graft] `face/scalp/eyelid/mouth/neck/ear/orbits/genitalia/hand/feet/digits` {wound >/100 sq cm} {>/100 sq cm} 
+15278	[skin substitute graft] `face/scalp/eyelid/mouth/neck/ear/orbits/genitalia/hand/feet/digits` {wound >/100 sq cm} {each addl 100 sq cm} 
+1527_   [skin substitute graft] !`trunk` !`scalp/arms/legs` !`forehead/cheeks/chin/mouth/neck/axillae/genitalia/hands` !`nose/ears/eyelids/lips`
+15300*	allograft skin for temporary wound closure trunk/arm/leg 1 st 100 sq cm}/< or 1% bsa inf & chd 
+15301*	allograft skin for temporary wound closure trunk/arm/leg ea add 100 sq cm or 1% bsa inf & chd 
+15320*	allogrft skn for temp wnd closr fce/sclp/eyld/mth/nk/ear/obt/gtl/hnd/ft/dgt 1st 100sqcm}/< or 1%bsa 
+15321*	allogrft skn for temp wnd closr fce/sclp/eyld/mth/nk/ear/obt/gtl/hnd/ft/dgt eadd 100sqcm or 1%bsa 
+15330*	acellular dermal allograft trunk arms legs first 100 sq cm or less} 1%bsa of inf&chld 
+15331*	acellular dermal allograft trunk arms legs ea add 100 sq cm or ea add 1% bsa of inf/chld 
+15335*	acellular derml allogrft fce/sclp/eyld/mth/nck/ear/orbt/gntl/hnd/ft/dgts 1st 100sqcm}/<or 1%bsa in/ch 
+15336*	acellular derml allogrft fce/sclp/eyld/mth/nck/ear/orbt/gntl/hnd/ft/dgts eadd 100sqcm or 1%bsa in/ch 
+15340*	tissue cultured allogeneic skin substitute first 25 sq cm or less} 
+15341*	tissue cultured allogeneic skin substitute each additional 25 sq cm or part thereof 
+15360*	tissue cultured allogeneic dermal substitute trunk arms legs 1 st 100 sq cm}/< or 1% bsa inf&ch 
+15361*	tissue cultured allogeneic dermal substitute trunk arms legs e add 100 sq cm or 1% bsa inf&ch 
+15365*	tiss cltrd allog derm sub/fce/sclp/eyld/mth/nck/ear/orbt/gntl/hnd/ft/dgts 1st 100 sq cm}/< or 1%bsa 
+15366*	tiss cltrd allog derm sub/fce/sclp/eyld/mth/nck/ear/orbt/gntl/hnd/ft/dgts ea add 100 sq cm or 1%bsa 
+15400*	xenogrf skn for temp clsr trunk/arm/leg 1st 100 sq cm or 1% bsa inf/ch 
+15401*	xenogrf skn for temp clsr ea 100 sq cm or 1% bsa inf/ch 
+15420*	xenogrf skn for temp clsr fce/sclp/eyld/mth/nck/ear/orbt/gntl/hd/ft/dgts 1st 100sqcm}/< or 1% bsa 
+15421*	xenogrf skn for temp clsr fce/sclp/eyld/mth/nck/ear/orbt/gntl/hd/ft/dgts ea add 100 sq cm or 1% bsa 
+15430*	aclr xenogrf implt 1st 100 sq cm or less} or 1% bsa inf/ch 
+15431*	aclr xenogrf implt ea 100 sq cm or 1% bsa inf/ ch 
+15570	[formation direct/tubed pedicle] `trunk` 
+15572	[formation direct/tubed pedicle] `scalp/arms/legs` 
+15574	[formation direct/tubed pedicle] `face/cheeks/chin/mouth/neck/axillae/genitalia/hands/feet` 
+15576	[formation direct/tubed pedicle] `eyelids/nose/ears/lips/intraoral` 
+15600	[delay/sectioning] {flap} `trunk` 
+15610	[delay/sectioning] {flap} `scalp/arms/legs` 
+15620	[delay/sectioning] {flap} `forehead/cheeks/chin/neck/axillae/genitalia/hands/feet` 
+15630	[delay/sectioning] {flap} `eyelids/nose/ears/lips` 
+15650	[transfer pedicle flap] {intermediate}
+15731	[forehead flap] {preservation vascular pedicle} 
+15733   [muscle/myocutaneous/fasciocutaneous flap] `head pedicle specified`
+15734	[muscle/myocutaneous/fasciocutaneous flap] `trunk` 
+15736	[muscle/myocutaneous/fasciocutaneous flap] `upper extremity` 
+15738	[muscle/myocutaneous/fasciocutaneous flap] {lower extremity} 
+15740	[flap island pedicle] 
+15750	[flap neurovascular pedicle] 
+15756	[free muscle/myocutaneous flap] & [microvascular anastomosis] 
+15757	[free skin flap] & [microvascular anastomosis] 
+15758	[free fascial flap] & [microvascular anastomosis] 
+15760	[graft composite] {donor area} 
+15769   [autologous soft tissue graft] & [resected] & ![liposuction] {collected}      
+        [autologous fat graft] & ![liposuction] {collected}
+15770	[graft derma-fat-fascia]
+15771	[autologous fat graft] {trunk, breasts, scalp, arms, and/or legs} & [liposuction] {collected} & [50 cc or less] 
+15772*	grafting of autologous fat harvested by liposuction technique to trunk, breasts, scalp, arms, and/or legs; each additional 50 cc injectate, or part thereof (List separately in addition to code for primary procedure)   
+15773*	grafting of autologous fat harvested by liposuction technique to face, eyelids, mouth, neck, ears, orbits, genitalia, hands, and/or feet; 25 cc or less injectate   
+15774*	grafting of autologous fat harvested by liposuction technique to face, eyelids, mouth, neck, ears, orbits, genitalia, hands, and/or feet; each additional 25 cc injectate, or part thereof (List separately in addition to code for primary procedure)   
+15775	[punch graft] {hair transplant} {1-15} 
+15776	[punch graft] {hair transplant} {> 15} 
+15777	[implantation] & [alloderm]
+        [biologic soft tissue reinforcement] !{scarring}
+15780	[dermabrasion] {total} `face` 
+15781	[dermabrasion] {segmental} `face` 
+15782	[dermabrasion] {regional} & ![facial] {dermabrasion} 
+15783	[dermabrasion] {superficial}
+15786	[abrasion] {lesion} 
+15787	[abrasion] {2-4 lesions}
+15788	[chemical peel] `facial` `epidermal` 
+15789	[chemical peel] `facial` `dermal` 
+15792	[chemical peel] `epidermal` & ![facial] {chemical peel}
+15793	[chemical peel] `dermal` & ![facial] {chemical peel}
+15819	[cervicoplasty]
+15820	[blepharoplasty] `lower eyelid` & ![herniated]
+15821	[blepharoplasty] `lower eyelid` & [herniated]
+15822	[blepharoplasty] `upper eyelid` & ![excision] `redundant skin`
+15823	[blepharoplasty] `upper eyelid` & [excision] `redundant skin`
+15824	[rhytidectomy] `forehead or eyebrow`
+15825	[rhytidectomy] `neck`
+15826   [rhytidectomy] `cheek, chin neck`
+15829	[rhytidectomy] {superficial musculoaponeurotic system}
+15830	[panniculectomy]
+15832	[excision] {excessive} `skin and subq tissue` `thigh`
+15832	[excision] {excessive} `skin and subq tissue` `leg`
+15834	[excision] {excessive} `skin and subq tissue` `hip`
+15835	[excision] {excessive} `skin and subq tissue` `buttock`
+15836	[excision] {excessive} `skin and subq tissue` `arm`
+15837	[excision] {excessive} `skin and subq tissue` `forearm/hand`
+15838	[excision] {excessive} `skin and subq tissue` `submental fat pad`
+15839	[excision] {excessive} `skin and subq tissue`
+15840	[graft] {facial nerve paralysis} {free fascia}
+15841	[graft] {facial nerve paralysis} {free muscle}
+15842	[graft] {facial nerve paralysis} {free muscle flap} {microsurgical technique}
+15845	[graft] {facial nerve paralysis} {regional muscle} {transfer}
+15847	[abdominoplasty] !{past status}
+15850	[removal] {sutures} {same surgeon} & [anesthesia] !{local}
+15851	[removal] {sutures} {other surgeon} & [anesthesia] !{local}
+15852	[dressing change] !{burns} & [anesthesia] !{local}
+15860	[iv injection] {agent to test vascular flow} {flap/graft}
+15876	[liposuction] `head/neck`
+15877	[liposuction] `trunk area`
+15878	[liposuction] `upper extremity`
+15879	[liposuction] `lower extremity`
+15920	[excision] `coccygeal` {pressure ulcer} & [coccygectomy] & [primary suture] 
+15922	[excision] `coccygeal` {pressure ulcer} & [coccygectomy] & [flap/skin graft closure]
+15931	[excision] `sacral` {pressure ulcer} & [primary suture] & ![ostectomy]
+15933	[excision] `sacral` {pressure ulcer} & [primary suture] & [ostectomy]
+15934	[excision] `sacral` {pressure ulcer} & [skin flap closure] & ![ostectomy]
+15935	[excision] `sacral` {pressure ulcer} & [skin flap closure] & [ostectomy]
+15936	[excision] `sacral` {pressure ulcer} {prep} `muscle/myocutaneous` & [flap/skin graft closure] & ![ostectomy]
+15937	[excision] `sacral` {pressure ulcer} {prep} `muscle/myocutaneous` & [flap/skin graft closure] & [ostectomy] 
+15940	[excision] `ischial` {pressure ulcer} & [primary suture] & ![ostectomy]
+15941	[excision] `ischial` {pressure ulcer} & [primary suture] & [ostectomy] 
+15944	[excision] `ischial` {pressure ulcer} & [skin flap closure] & [ostectomy] 
+15946	[excision] `ischial` {pressure ulcer} & [ostectomy] {prep} `muscle/myocutaneous` & [flap/skin graft closure] 
+15950	[excision] `trochanteric` {pressure ulcer} & [primary suture] & ![ostectomy]
+15951	[excision] `trochanteric` {pressure ulcer} & [primary suture] & [ostectomy] 
+15952	[excision] `trochanteric` {pressure ulcer} & [skin flap closure] & ![ostectomy]
+15953	[excision] `trochanteric` {pressure ulcer} & [skin flap closure] & [ostectomy] 
+15956	[excision] `trochanteric` {pressure ulcer} {prep} `muscle/myocutaneous` & [flap/skin graft close] & [ostectomy] 
+15999*	UNLISTED proc excision pressure ulcer 
+16000	[treatment] {1st degree burn} 
+16025	[dressings and/or debridement] & ![full thickness] & [burn] {medium burn} & ![intraoperative]
+16030	[dressings and/or debridement] & ![full thickness] & [burn] {large burn} & ![intraoperative]
+160__ 	[dressings and/or debridement] & ![full thickness] & [burn] !{first degree} !{small burn} !{medium burn} !{large burn} & ![intraoperative]
+16020	[dressings and/or debridement] & ![full thickness] & [burn] !{small burn} !{medium burn} !{large burn} & ![intraoperative]
+16035	[escharotomy] !{addl incision} 
+16036	[escharotomy] {addl incision} 
+17000	[destruction] {premalig lesions} {1st}
+17003	[destruction] {premalig lesions} {2-14}
+17004	[destruction] {premalig lesions} {15/>} 
+17106	[destruction] & [cutaneous vascular proliferative lesion] {less than 10 sq cm}
+17107	[destruction] & [cutaneous vascular proliferative lesion] {10.0-50.0 sq cm}
+17108	[destruction] & [cutaneous vascular proliferative lesion] !{less than 50.0 sq cm}
+171__   [destruction] & [cutaneous vascular proliferative lesion] & ![squared centimeters]
+17110	[destruction] {benign lesions} `skin` !{tags} !{vascular proliferative lesions} {< 14} 
+17111	[destruction] {benign lesions} `skin` !{tags} !{vascular proliferative lesions} {15>} 
+17250	[chemical cauterization] `granulation tissue`
+17260	[destruction] {malignant lesion} `trunk/arms/legs` {lesion diameter 0.5 cm/<} 
+17261	[destruction] {malignant lesion} `trunk/arms/legs` {lesion diameter 0.6-1.0 cm} 
+17262	[destruction] {malignant lesion} `trunk/arms/legs` {lesion diameter 1.1-2.0 cm} 
+17263	[destruction] {malignant lesion} `trunk/arms/legs` {lesion diameter 2.1-3.0 cm} 
+17264	[destruction] {malignant lesion} `trunk/arms/legs` {lesion diameter 3.1-4.0 cm} 
+17266	[destruction] {malignant lesion} `trunk/arms/legs` {lesion diameter > 4.0 cm} 
+17270	[destruction] {malignant lesion} `scalp/neck/hands/feet/genitalia` {diameter 0.5 cm/<} 
+17271	[destruction] {malignant lesion} `scalp/neck/hands/feet/genitalia` {diameter 0.6-1.0 cm} 
+17272	[destruction] {malignant lesion} `scalp/neck/hands/feet/genitalia` {diameter 1.1-2.0 cm} 
+17273	[destruction] {malignant lesion} `scalp/neck/hands/feet/genitalia` {diameter 2.1-3.0 cm} 
+17274	[destruction] {malignant lesion} `scalp/neck/hands/feet/genitalia` {diameter 3.1-4.0 cm} 
+17276	[destruction] {malignant lesion} `scalp/neck/hands/feet/genitalia` {diameter > 4.0 cm} 
+17280	[destruction] {malignant lesion} `face/ears/eyelids/nose/lips/mucous membrane` {diameter 0.5 cm/<} 
+17281	[destruction] {malignant lesion} `face/ears/eyelids/nose/lips/mucous membrane` {diameter 0.6 to 1.0 cm} 
+17282	[destruction] {malignant lesion} `face/ears/eyelids/nose/lips/mucous membrane` {diameter 1.1 to 2.0 cm} 
+17283	[destruction] {malignant lesion} `face/ears/eyelids/nose/lips/mucous membrane` {diameter 2.1 to 3.0 cm} 
+17284	[destruction] {malignant lesion} `face/ears/eyelids/nose/lips/mucous membrane` {diameter 3.1 to 4.0 cm} 
+17286	[destruction] {malignant lesion} `face/ears/eyelids/nose/lips/mucous membrane` {diameter > 4.0 cm} 
+17311	[mohs micrographic technique] {gross tumor} `head/neck/hand/feet/genitalia` {first stage} {< 5 tissue blocks} 
+17312	[mohs micrographic technique] {gross tumor} `head/neck/hand/feet/genitalia` {each additional stage} {< 5 tiss blocks} 
+17313	[mohs micrographic technique] {gross tumor} `trunk/arms/legs` {first stage} {< 5 tissue blocks} 
+17314	[mohs micrographic technique] {gross tumor} `trunk/arms/legs` {each addl stage} {< 5 tissue blocks} 
+17315	[mohs micrographic technique] {gross tumor} {each addl block} {> 5 tissue blocks}
+17340	[cryotherapy] {acne} 
+17360	[chemical exfoliation] {acne} 
+17380	[electrolysis epilation] {each one half hour} 
+17999*	UNLISTED proc skin mucous membrane & subq tissue 
+19000	[aspiration] {cyst} `breast` 
+19001	[aspiration] {cyst} `breast` {each addl}
+19020	[mastotomy] & [exploration/drainage]
+19030	[injection procedure] {mammary ductogram/galactogram} 
+19081	[biopsy] {stereotactic} `breast` & [marker]
+19082	[biopsy] {stereotactic} `breast` & [marker] {each addl}
+19083	[biopsy] {breast} {ultrasound guidance}
+19084	[biopsy] {breast} {ultrasound guidance} & [each addl]
+19085	[biopsy] `breast` {lesion} {guidance mri} 
+19086*	[biopsy] `breast`w device addl lesion magnet res guide  
+19100	[biopsy] `breast` {needle} !{imaging guidance} & ![excision/procedure] 
+19101	[biopsy] `breast` {open} & ![mastectomy]
+19105	[ablation] {cryosurgical} {fibroadenoma}
+19110	[nipple exploration]
+19112	[excision] `lactiferous duct` {fistula} 
+19120	[excision] {lesion} {breast} & ![additional margins] & ![reexcision]
+19125   [excision] {lesion} {breast} & ![additional margins]
+        [lumpectomy] {wire localized} & ![additional margins] & ![ipsilateral]
+19126	[excision] {lesion} `breast` & [preplaced radiological marker] {each addl lesion}
+19281	[needle localization] {mammographic guidance}
+19282	[needle localization] {each addl} {mammographic guidance}
+19283	[needle localization] {stereotactic guidance} & [breast] 
+19284	[needle localization] {each addl} {stereotactic guidance} & [breast] 
+19285	[needle localization] {ultrasound guidance} & [breast] 
+19286	[needle localization] {each addl} {ultrasound guidance} & [breast] 
+19287	[needle localization] {mr guidance} & [breast] 
+19288	[needle localization] {each addl} {mr guidance} & [breast]
+19290*	preoperative placement needle localization wire breast  
+19291*	preoperative placement needle localization wire breast each add'l lesion 
+19295*	image guided placement metallic localization clip percutaneous during breast biopsy/aspiration 
+19296	[placement] {radiotherapy} {expandable catheter} `breast` {following partial mastectomy} 
+19297	[placement] {radiotherapy} {expandable catheter} `breast` {concurrent partial mastectomy} 
+19298	[placement] {radiotherapy} {brachytherapy catheter} `breast` {following partial mastectomy} 
+19300	[mastectomy] {gynecomastia} "male"
+19301	[partial mastectomy] !{past status} & ![lymphadenectomy] 
+19302	[partial mastectomy] & [lymphadenectomy] !{biopsy}
+19303	[mastectomy] !{post} !{modified radical} & ![resection] `pectoralis muscle` & ![implant] `breast`
+19305	[mastectomy] {radical} !{post} `pectoral axillary lymph nodes` 
+19306	[mastectomy] {radical} !{modified} !{post} `pectoral muscles axillary and internal mammary lymph nodes` 
+19307	[mastectomy] {modified radical} !{post}  
+19316	[mastopexy] 
+19318	[reduction mammaplasty]
+19324	[mammaplasty] {augmentation} !{prosthetic implant} "Delete CPT 2021"
+19325	[mammaplasty] {augmentation} {prosthetic implant} 
+19328	[removal] {intact} `mammary` {implant} 
+19330	[removal] {leaking} `breast implants` & ![replacement]
+19340	[insertion breast prosthesis] {reconstruction after mastectomy}
+        [mastectomy] {post} & [insertion] {implant} & ![delayed insertion]
+19342	[mastectomy] {post} & [delayed insertion] {implant} 
+19350	[reconstruction] `nipple` 
+19355	[correction inverted nipples] 
+19357	[breast reconstruction] {tissue expander} 
+19361	[breast reconstruction] `latissimus dorsi flap` !{prosthetic implant} 
+19364	[breast reconstruction] {free flap} 
+19366	[breast reconstruction] !{tissue expander} & [autograft] & ![revision] "Delete CPT 2021"
+19367	[breast reconstruction] {tram flap} 
+19368	[breast reconstruction] {tram flap} & [microvascular anastomosis] 
+19369	[breast reconstruction] {tram flap} {double pedicle} 
+19370	[periprosthetic capsulotomy] `breast` 
+19371	[capsulectomy] 
+19380	[revision] {reconstructed} & [breast reconstruction]
+19396	[custom breast implant] 
+19499*	UNLISTED proc breast

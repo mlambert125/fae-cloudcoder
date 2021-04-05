@@ -1,0 +1,922 @@
+L00     [staphylococcal scalded skin syndrome]
+L0100   [impetigo] 
+L0101   [impetigo] {non bullous} 
+L0102   [bockharts impetigo] 
+L0103   [impetigo] {bullous} 
+L0109   [ulcerative impetigo] 
+L011    [impetiginization] `dermatoses` 
+L0201   [abscess] !{dental} `face`
+L0202   [furuncle] `face`
+L0203   [carbuncle] `face`
+L0211   [abscess] `neck` 
+L0212   [furuncle] `neck`
+L0213   [carbuncle]`neck`
+L02211  [abscess] `abdominal wall`
+L02212  [abscess] `back`
+L02213  [abscess] `chest wall`
+L02214  [abscess] `groin`
+L02215  [abscess] `perineum`
+L02216  [abscess] `umbilicus`
+L02219  [abscess] `skin of trunk`
+L02221  [furuncle] `abdominal wall`
+L02222  [furuncle] `back`
+L02223  [furuncle] `chest wall`
+L02224  [furuncle] `groin`
+L02225  [furuncle] `perineum` 
+L02226  [furuncle] `umbilicus`
+L02229  [furuncle] `trunk`
+L02231  [carbuncle] `abdominal wall`
+L02232  [carbuncle] `back`
+L02233  [carbuncle] `chest wall`
+L02234  [carbuncle] `groin`
+L02235  [carbuncle] `perineum`
+L02236  [carbuncle] `umbilicus`
+L02239  [carbuncle] `trunk`
+L0231   [abscess] `buttock`
+L0232   [furuncle] `buttock`
+L0233   [carbuncle] `buttock`
+L02411  [abscess] `axilla` {right}  
+L02412  [abscess] `axilla` {left} 
+L02413  [abscess] !{osteomyelitis} `upper limb` {right}
+L02414  [abscess] !{osteomyelitis} {left} `upper limb` 
+L02415  [abscess] !{osteomyelitis} `lower limb` {right}
+L02416  [abscess] !{osteomyelitis} `lower limb` {left}
+        [abscess] `thigh` {left}
+L02419  [abscess] !{osteomyelitis} !{lower} !{upper} `limb` !{left} !{right}
+L02421  [furuncle] `axilla` {right} 
+L02422  [furuncle] `axilla` {left}
+L02423  [furuncle] `upper limb` {right}
+L02424  [furuncle] `upper limb` {left}
+L02425  [furuncle] `lower limb` {right}
+L02426  [furuncle] `lower limb` {left}
+L02429  [furuncle] `limb` !{left} !{right}
+L02431  [carbuncle] `axilla` {right}
+L02432  [carbuncle] `axilla` {left}
+L02433  [carbuncle] `upper limb` {right} 
+L02434  [carbuncle] `upper limb` {left}
+L02435  [carbuncle] `lower limb` {right}
+L02436  [carbuncle] `lower limb` {left}
+L02439  [carbuncle] `limb` !{left} !{right}
+L02511  [abscess] `hand or finger` {right}
+L02512  [abscess] `hand or finger` {left}
+L02519  [abscess] `hand or finger` !{left} !{right}
+L02521  [furuncle] `hand or finger` {right}
+L02522  [furuncle] `hand or finger` {left}
+L02529  [furuncle] `hand or finger` !{left} !{right}
+L02531  [carbuncle] `hand` {right}
+L02532  [carbuncle] `hand` {left}
+L02539  [carbuncle] `hand`  !{left} !{right}
+L02611  [abscess] {right} `toe` !{osteomyelitis}
+        [abscess] !{osteomyelitis} {right} `foot`
+L02612  [abscess] !{osteomyelitis} {left} `toe`
+        [abscess] !{osteomyelitis} {left} `foot`
+L02619  [abscess] !{left} !{right} `foot` !{osteomyelitis}
+L02621  [furuncle] {right} `foot`
+L02622  [furuncle] {left} `foot`
+L02629  [furuncle] `foot` !{left} !{right}
+L02631  [carbuncle] {right} `foot`
+L02632  [carbuncle] {left} `foot`
+L02639  [carbuncle] `foot` !{left} !{right}
+L02811  [abscess] `head` !`face`
+        [abscess] `scalp`
+L02818* [abscess] `cutaneous` of other sites 
+L02821  [furuncle] `head`
+L02828* [furuncle] of other sites 
+L02831  [carbuncle] `head`
+L02838* [carbuncle] of other sites 
+L0291*  [abscess] !{cellulitis} 
+L0292*  [furuncle] 
+L0293*  [carbuncle] 
+L03011  [cellulitis] `finger` {right}
+L03012  [cellulitis] `finger` {left}
+L03019  [cellulitis] `finger` !{left} !{right}
+L03021  [lymphangitis] `finger` {right}
+L03022  [lymphangitis] `finger` {left}
+L03029  [lymphangitis] `finger` !{left} !{right}
+L03031  [paronychia] `toe` {right}
+L03032  [paronychia] `toe` {left}
+L03039  [cellulitis] `toe` !{left} !{right}
+L03041  [lymphangitis] `toe` {right}
+L03042  [lymphangitis] `toe` {left}
+L03049  [lymphangitis] `toe` !{left} !{right}
+L03111  [cellulitis] `axilla` {right}
+L03112  [cellulitis] `axilla` {left}
+L03113  [cellulitis] `upper limb` {right}
+L03114  [cellulitis] `upper limb` {left}
+L03115  [cellulitis] `lower limb` {right} 
+        [cellulitis] `leg` {right}
+L03116  [cellulitis] `lower limb` {left}
+        [cellulitis] `leg` {left} 
+L03119  [cellulitis] !{left} !{right} `limb` 
+L03121  [lymphangitis] `axilla` {right}
+L03122  [lymphangitis] `axilla` {left}
+L03123  [lymphangitis] `upper limb` {right}
+L03124  [lymphangitis] `upper limb` {left}
+L03125  [lymphangitis] `lower limb` {right}
+L03126  [lymphangitis] `lower limb` {left}
+L03129  [lymphangitis] `limb`
+L03211  [cellulitis] `face`
+L03212  [lymphangitis] `face`
+L03213  [cellulitis] `periorbital`              
+L03221  [cellulitis] `neck` 
+L03222  [lymphangitis] `neck`
+L03311  [cellulitis] `abdominal wall`
+L03312  [cellulitis] `back` !`buttock`
+L03313  [cellulitis] `chest wall`
+L03314  [cellulitis] `groin`
+L03315  [cellulitis] `perineum`
+L03316  [cellulitis] `umbilicus`
+L03317  [cellulitis] `buttock`
+L03319  [cellulitis] `trunk`
+L03321  [lymphangitis] `abdominal wall`
+L03322  [lymphangitis] `back` !`buttock`
+L03323  [lymphangitis] `chest wall`
+L03324  [lymphangitis] `groin`
+L03325  [lymphangitis] `perineum`
+L03326  [lymphangitis] `umbilicus`
+L03327  [lymphangitis] `buttock`
+L03329  [lymphangitis] `trunk`
+L03811  [cellulitis] `head`
+L03818* [cellulitis] of other sites 
+L03891  [lymphangitis] `head`
+L03898* [lymphangitis] of other sites 
+L0390   [cellulitis] !{abscess} !{past status} !`other skin of body parts`
+L0391   [lymphangitis] 
+L040    [lymphadenitis] `face, head and neck`
+L041    [lymphadenitis] `trunk`
+L042    [lymphadenitis] `upper limb`
+L043    [lymphadenitis] `lower limb`
+L048*   acute lymphadenitis of other sites
+L049    [lymphadenitis]
+L0501   [pilonidal abscess]
+        [pilonidal cyst] & [abscess]
+L0502   [pilonidal sinus] & [abscess]
+L0591   [pilonidal cyst] & ![abscess] !{congenital}
+L0592   [pilonidal sinus] & ![abscess] !{congenital}
+L080    [pyoderma] 
+L081    [erythrasma]
+L0881   [pyoderma vegetans]
+L0882   [omphalitis] !"newborn" 
+L0889*  other specified local infections of the `skin and subcutaneous tissue`
+L089    [infection] `skin and subcutaneous tissue`
+L100    [pemphigus vulgaris]
+L101    [pemphigus vegetans]
+L102    [pemphigus foliaceous]
+L103    [brazilian pemphigus]
+L104    [pemphigus erythematosus]
+L105    [drug induced pemphigus]
+L1081   [paraneoplastic pemphigus]
+L1089   [pemphigus]
+L109    [pemphigus] 
+L110    [keratosis follicularis] {acquired} !{congenital} !{darier white}
+L111    [dermatosis] {transient} {acantholytic}
+L118*   other specified acantholytic disorders
+L119    [disorder] {acantholytic}
+L120    [pemphigoid] {bullous}
+L121    [pemphigoid] {cicatricial}
+L122    [bullous disease] {chronic} "pediatric" 
+L1230   [epidermolysis bullosa] {acquired}
+L1231   [epidermolysis bullosa] & [drug]
+L1235*  other {acquired} [epidermolysis bullosa]
+L128*   other pemphigoid 
+L129    [pemphigoid]
+L130    [dermatitis] {herpetiformis}
+L131    [dermatitis] {pustular} `subcorneal`
+L138*   other specified bullous disorders
+L139    [disorder] {bullous}
+L14*    bullous disorders in diseases classified elsewhere
+L200    [besniers prurigo]
+L2081   [neurodermatitis] {atopic}
+L2082   [flexural eczema]
+L2083   [infantile eczema]
+L2084   [intrinsic eczema]
+L2089*  {atopic} [dermatitis]"
+L209    [dermatitis] {atopic}
+L210    [seborrhea capitis] 
+L211    [dermatitis] {infantile} `seborrheic` "pediatric"
+L218*   other `seborrheic` [dermatitis 
+L219    [dermatitis] `seborrheic` 
+L22     [diaper dermatitis] 
+L230    [dermatitis] {allergic} {contact} {metals} 
+L231    [dermatitis] {allergic} {contact} {adhesives} 
+L232    [dermatitis] {allergic} {contact} {cosmetics} 
+L233    [dermatitis] {allergic} {contact} {drugs} 
+L234    [dermatitis] {allergic} {contact} {dyes} 
+L235    [dermatitis] {allergic} {contact} {chemical products} 
+L236    [dermatitis] {allergic} {contact} {food} 
+L237    [dermatitis] & [allergy to plants] !{food} 
+L2381   [dermatitis] {allergic} {contact} {animal dander} 
+L2389   [dermatitis] {allergic} {contact} {allergic agents} 
+L239    [dermatitis] {allergic} {contact} 
+L240    [dermatitis] {irritant} {contact} {detergents} 
+L241    [dermatitis] {irritant} {contact} {oils} 
+        [dermatitis] {irritant} {contact} {greases} 
+L242    [dermatitis] {irritant} {contact} {solvents} 
+L243    [dermatitis] {irritant} {contact} {cosmetics} 
+L244    [dermatitis] {irritant} {contact} {drugs} 
+L245    [dermatitis] {irritant} {contact} {chemical products} 
+L246    [dermatitis] {irritant} {contact} {food} 
+L247    [dermatitis] {irritant} {contact} {plants} !{food} 
+L2481   [dermatitis] {irritant} {contact} {metals} 
+L2489   [dermatitis] {irritant} {contact} {allergic agents} 
+L249    [dermatitis] {irritant} {contact} 
+L250    [dermatitis] {contact} {cosmetics} 
+L251    [dermatitis] {contact} {drugs} 
+L252    [dermatitis] {contact} {dyes} 
+L253    [dermatitis] {contact} {chemical products} 
+L254    [dermatitis] {contact} {food} 
+L255    [dermatitis] {contact} {plants} !{food} 
+L258*   [dermatitis] {contact} due to other agents 
+L259    [dermatitis] {contact} !{history} !{other specified dermatitis}
+L26     [dermatitis] {exfoliative}
+L270    [skin eruption] {generalized} {drugs and medicaments}
+L271    [skin eruption] {localized} {drugs and medicaments}
+L272    [dermatitis] {food}
+L278*   [dermatitis due to other substances taken internally 
+L279    [dermatitis] {substance} 
+L280    [lichen simplex chronicus]
+L281    [prurigo nodularis]
+L282    [prurigo] 
+L290    [pruritus] `ani`
+L291    [pruritus] `scrotum`"male"
+L292    [pruritus] `vulva` "female"
+L293    [pruritus] `anogenital`
+L298*   other pruritus 
+L299    [pruritus] !{specified sites}
+L300    [dermatitis] {nummular}
+L301    [dyshidrosis]
+L302    [autosensitization] `cutaneous` 
+L303    [eczematous dermatitis]
+L304    [erythema intertrigo]
+L305    [pityriasis alba]
+L308*   [other specified dermatitis]
+L309    [dermatitis] !{contact} !{plants}
+L400    [psoriasis vulgaris]
+L401    [psoriasis] {generalized} {pustular}
+L402    [acrodermatitis continua]
+L403    [pustulosis palmaris et plantaris]
+L404    [psoriasis] {guttate}
+L4050   [psoriasis arthritis]
+L4051   [arthropathy] {psoriatic} `distal interphalangeal`
+L4052   [psoriatic arthritis] {multilans}
+L4053   [spondylitis] {psoriatic} 
+L4054   [arthropathy] {psoriatic} "pediatric" 
+L4059   [arthropathy] {psoriatic} 
+L408*   other [psoriasis] 
+L409    [psoriasis]
+L410    [pityriasis lichenoides et varioliformis acuta]
+L411    [pityriasis lichenoides chronica]
+L413    [parapsoriasis] {small plaque}
+L414    [parapsoriasis] {large plaque}
+L415    [parapsoriasis] {retiform}
+L418*   other [parapsoriasis]
+L419    [parapsoriasis]
+L42     [pityriasis rosea]
+L430    [lichen planus] {hypertrophic}
+L431    [lichen planus] {bullous}
+L432    [drug reaction] {lichenoid}
+L433    [lichen planus] {subacute}
+L438*   other [lichen planus]
+L439    [lichen planus]
+L440    [pityriasis rubra pilaris]
+L441    [lichen nitidus]
+L442    [lichen striatus]
+L443    [lichen ruber moniliformis]
+L444    [papular acrodermatitis] "infantile" "pediatric"
+L448*   other specified papulosquamous disorders 
+L449    [papulosquamous disorder] 
+L45*    [papulosquamous disorder]s in diseases classified elsewhere 
+L490    [exfoliation] & [erythematous condition] {less than 10 percent of body surface} 
+L491    [exfoliation] & [erythematous condition] {10-19 percent of body surface} 
+L492    [exfoliation] & [erythematous condition] {20-29 percent of body surface} 
+L493    [exfoliation] & [erythematous condition] {30-39 percent of body surface} 
+L494    [exfoliation] & [erythematous condition] {40-49 percent of body surface} 
+L495    [exfoliation] & [erythematous condition] {50-59 percent of body surface} 
+L496    [exfoliation] & [erythematous condition] {60-69 percent of body surface} 
+L497    [exfoliation] & [erythematous condition] {70-79 percent of body surface} 
+L498*   [exfoliation] & [erythematous condition] {80-89 percent of body surface} 
+L499    [exfoliation] & [erythematous condition] {90 or more percent of body surface} 
+L500    [urticaria] {allergic} 
+L501    [urticaria] {idiopathic} 
+L502    [urticaria] {cold} 
+        [urticaria] {heat} 
+L503    [urticaria] {dermatographic} 
+L504    [urticaria] {vibratory} 
+L505    [urticaria] {cholinergic} 
+L506    [urticaria] {contact} 
+L508*   other [urticaria] 
+L509    [urticaria] !{allergic} !{idiopathic} !{cold} !{heat} !{dermatographic} !{vibratory} !{cholinergic} !{contact}
+L510    [erythema] {nonbullous} {multiforme} 
+L511    [stevens johnson syndrome] 
+L512    [toxic epidermal necrolysis] 
+L513    [stevens johnson syndrome toxic epidermal necrolysis overlap syndrome] 
+L518*   other [erythema multiforme] 
+L519    [erythema] {multiforme} 
+L52     [erythema] {nodosum} 
+L530    [erythema] {toxic} 
+L531    [erythema] {annulare} {centrifugum} 
+L532    [erythema] {marginatum} 
+L533    [erythema] {chronic} {figurate} 
+L538    [other specified erythematous conditions] !{without}
+L539    [erythematous condition] !{erythematous other location}
+L54*    erythema in diseases classified elsewhere  
+L550    [sunburn] {first degree}
+L551    [sunburn] {second degree}
+L552    [sunburn] {third degree}
+L559    [sunburn] !{degree}
+L560    [drug phototoxic response]
+L561    [drug photoallergic response]
+L562    [dermatitis] {photocontact}
+L563    [urticaria] {solar} 
+L564    [light eruption] {polymorphous} 
+L565    [disseminated superficial actinic porokeratosis] 
+L568*   other specified skin changes due to ultraviolet radiation 
+L569    [skin change] {ultraviolet radiation}
+L570    [keratosis] {actinic} 
+L571    [reticuloid] {actinic} 
+L572    [cutis rhomboidalis nuchae] 
+L573    [poikiloderma of civatte] 
+L574    [cutis laxa senilis] 
+L575    [granuloma] {actinic} 
+L578*   other skin changes due to {chronic} exposure to nonionizing radiation 
+L579    [skin changes] & {chronic} [exposure to nonionizing radiation] 
+L580    [radiodermatitis] 
+L581    [radiodermatitis] {chronic} 
+L589    [radiodermatitis] 
+L590    [erythema ab igne] 
+L598    [other specified disorders of the skin and subcutaneous tissue] {radiation}
+        [radionecrosis]
+L599    [disorder] {radiation} `skin and subcutaneous tissue` 
+L600    [ingrown] `toenail` 
+        [ingrown] `fingernail`
+L601    [onycholysis] 
+L602    [onychogryphosis] 
+L603    [dystrophy] `nail` 
+L604    [beaus lines] 
+L605    [yellow nail syndrome] 
+L608*   other nail disorders 
+L609    [nail disorder] 
+L62*    nail disorders in diseases classified elsewhere 
+L630    [alopecia] {totalis} 
+L631    [alopecia] {universalis} 
+L632    [ophiasis] 
+L638*   other alopecia areata 
+L639    [alopecia] {areata} 
+L640    [alopecia] {drug induced} {androgenic} 
+L648*   other androgenic alopecia 
+L649    [alopecia] {androgenic} 
+L650    [effluvium] {telogen} 
+L651    [effluvium] {anagen} 
+L652    [alopecia] {mucinosa} 
+L658*   other specified nonscarring hair loss 
+L659    [hair loss] {nonscarring} 
+L660    [pseudopelade] 
+L661    [lichen planopilaris] 
+L662    [folliculitis decalvans] 
+L663    [perifolliculitis capitis abscedens] 
+L664    [folliculitis ulerythematosa reticulata] 
+L668*   other cicatricial alopecia 
+L669    [cicatricial alopecia] 
+L670    [trichorrhexis nodosa] 
+L671    [variations in hair color] 
+L678*   other hair color and hair shaft abnormalities 
+L679    [hair color abnormality] 
+        [hair shaft abnormality] 
+L680    [hirsutism] 
+L681    [hypertrichosis] {acquired} {lanuginosa} 
+L682    [hypertrichosis] {localized} 
+L683    [polytrichia] 
+L688*   other [hypertrichosis] 
+L689    [hypertrichosis] 
+L700    [acne vulgaris]
+L701    [acne] {conglobata} 
+L702    [acne] {varioliformis} 
+L703    [acne] {tropica} 
+L704    [acne] {infantile}  "pediatric"
+L705    [acne] {excoriated} 
+L708    [other acne]
+L709    [acne] 
+L710    [dermatitis] {perioral} 
+L711    [rhinophyma] 
+L718    [other rosacea] 
+L719    [rosacea] !{other}
+L720    [cyst] `epidermal` 
+L7211   [cyst] {pilar} 
+L7212   [cyst] {trichodermal} 
+L722    [steatocystoma multiplex] 
+L723    [cyst] {sebaceous}
+L728    [cyst] `follicular` {other cyst}
+L729    [cyst] `follicular` !{other cyst}
+L730    [acne] {keloid} 
+L731    [pseudofolliculitis barbae] 
+L732    [hidradenitis] 
+L738*   other specified follicular disorders 
+L739    [folliculitis] !{hidradenitis} !{pseudofolliculitis}
+L740    [miliaria] {rubra} 
+L741    [miliaria] {crystallina} 
+L742    [miliaria] {profunda} 
+L743    [miliaria] 
+L744    [anhidrosis] 
+L74510  [hyperhidrosis] {primary} {focal} `axilla` 
+L74511  [hyperhidrosis] {primary} {focal} `face` 
+L74512  [hyperhidrosis] {primary} {focal} `palms` 
+L74513  [hyperhidrosis] {primary} {focal} `soles` 
+L74519  [hyperhidrosis] {primary} {focal} 
+L7452   [hyperhidrosis] {secondary} {focal} 
+L748*   other eccrine sweat disorders 
+L749    [eccrine sweat disorder] 
+L750    [bromhidrosis] 
+L751    [chromhidrosis] 
+L752    [miliaria] `apocrine` 
+L758*   other `apocrine` sweat disorders 
+L759    [apocrine sweat disorder] 
+L7601   [hemorrhage] {intraoperative} `skin and subcutaneous tissue` & [dermatologic procedure] 
+        [hematoma] {intraoperative} `skin and subcutaneous tissue` & [dermatologic procedure] 
+L7602   [hemorrhage] {intraoperative} `skin and subcutaneous tissue` & [procedure] 
+        [hematoma] {intraoperative} `skin and subcutaneous tissue` & [procedure] 
+L7611   [puncture] {accidental} `skin and subcutaneous tissue` & [dermatologic procedure] 
+        [laceration] {accidental} `skin and subcutaneous tissue` & [dermatologic procedure] 
+L7612   [puncture] {accidental} `skin and subcutaneous tissue` & [procedure] 
+        [laceration] {accidental} `skin and subcutaneous tissue` & [procedure] 
+L7621   [hemorrhage] {postprocedural} `skin and subcutaneous tissue` & [dermatologic procedure]  
+L7622   [hemorrhage] {postprocedural} `skin and subcutaneous tissue` & [procedure]  
+L7631   [hematoma] {postprocedural} `skin and subcutaneous tissue` & [dermatologic procedure]
+L7632   [hematoma] {postprocedural} `skin and subcutaneous tissue` & [previous incision]
+L7633   [postprocedural seroma of skin and subcutaneous tissue following a dermatologic]
+L7634   [postprocedural seroma of skin and subcutaneous tissue following other procedure]
+L7681   [complication] {intraoperative} `skin and subcutaneous tissue` 
+L7682   [complication] {postprocedural} `skin and subcutaneous tissue` 
+L80     [vitiligo] 
+L810    [hyperpigmentation] {postinflammatory} 
+L811    [chloasma] 
+L812    [freckles] 
+L813    [cafe au lait spots] 
+L814    [hyperpigmentation] {melanin} 
+L815    [leukoderma] 
+L816    [diminished melanin formation] 
+L817    [dermatosis] {pigmented} {purpuric} 
+L818*   other specified disorders of pigmentation 
+L819    [disorder of pigmentation] 
+L820    [seborrheic keratosis] {inflamed}
+L821    [seborrheic keratosis] !{inflamed}
+L83     [acanthosis nigricans] 
+L84     [corns] 
+        [callosities] 
+L850    [ichthyosis] {acquired} 
+L851    [keratosis] {acquired} {palmaris et plantaris} 
+L852    [keratosis] {palmaris et plantaris} 
+L853    [xerosis cutis] 
+L858*   other specified epidermal thickening 
+L859    [epidermal thickening] 
+L86*    [keratoderma] in diseases classified elsewhere 
+L870    [keratosis follicularis et parafollicularis in cutem penetrans] 
+L871    [reactive perforating collagenosis] 
+L872    [elastosis perforans serpiginosa] 
+L878*   other transepidermal elimination disorders 
+L879    [transepidermal elimination disorder] 
+L88*    pyoderma gangrenosum 
+L89000  [ulcer] {pressure} {unstageable} !{left} !{right} `elbow`
+        [decubitus] {unstageable} !{left} !{right} `elbow`
+L89001  [ulcer] {pressure} {stage 1} !{right} !{left} `elbow`
+L89002  [ulcer] {pressure} {stage 2} !{right} !{left} `elbow`
+L89003  [ulcer] {pressure} {stage 3} !{right} !{left} `elbow`
+L89004  [ulcer] {pressure} {stage 4} !{right} !{left} `elbow`
+L89006	[ulcer] {pressure} {deep tissue damage}!{right} !{left}  `elbow`
+L89009  [ulcer] {pressure} !{specified stage} !{left} !{right} `elbow`	
+L8900_  [ulcer] {pressure} !{specified stage} !{left} !{right} `elbow` "Partial Coding"
+L89010  [ulcer] {pressure} {unstageable} {right} `elbow`
+        [decubitus] {unstageable} {right} `elbow`
+L89011  [ulcer] {pressure} {stage 1} {right} `elbow`
+        [decubitus] {stage 1} {right} `elbow`
+L89012  [ulcer] {pressure} {stage 2} {right} `elbow`
+        [decubitus] {stage 2} {right} `elbow`
+L89013  [ulcer] {pressure} {stage 3} {right} `elbow`
+        [decubitus] {stage 3} {right} `elbow`
+L89014  [ulcer] {pressure} {stage 4} {right} `elbow`
+        [decubitus] {stage 4} {right} `elbow`
+L89016	[ulcer] {pressure} {deep tissue damage}  {right} `elbow`
+        [decubitus] {deep tissue damage}  {right} `elbow`
+L89019  [ulcer] {pressure} !{specified stage} {right} `elbow`
+L8901_  [ulcer] {pressure} !{specified stage} {right} `elbow` "Partial Coding"
+L89020  [ulcer] {pressure} {unstageable} {left} `elbow`
+L89021  [ulcer] {pressure} {stage 1} {left} `elbow`
+        [decubitus] {stage 1} {left} `elbow`
+L89022  [ulcer] {pressure} {stage 2} {left} `elbow`
+        [decubitus] {stage 2} {left} `elbow`
+L89023  [ulcer] {pressure} {stage 3} {left} `elbow`
+        [decubitus] {stage 3} {left} `elbow`
+L89024  [ulcer] {pressure} {stage 4} {left} `elbow`
+        [decubitus] {stage 4} {left} `elbow`
+L89026	[ulcer] {pressure} {deep tissue damage}  {left} `elbow`
+        [decubitus] {deep tissue damage}  {left} `elbow`
+L89029  [ulcer] {pressure} !{specified stage} {left} `elbow`	
+L8902_  [decubitus] !{specified stage} {left} `elbow` "Partial Coding"
+L89100  [ulcer] {pressure} {unstageable} `back` !{left} !{right} !`upper back` !`shoulder`
+L89101  [ulcer] {pressure} {stage 1} `back` !{left} !{right} !`upper back` !`shoulder`
+L89102  [ulcer] {pressure} {stage 2} `back` !{left} !{right} !`upper back` !`shoulder`
+L89103  [ulcer] {pressure} {stage 3} `back` !{left} !{right} !`upper back` !`shoulder`
+L89104  [ulcer] {pressure} {stage 4} `back` !{left} !{right} !`upper back` !`shoulder`
+L89106	[ulcer] {pressure} {deep tissue damage}  `back` !{left} !{right} !`upper back` !`shoulder`
+L89109  [ulcer] {pressure} !{specified stage} `back` !{left} !{right} !`upper back` !`shoulder`
+L8910_  [ulcer] {pressure} !{specified stage} `back` "Partial Coding"	
+L89110  [ulcer] {pressure} {unstageable} {right} `upper back`
+L89111  [ulcer] {pressure} {stage 1} {right} `upper back`
+        [decubitus] {stage 1} {right} `upper back`
+L89112  [ulcer] {pressure} {stage 2} {right} `upper back`
+        [decubitus] {stage 2} {right} `upper back`
+L89113  [ulcer] {pressure} {stage 3} {right} `upper back`
+        [decubitus] {stage 3} {right} `upper back`
+L89114  [ulcer] {pressure} {stage 4} {right} `upper back`
+        [decubitus] {stage 4} {right} `upper back`
+L89116	[ulcer] {pressure} {deep tissue damage}  {right} `upper back`
+        [decubitus] {deep tissue damage}  {right} `upper back`
+L89119  [ulcer] {pressure} !{specified stage} {right} `upper back`
+L8911_  [ulcer] {pressure} !{specified stage} {right} `upper back` "Partial Coding"
+L89120  [ulcer] {pressure} {unstageable} {left} `upper back`
+        [decubitus] {unstageable} {left} `upper back`
+L89121  [ulcer] {pressure} {stage 1} {left} `upper back`
+        [decubitus] {stage 1} {left} `upper back`
+L89122  [ulcer] {pressure} {stage 2} {left} `upper back`
+        [decubitus] {stage 2} {left} `upper back`
+L89123  [ulcer] {pressure} {stage 3} {left} `upper back`
+        [decubitus] {stage 3} {left} `upper back`
+L89124  [ulcer] {pressure} {stage 4} {left} `upper back`
+        [decubitus] {stage 4} {left} `upper back`
+L89126	[ulcer] {pressure} {deep tissue damage} {left} `upper back`
+        [decubitus] {deep tissue damage} {left} `upper back`
+L89129  [ulcer] {pressure} !{specified stage} {left} `upper back` !"Partial Coding"	
+L8912_  [ulcer] {pressure} !{specified stage} {left} `upper back` "Partial Coding"
+L89130  [ulcer] {pressure} {unstageable} {right} `lower back`
+L89131  [ulcer] {pressure} {stage 1} {right} `lower back`
+        [decubitus] {stage 1} {right} `lower back`
+L89132  [ulcer] {pressure} {stage 2} {right} `lower back`
+        [decubitus] {stage 2} {right} `lower back`
+L89133  [ulcer] {pressure} {stage 3} {right} `lower back`
+        [decubitus] {stage 3} {right} `lower back`
+L89134  [ulcer] {pressure} {stage 4} {right} `lower back`
+        [decubitus] {stage 4} {right} `lower back`
+L89136	[ulcer] {pressure} {deep tissue damage}  {right} `lower back`
+        [decubitus] {deep tissue damage}  {right} `lower back`
+L89139  [ulcer] {pressure} !{specified stage} {right} `lower back`
+L8913_  [ulcer] {pressure} !{specified stage} {right} `lower back` "Partial Coding"
+L89140  [ulcer] {pressure} {unstageable} {left} `lower back`
+        [decubitus] {unstageable} {left} `lower back`
+L89141  [ulcer] {pressure} {stage 1} {left} `lower back`
+        [decubitus] {stage 1} {left} `lower back` 
+L89142  [ulcer] {pressure} {stage 2} {left} `lower back`
+        [decubitus] {stage 2} {left} `lower back`  
+L89143  [ulcer] {pressure} {stage 3} {left} `lower back`
+        [decubitus] {stage 3} {left} `lower back` 
+L89144  [ulcer] {pressure} {stage 4} {left} `lower back` 
+        [decubitus] {stage 4} {left} `lower back` 
+L89146	[ulcer] {deep tissue damage}  {left} `lower back`
+        [decubitus] {deep tissue damage}  {left} `lower back`
+L89149  [ulcer] {pressure} !{specified stage} {left} `lower back` !"Partial Coding"
+L8914_  [ulcer] {pressure} !{specified stage} {left} `lower back` "Partial Coding"
+L89150  [ulcer] {pressure} {unstageable} `sacral region`
+L89151  [ulcer] {pressure} {stage 1} `sacral region`
+        [decubitus] {stage 1} `sacral region`
+L89152  [decubitus] {stage 2} `sacral region`
+        [ulcer] {stage 2} `sacral region`
+L89153  [ulcer] {stage 3} `sacral region`
+        [decubitus] {stage 3} `sacral region`
+L89154  [ulcer] {stage 4} `sacral region`
+        [decubitus] {stage 4} `sacral region` 
+L89156	[ulcer] {deep tissue damage}  `sacral region`
+        [decubitus] {deep tissue damage} `sacral region`
+L89159  [ulcer] {pressure} !{specified stage} `sacral region`
+L89200  [ulcer] {unstageable} `hip region` !{left} !{right}
+        [decubitus] {unstageable} `hip region` !{left} !{right}
+L89201  [ulcer] {pressure} {stage 1} `hip region` !{left} !{right}
+L89202  [ulcer] {pressure} {stage 2} `hip region` !{left} !{right}
+L89203  [ulcer] {pressure} {stage 3} `hip region` !{left} !{right}
+L89204  [ulcer] {pressure} {stage 4} `hip region` !{left} !{right}
+L89206	[ulcer] {deep tissue damage} `hip region` !{right} !{left}
+L89209  [ulcer] {pressure} !{specified stage} `hip region` !{right} !{left}
+L89210  [ulcer] {unstageable} {right} `hip region` 
+L89211  [ulcer] {pressure} {stage 1} {right} `hip region`
+        [decubitus] {stage 1} {right} `hip region`
+L89212  [ulcer] {pressure} {stage 2} {right} `hip region`
+        [decubitus] {stage 2} {right} `hip region` 
+L89213  [ulcer] {pressure} {stage 3} {right} `hip region`
+        [decubitus] {stage 3} {right} `hip region`
+L89214  [ulcer] {pressure} {stage 4} {right} `hip region`
+        [decubitus] {stage 4} {right} `hip region`
+L89216	[ulcer] {deep tissue damage}  {right} `hip region`
+L89219  [ulcer] {pressure} !{specified stage} !{stage} {right} `hip region`	
+L89220  [ulcer] {pressure} {unstageable} {left} `hip region`
+L89221  [ulcer] {pressure} {stage 1} {left} `hip region`
+        [decubitus] {stage 1} {left} `hip region`
+L89222  [ulcer] {pressure} {stage 2} {left} `hip region`
+        [decubitus] {stage 2} {left} `hip region`
+L89223  [ulcer] {pressure} {stage 3} {left} `hip region`
+        [decubitus] {stage 3} {left} `hip region`
+L89224  [ulcer] {pressure} {stage 4} {left} `hip region`
+        [decubitus] {stage 4} {left} `hip region`
+L89226	[ulcer] {deep tissue damage}  {left} `hip region`
+L89229  [ulcer] {pressure} !{specified stage} !{stage} !{unstageable} {left} `hip region`	
+L89300  [ulcer] {pressure} !{left} !{right} {unstageable} `buttock`
+L89301  [ulcer] {stage 1} `buttock` !{left} !{right}
+L89302  [ulcer] {stage 2} `buttock` !{left} !{right}
+L89303  [ulcer] {stage 3} `buttock` !{left} !{right}
+L89304  [ulcer] {stage 4} `buttock` !{left} !{right}
+L89306	[ulcer] {deep tissue damage} `buttock` !{left} !{right}
+L89309  [ulcer] {pressure} !{specified stage} `buttock` !{left} !{right}
+L89310  [ulcer] {unstageable} {right} `buttock`
+L89311  [ulcer] {pressure} {stage 1} {right} `buttock`
+        [decubitus] {stage 1} {right} `buttock`
+L89312  [ulcer] {pressure} {stage 2} {right} `buttock`
+        [decubitus] {stage 2} {right} `buttock`	
+L89313  [ulcer] {pressure} {stage 3} {right} `buttock`
+        [decubitus] {stage 3} {right} `buttock`	
+L89314  [ulcer] {pressure} {right} `buttock` {stage 4}
+        [decubitus] {stage 4} {right} `buttock`	
+L89316	[ulcer] {deep tissue damage} {right} `buttock`
+L89319  [ulcer] {pressure} !{specified stage} {right} `buttock`	
+L89320  [ulcer] {unstageable} {left} `buttock`
+L89321  [ulcer] {pressure} {stage 1} {left} `buttock`
+        [decubitus] {stage 1} {left} `buttock`
+L89322  [ulcer] {pressure} {stage 2} {left} `buttock`
+        [decubitus] {stage 2} {left} `buttock`
+L89323  [ulcer] {pressure} {stage 3} {left} `buttock`
+        [decubitus] {stage 3} {left} `buttock`
+L89324  [ulcer] {pressure} {stage 4} {left} `buttock`
+        [decubitus] {stage 4} {left} `buttock`
+L89326	[ulcer] {deep tissue damage}  {left} `buttock`
+L89329  [ulcer] {pressure} !{specified stage} !{stage} {left} `buttock`
+L8940*  [ulcer] {pressure} of contiguous site of back, buttock and hip 
+L8941*  [ulcer] {pressure} of contiguous site of back, buttock and hip {stage 1} 
+L8942*  [ulcer] {pressure} of contiguous site of back, buttock and hip {stage 2} 
+L8943*  [ulcer] {pressure} of contiguous site of back, buttock and hip {stage 3} 
+L8944*  [ulcer] {pressure} of contiguous site of back, buttock and hip {stage 4} 
+L8945*  [ulcer] {pressure} of contiguous site of back, buttock and hip {unstageable} 
+L8946	[ulcer] {pressure} {deep tissue damage}  `back, butt and hip`
+L89500  [ulcer] {pressure} {unstageable} `ankle` !{right} !{left}
+L89501  [ulcer] {pressure} {stage 1} `ankle` !{right} !{left}
+L89502  [ulcer] {pressure} {stage 2} `ankle` !{right} !{left}
+L89503  [ulcer] {pressure} {stage 3} `ankle` !{right} !{left}
+L89504  [ulcer] {pressure} {stage 4} `ankle` !{right} !{left}
+L89506	[ulcer] {pressure} {deep tissue damage} `ankle` !{right} !{left}
+L89509  [ulcer] {pressure} !{specified stage} `ankle` !{left} !{right}
+L89510  [ulcer] {unstageable} {right} `ankle`
+L89511  [ulcer] {pressure} {stage 1} {right} `ankle` 
+        [decubitus] {stage 1} {right} `ankle`
+L89512  [ulcer] {pressure} {stage 2} {right} `ankle`
+        [decubitus] {stage 2} {right} `ankle`
+L89513  [ulcer] {pressure} {stage 3} {right} `ankle`
+        [decubitus] {stage 3} {right} `ankle`
+L89514  [ulcer] {pressure} {stage 4} {right} `ankle`
+        [decubitus] {stage 4} {right} `ankle`
+L89516	[ulcer] {deep tissue damage} {right} `ankle`
+L89519  [ulcer] {pressure} !{specified stage} !{stage 1} !{stage 2} !{stage 3} !{stage 4} !{unstageable} !{deep tissue damage} !{left}  `ankle` {right} `ankle` {right}        
+L89520  [ulcer] {pressure} {unstageable} {left} `ankle`
+L89521  [decubitus] {stage 1} {left} `ankle`
+L89522  [ulcer] {pressure} {stage 2} {left} `ankle`
+        [decubitus] {stage 2} {left} `ankle`
+L89523  [ulcer] {pressure} {stage 3} {left} `ankle`
+        [decubitus] {stage 3} {left} `ankle`
+L89524  [ulcer] {pressure} {stage 4} {left} `ankle`
+        [decubitus] {stage 4} {left} `ankle`
+L89526	[ulcer] {deep tissue damage} {left} `ankle`
+L89529  [ulcer] {pressure} !{specified stage} {left} `ankle`
+L89600  [ulcer] {pressure} {unstageable} !{right} !{left} `heel`	
+L89601  [ulcer] {pressure} {stage 1} !{right} !{left} `heel`
+L89602  [ulcer] {pressure} {stage 2} !{right} !{left} `heel`
+L89603  [ulcer] {pressure} {stage 3} !{right} !{left} `heel`
+L89604  [ulcer] {pressure} {stage 4} !{right} !{left} `heel`
+L89606	[ulcer] {deep tissue damage} `heel` !{right} !{left}
+L89609  [ulcer] {pressure} !{specified stage} `heel` !{right} !{left}
+L89610  [ulcer] {unstageable} {right} `heel`
+L89611  [ulcer] {pressure} {stage 1} {right} `heel`
+        [decubitus] {stage 1} {right} `heel`
+L89612  [ulcer] {pressure} {stage 2} {right} `heel`
+        [decubitus] {stage 2} {right} `heel` 
+L89613  [ulcer] {pressure} {stage 3} {right} `heel`
+        [decubitus] {stage 3} {right} `heel` 
+L89614  [ulcer] {pressure} {stage 4} {right} `heel` 
+        [decubitus] {stage 4} {right} `heel`
+L89616	[ulcer] {deep tissue damage}  {right} `heel`
+L89619  [ulcer] {pressure} !{specified stage} {right} `heel`
+L89620  [ulcer] {unstageable} {left} `heel`
+L89621  [ulcer] {pressure} {stage 1} {left} `heel`
+        [decubitus] {stage 1} {left} `heel`
+L89622  [ulcer] {pressure} {stage 2} {left} `heel`
+        [decubitus] {stage 2} {left} `heel`
+L89623  [ulcer] {pressure} {stage 3} {left} `heel`
+        [decubitus] {stage 3} {left} `heel`
+L89624  [ulcer] {pressure} {stage 4} {left} `heel`
+        [decubitus] {stage 4} {left} `heel`
+L89626	[ulcer] {deep tissue damage}  {left} `heel`
+L89629  [ulcer] {pressure} !{specified stage} {left} `heel`
+L89810  [ulcer] {pressure} {unstageable} `head`
+L89811  [ulcer] {pressure} {stage 1} `head`
+L89812  [ulcer] {pressure} {stage 2} `head` 
+L89813  [ulcer] {pressure} {stage 3} `head` 
+L89814  [ulcer] {pressure} {stage 4} `head` 
+L89816	[ulcer] {pressure} {deep tissue damage} `head`
+L89819  [ulcer] {pressure} !{specified stage} `head`
+L89890* [ulcer] {pressure} & [other specified site] {unstageable} 
+L89891* [ulcer] {pressure} & [other specified site] {stage 1} 
+L89892* [ulcer] {pressure} & [other specified site] {stage 2} 
+L89893  [ulcer] {pressure} & [other specified site] {stage 3} 
+L89894* [ulcer] {pressure} & [other specified site] {stage 4} 
+L89896	[ulcer] {pressure} {deep tissue damage}  `other site`
+L89899* [ulcer] {pressure} & [other specified site] & [unspecified stage] 
+L8990*  [ulcer] {pressure} 
+L8991*  [ulcer] {pressure} {stage 1} 
+L8992*  [ulcer] {pressure} {stage 2} 
+L8993*  [ulcer] {pressure} {stage 3} 
+L8994*  [ulcer] {pressure} {stage 4} 
+L8995*  [ulcer] {pressure} {unstageable} 
+L8996	[ulcer] {pressure} {deep tissue damage}  `unspecified site`
+L900    [lichen sclerosus et atrophicus] 
+L901    [anetoderma] {schweninger buzzi} 
+L902    [anetoderma] {jadassohn pellizzari} 
+L903    [atrophoderma of pasini and pierini] 
+L904    [acrodermatitis chronica atrophicans] 
+L905    [scar conditions] !{tissue} !{uterine} !{old}
+        [fibrosis] `skin` 
+        [cicatracial contracture]
+L906    [striae atrophicae] 
+L908*   other atrophic disorders of skin 
+L909    [atrophic disorder] `skin` 
+L910    [keloid]
+L918*   other hypertrophic disorders of the skin 
+L919    [disorder] {hypertrophic} `skin` 
+L920    [granuloma annulare] 
+L921    [necrobiosis lipoidica] 
+L922    [granuloma faciale] 
+L923    [granuloma] {foreign body} `skin and subcutaneous tissue` 
+L928*   other granulomatous disorders of the `skin and subcutaneous tissue` 
+L929    [granulomatous disorder] `skin and subcutaneous tissue` 
+L930    [erythematosus] {lupus} 
+L931    [erythematosus] {lupus} {subacute} !{discoid} `cutaneous` 
+L932    [erythematosus] {local} {lupus} !{discoid} 
+L940    [scleroderma] {localized} 
+L941    [scleroderma] {linear} 
+L942    [calcinosis cutis] 
+L943    [sclerodactyly] 
+L944    [gottrons papules] 
+L945    [poikiloderma vasculare atrophicans] 
+L946    [ainhum] 
+L948*   other specified localized connective tissue disorders 
+L949    [connective tissue disorder] {localized} 
+L950    [vasculitis] {livedoid} 
+L951    [erythema] {elevatum diutinum} 
+L958*   other vasculitis limited to the skin 
+L959    [vasculitis] `skin` 
+L97101  [ulcer] !{pressure} `thigh` !{left} !{right} & [breakdown] `skin`
+L97102  [ulcer] !{pressure} `thigh` !{left} !{right} & [exposed fat layer] `thigh` 
+L97103  [ulcer] !{pressure} `thigh` !{left} !{right} & [necrosis] `muscle`
+L97104  [ulcer] !{pressure} `thigh` !{left} !{right} & [necrosis] `bone` 
+L97105* non pressure chronic ulcer of unspecified thigh with muscle involvement without evidence of necrosis 
+L97106* non pressure chronic ulcer of unspecified thigh with bone involvement without evidence of necrosis 
+L97108* [ulcer] !{pressure} `thigh` !{left} !{right} !{breakdown} !{exposed fat layer} !{necrosis}
+L97109  [ulcer] !{pressure} `thigh` !{left} !{right} !{breakdown} !{exposed fat layer} !{necrosis} 
+L97111  [ulcer] !{pressure} {right} `thigh` & [breakdown] `skin`
+L97112  [ulcer] !{pressure} {right} `thigh` & [exposed fat layer] 
+L97113  [ulcer] !{pressure} {right} `thigh` & [necrosis] `muscle` 
+L97114  [ulcer] !{pressure} {right} `thigh` & [necrosis] `bone` 
+L97115  [ulcer] !{pressure} {right} `thigh` & [muscle involvement] & ![necrosis] 
+L97116  [ulcer] !{pressure} {right} `thigh` & [bone involvement] & ![necrosis] 
+L97118  [ulcer] !{pressure} {right} `thigh` {other severity}
+L97119  [ulcer] !{pressure} {right} `thigh` !{breakdown} !{exposed fat layer}
+L97121  [ulcer] !{pressure} {left} `thigh` & [breakdown] `skin` 
+L97122  [ulcer] !{pressure} {left} `thigh` & [exposed fat layer] 
+L97123  [ulcer] !{pressure} {left} `thigh` & [necrosis] `muscle` 
+L97124  [ulcer] !{pressure} {left} `thigh` & [necrosis] `bone` 
+L97125  [ulcer] !{pressure} {left} `thigh` & [muscle involvement] & ![necrosis] 
+L97126  [ulcer] !{pressure} {left} `thigh` & [bone involvement] & ![necrosis] 
+L97128* [ulcer] !{pressure} {left} `thigh` {other specified severity}
+L97129  [ulcer] !{pressure} {left} `thigh`  !{breakdown} !{exposed fat layer} !{necrosis}
+L97201  [ulcer] !{pressure} `calf` !{left} !{right} & [breakdown] `skin` 
+L97202  [ulcer] !{pressure} `calf` !{left} !{right} & [exposed fat layer] 
+L97203  [ulcer] !{pressure} `calf` !{left} !{right} & [necrosis] `muscle` 
+L97204  [ulcer] !{pressure} `calf` !{left} !{right} & [necrosis] `bone` 
+L97209  [ulcer] !{pressure} `calf` !{breakdown} !{exposed fat layer} !{necrosis} 
+L97211  [ulcer] !{pressure} {right} `calf` & [breakdown] `skin` 
+L97212  [ulcer] !{pressure} {right} `calf` & [exposed fat layer] 
+L97213  [ulcer] !{pressure} {right} `calf` & [necrosis] `muscle` 
+L97214  [ulcer] !{pressure} {right} `calf` & [necrosis] `bone` 
+L97219  [ulcer] !{pressure} {right} `calf`  !{breakdown} !{exposed fat layer} !{necrosis}
+L97221  [ulcer] !{pressure} {left} `calf` & [breakdown] `skin` 
+L97222  [ulcer] !{pressure} {left} `calf` & [exposed fat layer] 
+L97223  [ulcer] !{pressure} {left} `calf` & [necrosis] `muscle` 
+L97224  [ulcer] !{pressure} {left} `calf` & [necrosis] `bone` 
+L97225  [ulcer] !{pressure} `muscle` {left} `calf` !{necrosis}  
+L97229  [ulcer] !{pressure} {left} `calf`  !{breakdown} !{exposed fat layer} !{necrosis}
+L97301  [ulcer] !{pressure} `ankle` !{left} !{right} & [breakdown] `skin` 
+L97302  [ulcer] !{pressure} `ankle` !{left} !{right} & [exposed fat layer] 
+L97303  [ulcer] !{pressure} `ankle` !{left} !{right} & [necrosis] `muscle` 
+L97304  [ulcer] !{pressure} `ankle` !{left} !{right} & [necrosis] `bone` 
+L97309  [ulcer] !{pressure} `ankle` !{left} !{right} !{breakdown} !{exposed fat layer} !{necrosis}
+L97311  [ulcer] !{pressure} {right} `ankle` & [breakdown] `skin` 
+L97312  [ulcer] !{pressure} {right} `ankle` & [exposed fat layer] 
+L97313  [ulcer] !{pressure} {right} `ankle` & [necrosis] `muscle` 
+L97314  [ulcer] !{pressure} {right} `ankle` & [necrosis] `bone` 
+L97319  [ulcer] !{pressure} {right} `ankle` !{breakdown} !{exposed fat layer} !{necrosis}
+L97321  [ulcer] !{pressure} {left} `ankle` & [breakdown] `skin` 
+L97322  [ulcer] !{pressure} {left} `ankle` & [exposed fat layer] 
+L97323  [ulcer] !{pressure} {left} `ankle` & [necrosis] `muscle` 
+L97324  [ulcer] !{pressure} {left} `ankle` & [necrosis] `bone` 
+L97329  [ulcer] !{pressure} {left} `ankle` !{breakdown} !{exposed fat layer} !{necrosis} 
+L97401  [ulcer] !{pressure} `heel` !{left} !{right} & [breakdown] `skin`
+        [ulcer] !{pressure} `midfoot` !{left} !{right} & [breakdown] `skin` 
+L97402  [ulcer] !{pressure} `heel and midfoot` !{left} !{right} & [exposed fat layer] 
+L97403  [ulcer] !{pressure} `heel and midfoot` !{left} !{right} & [necrosis] `muscle` 
+L97404  [ulcer] !{pressure} `heel and midfoot` !{left} !{right}& [necrosis] `bone` 
+L97409  [ulcer] !{pressure} `heel and midfoot` !{left} !{right} !{breakdown} !{exposed fat layer} !{necrosis} 
+L97411  [ulcer] !{pressure} `midfoot` {right} & [breakdown] `skin`
+        [ulcer] !{pressure} `heel` {right} & [breakdown] `skin` 
+L97412  [ulcer] !{pressure} `midfoot` {right} & [exposed fat layer] 
+        [ulcer] !{pressure} `heel` {right} & [exposed fat layer] 
+L97413  [ulcer] !{pressure} `heel` {right} & [necrosis] `muscle` 
+        [ulcer] !{pressure} `midfoot` {right} & [necrosis] `muscle`
+L97414  [ulcer] !{pressure} `heel` {right} & [necrosis] `bone` 
+        [ulcer] !{pressure} `midfoot` {right} & [necrosis] `bone`
+L97418  [ulcer] !{pressure} `heel or midfoot` {right} & [granulated tissue] {deep}
+L97419  [ulcer] !{pressure} `heel` {right} & ![breakdown] & ![exposed fat layer] & ![necrosis] & ![osteonecrosis]
+        [ulcer] !{pressure} `midfoot` {right} & ![breakdown] & ![exposed fat layer] & ![necrosis] & ![osteonecrosis] 
+L97421  [ulcer] !{pressure} `heel` {left} & [breakdown] `skin`
+        [ulcer] !{pressure} `midfoot` {left} & [breakdown] `skin`
+L97422  [ulcer] !{pressure} `heel` {left} & [exposed fat layer]
+        [ulcer] !{pressure} `midfoot` {left} & [exposed fat layer]
+L97423  [ulcer] !{pressure} `heel and midfoot` {left} & [necrosis] `muscle`
+        [ulcer] !{pressure} `midfoot` {left} & [necrosis] `muscle` 
+L97424  [ulcer] !{pressure} `heel` {left} & [necrosis] `bone` 
+        [ulcer] !{pressure} `midfoot` {left} & [necrosis] `bone`
+L97429  [ulcer] !{pressure} `heel and midfoot` {left} & ![breakdown] & ![exposed fat layer] & ![necrosis]
+L97501* [ulcer] !{pressure} !{pressure} `foot` !{left} !{right} & [breakdown] `skin` 
+L97502* [ulcer] !{pressure} !{pressure} of other part of unspecified `foot` & [exposed fat layer] 
+L97503* [ulcer] !{pressure} !{pressure} of other part of unspecified `foot` & [necrosis] `muscle` 
+L97504* [ulcer] !{pressure} !{pressure} of other part of unspecified `foot` & [necrosis] `bone` 
+L97509* [ulcer] !{pressure} !{pressure} of other part of unspecified `foot` 
+L97511  [ulcer] !{pressure} `toe` {right} & [breakdown] `skin` 
+L97512  [ulcer] !{pressure} `toe` {right} & [exposed fat layer] 
+L97513* [ulcer] !{pressure} `toe` {right} & [necrosis] `muscle`  
+L97514* [ulcer] !{pressure} `toe` {right} & [necrosis] `bone` 
+L97519  [ulcer] !{pressure} {right} `foot` !`heel` !`midfoot` !`toe` !{breakdown} !{exposed fat layer} !{necrosis}  
+L97521* [ulcer] !{pressure} `toe` {left} & [breakdown] `skin` 
+L97522* [ulcer] !{pressure} `toe` {left} & [exposed fat layer] 
+L97523* [ulcer] !{pressure} `toe` {left} & [necrosis] `muscle` 
+L97524  [ulcer] !{pressure} `toe` {left} & [necrosis] `bone`
+L97529  [ulcer] !{pressure} {left} `foot` !{breakdown} !{exposed fat layer} !{necrosis}
+L97801* [ulcer] !{pressure} !{pressure} of other part of unspecified `lower leg` & [breakdown] `skin` 
+L97802* [ulcer] !{pressure} !{pressure} of other part of unspecified `lower leg` & [exposed fat layer] 
+L97803* [ulcer] !{pressure} !{pressure} of other part of unspecified `lower leg` & [necrosis] `muscle` 
+L97804* [ulcer] !{pressure} !{pressure} of other part of unspecified `lower leg` & [necrosis] `bone` 
+L97809* [ulcer] !{pressure} !{pressure} of other part of unspecified `lower leg` !{breakdown} !{exposed fat layer} !{necrosis} 
+L97811* [ulcer] !{pressure} !{pressure} of other part {right} `lower leg` & [breakdown] `skin` 
+L97812* [ulcer] !{pressure} !{pressure} of other part {right} `lower leg` & [exposed fat layer] 
+L97813* [ulcer] !{pressure} !{pressure} of other part {right} `lower leg` & [necrosis] `muscle` 
+L97814* [ulcer] !{pressure} !{pressure} of other part {right} `lower leg` & [necrosis] `bone` 
+L97819  [ulcer] !{pressure} {right} `lower leg` !{peptic} !{breakdown} !{exposed fat layer} !{necrosis} !{other severity}
+L97821  [ulcer] !{pressure} `other part of lower leg` {left} & [breakdown] `skin` 
+L97822  [ulcer] !{pressure} `other part of lower leg` {left} & [exposed fat layer] 
+L97823  [ulcer] !{pressure} `other part of lower leg` {left} & [necrosis] `muscle` 
+L97824  [ulcer] !{pressure} `other part of lower leg` {left} & [necrosis] `bone` 
+L97829* [ulcer] !{pressure} !{pressure} of other part {left} `lower leg` !{breakdown} !{exposed fat layer} !{necrosis} 
+L97901  [ulcer] !{pressure} `lower leg` & [breakdown] `skin` 
+L97902  [ulcer] !{pressure} `lower leg` & [exposed fat layer] 
+L97903  [ulcer] !{pressure} `lower leg` & [necrosis] `muscle` 
+L97904  [ulcer] !{pressure} `lower leg` & [necrosis] `bone` 
+L97908  [ulcer] !{pressure} `lower leg` & [severity]
+L97909  [ulcer] !{pressure} !{left} !{right} !{breakdown} !{exposed fat layer} !{necrosis} `lower leg`
+L97911  [ulcer] !{pressure} {right} `lower leg` & [breakdown] `skin` 
+L97912  [ulcer] !{pressure} `lower leg` {right} & [exposed fat layer] 
+L97913  [ulcer] !{pressure} {right} `lower leg` & [necrosis] `muscle` 
+L97914  [ulcer] !{pressure} {right} `lower leg` & [necrosis] `bone`
+L97918  [ulcer] !{pressure} {left} `lower leg` {other severity}
+L97919  [ulcer] !{pressure} {right} `lower leg` !{breakdown} !{exposed fat layer} !{necrosis} 
+L97921  [ulcer] !{pressure} {left} `lower leg` & [breakdown] `skin` 
+L97922  [ulcer] !{pressure} {left} `lower leg` & [exposed fat layer] 
+L97923  [ulcer] !{pressure} {left} `lower leg` & [necrosis] `muscle` 
+L97924  [ulcer] !{pressure} {left} `lower leg` & [necrosis] `bone`
+L97928  [ulcer] !{pressure} {left} `lower leg` {other severity}
+L97929  [ulcer] !{pressure} {left} `lower limb` !{breakdown} !{exposed fat layer} !{necrosis} 
+L980    [granuloma] {pyogenic} 
+L981    [dermatitis] {factitial} 
+L982    [dermatosis] {febrile} {neutrophilic}
+        [sweet syndrome]
+L983    [cellulitis] {eosinophilic} 
+L98411  [ulcer] !{decubital} `buttock` & [breakdown] `skin` 
+L98412  [ulcer] !{decubital} `buttock` & [exposed fat layer] 
+L98413  [ulcer] !{decubital} `buttock` & [necrosis] `muscle` 
+L98414  [ulcer] !{decubital} `buttock` & [necrosis] `bone` 
+L98419  [ulcer] !{decubital} `buttock` !{breakdown} !{exposed} !{necrosis}
+L98421  [ulcer] !{pressure} `back` & [breakdown] `skin` 
+L98422  [ulcer] !{pressure} `back` & [exposed fat layer] 
+L98423  [ulcer] !{pressure} `back` & [necrosis] `muscle` 
+L98424  [ulcer] !{pressure} `back` & [necrosis] `bone` 
+L98429  [ulcer] !{pressure} !{pressure} `back` !{breakdown} !{exposed fat layer} !{necrosis} 
+L98491  [ulcer] !{pressure} `skin` & [breakdown] `skin` 
+L98492  [ulcer] !{pressure} `skin` & [exposed fat layer] 
+L98493  [ulcer] !{pressure} `skin` & [necrosis] `muscle` 
+L98494  [ulcer] !{pressure} `skin` & [necrosis] `bone` 
+L98499  [ulcer] !{pressure} `other sites of skin` 
+L985    [mucinosis] `skin` 
+L986    [infiltrative disorder] `skin and subcutaneous tissue` 
+L987    [excessive skin and subcutaneous tissue]
+L988    [other specified disorders of the skin and subcutaneous tissue] !{radiation}
+L989    [disorder] `skin and subcutaneous tissue` 
+L99*    other disorders `skin and subcutaneous tissue` in diseases classified elsewhere 

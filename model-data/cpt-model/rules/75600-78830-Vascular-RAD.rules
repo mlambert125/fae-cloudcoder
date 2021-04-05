@@ -1,0 +1,90 @@
+75557   [cardiac mri] !{contrast}  
+75559   [cardiac mri] !{contrast} & [stress imaging]  
+75561   [cardiac mri] !{contrast} & [further sequences with contrast]  
+75563   [cardiac mri] !{contrast} & [further sequences with contrast] & [stress imaging]  
+75565   [cardiac mri] {for velocity flow mapping}   
+75571   [ct] `heart` !{contrast} & [quantitative evaluation coronary calcium]  
+75572   [ct] `heart` {contrast} & [evaluation of cardiac structure/morphology]  
+75573   [ct] `heart` {contrast} & [eval of cardiac structure/morphology] {congenital heart disease}  
+75574   [ct angiography] `heart, coronary arteries/bypass grafts` {contrast}  
+75600   [aortography] `thoracic` !{serialography}  
+75605   [aortography] `thoracic`  
+75625   [aortography]
+75630   [aortography] & [angiography] `iliofemoral` `lower extremity` {bilateral}  
+75635   [ct angiography] `abd aorta` `lower extremity` {bilateral} {runoff}   
+75658   [angiography] `brachial` {retrograde}   
+75705   [angiography] `spinal` {selective}  
+75710   [angiography] !{status post} `extremity` !{bilateral}  & ![peripheral dialysis circuit]
+75716   [angiography] `extremity` {bilateral}  
+75726   [angiography] `visceral`   
+75731   [angiography] `adrenal` !{bilateral}  
+75733   [angiography] `adrenal` {bilateral}  
+75736   [angiography] `pelvic`   
+75741   [angiography] `pulmonary` !{bilateral}  
+75743   [angiography] `pulmonary` {bilateral}  
+75746   [angiography] `pulmonary` {non-selective catheter/venous injection}   
+75756   [angiography] `internal mammary`   
+75774   [angiography] {addl vessel}  
+75801   [lymphangiography] `extremity` !{bilateral}  
+75803   [lymphangiography] `extremity` {bilateral}  
+75805   [lymphangiography] `pelvic/abdominal` !{bilateral}  
+75807   [lymphangiography] `pelvic/abdominal` {bilateral}  
+75809   [shuntogram]
+75810   [splenoportography]   
+75820   [venography] `extremity` {unilat radiological s and i}  
+75822   [venography] `extremity` {bilateral}  
+75825   [venography] `caval` {inferior}   
+75827   [venography] `caval` {superior}   
+75831   [venography] `kidney` !{bilateral}  
+75833   [venography] `kidney` {bilateral}
+75840   [venography] `adrenal` !{bilateral} 
+75842   [venography] `adrenal` {bilateral}  
+75860   [venography] `sinus/jugular`   
+75870   [venography] `superior sagittal sinus`   
+75872   [venography] `epidural`   
+75880   [venography] `orbital`  
+75885   [transhepatic portography] {percutaneous} {hemodynamic evaluation}  
+75887   [transhepatic portography] {percutaneous} !{hemodynamic evaluation}  
+75889   [venography] `hepatic` {hemodynamic evaluation}  
+75891   [venography] `hepatic` !{hemodynamic evaluation}  
+75893   [venous sample] {catheter}  
+75894   [transcatheter therapy] {embolization}   
+75898   [angiogram] {existing catheter} {follow-up study} {transcatheter therapy}  
+75901   [mechanical removal] {pericatheter obstructive materal}   
+75902   [mechanical removal] {intraluminal obstructive materal}  
+75952   [endovascular repair] `infrarenal abd aortic` {aneurysm/dissection}   
+75953   [endovascular repair] {extension prosthesis} `infrarenal aortc/iliac artery`   
+75954   [endovascular repair] `iliac artery` {ilio-iliac tube endoprosthes}  
+75956   [endovascular repair] `descending thoracic aorta` {coverage of left subclavian artery}  
+75957   [endovascular repair] `descending thoracic aorta` !{coverage of left subclavian artery}  
+75958   [placement] {proximal extension prosthesis} `descending thoracic aorta`   
+75959   [placement] {distal extension prosthesis} `descending thoracic aorta`   
+75970   [transcatheter biopsy]   
+75984   [change] {percutaneous tube/drainage catheter} {contrast}  
+75989   [radiological guidance] {percutaneous drainage}  
+76000   [fluoroscopy] {up to 1 hr}   
+76001   [fluoroscopy] { >1 hr}   
+76010*  [radiologic exam] `nose` `rectum` {fb} "child"  
+76080*  [radiologic exam] {abscess/fistula/sinus tract}   
+76098*  [radiological exam] {surgical specimen}  
+76100*  [radiologic exam] single plane body section other than w/urography  
+76101*  radiologic exam complex motion body section non-urography; unilat  
+76102*  radiologic exam complex motion body section non-urography; bilat  
+76120*  cineradiography/videoradiology except where specifically included  
+76125*  cineradiography/videoradiography w/routine exam  
+76140*  consultation on x-ray exam made elsewhere written report  
+76376*  3d rendering w/interp  and  report of computed tomography mri us or other tomographic modality  
+76377*  3d rendering w/inter and rept of computed tomography mri us/oth tomographic mod;req image postprocess  
+76380*  ct scan limited/localized follow-up study  
+76390*  mr spectroscopy  
+76496*  unlisted fluoroscopic procedure  
+76497*  unlisted ct procedure  
+76498*  unlisted mr procedure  
+76499*  unlisted dx radiographic procedure  
+76506*  echoencephalography w/ image documentation w/ a-mode encephalography as secondary component  
+76937   [ultrasound guidance] {peripheral iv} & [operating room]
+76942   [ultrasound guidance]  {echo} & [needle placement] 
+77001   [fluoroscopic guidance] & [centrally inserted central catheter]
+77002   [fluoroscopic guidance] & [needle placement] & ![catheter] & ![lumbar puncture] & ![spinal cord stimulation] 
+77012   [ct and/mri guidance]  {needle placement} & ![other type of biopsy]
+78830*  Radiopharmaceutical localization of tumor, inflammatory process or distribution of radiopharmaceutical agent(s) (includes vascular flow and blood pool imaging, when performed); tomographic (SPECT) with concurrently acquired computed tomography (CT) transmission scan for anatomical review, localization and determination/detection of pathology, single area (eg, head, neck, chest, pelvis), single day imaging 

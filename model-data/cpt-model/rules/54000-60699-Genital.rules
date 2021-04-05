@@ -1,0 +1,498 @@
+54000	[slitting] `prepuce` "newborn"
+54001	[slitting] `prepuce` !"newborn"
+54015	[incision and drainage] `penis` {deep}
+54050	[destruction] {chemical} {penile lesion}
+54055	[destruction] {electrodesiccation} {penile lesion}
+54056	[destruction] {cryosurgery} {penile lesion}
+54057	[destruction] {laser} {penile lesion}   
+54060	[destruction] {excision} {penile lesion} 
+        [excision] {cyst} `penile`
+54065	[destruction] {penile lesion} {extensive}
+54100	[biopsy] `penis`
+54105	[biopsy] `penis` {deep}
+54110	[excision] `penile` & [plaque]
+54111	[excision] `penile` & [graft]
+54112	[excision] `penile` & [graft] {> 5 cm}
+54115	[removal] & [fb] {deep} `penile tissue` 
+54120	[amputation] `penis`
+54125	[amputation] `penis` {complete} 
+54130	[amputation] `penis` {radical} & [lymphadenectomy] {bilateral} `inguinofemoral`   
+54135	[amputation] `penis` {radical} & [lymphadenectomy] {bilateral} `pelvic`   
+54150	[circumcision] & [clamp] 
+54160	[circumcision] !{revision} & ![clamp] & ![device] & ![dorsal slit] "newborn"
+54161	[circumcision] !{revision} & ![clamp] & ![device] & ![dorsal slit] !"newborn"
+54162	[excision] {postcircumcision adhesions} `penile`  
+54163	[repair] `redundant foreskin`
+        [revision circumcision]
+54164	[penile frenulotomy] `penis`  
+54200	[injection procedure] {peyronie disease} 
+54205	[injection procedure] {peyronie disease} & [surgical exposure] {penile plaque} 
+54220	[irrigation] `corpora cavernosa` {priapism} 
+54230	[injection procedure] & [corpora cavernosography] 
+54231	[dynamic cavernosometry] & [injection] {vasoactive drugs} 
+54235	[injection] `corpora cavernosa` {pharmacologic agent} 
+54240	[plethysmography] `penile`  
+54250	[nocturnal penile tumescence and/or rigidity test] 
+54300	[straightening chordee] `penis`  
+54304	[correction chordee/1st stage hypospadias repair] `penis`    
+54308	[urethroplasty] {2nd stage} & [hypospadias repair] {< 3 cm} 
+54312	[urethroplasty] {2nd stage} & [hypospadias repair] {> 3 cm} 
+54316	[urethroplasty] {2nd stage} & [hypospadias repair] & [free skin graft] !`genitalia`  
+54318	[urethroplasty] {3rd stage} & [hypospadias repair] & [release] `penis from scrotum`  
+54322   [hypospadias repair] {1-stage} {distal} & [meatal advancement] 
+        [hypospadias repair] {distal hypospadias} & [magpi]
+54324	[hypospadias repair] & [urethroplasty] & [firlit flaps] 
+54326	[hypospadias repair] {1-stage} {distal} & [urethroplasty] {local skin flaps} & [mobilization] `urethra`  
+54328	[hypospadias repair] {1-stage distal} & [extensive dissection] & [urethroplasty] 
+54332	[hypospadias repair] {1 stage} `proximal penile/penoscrotal` & [extensive dissection] & [urethroplasty] 
+54336	[hypospadias repair] {1 stage} `perineal` & [extensive dissection]  & [urethroplasty] 
+54340*  [repair hypospadias complications] & [closure/incision/excision] 
+54344	[repair hypospadias complications] & [mobilization] & [urethroplasty] 
+54348	[repair hypospadias complications] & [extensive dissection] & [urethroplasty] 
+54352	[repair hypospadias cripple] & [extensive dissection] & [excision] & [reconstruction] `urethra` `penis`  
+54360	[plastic operation] `penis` {correct angulation} 
+54380	[plastic operation] `penis` {epispadias distal to sphincter} 
+54385	[plastic operation] `penis` {epispadias distal to sphincter} {incontinence} 
+54390	[plastic operation] `penis` {epispadias distal to sphincter} & [exstrophy bladder] 
+54400	[insertion] `penile` {prosthesis} {semi rigid} {non-inflatable} & ![replacement] {non-inflatable} `penile` {prosthesis} 
+54401	[insertion] `penile` {prosthesis} {semi rigid} {inflatable} & ![replacement] {inflatable} `penile` {prosthesis} 
+54405	[insertion] `penile` & [inflatable penile prosthesis] `penile` 
+        [insertion] {inflatable penile} {prosthesis} 
+54406	[removal] {inflatable penile} {prosthesis} & ![replacement] 
+54408	[repair] {inflatable penile} {prosthesis} 
+54410	[removal] & [replacement] {inflatable} `penile` {prosthesis} !{semi rigid} 
+54411	[removal] & [replacement] {inflatable} `penile` {prosthesis} {infected} !{semi rigid} 
+54415	[removal] `penile` {semi-rigid/inflatable} {prosthesis} & ![replacement] {inflatable} `penile` {prosthesis} 
+        [remove] {penile prosthesis} {semirigid} & ![replacement] {inflatable} {semi-rigid} `penile` {prosthesis}  "inpatient"
+54416	[removal] & [replacement] `penile` {semi-rigid/inflatable} {prosthesis} 
+54417	[removal] & [replacement] `penile` {semi-rigid/inflatable} {prosthesis} {infected} 
+54420	[shunt] `corpora cavernosa-saphenous vein`   
+54430	[shunt] `corpora cavernosa-corpus spongiosum`   
+54435	[fistulization] `corpora cavernosa-glans penis`   
+54437	[repair] {traumatic tear} `corporeal`   
+54438	[replantation] `penis` {comp amputation} & [repair] `urethral`  
+54440	[plastic operation] `penis` {injury} 
+54450	[manipulation] `foreskin` & [lysis] `preputial` {adhesions} & [stretching] 
+54500	[biopsy] `testis`
+54505	[biopsy] `testis` {incisional} 
+54512	[excision] {extraparenchymal lesion} `testis`  
+54520	[orchiectomy] {inguinal}
+54522	[orchiectomy] !{past status}
+54530	[orchiectomy] {radical} {tumor} {inguinal approach} 
+54535	[orchiectomy] {radical} {tumor} {inguinal approach} & [exploration] `abdominal`  
+54550	[exploration] {undescended testis}    
+54560	[exploration] {undescended testis} & [exploration] `abdominal`   
+54600	[reduction] {torsion} `testis`  
+        [detorsion]  `testis`  
+54620	[fixation] {contralateral} `testis`   
+54640	[orchiopexy] & [scrotal/inguinal approach]
+54650	[orchiopexy] {abdominal approach} 
+54660	[insertion] `testicular` {prosthesis} 
+54670	[suture/repair] `testicular` {injury} 
+54680	[transplantation] `testis` `thigh` {scrotal destruction} 
+54690	[orchiectomy] {laparoscopy} 
+54692	[orchiopexy] {laparoscopy} & [intra-abdominal testicle]  
+54699*	unlisted proc laparoscopy testis  
+54700	[incision and drainage] `epididymis`   
+54800	[biopsy] `epididymis` {needle} 
+54830	[excision] {local lesion} `epididymis`  
+54840	[spermatocelectomy]   
+54860	[epididymectomy] !{bilateral} 
+54840	[excision] `spermatocele`   
+54860	[epididymectomy] !{bilateral} 
+54861	[epididymectomy] {bilateral} 
+54865	[exploration] `epididymis`   
+54900	[epididymovasostomy] !{bilateral} 
+54901	[epididymovasostomy] {bilateral} 
+55000	[aspiration] {hydrocele} `tunica vaginalis`  
+55040	[hydrocelectomy] 
+55041	[hydrocelectomy] {bilateral} 
+55060	[repair] `tunica vaginalis` {hydrocele} 
+55100	[drainage] `scrotal wall` {abscess} 
+55110	[exploration] `scrotal`  
+55120	[removal] & [fb] `scrotum`  
+55150	[resection] `scrotum`  
+55175	[scrotoplasty] 
+55180	[scrotoplasty] {complicated} 
+55200	[vasotomy]    
+55250	[vasectomy] 
+55300	[vasotomy] {vasograms, seminal vesiculograms/epididymograms} {unilat/bilat} 
+55400	[vasovasostomy] 
+55450	[ligation] `vas deferens`    
+55500	[excision] {hydrocele} `spermatic cord`   
+55520	[excision] {lesion} `spermatic cord`   
+55530	[varicocele excision]  
+        [ligation] `spermatic veins`
+55535	[excision] {varicocele/ligation} `spermatic veins` {varicocele} {abdominal approach} 
+55540	[excision] {varicocele/ligation} `spermatic veins` {varicocele} {abdominal approach} & [repair] {hernia} 
+55550	[ligation] `spermatic veins` {varicocele} {laparoscopy} 
+55559*	unlisted proc laparoscopy spermatic cord  
+55600	[vesiculotomy]
+55605	[vesiculotomy] {complicated}
+55650	[vesiculectomy]
+55680	[excision] `mullerian duct` {cyst}
+55700	[biopsy] !{status post} `prostate` !{incisional} & ![stereotactic template guided]
+55705	[biopsy] `prostate` {incisional}
+55706	[biopsy] `prostate` & [stereotactic template guided]
+55720	[prostatotomy]   
+55725	[prostatotomy] {complicated} 
+55801	[prostatectomy] `perineal` {subtotal} 
+55810	[prostatectomy] `perineal` {radical} 
+55812	[prostatectomy] `perineal` {radical} & [lymphadenectomy] {limited pelvic} 
+55815	[prostatectomy] `perineal` {radical} & [lymphadenectomy] {bilateral pelvic} 
+55821	[prostatectomy] `suprapubic` {subtotal} {1 or 2 stages} 
+55831	[prostatectomy] `retropubic` {subtotal} 
+55840	[prostatectomy] `retropubic` {radical} 
+55842	[prostatectomy] `retropubic` {radical} & [lymphadenectomy] {limited pelvic}  
+55845	[prostatectomy] `retropubic` {radical} & [lymphadenectomy] {bilateral pelvic} 
+55860	[exposure] `prostate` & [insertion] {radioactive substance}
+55862	[exposure] `prostate` & [insertion] {radioactive substance} & [lymphadenectomy] {limited pelvic}
+55865	[exposure] `prostate` & [insertion] {radioactive substance} & [lymphadenectomy] {bilateral pelvic}
+55866	[prostatectomy] {radical} {laparoscopy}
+55870	[electroejaculation]
+55873	[cryosurgical ablation] `prostate`  
+55875	[transperineal placement] {needles or catheters} `prostate` {for} {interstitial radioelement application}
+55876	[placement] {interstitial device} {radiation therapy guidance} `prostate`
+55880*   Ablation of malignant prostate tissue, transrectal, with high intensity-focused ultrasound (hifu), including ultrasound guidance 
+55899*	unlisted proc male genital system  
+55920	[placement] {needles/catheters} `pelvic organs/genitalia` {interstitial radioelement application} !`prostate`  
+55970	[intersex surgery] {male to female} 
+55980	[intersex surgery] {female to male} 
+56405	[incision and drainage] `vulva/perineal` {abscess} 
+56420	[incision and drainage] & [bartholins gland]  
+56440	[marsupialization] `bartholins gland`   
+56441	[lysis] `labial` {adhesions} 
+56442	[hymenotomy]    
+56501	[destruction] `vulva`   
+56515	[destruction] `vulva` {extensive} 
+56605	[biopsy] `vulva or perineum`  
+56606	[biopsy] `vulva or perineum` {addl lesion} 
+56620	[vulvectomy] {partial} !{past status}
+56625	[vulvectomy] {complete} 
+56630	[vulvectomy] {radical} 
+56631	[vulvectomy] {radical} & [lymphadenectomy] `inguinofemoral` !{bilateral} 
+56632	[vulvectomy] {radical} & [lymphadenectomy] `inguinofemoral` {bilateral} 
+56633	[vulvectomy] {radical} {complete} 
+56634	[vulvectomy] {radical} {complete} & [lymphadenectomy] `inguinofemoral` !{bilateral} 
+56637	[vulvectomy] {radical} {complete} & [lymphadenectomy] `inguinofemoral` {bilateral} 
+56640	[vulvectomy] {radical} {complete} & [lymphadenectomy] `inguinofemoral` `iliac` `pelvic`   
+56700	[hymenectomy]   
+56740	[excision] `bartholins` {gland/cyst} 
+56800	[plastic repair] `introitus`  
+56805	[clitoroplasty] {intersex state} 
+56810	[perineoplasty] {nonobstetrical} 
+56820	[colposcopy] `vulva` & ![excision]
+56821	[colposcopy] & [biopsy] `vulva`
+57000	[colpotomy] & [exploration] 
+57010	[colpotomy] & [drainage] `pelvic` {abscess} 
+57020	[colpocentesis] 
+57022	[incision and drainage] `vaginal` {hematoma} {obstetrical/postpartum} 
+57023	[incision and drainage] `vaginal` {hematoma} {non-obstetrical} 
+57061	[destruction] {lesion} `vaginal`  
+        [destruction] `vaginal` & [lesion] `vaginal` 
+57065	[destruction] `vaginal` {lesion} {extensive} 
+57100	[biopsy] `vaginal mucosa`    
+57105	[biopsy] `vaginal mucosa` {extensive} & [suture] 
+57106	[vaginectomy] 
+57107	[vaginectomy] {radical} 
+57109	[vaginectomy] {radical} & [lymphadenectomy] {bilateral} 
+57110	[vaginectomy] {complete} 
+57111	[vaginectomy] {complete} {radical} 
+57112	[vaginectomy] {complete} {radical} & [lymphadenectomy] {bilateral} "Delete CPT 2021"
+57120	[colpocleisis] 
+57130	[excision] `vaginal septum`  
+57135	[excision] `vaginal` {cyst/tumor} 
+57150*  [irrigation/treatment] `vaginal`   
+57155	[insertion] {uterine tandem and/or vaginal ovoids} {brachytherapy} 
+57156	[insertion] {vaginal radiation} {brachytherapy} 
+57160	[fitting] & [insertion] `intravaginal` {support device} 
+57170	[fitting] {diaphragm/cervical cap} 
+57180	[introduction] {hemostatic agent/packing} `vaginal` {bleeding} {non-obstetric} 
+57200	[colporrhaphy] {nonobstetrical} 
+57210	[colpoperineorrhaphy] {nonobstetrical} 
+57220	[plastic operation] `urethral sphincter`
+57230	[plastic repair] `urethrocele`  
+57240	[anterior colporrhaphy] & ![posterior colporrhaphy] !"male"   
+57250	[posterior colporrhaphy] & ![antterior colporrhaphy] !"male" 
+57260	[anteroposterior colporrhaphy] & ![enterocele] !"male" 
+57265	[anteroposterior colporrhaphy] & [enterocele]  !"male" 
+        [anterior colporrhaphy] & [posterior colporrhaphy] & [enterocele] !"male" 
+57267	[repair pelvic floor] & [mesh]
+57268	[repair] {enterocele} & ![laparoscopy]
+57270	[repair] {enterocele} {abdominal approach} 
+57280	[colpopexy] {abdominal approach} 
+57282	[colpopexy] `vaginal` {extra-peritoneal approach} 
+57283	[colpopexy] `uterosacral ligament`
+        [vaginal vault suspension] {uterosacral ligament}
+57284	[repair] `paravaginal` {defect} {open} {abdominal approach} 
+57285	[repair] `paravaginal` {defect}
+57287	[removal/revision] {sling} & [urinary incontinence] !"male"
+57288	[sling] !{undergone} & [urinary incontinence] !"male"
+57289	[pereyra procedure] 
+57291	[construction] {artificial vagina} & ![graft] 
+57292	[construction] {artificial vagina} & [graft] 
+57295	[revision] {prosthetic vaginal graft}
+57296	[revision] {prosthetic vaginal graft} {open} {abdominal approach} 
+57300	[closure] `rectovaginal` {fistula} {vaginal/transanal approach} 
+57305	[closure] `rectovaginal` {fistula} {abdominal approach} 
+57307	[closure] `rectovaginal` {fistula} {abdominal approach} & [concomitant colostomy] 
+57308	[closure] `rectovaginal` {fistula} {transperineal approach} & [reconstruction] `perineal`  
+57310	[closure] `urethrovaginal` {fistula} 
+57311	[closure] `urethrovaginal` {fistula} & [bulbocavernosus transplant] 
+57320	[closure] `vesicovaginal` {fistula}
+57330	[closure] `vesicovaginal` {fistula} {transvesical approach}
+57335	[vaginoplasty] {intersex state} 
+57400	[dilation] `vagina`
+57410*	[examination] `pelvic`
+57415	[removal] {impacted} `vaginal` {fb}
+57420	[colposcopy] `vagina`
+57421	[colposcopy] `vagina` & [biopsy] `vagina/cervix`  
+57423	[repair] `paravaginal` {defect} 
+57425	[colpopexy] {laparoscopy} 
+57426	[revision] {prosthetic vaginal graft} 
+57452	[colposcopy] `cervix` & ![biopsy] & ![curettege]
+57454	[colposcopy] & [biopsy] & [curettage] 
+57455	[colposcopy] & [biopsy] `cervix`
+57456	[colposcopy] & [curettage]
+57460	[leep] `cervix` & ![conization]
+57461	[colposcopy] & [conization] & [loop electrode]
+        [colposcopy] & [leep] & [conization] `cervix` `vagina`
+57465*  Computer-aided mapping of cervix uteri during colposcopy, including optical dynamic spectral imaging and algorithmic quantification of the acetowhitening effect (List separately in addition to code for primary procedure) 
+57500	[biopsy] `cervix` {lesion}    
+57505	[curettage] `endocervical` & ![dilation and curettage] & ![conization] `cervix`
+57510	[cauterization] `cervix` {electro/thermal} 
+57511	[cauterization] `cervix` {cryocautery} 
+57513	[cauterization] `cervix` {laser ablation} 
+57520	[conization] {cold knife}
+57522	[conization] & [loop electrode] `cervix` & ![colposcopy]
+        [leep] `cervix`
+57530	[trachelectomy] 
+57531	[trachelectomy] {radical} & [lymphadenectomy] `pelvic` {bilateral} & [biopsy] `para-aortic lymph node`   
+57540	[excision] `cervical` {abdominal approach} 
+57545	[excision] `cervical` {abdominal approach} & [repair] `pelvic floor`  
+57550	[excision] & [cervical stump] `vagina` !"male"
+57555	[excision] `cervical` & [repair] {anterior and/posterior} `vagina` 
+57556	[excision] `cervical` & [repair] {enterocele} 
+57558	[dilation and curettage] `cervical` & ![hysteroscopy]
+57700	[cerclage] `uterine cervix` {nonobstetrical} 
+57720	[trachelorrhaphy]
+57800	[dilation] !{suction} `cervical canal` & ![suction]    
+58100	[biopsy] `endometrial` & ![hysteroscopy] & ![anesthesia] & ![dilation] `cervix`
+58110	[biopsy] `endometrial` !{hysteroscopy} & [colposcopy] 
+58120	[dilation and curettage] !{hysteroscopy} !{suction} & ![hysteroscopy] & ![endometrial biopsy or polypectomy] & ![missed abortion] & ![products of conception]
+58140	[intramural myomectomy] !{hysteroscopy}& ![hysterectomy] & ![laparoscopy] 
+58145	[myomectomy] {4/<} {250 gms/<}
+58146	[intramural myomectomy] {5/>} {250 gms/>} 
+58150	[total abdominal hysterectomy] & ![laparoscopy]
+58152	[total abdominal hysterectomy] & [colpo-urethrocystopexy] & ![laparoscopy]
+58180	[supracervical abdominal hysterectomy] & ![laparoscopy] 
+58200	[total abdominal hysterectomy] & [partial vaginectomy] & [sampling] `lymph node` `para-aortic` `pelvic` & ![laparoscopy]   
+58210	[radical abdominal hysterectomy] & [total pelvic lymphadenectomy] {bilateral} & [biopsy] `lymph nodes` `para-aortic` & ![laparoscopy] 
+58240	[pelvic exenteration] {gynecologic malignancy} & ![laparoscopy]
+58260	[hysterectomy] {vaginal} & ![laparoscopy]
+58262	[hysterectomy] {vaginal} & [removal] `tube` `ovary` & ![laparoscopy]
+        [hysterectomy] {vaginal} & [bilateral salpingo-oophorectomy] & ![repair] {enterocele} & ![laparoscopy]
+58263	[hysterectomy] {vaginal} & [removal] `tube` `ovary` & [repair] {enterocele} & ![laparoscopy]
+        [hysterectomy] {vaginal} & [bilateral salpingo-oophorectomy] & [repair] {enterocele} & ![laparoscopy]
+58267	[hysterectomy] {vaginal} & [colpo-urethrocystopexy] & ![laparoscopy]
+58270	[hysterectomy] {vaginal} & [repair] {enterocele} & ![laparoscopy]
+58275	[hysterectomy] & [vaginectomy] & ![laparoscopy]
+58280	[hysterectomy] & [vaginectomy] & [repair] {enterocele} & ![laparoscopy]
+58285	[hysterectomy] {radical} & ![laparoscopy]
+58290	[hysterectomy] {vaginal} & ![laparoscopy]
+58291	[hysterectomy] {vaginal} !{>250 gms} & [removal] `tube or ovary` & ![laparoscopy] 
+58292   [hysterectomy] {vaginal} {>250 gms} & [removal] `tube or ovary` & [repair] {enterocele} & ![laparoscopy]
+58293   [hysterectomy] {vaginal} {>250 gms} & [colpo-urethrocystopexy] & ![laparoscopy] "Delete CPT 2021"
+58294	[hysterectomy] {vaginal} {>250 gms} & [repair] {enterocele} & ![laparoscopy]
+582__   [hysterectomy] {vaginal} & ![removal] !`tube` !`ovary` "Partial Coding"
+58300	[placement] {intrauterine device}
+58301	[removal] {intrauterine device}
+58321	[artificial insemination] {intra-cervical} 
+58322	[artificial insemination] {intra-uterine} 
+58323	[sperm washing] {artificial insemination} 
+58340	[saline infusion sonohysterography/hysterosalpingography] 
+58345	[introduction catheter] `fallopian tube` {transcervical}  {diagnostic/re-establishing patency} 
+58346	[insertion] {heyman capsules} {clinical brachytherapy} 
+58350	[chromotubation] 
+58353	[ablation] `endometrial` & ![hysteroscopy] 
+58356	[cryoablation] `endometrial` {ultrasound guidance} 
+58400	[suspension] `uterine`    
+58410	[suspension] `uterine` & [sympathectomy] `presacral`  
+58520	[hysterorrhaphy] {nonobstetrical} 
+58540	[hysteroplasty] 
+58541	[supracervical hysterectomy]
+58542	[supracervical hysterectomy] {250gms/<} & [removal] `adnexal structures`   
+58543	[supracervical hysterectomy] {250gms/>} 
+58544	[supracervical hysterectomy] {250gms/>} & [removal] `adnexal structures`  
+58545	[laparoscopy] & [myomectomy] 
+58546	[myomectomy] {5/>} {250gms/>} 
+58548	[radical hysterectomy] {total} & [lymphadenectomy]
+58550	[hysterectomy] & ![salpingectomy and/oophorectomy] & [laparoscopy]
+58552	[hysterectomy] & ![total] & [salpingectomy and/oophorectomy] & [laparoscopy]
+58553	[hysterectomy] {>250gms} & [laparoscopy]
+58554	[hysterectomy] {>250gms} & [removal] `tubes or ovary` & [laparoscopy] 
+58555	[hysteroscopy] {diagnostic} !{truclear} & ![biopsy] & ![lysis adhesions] & ![resection] {tissue} & ![removal leiomyomata] & ![removal impacted fb] & ![ablation]
+58558	[hysteroscopy] & [biopsy or polypectomy] !{ablation}
+        [hysteroscopy] & [biopsy]
+        [hysteroscopy] {truclear} {resection}
+58559	[hysteroscopy] & [lysis adhesions]
+58560	[hysteroscopy] & [division or resection] `intrauterine septum`  
+58561	[removal] `uterine fibroid` & [hysteroscopy]
+58562	[hysteroscopy] & [removal impacted fb]
+58563	[hysteroscopy] `endometrial` & [ablation] !{past status}
+        [hysteroscopy] & [novasure] !{past status}
+58565	[hysteroscopy] & [fallopian cannulation] 
+58570	[total hysterectomy] !{past status} & ![salpingectomy and/oophorectomy] & [laparoscopy] & ![>250gms] 
+58571   [hysterectomy] !{past status} & [total] & [salpingectomy and/oophorectomy] & [laparoscopy] & ![>250gms] 
+58572 	[total hysterectomy] & ![salpingectomy and/oophorectomy] & [greater than 250gms] `uterus` & [laparoscopy] !{past history}
+58573 	[total hysterectomy] & [salpingectomy and/oophorectomy] & [greater than 250gms] `uterus` & [laparoscopy] !{past history}
+58575   [total hysterectomy] !{past status} & [salpingectomy and/oophorectomy] & [laparoscopy] & [resection of malignancy]
+58578*	unlisted proc laparoscopy uterus  
+58579*	unlisted proc [hysteroscopy] uterus  
+58600	[ligation/transection] `fallopian tube` & ![laparoscopy] 
+58605	[ligation/transection] `fallopian tube` {postpartum} & ![laparoscopy]
+58611	[ligation/transection] `fallopian tube` & [c-section/intra-abd surgery] 
+58615	[occlusion by device] `fallopian tube` {vaginal/suprapubic approach} 
+58660	[laparoscopy] & [lysis adhesions] `pelvic` & ![salpingectomy and/oophorectomy]
+        [laparoscopy] & [lysis adhesions]  `ovarian` & ![salpingectomy and/oophorectomy]
+58661	[laparoscopy] & [salpingectomy and/oophorectomy] & ![hysterectomy] & ![ectopic]
+        [salpingectomy and/oophorectomy] {laparoscopy} & ![hysterectomy] & ![ectopic]
+        [salpingectomy and/oophorectomy] {pelviscopy} & ![hysterectomy] & ![ectopic]
+58662	[laparoscopy] & [fulguration/excision] `endometriosis`
+        [pelviscopy] & [fulguration/excision] `endometriosis`
+58670	[laparoscopy] & [tubal fulguration] !{past status} & ![occlusion by device]
+58671	[occlusion by device] & [laparoscopy] & [sterilization]
+58672	[fimbrioplasty] {laparoscopy} 
+58673	[salpinostomy] {laparoscopy} 
+58674	[ablation] `uterine` {fibroids} {laparoscopy} {ultrasound guidance} 
+58679*	unlisted proc laparoscopy oviduct/ovary  
+58700	[salpingectomy] & ![adhesions] & ![laparoscopy]
+58720	[salpingoophorectomy] !{hysterectomy} & ![laparoscopy]
+58740*	[under repair procedures on the ovary] & ![laparoscopy]
+58750	[tubotubal anastomosis] & ![laparoscopy]
+58752	[tubouterine implantation] & ![laparoscopy]
+58760	[fimbrioplasty] & ![laparoscopy]
+58770	[salpingostomy] & ![laparoscopy]
+58800	[drainage] `ovarian` {cyst}
+58805	[drainage] `ovarian` {cyst} {abdominal approach} 
+58820	[drainage] `ovarian` {abscess} {open} 
+58822	[drainage] `ovarian` {abscess} {abdominal approach} 
+58823*	drainage pelvic abscess trans/vagina/rectal approach percutaneous  
+58825	[ransposition] `ovary`  
+58900	[biopsy] `ovary`   
+58920	[wedge resection/bisection] `ovary`   
+58925	[cystectomy] `ovarian` !{laparoscopy}   
+58940	[oophorectomy] !{laparoscopy}
+58943	[oophorectomy] !{laparoscopy} `ovarian/tubal/primary peritoneal` {malignancy} & [biopsy] `paraortic and pelvic` `lymph node`  
+58950	[resection] `ovarian/tubal/primary peritoneal` {malignancy} & [bilateral salpingo-oophorectomy] & [omentectomy] 
+58951	[resection] `ovarian/tubal/primary peritoneal` {malignancy} & [bso] & [omentectomy] & [abd hysterectomy] & [lymphadenectomy] 
+58952	[resection] `ovarian/tubal/primary peritoneal` {malignancy} & [bso] & [omentectomy] & [radical dissection] 
+58953	[bilateral salpingo-oophorectomy] & [omentectomy] & [total abdom hysterectomy] & [radical dissection] 
+58954	[bilateral salpingo-oophorectomy] & [omentectomy] & [abd hysterectomy] & [radical dissection] & [lymphadenectomy] `pelvic` `para-aortic`   
+58956	[bilateral salpingo-oophorectomy] & [omentectomy] & [total abd hysterectomy] {malignancy} 
+58957	[resection/debulking] {recurrent} `ovarian/tubal/primary peritoneal/uterine` {malignancy} & [omentectomy] 
+58958	[resection/debulking] {malignancy} `ovarian/tubal/primary peritoneal/uterine` & [lymphadenectomy] 
+58960	[laparotomy] {staging/restaging} `ovarian/tubal/primary peritoneal` {malignancy} {2nd look} 
+58970	[follicle puncture] {oocyte retrieval} 
+58974	[transfer] `intrauterine` {embro} 
+58976	[transfer] `intrafallopian` {gamete/zygote/embryo} 
+58999*	unlisted proc female genital system (nonobstetrical)  
+59000	[amniocentesis] {diagnostic} 
+59001	[amniocentesis] {therapeutic} 
+59012	[cordocentesis] `intrauterine`  
+59015	[chorionic villus sampling] 
+59020	[contraction stress test] "fetal"  
+59025	[non-stress test] "fetal"  
+59030	[scalp blood sampling] "fetal"  
+59050	[monitoring] "fetal" {labor} 
+59051	[monitoring] "fetal" {labor} {intrepretation only} 
+59070	[amnioinfusion] {transabdominal} 
+59072	[umbilical cord occlusion] "fetal"  
+59074	[fluid drainage] "fetal"  
+59076	[shunt placement] "fetal"  
+59100	[hysterotomy] `abdominal`  
+59120	[ectopic pregnancy] `tubal/ovarian` & [salpingectomy and/oophorectomy] {abd/vaginal approach} 
+59121	[ectopic pregnancy] `tubal/ovarian` & ![salpingectomy and/oophorectomy] {abd/vaginal approach} 
+59130	[ectopic pregnancy] !{past status} `abdominal`  
+59135	[ectopic pregnancy] `uterine` {interstitial} & [total hysterectomy] 
+59136	[ectopic pregnancy] `uterine` {interstitial} & [resection] `uterus`  
+59140	[ectopic pregnancy] `cervical` & [evacuation] 
+59150	[laparoscopy treatment ectopic pregnancy] & ![salpingectomy and/oophorectomy] 
+59151	[laparoscopy] & [ectopic pregnancy] & [salpingectomy and/oophorectomy] 
+59160	[curettage] & [postpartum]
+59200	[insertion cervical dilator] 
+59300	[episiotomy/vaginal repair]
+59320	[cerclage] 
+59325	[cerclage] {abdominal}
+59350	[hysterorrhaphy] {ruptured} `uterus`  
+59400	[routine obstetric care] & [antepartum care] & [vaginal delivery] & [postpartum care] 
+59409	[vaginal delivery] !{past status} !"newborn" 
+59410	[vaginal delivery] !{past status} & [postpartum care] 
+59412	[external cephalic version] 
+59414	[delivery placenta] {separate procedure} 
+59425	[antepartum care only] {4 to 6 visits} 
+59426	[antepartum care only] {7 or > visits} 
+59430	[postpartum care only]    
+59510	[routine obstetric care] & [antepartum care] & [cesarean delivery] & [postpartum care] 
+59514	[cesarean delivery] !{past status} "pregnancy"
+59515	[cesarean delivery] & [postpartum care] 
+59525	[hysterectomy] {subtotal/total} {after cesarean delivery} 
+59610	[routine obstetric care] & [antepartum care] & [vaginal delivery] & [postpartum care] {previous c-section} 
+59612	[vaginal delivery only] {previous cesarean delivery} 
+59614	[vaginal delivery only] {previous cesarean delivery} & [postpartum care] 
+59618	[routine ob care] & [antepartum care] & [cesarean delivery] {failed vaginal delivery} {previous c-section} 
+59620	[cesarean delivery] {failed vaginal delivery} {previous cesarean delivery} 
+59622	[cesarean delivery] {failed vaginal delivery} {previous cesarean delivery} & [postpartum care] 
+59812	[spontaneous abortion] & [dilation and curettage]
+        [spontaneous abortion] & [suction curette]
+59820	[suction curette] & [missed abortion] & [first trimester]
+        [dilation and curettage] & [missed abortion] & [first trimester]
+        [missed abortion] & [blighted ovum]
+59821	[dilation and evacuation] {second trimester} & [missed abortion]
+59830	[surgical treatment] {septic abortion} 
+59840	[induced abortion] & [dilation and curettage] 
+59841	[induced abortion] & [dilation and evacuation] 
+59850	[induced abortion] & [intra-amniotic injections] 
+59851	[induced abortion] & [intra-amniotic injections] & [dilation and curettage and/evacuation] 
+59852	[induced abortion] & [intra-amniotic injections] & [hysterotomy] {failed injection} 
+59855	[induced abortion] & [vaginal suppositories] 
+59856	[induced abortion] & [vaginal suppositories] & [dilation and curettage and/evacuation] 
+59857	[induced abortion] & [vaginal suppositories] & [hysterotomy] {failed medical evacuation} 
+59866	[multifetal pregnancy reduction] & ![images]
+59870	[evacuation and curettage] `uterine` {hydatidiform mole} 
+59871	[removal] {cerclage suture} & [anesthesia] & ![local] 
+59897*	unlisted fetal invasive procedure including ultrasound guidance when performed  
+59898*	unlisted proc laparoscopy maternity care & delivery  
+59899*	unlisted proc maternity care & delivery  
+60000	[incision and drainage] `thyroglossal duct` {cyst} {infected} 
+60001*	aspiration &/or injection thyroid cyst  
+60100	[biopsy] `thyroid` {percutaneous} {core needle} 
+60200	[excision] {cyst/adenoma} `thyroid`  
+60210	[partial thyroid lobectomy] 
+60212	[partial thyroid lobectomy] & [contralateral subtotal lobectomy] & [isthmusectomy] 
+60220	[thyroid lobectomy] {left/right} !{partial}
+60225	[thyroid lobectomy] !{partial} & [contralateral subtotal lobectomy] & [isthmusectomy] 
+60240	[thyroidectomy] {total/complete} 
+60252	[thyroidectomy] {malignancy} & [limited neck dissection] 
+60254	[thyroidectomy] {malignancy} & [radical neck dissection] 
+60260	[thyroidectomy] {following previous partial removal portion thyroid} 
+60270	[substernal thyroidectomy] & [sternal split or transthoracic] & [preservation] `parathyroids` 
+60271	[substernal thyroidectomy] & [transverse cervical incision] & [preservation] `parathyroids`
+60280	[excision] `thyroglossal duct` {cyst/sinus} 
+60281	[excision] `thyroglossal duct` {cyst/sinus} {recurrent} 
+60300	[aspiration and/injection] `thyroid` {cyst} 
+60500	[parathyroidectomy/exploration parathyroid]
+        [excision] `parathyroid`
+60502	[parathyroidectomy/exploration parathyroid] {re-exploration} 
+60505	[parathyroidectomy/exploration parathyroid] & [mediastinal exploration] {sternal split/transthrcic approach} 
+60512	[parathyroid autotransplantation] 
+60520	[thymectomy] {transcervical approach} 
+60521	[thymectomy] {sternal split/transthoracic approach} & ![radical mediastinal dissection] 
+60522	[thymectomy] {sternal split/transthoracic approach} & [radical mediastinal dissection] 
+60540	[adrenalectomy/exploration adrenal gland] 
+60545	[adrenalectomy/exploration adrenal gland] & [excision] {adjacent tumor} 
+60600	[excision] `carotid body` {tumor} & ![excision] `carotid artery`  
+60605	[excision] `carotid body` {tumor} & [excision] `carotid artery`  
+60650	[adrenalectomy/exploration adrenal gland] {laparoscopy} 
+60659*	unlisted proc laparoscopy surgical endocrine system  
+60699*	unlisted proc endocrine system  

@@ -1,0 +1,340 @@
+50010	[exploration] `kidney` 
+50020	[drainage] `perirenal/renal` {abscess} !{laparoscopy}
+50021*	drainage perirenal/renal abscess percutaneous
+50040	[nephrostomy] & ![status post]
+50045	[nephrotomy]
+50060	[nephrolithotomy] 
+50065	[nephrolithotomy] {secondary}
+50070	[nephrolithotomy] {complicated} {congenital kidney abnormality}
+50075	[nephrolithotomy] {large staghorn calculus}
+50080	[nephrostolithotomy or pyelostolithotomy] {percutaneous} {< 2 cm}
+50081	[nephrostolithotomy or pyelostolithotomy] {percutaneous} !{< 2 cm}
+50100	[transection/repositioning] {aberrant renal vessels} 
+50120	[pyelotomy]
+50125	[pyelostomy]
+50130	[pyelolithotomy] !{complicated} !{congenital kidney abnormality}
+50135	[pyelolithotomy] {complicated} {congenital kidney abnormality}
+50200	[biopsy] `kidney` & ![open] {biopsy} `kidney`
+50205	[biopsy] {open} `kidney`!{laparoscopy}
+50220	[nephrectomy] !{laparoscopy} !{status post}
+50225	[nephrectomy] {open} {complicated prior surgery}
+50230	[nephrectomy] {open} {radical} & [regional lymphadenectomy and/vena caval thrombectomy]
+50234	[nephrectomy] & [total ureterectomy] & [removal] `bladder cuff` !{separate incision}
+50236	[nephrectomy] & [total ureterectomy] & [removal] `bladder cuff` {separate incision}
+50240	[nephrectomy] !{status post}
+50250	[ablation] {open} `kidney` {mass or lesion}
+50280	[excision/unroofing] {cyst} `kidney`
+50290	[excision] `perinephric` {cyst}
+50300	[donor nephrectomy] {cadaver}
+50320	[donor nephrectomy] {open} {living donor}
+50323*	backbench cadaver donor renal allograft prep
+50325*	backbench living donor renal allograft prep (open/laparoscopy)
+50327*	backbench cadaver or living donor renal allograft reconstruct prior to transplant venous anast ea
+50328*	bckbnch cadaver/living donor renal allograft reconstruct prior to transplant arterial anast ea
+50329*	backbench cadaver/living donor renal allograft reconstruct prior to transplant ureteral anast ea
+50340*	recipient nephrectomy 
+50360*	renal allotransplantation graft implant{o recipient nephrectomy
+50365*	renal allotransplantation implantation graft{recipient nephrectomy
+50370*	removal transplanted renal allograft
+50380*	renal autotransplantation reimplantation kidney
+50382	[removal] {ureteral stent} {snare} & [replacement]
+50384	[removal] {internally dwelling ureteral stent}
+50385	[removal] {ureteral stent} & [replacement] & [snare]
+50386	[removal] {ureteral stent} & [transuretral]
+50387	[removal] {ureteral stent} & [replacement] {externally accessible}
+50389	[removal] {nephrostomy tube} & [fluoroscopic guidance]
+50390	[aspiration or injection] `kidney` {cyst/pelvis} {needle}
+50391	[therapeutic agent instillation] {established} {nephrostomy/pyelostomy/ureterostomy}
+50395	[introduction guide] `renal pelvis and/or ureter` & [dilation to establish] {nephrostomy} {percutaneous}
+50396	[manometric studies] {nephrostomy/pyelostomy tube/indwelling ureteral catheter}
+50400	[pyeloplasty] !{complicated}
+50405	[pyeloplasty] {complicated}
+50430	[antegrade nephrostogram and/ureterogram] !{existing access}
+50431	[antegrade nephrostogram and/ureterogram] {existing access}
+50432	[placement] {nephrostomy catheter} {percutaneous} 
+50433	[placement] {nephroureteral catheter} {percutaneous}
+50434	[convert] {nephrostomy catheter to nephroureteral catheter} {percutaneous}
+50435	[exchange] {nephrostomy catheter} {percutaneous}
+50500	[nephrorrhaphy] 
+50520	[closure] {nephrocutaneous/pyelocutaneous} {fistula}
+50525	[closure] {nephrovisceral} {fistula} {abdominal approach}
+50526	[closure] {nephrovisceral} {fistula} {thoracic approac}
+50540	[symphysiotomy] `horseshoe kidney`
+50541	[ablation] `kidney` {cysts}
+50542	[ablation] `kidney` {mass or lesion} 
+50543	[nephrectomy] !{status post}
+50544	[pyeloplasty]
+50545	[nephrectomy] {radical}
+50546	[nephrectomy] & [ureterectomy]
+50547	[nephrectomy] {living donor}
+50548	[nephrectomy] & [ureterectomy] {total}
+50549*	unlisted laparoscopy procedure renal
+50551	[endoscopy] `kidney` {nephrostomy/pyelostomy} & ![catheterization] & ![biopsy] & ![fulguration and/incision] & ![removal] {fb/calculus} & ![resection] {tumor}
+50553	[endoscopy] `kidney` {nephrostomy/pyelostomy} & [catheterization] `ureteral`
+50555   [endoscopy] `kidney` {nephrostomy/pyelostomy} & [biopsy]
+50557	[endoscopy] `kidney` {nephrostomy/pyelostomy} & [fulguration and/incision]
+50561	[endoscopy] `kidney` {nephrostomy/pyelostomy} & [removal] {fb/calculus}
+50562	[endoscopy] `kidney` {nephrostomy/pyelostomy} & [resection] {tumor}
+50570	[endoscopy] `kidney` {nephrotomy/pyelotomy} & ![catheterization] & ![biopsy] & ![endopyelotomy] & ![fulguration and/incision] & ![removal] {fb/calculus}
+50572	[endoscopy] `kidney` {nephrotomy/pyelotomy} & [catheterization] `ureteral`
+        [perineorrhaphy] & [catheterization]
+50574	[endoscopy] `kidney` {nephrotomy/pyelotomy} & [biopsy]
+50575	[endoscopy] `kidney` {nephrotomy/pyelotomy} & [endopyelotomy]
+50576	[endoscopy] `kidney` {nephrotomy/pyelotomy} & [fulguration and/incision]
+50580	[endoscopy] `kidney` {nephrotomy/pyelotomy} & [removal] {fb/calculus}
+50590	[extracorporeal lithotripsy] `kidney` {stone} & ![ureteroscopy] & ![cystoureteroscopy] & ![urethroscopy]
+50592	[ablation] `kidney` {tumor} {percutaneous} !{bilateral} {radiofrequency}
+50593	[ablation] `kidney` {tumor} {percutaneous} !{bilateral} {cryotherapy}
+50600	[ureterotomy] & ![insertion] {indwelling stent} 
+50605	[ureterotomy] & [insertion] {indwelling stent} 
+50606	[biopsy] `ureter and/renal pelvis` {endoluminal} !{endoscopic}
+50610	[ureterolithotomy] `upper one-third ureter`  
+50620	[ureterolithotomy] `middle one-third ureter`
+50630	[ureterolithotomy] `lower one-third ureter`
+50650	[ureterectomy]{bladder cuff} 
+50660	[ureterectomy] {total} `ectopic ureter` {abdominal, vaginal and/or perineal approach}
+50684	[injection procedure] {ureterography/ureteropyelography} {ureterostomy/indwelling catheter}
+50686	[manometric studies] {ureterostomy/indwelling catheter}
+50688	[change] {ureterostomy stent} & [ileal loop]
+50690	[injection procedure] {visualization} {ileal conduit and/or ureteropyelography}
+50693	[placement] `ureteral` {stent} {percutaneous} {pre-existing nephrostomy tract}
+50694	[placement] `ureteral` {stent} {percutaneous} !{existing access} & ![separate nephrostomy catheter]
+50695	[placement] `ureteral` {stent} {percutaneous} !{existing access} & [separate nephrostomy catheter] 
+50700	[ureteroplasty] 
+50705	[embolization/occlusion] `ureteral`
+50706	[balloon dilattion] `ureteral` {stricture}
+50715	[ureterolysis]
+50722	[ureterolysis] `ovarian vein` {syndrome}
+50725	[ureterolysis] `retrocaval ureter` & [reanastomosis] {upper} `urinary tract/vena cava`
+50727	[revision] `urinary-cutaneous` {anastomosis} & ![repair] `fascial` {defect/hernia}
+50728	[revision] `urinary-cutaneous` {anastomosis} & [repair] `fascial` {defect/hernia}
+50740	[ureteropyelostomy] 
+50750	[ureterocalycostomy] 
+50760	[ureteroureterostomy]
+50770	[transureteroureterostomy] 
+50780	[ureteroneocystostomy] {anastomosis} !{duplicated}
+50782	[ureteroneocystostomy] {anastomosis} {duplicated}
+50783	[ureteroneocystostomy] {tailoring}
+50785	[ureteroneocystostomy] {vesico-psoas hitch/bladder flap}
+50800	[ureteroenterostomy] 
+50810	[ureterosigmoidostomy] & [creation] & [colostomy]
+50815	[ureterocolon conduit]
+50820	[ureteroileal conduit] 
+50825	[continent diversion]
+50830	[urinary undiversion]
+50840	[replacement] `ureter` {intestine segment}
+50845	[cutaneous appendico-vesicostomy]
+50860	[ureterostomy] 
+50900	[ureterorrhaphy] 
+50920	[closure] `ureterocutaneous` {fistula}
+50930	[closure] `ureterovisceral` {fistula} 
+50940	[deligation] `ureter`
+50945	[ureterolithotomy]
+50947	[ureteroneocystostomy] & [cystoscopy] & [placement] {stent}
+50948	[ureteroneocystostomy] & [palcement] {stent} & ![cystoscopy]
+50949*	unlisted laparoscopy procedure ureter
+50951	[ureterostomy] & ![catheterization] & ![biopsy] & ![fulguration and/or incision]
+50953	[ureterostomy] & [catheterization]
+50955	[ureterostomy] & [biopsy]
+50957	[ureterostomy] & [fulguration and/or incision]
+50961	[ureterostomy] & [removal] {fb/calculus}
+50970	[endoscopy] {ureterotomy} & ![catheterization] & ![biopsy] & ![fulguration and/or incision] & ![removal] {fb/calculus} 
+50972	[endoscopy] {ureterotomy} & [catheterization] 
+50974	[endoscopy] {ureterotomy} & [biopsy]
+50976	[endoscopy] {ureterotomy} & [fulguration and/or incision] 
+50980	[endoscopy] {ureterotomy} & [removal] {fb/calculus} 
+51000 	[aspiration bladder]
+51005 	[aspiration bladder] `trocar/intracatheter`
+51010 	[aspiration bladder] {insertion suprapubic catheter}
+51020	[cystotomy/cystostomy] & [fulguration and/or insertion] {radioactive materal}
+51030	[cystotomy/cystostomy] & [cryosurgical destruction] `intravesical` {lesion}
+51040	[cystostomy/cystotomy] & [drainage] & ![laparoscopy]
+51045	[cystotomy] & [insertion] `ureteral` {catheter/stent} 
+51050	[cystolithotomy] `vesical neck`& [cystotomy] & [removal] {calculus} & ![resection]
+51060	[transvesical ureterolithotomy]
+51065	[cystotomy] & [stone basket extraction/ultrasonic and/electrohydraulic fragmentation] `ureter` {calcus}
+51080	[drainage] `perivesical/prevesical space` {abscess}
+51100	[aspiration] `bladder` {needle}
+51101	[aspiration] `bladder` {trocar or intracatheter}
+51102	[aspiration] `bladder` & [insertion] {suprapubic catheter}
+51500	[excision] `urachal` {cyst/sinus}
+51520	[cystotomy] & [excision] `vesical neck` 
+51525	[cystotomy] & [excision] `bladder` {diverticulum} 
+51530	[cystotomy] & [excision] `bladder` {tumor}
+51535	[cystotomy] & [repair] `ureterocele`
+51550	[cystectomy] !{laparoscopy} `bladder` & ![pilonidal]
+51555	[cystectomy] {complicated} 
+51565	[cystectomy] & [ureteroneocystostomy]
+51570	[cystectomy] {complete}
+51575	[cystectomy] & [lymphadenectomy] {bilateral} `pelvic`
+51580	[cystectomy] & [ureterosigmoidostomy/ureterocutaneous transplantations]
+51585	[cystectomy] & [ureterosigmoidostomy/ureterocutaneous transplantations] & [lymphadenectomy] {bilateral} `pelvic` 
+51590	[cystectomy] & [ureteroileal conduit/sigmoid bladder] & [anastomosi] `intestine`
+51595	[cystectomy] & [ureteroileal conduit/sigmoid bladder] & [lymphadenectomy] {bilateral} `pelvic` 
+51596	[cystectomy] & [continent diversion] !{laparoscopy} 
+51597	[exenteration] `pelvic` {malignancy} & [removal] `bladder` `ureteral` {transplantations}
+51600	[cystography/voiding urethrocystography]
+51605	[urethrocystography] {contrast and/chain}
+51610	[urethrocystography] {retrograde}
+51700	[bladder irrigation] 
+51701	[straight catheter] & ![other surgical procedure]
+51702   [foley] !{chronic} & ![intraoperative]
+51703 	[foley] {complicated}  
+51705	[change] {cystostomy tube} 
+51710	[change] {cystostomy tub} {complicated}
+51715	[endoscopic injection implant material] `submucosal tissue, urethra or bladder neck`
+51720	[instillation of anticarcinogenic agent] `bladder` 
+51725	[cystometrogram]
+51726	[cystometrogram] {complex}
+51727	[cystometrogram] & [urethral pressure profile studies] 
+51728	[cystometrogram] & [voiding pressure] 
+51729	[cystometrogram] & [voiding pressure] & [urethral pressure profile studies]
+51736	[uroflowmetry]
+51741	[uroflowmetry] {complex}
+51772	[urethral pressure]
+51784	[electromyography] `anal/urethral sphincter` !{needle}
+51785	[electromyography] `anal/urethral sphincter` {needle}
+51792	[stimulus evoked response]
+51795 	[voiding pressure] !`intra-abdominal` 
+51797	[voiding pressure] `intra-abdominal` 
+51798	[measurement post-voiding] {residual urine and/bladder capacity} {ultrasound} {non-imaging}
+51800	[cystoplasty/cystourethroplasty]
+51820	[cystourethroplasty] & [ureteroneocystostomy]
+51840	[anterior vesicourethropexy/urethropexy] !{complicated}
+51841	[anterior vesicourethropexy/urethropexy] {complicated}
+51845	[abdomino-vaginal vesical neck suspension]
+51860	[cystorrhaphy] !{complicated}
+51865	[cystorrhaphy] {complicated}
+51880	[closure cystostomy] 
+51900	[closure vesicovaginal fistula] {abdominal}
+51920	[closure vesicouterine fistula] & ![hysterectomy]
+51925	[closure vesicouterine fistula] & [hysterectomy]
+51940	[closure bladder exstrophy]
+51960	[enterocystoplasty]
+51980	[cutaneous vesicostomy]
+51990	[urethral suspension] & [stress incontinence]
+51992	[pubovaginal sling] & [stress incontinence] & [cystoscopy]
+51999	[other procedure bladder] & [laparoscopy]
+52000   [cystourethroscopy] & ![more specific version of cystoscopy]
+52001	[cystourethroscopy] {evacuation} `clots`
+52005	[cystourethroscopy] & [catheterization] & ![biopsy] & ![therapeutic procedures]
+52007	[cystourethroscopy] & [biopsy] `ureter or renal pelvis`
+52010	[cystourethroscopy] {ejaculatory duct catheterization}
+52204	[cystourethroscopy] & [biopsy] `bladder or urethra` & ![fulguration]
+52214	[cystourethroscopy] & [fulguration] `trigone/bladder neck/prostatic fossa/urethra/periurethral glands`
+52224	[transurethral resection] {bladder tumor} !{medium} !{large} & [fulguration]
+52234	[turbt] !{large} !{medium}
+52235	[turbt] {medium}
+52240	[turbt] {large}
+52250	[cystourethroscopy] & [radioactive substance] {insertion} 
+52260	[cystourethroscopy] & [dilation] & [interstitial cystitis] !{local anesthesia} 
+52265	[cystourethroscopy] & [dilation] & [interstitial cystitis] {local anesthesia} 
+52270	[cystourethroscopy] & [urethrotomy] !"male"
+52275	[cystourethroscopy] & [urethrotomy] !"female"
+52276	[cystourethroscopy] & [urethrotomy] & [direct vision]
+52277	[cystourethroscopy] & [resection] `sphincter`
+52281	[cystourethroscopy] & [calibration and/or dilation] `urethral` {stricture/stenosis}
+52282	[cystourethroscopy] & [insertion] `urethral` {permanent stent}
+52283	[cystourethroscopy] & [injection] {steroid} {stricture}
+52285	[cystourethroscopy] & [urethral syndrome treatment] !"male"
+52287	[cystourethroscopy] & [chemodenervation] `bladder`
+        [cystoscopy] & [chemodenervation]
+52290	[cystourethroscopy] & [meatotomy]
+52300	[cystourethroscopy] & [resection/fulguration] {orthotopic}
+52301	[cystourethroscopy] & [resection/fulguration] {ectopic}
+52305	[cystourethroscopy] & [incision/resection] `orifice bladder diverticulum`
+52310	[cystourethroscopy] & [removal] {fb/calculus/ureteral stent} !{exchange} & ![lithotripsy] & ![placement]
+        [cystourethroscopy] & [removal] {fb/calculus/ureteral stent} !{exchange} & ![lithotripsy] & ![double j stent] {placement}
+52315	[cystourethroscopy] & [removal] {fb/calculus/ureteral stent} {complicated} & ![lithotripsy]
+52317	[litholapaxy] & [removal] {fragments/calculus} 
+52318	[litholapaxy] & [removal] {fragments/calculus} {large/complex calculus}  
+52320	[cystourethroscopy] & [removal] {calculus} `ureteral`
+52325	[cystourethroscopy] & [fragmentation]
+52327	[cystourethroscopy] & [injection] {implant}
+52330	[cystourethroscopy] & [manipulation of urethral calculus] & ![removal ureteral calculus]
+52332	[cystourethroscopy] & [indwelling ureteral stent] {placement} & ![basket extraction]
+52334	[cystourethroscopy] & [insertion] {guide wire} & [nephrostomy]
+52341	[cystourethroscopy] & [treatment of ureteral stricture]
+52342	[cystourethroscopy] & [treatment of ureteropelvic junction stricture]
+52343	[cystourethroscopy] & [treatment of intra-renal stricture]
+52344	[cystourethroscopy] & [stricture] !{ureteropelvic junction}
+52345	[cystourethroscopy] & [stricture] {ureteropelvic junction}
+52346	[cystourethroscopy] & [treatment of intra-renal stricture]
+52351	[cystourethroscopy] & [ureteroscopy and/or pyeloscopy]
+52352	[cystourethroscopy] & [basket extraction] & ![stent]
+52353	[cystourethroscopy] & [lithotripsy] & ![stent]
+52354	[cystoureteroscopy] & [biopsy and/or fulguration] `ureteral or renal pelvic` {lesion}  
+52355	[cystoureteroscopy] & [resection] `ureteral or renal pelvic` {tumor}  
+52356	[cystourethroscopy] & [lithotripsy] & [stent placement]
+52400	[cystourethroscopy] & [incision/fulguration/resection] {congenital} `urethral valves` `hypertrophic mucosal folds`  
+52402	[cystourethroscopy] & [resection/incision] {transurethral} `ejaculatory ducts`
+52441	[cystoscopy] & [transprostatic implant]
+52442	[cystoscopy] & [transprostatic implant]
+52450	[transurethral] {incision} `prostate`
+52500	[transurethral] {resection} `bladder neck`
+52601	[turp] & [bph] & ![regrowth] & ![residual] & ![contracture]
+52630	[turp] & [regrowth] & ![contracture]
+        [turp] & [residual]
+52640	[turp] & [contracture] `bladder neck`
+52647	[laser coagulation] `prostate`
+52648	[laser vaporization] `prostate`
+52649	[laser enucleation] `prostate`
+52700	[drainage] `prostatic` {abscess} {transurethral}
+53000	[urethrotomy/urethrostomy] {external} `pendulous urethra`
+53010	[urethrotomy/urethrostomy] {external} `perineal urethra`
+53020	[meatotomy] !"infant"
+53025	[meatotomy] "infant"
+53040	[drainage] `periurethral` {abscess} {deep}
+53060	[drainage] `skene's gland` {abscess/cyst}
+53080	[drainage] `perineal` {urinary extravasation}
+53085	[drainage] `perineal` {urinary extravasation} {complicated}
+53200	[biopsy] `urethra`
+53210	[urethrectomy] !"male"
+53215	[urethrectomy] !"female"
+53220	[excision/fulguration] {carcinoma} `urethra`
+53230	[excision] `urethral` {diverticulum} !"male"
+53235	[excision] `urethral` {diverticulum} !"female"
+53240	[marsupialization] `urethral` {diverticulum}
+53250	[excision] `bulbourethral gland`
+53260	[excision/fulguration] `urethral` {polyp}
+53265	[excision/fulguration] `urethral` {caruncle}
+53270	[excision/fulguration] `skene's glands`
+53275	[excision/fulguration] `urethral` {prolapse}
+53400	[urethroplasty] !{2nd stage} {fistula/diverticulum/stricture}
+53405	[urethroplasty] {2nd stage} & [formation urethra] 
+53410	[urethroplasty] !{2nd stage} & [reconstruction]  {anterior} `urethra` !"female"
+53415	[urethroplasty] !{2nd stage} & [reconstruction] `urethra`
+53420	[urethroplasty] {2nd stage} & [reconstruction] `urethra` !{2nd stage}
+53425	[urethroplasty] {2nd stage} & [reconstruction] `urethra` {2nd stage}
+53430	[urethroplasty] & [reconstruction] `urethra` !"male"
+53431	[urethroplasty] & [tubularization] `urethra and/lower bladder` {incontinence}
+53440	[sling operation] `urinary` {incontinence} !"female" 
+53442	[removal/revision] {sling}  `urinary` {incontinence} !"female"
+53444	[insertion] {tandem cuff} 
+53445	[insertion] {inflatable} `urethra/bladder neck sphincter`
+53446	[removal] {inflatable} `urethral/bladder neck sphincter`
+53447	[removal] & [replacement] {inflatable} `urethral/bladder neck sphincter` !{infected}
+53448	[removal] & [replacement] {inflatable} `urethral/bladder neck sphincter` {infected}
+53449	[repair] {inflatable} `urethral/bladder neck sphincter` 
+53450	[urethromeatoplasty] & [mucosal advancement]
+53460	[urethromeatoplasty] & [excision] {distal} `urethral` 
+53500	[urethrolysis] {transvaginal} 
+53502	[urethrorrhaphy] !"male"
+53505	[urethrorrhaphy] `penile`
+53510	[urethrorrhaphy] `perineal`
+53515	[urethrorrhaphy] `prostatomembranous`
+53520	[closure] {urethrostomy/urethrocutaneous fistula}
+53600	[dilation] `urethral` {stricture} {passage sound/urethral dilator} !{subsequent}
+53601	[dilation] `urethral` {stricture} {passage sound/urethral dilator} {subsequent}
+53605	[dilation] `urethral` {stricture/vesical neck} & [anesthesia]
+53620	[dilation] `urethral` !{stricture} {filiform and follower} !{subsequent}
+53621	[dilation] `urethral` {stricture} {filiform and follower} {subsequent}
+53660	[dilation] `urethra` !"male" & ![anesthesia]
+53661	[dilation] `urethra` !"male" {subsequent}
+53665	[dilation] `urethra` !"male" & [anesthesia]
+53850	[transurethral destruction] `prostate tissue` {microwave thermotherapy}
+53852	[transurethral destruction] `prostate tissue` {radiofrequency thermotherapy}
+53853 	[transurethral destruction] `prostate tissue` {water-induced thermotherapy}
+53855	[insertion] {temporary stent} `prostatic urethral` 
+53860	[transurethral radiofrequency micro-remodeling] `bladder neck` `urethra` {stress incontinence}
+53899*	unlisted proc urinary system

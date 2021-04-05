@@ -1,0 +1,3989 @@
+alteration
+  face lift
+  neck lift
+  lift
+  breast augmentation
+abortion
+  termination of pregnancy
+  death~3 embryo
+  death~3 fetus
+  miscarriage
+  spontaneous abortion
+  loss of pregnancy
+  removal of products of conception
+  removal embryo
+  removal fetus
+abdominal wall
+  abdom
+  abd
+  abdomen
+  incisional hernia
+  umbilical hernia
+  ventral hernia
+  ventral incisional hernia
+  foramen of winslow
+adenoidectomy
+  resection~3 adenoids
+  adenotonsillectomy
+detoxification
+  detox
+  ciwa protocol
+  subutex taper~4 withdrawl
+  ativan~6 withdrawl
+  ativan taper~3 withdrawl
+aortic lymphatic
+  celiac lymph node
+  gastric lymph node
+  hepatic lymph node
+  lumbar lymph node
+  lymphatic aortic
+  pancreaticosplenic lymph node
+  paraaortic lymph node
+  retroperitoneal lymph node
+  stomach~4 lymph nodes
+  gastric~4 lymph nodes
+aortic valve repair
+  annuloplasty~2 aortic valve
+  aortic annulus repair
+aorta
+  aortotomy
+  aortotomies
+aortogram
+  aortography
+anastomosis or reanastomosis
+  anastomosis
+  reanastomosis
+anterior approach, anterior column
+  supine positioning
+  supine postion
+  supine
+  anterior
+  anterior approach
+  anterior exposure
+  tedious dissection
+  alif
+  dlif
+  llif
+  xlif
+  lateral approach
+  lateral lumbar approach
+  retroperitoneal approach
+  extreme lateral interbody fusion
+  direct lateral interbody fusion
+  shoulders taped down
+angioplasty
+  ptca
+  percutaneous coronary intervention  
+  percutaneous transluminal coronary angioplasty
+  dilation of heart and great vessels
+angiography
+  angiogram
+  arteriography
+  arteriogram
+  fluoroscopy
+  cineangiography
+  angiographic
+  graft injection
+angiogram
+  angiography
+  aortogram
+  aortography
+  arteriography
+  arteriogram
+  fluoroscopy
+  cineangiography
+  angiographic
+  graft injection
+  diagnostic catheters~3 image
+  catheter~3 image
+anti-inflammatory
+  dexamethasone
+  decadron
+  deflazacort
+  betamethasone
+  corticosteroid
+  hydrocortisone
+  methylprednisolone
+  medrol
+  methylprednisolone sodium succinate
+  methylprednisolone
+  prednisone
+  solumedrol
+  solu-medrol
+  fluticasone
+  flovent
+appendectomy
+  resection appendix
+arthroplasty
+  replacement
+arom
+  artificial rupture of membranes
+  artificial rupture membranes
+  amniotomy
+  aom
+  induction method~3 rupture of membranes
+  membranes were ruptured
+  membranes were artificially ruptured
+  rupture of membranes
+  manually the membranes were ruptured
+  ruptured forebag
+arterial pressure
+  capillary wedge pressure
+  artery pressure
+  ventricular pressure
+  atrial pressure
+augment
+  augmented
+  augmentation
+autologous tissue substitute
+  autologous
+  autologous bone graft
+  autologous bone
+  autologous stem cells
+  autograft
+  autograft~12 allograft
+  allograft~12 autograft
+  iliac crest bone graft
+  local bone
+  local bone graft
+  local bone bmp
+  local autograft
+  locally harvested bonewas packed
+  morselized local autograft
+  morselized local autograft bone
+  morcellized bone graft
+  bone autograft
+  cultured epidermal cell autograft
+  epicel cultured epidermal
+autologous venous tissue
+  saphenous vein
+  saphenous~3 graft
+  saphenous~3 grafts
+  saphenous vein graft
+  saphenous vein grafts
+  autologous vein graft
+cholangiogram
+basilic vein
+  median antebrachial vein
+  median cubital vein
+biopsy
+  biopsies
+  biopsied
+  bx
+  diagnostic
+  histology
+  pathology
+  tissue sample
+  histology
+  specimens: cultures
+  sent for studies
+  send it for analysis
+  send~3 analysis
+  sent~3 analysis
+  sent off
+  studies
+  evaluation
+  microbiologic
+  biochemical
+  cytopathologic
+  analysis
+  submitted to laboratory
+bioactive intraluminal device
+bilateral retrograde pyelograms
+  bilateral retrograde pyelogram
+bilateral salpingooophorectomy
+  bilateral salpingectomy~4 bilateral oophorectomy
+  bso
+bso
+  bilateral salpingooophorectomy
+  bilateral salpingectomy~4 bilateral oophorectomy
+bilateral total knee
+  left and right total knee
+  left and right arthroplasty
+  total knee arthroplasty
+bilateral tubal ligation
+  tube~3 transected
+  fallopian tube~3 transected
+  fallopian tubes~3 transected
+  bilateral tubal sterilization
+  bilateral tubal segments
+  bilateral tubal ligation/sterilization
+  partial salpingectomy
+  tubal sterilization
+  tubes tied
+  clip~3 tubes
+bone marrow biopsy
+  bone marrow bx
+  bx bone marrow
+  biopsy bone marrow
+bone morphogenetic protein
+  bmp
+  bmp-impregnated
+  bone morphogenic protein
+  bone morphogenic protein sponge
+brachial vein
+  radial vein
+  ulnar vein
+breast
+bronchoalveolar lavage
+  bronchial alveolar lavage
+  bal
+  lavage
+bronchi
+  bronchus
+bronchus
+  bronchogenic 
+  bronchial tree
+  bronchials
+  bronchi
+  airway
+  airways
+bronchoscopy
+  bronchoscope
+  tracheobronchoscopy
+bypass coronary artery
+  cabg
+  coronary artery bypass
+  coronary artery bypass graft
+bypass
+  bypassed
+  bypass grafting
+  colostomy formation
+  colostomy
+  ileostomy
+  tracheostomy
+  tracheostomy formation
+  shunt
+  roux en y
+  roux-en-y
+  anastomosed
+  anastomoses
+  anastomosis
+  cabg
+  coronary artery bypass graft
+  coronary artery bypass grafting
+  gastroenterostomy
+cardiac balloon pump
+  iabp
+cardiac lead
+cardiac rhythm related device
+  cardioverter-defibrillator
+  defibrillator
+  icd
+  aicd
+  pulse generator
+  pacemaker
+cardiac resynchronization pacemaker pulse generator
+  crt-p
+  stratos lv
+  biventricular pacemaker
+cardiac resynchronization defibrillator pulse generator
+  cardiac resynchronization~3 defibrillator pulse generator
+  cardiac resynchronization~3 defibrillator
+  crt-d
+  crt defibrillator
+  cardiac resynchronization~3 defibrillator
+  viva
+  biventricular icd
+  biventricular defibrillator
+cardioversion
+  cardioverted
+  synchronized shock
+  dc cardioversion
+  pulseless~6 shocked
+  ventricular tachycardia~3 shocked
+  shocked~5 ventricular tachycardia
+catheterization
+  cath
+  catheter
+catheter svc
+  catheter~5 svc
+  tip~5 svc
+dental rehabilitation
+  unlisted proc dentoalveolar structures
+  crowns
+  crown
+  tooth extraction
+  teeth extracted
+  tooth extracted
+  oral rehabilitation
+  composite filling
+  restorative dentistry
+  restorative care
+  restored
+  dental scaling
+  mouth scaling
+  dental~3 restoration
+  dental~3 scaling
+  dental~5 extraction
+  extraction of teeth
+  extraction of tooth
+lower tooth
+  teeth~5 17
+  teeth~5 18
+  teeth~5 19
+  teeth~5 20
+  teeth~5 21
+  teeth~5 22
+  teeth~5 23
+  teeth~5 24
+  teeth~5 25
+  teeth~5 26
+  teeth~5 27
+  teeth~5 28
+  teeth~5 29
+  teeth~5 30
+  teeth~5 31
+  teeth~5 32
+  teeth~5 k
+  teeth~5 l
+  teeth~5 m
+  teeth~5 n
+  teeth~5 o
+  teeth~5 p
+  teeth~5 q
+  teeth~5 r
+  teeth~5 s
+  teeth~5 t
+  teeth # 19
+  lower teeth
+multiple lower teeth
+  teeth # 19 and 30
+  teeth~4 t,m,n,q,and r
+  # n~9 # q
+  n, q
+  teeth~4 l, s
+  teeth l and s
+  teeth~6 l, s and t
+  teeth~6 k(mo),l(do)and s(do,l)
+  teeth k, l and s
+  k(mo), l(do), s(do), t(mo)
+upper tooth
+  tooth~5 1
+  tooth~5 2
+  tooth~5 3
+  tooth~5 4
+  tooth~5 5
+  tooth~5 6
+  tooth~5 7
+  tooth~5 8
+  tooth~5 9
+  tooth~5 10
+  tooth~5 11
+  tooth~5 12
+  tooth~5 13
+  tooth~5 14
+  tooth~5 15
+  tooth~5 16 
+  tooth~5 a
+  tooth~5 b
+  tooth~5 c
+  tooth~5 d
+  tooth~5 e
+  tooth~5 f
+  tooth~5 g
+  tooth~5 h
+  tooth~5 i
+  #i
+  tooth~5 j
+  teeth~5 1
+  teeth~5 2
+  teeth~5 3
+  teeth~5 4
+  teeth~5 5
+  teeth~5 6
+  teeth~5 7
+  teeth~5 8
+  teeth~5 9
+  teeth~5 10
+  teeth~5 11
+  teeth~5 12
+  teeth~5 13
+  teeth~5 14
+  teeth~5 15
+  teeth~5 16 
+  teeth~5 a
+  teeth~5 b
+  teeth~5 c
+  teeth~5 d
+  teeth~5 e
+  teeth~5 f
+  teeth~5 g
+  teeth~5 h
+  teeth~5 i
+  teeth~5 j
+  upper teeth
+  teeth
+multiple upper teeth
+  #d, e, f, g,
+  teeth b and i
+  teeth a,b,j
+  teeth a,b,c,h,j
+  teeth c(f) ,d(f) e(mfdl), f(mfdl), g(f), h(f)
+  teeth c,d,e,f,g,h,
+  #a(mo), j(mo)
+right colectomy
+  rt colectomy
+right heart catheterization
+  rhc
+  right cardiac catheterization
+  right cardiac cath
+  right heart cath
+right and left heart catheterization
+  left and right heart catheterization
+  lhc and rhc heart catheterization
+  rhc and lhc heart catheterization
+  bilateral heart catheterization
+  bi heart catheterization
+  right and left cardiac catheterization
+  left and right cardiac catheterization
+  lhc and rhc cardiac catheterization
+  rhc and lhc cardiac catheterization
+  bilateral cardiac catheterization
+  bi heart catheterization
+right lobe
+right middle lobe
+  rml
+right lower lobe
+  rll
+right upper lobe
+  rul
+left lobe
+  left~3 quadrant
+right lobe
+  right~3 quadrant
+left heart catheterization
+  lhc
+  left cardiac catheterization
+  left cardiac cath
+  left heart cath
+  heart catheterization left
+cement
+  cemented
+cemented
+  cement
+central line
+  picc
+  picc line
+  infusion device
+  palindrome permacatheter
+  permacatheter
+  PermCath
+  hickman
+  broviac
+  tlc
+  double lumen
+  double-lumen
+  triple lumen
+  triple-lumen
+  single lumen
+  singel-lumen
+  central venous
+  central venous catheter
+  cvl
+  dialysis catheter
+  hemodialysis catheter
+ceramic
+  ceramic head
+  ceramic femoral head
+cerebral embolic filtration
+  sentinel cerebral protection
+  sentinel system
+  sentinel device
+  sentinel distal protection device
+  distal protection device
+  distal filter
+  first filter
+  proximal filter
+  second filter
+cervical ripening agent
+  cervidil
+  dinoprostone
+  prostaglandin gel
+  cytotec
+  Misoprostol
+  miso
+Cesium 131
+  Cs-131
+cesarean section
+  c/s
+  c-section
+  c section
+  cesarean delivery
+  cesarean
+  repeat cesarean
+  repeat c-section
+  repeat-previous cesarean section
+change
+  replacement
+  replace
+  exchange
+change foley
+  suprapubic tube change
+  change~2 suprapubic tube
+  replaced 18 french catheter
+  replaced suprapubic catheter
+chest 
+  chest wall
+  wall~5 chest
+  cardiac
+  subclavian
+  jugular vein
+  infraclavicular area
+  infraclavicular areas
+  intercostal space
+  parasternal
+chest tube placement
+  chest tube~2 placed
+  chest tubes placement
+  chest tubes placed
+  chest tube
+  thoracostomy tube placement
+  perihepatic drain placement
+cholecystectomy
+  resection gallbladder
+  gallbladder~3 bovied out
+classical
+  high 
+  corporeal
+  fundoplication
+collection
+colonoscopy
+  colonscope
+  sigmoidoscopy
+  proctoscopy
+common carotid artery
+  common carotid
+common bile duct
+  bile duct
+  biliary duct
+common hepatic duct
+  main hepatic duct
+comprehensive ep study
+  measurement cardiac rhythm
+  measurement cardiac electrical
+  complete electrophysiological studies
+  complete electrophysiological study
+  comprehensive electrophysiology study
+  comprehensive electrophysiological study
+  electrophysiology study
+  electrophysiologic study
+  electrophysiological study
+  eps
+  ep study
+  eps
+conduction mechanism
+  artrioventricular node
+  av node
+  av nodal
+  bundle of hiatus
+  bundle of his
+  his bundle
+  bundle of kent
+  sinoatrial node
+  svt
+  supraventricular tachycardia
+  ventricular tachycardia
+  pulmonary vein isolation
+  pulmonary vein
+  atrial fibrillation
+  atrial fib
+  afib
+  a fib
+  atrial flutter
+  a flutter
+  maze
+contraceptive device
+  iud
+  intrauterine device
+control
+  ligation of post-op arterial bleeder
+control bleeding
+  argon plasma
+  argon plasma coagulation
+  apc
+  electrocautery
+  coagulation~4 heater probe
+  control~4 hemorrhage
+  epinephrine for hemostasis
+  using bipolar probe
+convalescent plasma
+  come left and plama
+  convalescent serum
+coronary artery
+  coronary
+  coronary arteries
+  native vessel
+  native vessels
+  left main coronary
+  obtuse marginal branch of the left circumflex
+  left main coronary artery
+  left main ostium
+  left marginal artery
+  obtuse marginal
+  left diagonal artery
+  diagonal
+  diagonal vessel
+  left anterior descending artery
+  left anterior descending
+  lad
+  ld
+  left posterior descending artery
+  circumflex artery
+  left circumflex
+  left circumflex artery
+  lc
+  circumflex
+  mid circumflex
+  cx
+  pad
+  right coronary artery
+  rca
+  rpls
+  rpda
+  right anterior descending
+  right anterior descending artery
+  rca
+  rc
+  pda~4 rca
+  right first diagonal
+  right marginal artery
+  right marginal
+  posterior descending
+  posterior left ventricular
+  posterior ventricular
+  right posterior descending
+  right posterior descending artery
+  superior vena cava
+  svc
+  inferior vena cava
+  ivc
+  cavoatrial
+  mid-atrial
+  precava
+three coronary arteries
+  rca, lad, circumflex
+  rca~3 lad~3 circumflex
+computer assisted procedure
+  computer-assisted stereotactic navigation
+  stereotactic guidance
+  O-arm and Stealth
+coronary artery bypass graft
+  coronary artery bypass grafting
+  coronary artery bypass
+  coronary artery bypassed
+  cabg
+  bypass coronary artery
+  bypassed coronary artery
+  coronary bypass grafting
+  coronary bypass graft
+  bypass graft
+  vein graft
+  vg~3 rca
+  vein graft to the
+  sequential graft to the 
+  saphenous graft
+  saphenous vein graft
+  svg~3 diagonal
+coronary artery bypass graft multiple 
+  coronary artery bypass grafts
+  coronary bypass grafts
+  two vein grafts
+  2 vein grafts
+  3 vein grafts
+  grafts
+  three vein grafts
+  vein graft~2 times 2
+  vein graft~2 times 3
+  vein graft~2 times 4
+  three saphenous vein graft
+  three saphenous vein grafts
+cpap
+  continuous positive airway pressure
+  bipap
+  non-invasive ventilation 
+  nasal cpap
+cpr
+  chest compressions
+  rosc
+  being resuscitated
+  acls
+creation
+  making new
+crown
+  crowns
+  stainless steel crowns
+  stainless steel crown
+cystoscopy
+  cystourethroscopy
+  via natural or artificial opening endoscopic
+decompression
+  decompressive
+  decompressed
+  decompressing
+  laminectomy
+  laminotomy
+  facetectomy
+  foraminotomy
+defibrillator
+  cardioverter-defibrillator
+  cardioverter defibrillator
+  cardiac defibrillator
+  icd
+  maximo ii dr
+  maximo
+  protecta xt drsecura
+  aicd
+  evera
+  virtuoso
+  cardioverter-defibrillator
+  defib
+defibrillator generator
+  cardioverter-defibrillator
+  cardioverter defibrillator
+  cardiac defibrillator
+  defibrillator
+  icd
+  implantable cardioverter-defibrillator
+  maximo ii dr
+  maximo
+  protecta xt drsecura
+  aicd
+  evera
+  virtuoso
+  cardioverter-defibrillator
+  defib
+defibrillator lead
+  defibrillation lead
+delivery
+  delivered
+crown
+  crowns
+  stainless steel crowns
+  stainless steel crown
+dental cleaning
+  dental prophylaxis~2 dental cleaning
+  rubber cup dental prophylaxis
+  dental prophylaxis
+destruction
+  ablation
+  vaporization
+  fulguration
+  control bleeding
+  cauterizaion
+  pleurodesis
+  ablation
+  cryoablation
+  cryotherapy
+  cryosurgery
+  cyro
+  isolation
+destruction by neurolytic agent
+  neuroablation
+  neurolytic block
+  phenol motor point block
+  phenol nerve block
+  phenol motor branch block
+  phenol motor branch blocks
+destruction atrial septum
+  atrial ablation
+  ablation atrial
+  intracadiac atrial ablation
+destruction atrial septum
+  ablate discrete arrhythmia mechanism
+detachment
+  amputation
+  disarticulation
+  head resection
+diagnostic
+  sent to pathology
+  sent to the lab
+  tissue sample
+  biopsy
+  biopsied
+  bx
+  biopsies
+  culture
+  culture swabs
+  cultures
+  sampling
+  frozen section
+  frozen sections
+  testing
+  histology
+  histopathology
+  specimens: cultures
+  sent for studies
+  sent off
+  studies
+  testing
+  evaluation
+  microbiologic
+  biochemical
+  cytopathologic
+  cytology
+  analysis
+  submitted to laboratory
+  submitted for gram stain
+diagnostic laparoscopy
+  laparoscopy
+  laparoscope
+dilation
+  angioplasty
+  PTCA
+  percutaneous coronary intervention  
+  percutaneous transluminal coronary angioplasty
+  dilation of heart and great vessels
+  revasculization
+  dilatation
+  dilated
+  12mm balloon
+  balloon ripening
+  dilator balloon
+  placed~3 balloons
+discectomy
+  diskectomy
+  removed disk material
+  remove the disk
+  scrape the disk off
+  disk was incised and emptied
+division
+  sphincterotomy
+  bisection
+  osteotomy
+  cordotomy
+  lengthening
+  z-lengthening
+  vulpius
+double-j stent
+  double j stent
+drainage
+  i and d
+  i & d
+  i&d
+  incision and drainage
+  evacuated
+  aspiration
+  aspirate
+  aspirated
+  arthrocentesis
+  iridotomy
+  arthrotomy
+  thoracentesis
+  tube thoracostomy
+  urinary catheter placement
+  ventriculostomy
+  bronchoalveolar lavage
+  bronchial alveolar lavage
+  bal
+  lavage
+  washing
+  washings
+  peritoneocentesis
+  pus was drained
+  abdominocentesis
+  bronchoscopy with bronchoalveolar lavage
+  tube placement
+drainage device
+  chest tube
+  chest tubes
+  32 french straight tube
+  12 fr chest tube
+  foley
+  urinary catheter
+  penrose drain
+  drainage tube
+  drainage tubes
+  drainage catheter
+  drain
+  drain placement
+  drain placed
+  pleurex catheters
+  pleurex catheter
+  tube
+  10f
+  catheter pleural cavity
+dressing
+  band aid
+  bandage
+  patch
+  band-aid
+  bandaid
+  bandaging
+  wound dressing
+drug-eluting stent
+  drug eluting
+  drug-eluting
+  drug eluting stent
+  drug eluted
+  drug-eluted
+  drug eluted stent
+  des
+  1x des
+  des resolute onyx
+  synergy des
+  synergy
+  synergy stent
+  xience
+  sierra
+  xience sierra
+  eluvia
+  nobori
+  cypher
+  taxus
+  promus
+  endeavor
+  resolute
+  zotarolimus
+  zotarolimus-eluting
+  zilver
+  single synergy drug eluting stent
+  drug-eluting peripheral stent
+  drug-eluted peripheral stent
+  sirolimus-eluting
+  sirolimus
+  drug-eluting prosthesis
+  drug eluting prosthesis
+  drug-eluted prosthesis
+  drug eluted prosthesis
+dual chamber
+  dual-chamber 
+  atrial lead~4 ventricular lead
+  atrial and ventricular
+  advisa
+  enrhythm
+  kappa
+  versr
+  revo mri surescan
+  dual lead
+  dual leads
+  two lead
+  two leads
+  both leads
+  leads
+  transvenous electrodes~3 atrial and ventricular
+  transvenous electrodes~3 ra rv
+duodenum
+  duodenal
+  duodenopathy
+ecmo
+  extracorporeal oxygenation
+  extracorporeal membrane oxygenation
+eeg
+  central nervous electrical activity
+  electroencephalogram
+electroretinogram
+  measurement of visual acuity
+  erg
+electrophysiology study
+  comprehensive electrophysiology study
+  eps
+  ep study 
+  ep lab 
+  percutaneous
+  transcatheter
+  ablation catheter
+  intracardiac catheter
+  electrophysiology laboratory
+endarterectomy
+  extirpation
+  extraction
+  plaque was removed
+  endarterectomized
+  plaque was feathered off
+endoscopic
+  ureteroscopy
+  endoscope
+  endoscopically
+  endoscopy
+  upper gi endoscopy
+  ercp
+  enteroscopy
+  cystoscopy
+  cholangiogram
+  laryngoscopy
+  laryngoscope
+  microscope
+  resectoscope
+  cystourethroscopy
+  cystopanendoscope
+  bronchoscopy
+  bronchoscope
+  video bronchoscopy
+  colonoscopy
+  colonoscope
+  catheter guide
+  catheter guided
+  cystogram
+  sigmoidoscopy
+  sphinceterotome
+  sphincterotomy
+  colonscope
+  lower gi endoscopy
+  egd
+  esophagogastroduodenoscopy
+  upper gi endoscopy
+  endobronchial
+  upper endoscopy
+gi endoscopic
+  ercp
+  enteroscopy
+  resectoscope
+  colonoscopy
+  colonoscope
+  sigmoidoscopy
+  sphinceterotome
+  colonscope
+  lower gi endoscopy
+  egd
+  esophagogastroduodenoscopy
+  upper gi endoscopy
+egd
+  esophagogastroduodenoscopy
+  upper gi endoscopy
+  upper endoscopy
+endotracheal intubation
+  intubation
+  intubated
+  endotracheal airway
+  endotracheal tube
+  et tube
+  ett~3 placement
+  laryngoscope~3 ett
+episiotomy
+  episiotomy: median
+ercp
+  endoscopic retrograde cholangiopancreatography
+esophagogastric junction
+  cardia
+  cardioesophageal junction
+  gastroesophageal junction
+  ge junction
+esophagus
+  esophageal
+  esophagitis
+evbl
+  egd/evbl
+exchange
+excision
+  pancreatectomy
+  cut~5 out
+  biopsy~4 h
+  biopsy
+  biopsied
+  biopsies
+  excised
+  excisional
+  incision
+  dissection
+  decorticated
+  duodenal biopsy
+  pomeroy method
+  nodal sampling
+  partial lymphadenectomy
+  cold forceps
+  hot forceps
+  gastric bx
+  gastric biopsy
+  snare
+  specimen was removed
+  specimens removed
+  excisional wound debridement
+  excisional debridement
+  excisional debris
+  laminectomy
+  laminotomies
+  partial removal
+  partial wedge
+  resection~4 partial
+  resected
+  needle core biopsy
+  polypectomy
+  polyp was removed
+  polyp~5 removed
+  partial colectomy
+  ascending colectomy
+  descending colectomy
+  prostate adenoma
+  wedge
+  osteotomy
+  harvest
+  harvested
+  harvesting
+  remove all~4 implants
+  triangular resection
+excisional wound debridement
+  excisional debridement
+excision kidney
+  heminephrectomy
+  transected
+external
+  doppler
+  closed
+  traction
+external fixation device
+  external fixation
+  external fixator
+extirpation
+  cholelithotomy
+  aspiration of mucus plug
+  aspiration of mucus plugs
+  mucus plug~3 aspirated
+  mucus plugs~3 aspirated
+  flushed~4 cleared out
+  suctioning of airways
+  suctioning of airway
+  suctioned and removed
+  specimen~2 basketed
+  basketing~2 stone
+  basketing~2 stones
+  basket extraction
+  basket stone extraction
+  stone basket
+  stone basket retrieval
+  stone extraction
+  stone~3 extracted
+  suctioned~3 mucus
+  removed~3 plugs
+  remove~3 plugs
+  removed~3 plug
+  remove~3 plug
+  removal stones
+  removal calcus
+  cysto w removal of urinary stones
+  cystoscopy with removal oo urinary stones
+  cystoscopy with removal of calcus
+  choledocholithotomy
+  declotting 
+  extraction
+  atherectomy
+  endarterectomy
+  plaque was removed
+  endarterectomized
+  plaque was feathered off
+  embolectomy
+  evacuated
+  evacuation
+  evacuation of hematoma
+  irrigation and debridement~4 hematoma
+  mechanical thrombolysis
+  mechanical thrombectomy
+  sequestrectomy
+  thrombectomy
+  thrombectomy/embolectomy
+  thromboendarterectomy
+  choledocholithoyomy
+  removal foreign body
+  removal fb
+  foreign body removal
+  fb removal
+  gastroplasty
+  swept~5 balloon
+  was swept
+  stone manipulation
+  dental prophylaxis
+extraction
+  laparoscopic renal cyst decortication
+  laparoscopic renal cyst
+  extraction of teeth
+  evacuation
+  aspiration
+  aspirate
+  aspirated
+  d&c
+  dilation and curettage
+  dilation & curettage
+  suction curettage
+  endometrial curetting
+  vein stripping
+  removal fingernail
+  nonexcisional debridement
+  debridement
+  debrided
+  stripping
+  liposuction
+  phlebectomy of spider veins
+  removal
+  removed
+extraluminal device
+  atriclip laa exclusion system
+  atriclip
+  lap-band adjustable gastric banding system
+  realize adjustable gastric band
+  gastric band
+  gastric banding
+  bands
+  filshie clips
+  pomeroy
+  mucopexy
+  clip
+fetal monitoring
+  fhr monitoring
+  fhr monitoring frequency
+  fhr category 1
+  category 2 tracing
+  fetal heart tones
+  fetal heart rate
+  fhr reassuring, category 1
+  fetal heart tracing
+  fetal heart rate monitoring
+  repetitive late decelerations
+  external us monitor
+  cat i tracing
+femoral component
+  femoral surface
+femoral surface
+  femoral stem
+  femoral head
+  bipolar head
+  bipolar cup
+first degree
+  1st degree
+  1st-degree
+  1 degree
+  1-degree
+  first-degree
+  labial laceration
+  labial lacerations
+  labial abrasion
+  labial abrasions
+  fourchette
+  perianal skin
+  perineal tear
+  superficial
+  vagina
+  vaginal
+  1st degree vaginal
+  1st degree vagina
+  1st degree perineal
+  1st degree labia
+  1st degree fourchette
+  labia
+  labium
+  labial
+  labial tear
+  fourchette
+  superficial vaginal tear
+  superficial vaginal tears
+flipped to prone
+  turned prone
+  flipped~3 prone
+foley 
+  indwelling catheter
+  urinary catheter
+  indwelling foley catheter and leg bag inserted
+  urinary catheter
+  foley catheter placement
+  french 3-way catheter
+  exchanged~2 foley
+  replaced~2 foley
+  replace~2 foley
+  place foley catheter
+  cystoscopy~4 catheter insertion
+foley bulb induction of labor
+  fb placed
+  foley bulb placed
+  foley bulb placement
+  induction-foley bulb
+  elective foley bulb
+  foley bulb
+  cervical ripening balloon
+fluoroscopy
+  cholangiography
+  fluoroscopic
+  angiogram
+  angiography
+  arteriogram
+  arteriography
+  flouoscopic
+fragmentation
+  crushing
+  lithotripsy
+  laser of stone
+  stone fragments
+  eswl
+  fragmented
+  broken
+  laser lithotripsy
+  laser nephrolithotripsy
+fusion
+  arthrodesis
+gastrointestinal tract
+  anus
+  anal
+  bowel wall
+  colon
+  cardia
+  diverticular
+  diverticulum 
+  duodenum
+  duodenal
+  jejunum
+  gastric fundus
+  gastroesophageal junction
+  gastrointestinal
+  stomach
+  gastric
+  gastric body
+  rectum
+  rectal
+  rectosigmoid
+  sigmoid
+  intestine
+gastrostomy tube change
+  gastrostomy tube exchange
+  change gastrostomy
+  exchange gastrostomy
+  feeding tube change
+  feeding tube exchange
+  change feeding tube
+  exchange feeding tube
+gastrojejunal
+  stomach~2 jejunum
+  gastrojejunum
+  gastrojejunostomy
+  gastric jejunal
+harvest
+  harvested
+  harvesting
+hearing screen
+  hearing screening
+  hearing screen results
+  passed oae
+  failed oae
+  referred left
+  referred right
+  passed abr left
+  passed abr right
+  hearing screen~2 passed
+heart pressures
+  heart pressure
+  ifr
+  ffr
+  fractional flow reserve
+helicobacter pylori
+  h pylori
+hemicolectomy
+  right colectomy
+  left colectomy
+  resection colon
+  resecting colon
+hemodialysis
+  plan for hd
+  hd
+  dialysis
+  getting dialyzed
+  ultrafiltration
+hiatal hernia repair
+  reduction~3 hiatal hernia
+  diaphragm hernia repair
+  parasternal hernia repair
+  repair of hiatal hernia
+hyperthermia therapy
+  under warmer
+hormone
+  pitocin
+  oxytocin
+given hormone
+  given pitocin
+  given oxytocin
+  will start pitocin
+  pitocin
+  oxytocin
+  and oxytocin
+  maximum pitocin
+  maximum oxytocin
+iabp  
+  cardiac balloon pump
+  balloon pump
+impella
+  impeller
+iliac
+  ilium
+ileum
+  terminal ileum
+immobilization
+  application
+  immobilizing
+  immobility
+  immobilize
+  immobilized
+  placement
+  restraining
+  restraint
+implantable heart assist system 
+indwelling device
+  catheter
+  foley
+influenza vaccine
+  flu vaccine
+  flu shot
+infusion device 
+  picc line
+  midline
+  peripherally inserted central catheter
+  non-tunneled central venous catheter
+  nontunneled hemodialysis catheter
+  indura intrathecal catheter
+  ascenda intrathecal catheter
+  central line
+  cvl
+  permacatheter
+  permcath
+  triple lumen
+  single-lumen
+  single lumen
+  mediport
+  perma-catheter
+  dialysis catheter
+  tunneled spinal catheter
+  tunneled central venous catheter
+  tunneled catheter
+  hickman
+  broviac
+  double lumen
+  central venous catheter
+innominate artery
+  innominate
+insertion
+  rod fixation
+  acls protocal
+  fixation
+  implant
+  implanted
+  reimplant
+  implantation
+  implantable
+  instrumented fusion
+  pinning
+  placement
+  placed
+  placed~4 pocket
+  introduced
+  inserted
+  insertable
+  attached
+  generator change
+  exchange
+  change
+  started by
+  tip within
+  with tip into
+  tunneled
+  tunnelled
+  tunnel was created
+insertion arterial line
+  placed~3 arterial line
+  arterial line placement
+  arterial line~3 introduced
+inspection
+  visual inspection
+  exploratory
+  examination
+  laparoscopy
+  exploration
+  hysteroscopy
+  exploratory laparotomy
+  diagnostic arthroscopy
+  diagnostic
+intracardiac echocardiogram
+  intracardiac echo
+  ultrasonography~2 heart right and left
+  intravascular echocardiogram
+  intravascular echocardiography
+  intravascular echo
+  intravascular ultrasonography
+intraluminal device
+  intraluminal devices
+  bare-metal stent
+  bare-metal stents
+  bare-metal~4 stent
+  bare-metal~4 stents
+  exchange~2 stent
+  stent~2 exchanges
+  stent
+  watchman
+  viabahn
+  absolute pro vascular
+  acculink 
+  afx endovascular
+  aneurx aaa advantage
+  assurant stent
+  cobalt stent
+  carotid wallstent monorail endoprosthesis
+  coaxia neuroflo catheter
+  colonic z-stent
+  complete stent
+  cook zenith aaa endovascular graft
+  cook zenith
+  double-j stent
+  double-j
+  double j
+  driver stent
+  e-luminexx stent
+  embolization coil
+  embolization coils
+  endologix afx
+  endoluminal
+  endurant 
+  excluder
+  express premounted stent
+  express biliary sd monorail
+  express sd renal monorail
+  flair endovascular stent graft
+  flair
+  filter
+  formula balloon-expandable renal stent
+  gore excluder
+  gore tag
+  herculink elite renal stent
+  lifestent
+  medtronic endurant 
+  micro-driver stent
+  multi-link
+  omnilink elite vascular balloon
+  pipeline embolization
+  protege rx carotid stent system
+  talent
+  therapeutic occlusion coil
+  therapeutic occlusion coils
+  ultraflex precision colonic stent
+  valiant thoracic sstent graft
+  wallstent endoprosthesis
+  xact carotid stent 
+  zenith aaa endovascular
+  zenith
+  ovation graft main body
+  ipsilateral limb extension
+  bifurcated modular device
+  700-900 micron embospheres
+  500-700 micron
+intraluminal device, flow diverter
+intraluminal device, pessary
+  pessary ring
+intraoperative
+  procedure
+  operation
+  operations room
+intravascular ultrasonography
+  intravascular ultrasound
+interbody
+  cage
+  cages
+  interbody fusion
+  interbody fusion cages
+  interbody fusion cage
+  interbody cervical fusion system
+  axialif system
+  coroent xl
+  interbody spacer
+  interbody spacers
+  interbody instrumentation
+  interbody type
+  medtronic atlantis elite
+  prosthetic cage
+  bak
+  nanolock
+  peek
+  ray-threaded~3 cage
+  ray threaded~3 cage
+  verte-stack
+  verte stack
+internal fixation device
+  internal fixation
+  pinning
+  screws
+  cannulated screws
+  rod
+  rods
+  screw
+  screws
+  posterior segmental instrumentation
+  anterior instrumentation
+  instrumentation
+  pin
+  plate
+  im nailing
+  rod fixation
+  rod
+  hardware
+  wires
+  wire
+  k wire
+  sternal wire
+  sternal wires
+intramedullary fixation
+  intramedullary nail
+  intramedullary nailing
+  intramedullary internal fixation 
+  im nail
+  im nailing
+  intramedullary rod 
+  cephalomedullary fixation
+  guidepins
+intramedullary internal fixation device
+  intramedullary 
+  marrow cavity
+  intramedullary fixation
+  intramedullary nail
+  intramedullary nailing
+  intramedullary internal fixation 
+  im nail
+  im nailing
+  intramedullary rod 
+  guidepins
+intraoperative cholangiogram
+  cholangiogram
+  negative cholangiogram
+  abnormal cholangiogram
+  cholangiography
+  cholangiocath
+introduction
+  anesthetized
+  application 
+  administration
+  administered
+  then received
+  cage with
+  fusion
+  placement
+  packed
+  placed
+  placed in lateral gutters
+  perform
+  performed
+  novabone
+  initiate
+  initiated
+  injection
+  injections
+  injected
+  inj
+  iv
+  im
+  infusion rate
+  infusion
+  iv infusion
+  iv injection
+  bolus
+  filled
+  on admission
+  receiving
+  received
+  starter
+  started
+  started on treatment
+  was given
+  initiate
+  initiated
+  treatment
+  treated
+  doses~3 regimen 
+  dose
+  doses
+  dosing
+  daily
+  cycle
+  cycles
+  cycling
+  cycled
+  over 30 mini
+  over 1 hr
+  block
+  blocks
+  day
+  completion
+  maintenance 
+introduction of hyperthermic antineoplastic
+  heated intraperitoneal chemotherapy
+  hyperthermic antineoplastic chemotherapy
+  hipec
+induction of labor
+  induced labor
+  induction method
+  induced
+  induction
+  iol
+  will start
+irrigation
+  hand irrigate
+  irrigate
+irrigation peritoneal cavity
+  abdominal washout
+isthmusectomy
+  resection~3 thyroid gland isthmus
+  resection~3 thyroid isthmus
+iupc insertion
+  iupc placed
+  intrauterine pressure catheter placed
+  intrauterine pressure catheter placement
+  placement~4 iupc
+  iupc~4 placed
+  placed~4 iupc
+  placed iupc
+  iupc in place
+  iupc inserted
+jejunostomy tube feed
+  jtube feed
+  jtube feeds
+  jtube feeding
+  jtube feedings
+  j-tube feed
+  j tube feed
+  jejunostomy tube feeds
+  j-tube feeds
+  j tube feedings
+  jejunostomy tube feeding
+  j-tube feeding
+  j tube feeding
+  jejunostomy tube feedings
+  j-tube feedings
+  j tube feedings
+  feeds~6 jt
+  feed~6 jt
+  jt feed
+  jt feeds
+  jt feeding
+  jt feedings
+  gjt~7 feed
+  gjt~7 feeds
+  gjt~7 feeding
+  gjt~7 feedings
+  gastrojejunostomy tube~7 feed
+  gastrojejunostomy tube~7 feeds
+  gastrojejunostomy tube~7 feeding
+  gastrojejunostomy tube~7 feedings
+  pej feed
+  pej feeds
+  pej feeding
+  pej feedings
+joint
+  joints
+  knee
+  knees
+  ankle
+  ankles
+  hip
+  hips
+  shoulder
+  shoulders
+  glenohumeral
+  mtpj
+kidney
+  renal
+knee arthroplasty
+  knee replacement
+lavage
+  bronchoalveolar lavage
+  bronchial alveolar lavage
+  bal
+le fort type i
+  maxilla osteoplasty
+  lefort i
+  lefort type i
+le fort type ii
+  nasomaxillary osteoplasty
+le fort type iii
+  craniofacial osteoplasty
+left atrial appendage
+  laa
+left atrium
+  left atrial
+  atrium pulmonale
+  left auricular appendix
+  la
+left colectomy
+  lt colectomy
+left heart catheterization
+  lhc
+  left heart cath
+left hepatic duct
+  left intrahepatic duct
+left internal mammary artery
+  lima
+  left internal mammary
+  left internal mammary bypass graft
+lima
+  left internal mammary artery
+  left internal mammary
+  left internal mammary bypass graft
+left partial knee
+left pulmonary artery
+  left pulmonary arterial
+  bilateral pulmonary artery
+  bilateral pulmonary arterial
+  arterial canal 
+  arterial duct
+  botallo's duct
+  pulmoaortic canal
+left retrograde pyelogram
+  left ureteroscopic~6 retrograde pyelogram
+  left ureter~6 retrograde pyelogram
+  left ureteral~6 retrograde pyelogram
+  left ureters~6 retrograde pyelogram
+  left ureteroscopy~6 retrograde pyelogram
+  cystoscopy left pyelogram
+left total knee
+  bilateral total knee
+left leg
+  left thigh
+  left
+left upper leg subcutaneous collection
+  left thigh subcutaneous collection
+  left hip subcutaneous collection
+  bilateral upper leg subcutaneous collection
+  bilateral thigh subcutaneous collection
+  bilateral hip subcutaneous collection
+left lower lobe
+  lll
+left midde lobe
+  lml
+left upper lobe
+  lul
+left ventricle
+laparoscopic
+  percutaneous endoscopic
+  robotic-assisted
+laparoscopic assisted vaginal hysterectomy
+  lavh
+  laparoscopic-assisted vaginal hysterectomy
+laparoscopy converted to open cholecystectomy
+  laparoscopic converted to open cholecystectomy
+  cholecystectomy~3 laparoscopy converted to open
+  cholecystectomy~3 laparoscopic converted to open
+  exploratory laparoscopy
+  laparoscopy converted to open appendectomy
+  laparoscopic converted to open appendectomy
+laparoscopy converted to open colectomy
+  laparoscopic converted to open colectomy
+  laparoscopy converted to open sigmoid colectomy
+  laparoscopic converted to open sigmoid colectomy
+  laparoscopy converted to open sigmoidectomy
+  laparoscopic converted to open sigmoidectomy
+laser lithotripsy
+  lasar lithotripsy
+  laser of stone
+  laser~2 nephrolithotripsy
+lobectomy
+  resection of tumor
+local anesthetic
+  marcaine
+  1% lidocaine
+  ropivacaine
+  nerve block
+  block
+long-arm cast
+  long arm cast
+long-arm splint
+  long arm splint
+loop ileostomy closure
+  closure loop ileostomy
+  ileostomy closure
+  ileostomy reversal
+  closure ileostomy
+  loop ileostomy reversal
+  takedown loop ileostomy
+loop recorder
+  linq
+low
+  low cervical
+  lower cervical
+  low transverse
+  transverse
+  transverse fashion
+  pfannenstiel
+  vertical
+  primary
+  low-transverse
+  lower segment transverse
+  low uterine transverse
+  lower uterine segment
+lower arm 
+  forearm
+lower esophagus
+  lower third of esophagus
+  lower third of the esophagus
+  lower third~5 esophagus
+  lower 3rd~5 esophagus
+  esophagus lower third
+  esophagus lower 3rd
+  esophagus lower
+  lower esophageal
+  esophageal lower
+  abdominal esophagus
+  distal esophageal
+  distal esophagus
+lower extremity
+  le
+  lower extremites
+  leg
+  legs
+  iliac systems
+  iliac
+  aortoiliac
+  femoral
+  femoral artery systems
+  femoral systems
+  femoral ileus system
+  total knee
+  short leg
+lumbar puncture
+  lp~2 fluoroscopic
+  lp~2 fluoro
+lumbar joint
+  l1
+  l1 transitional level
+  l2
+  l2 transitional level
+  l3
+  l3 transitional level
+  l4
+  l4 transitional level
+  l1-2
+  l1-l2
+  l1 l2
+  l1/l2
+  l1/2
+  l1-3
+  l1-4
+  l1-5
+  l2-3
+  l2-l3
+  l2 l3
+  l2/l3
+  l2/3
+  l2-4
+  l2-5
+  l3-4
+  l3-l4
+  l3 l4
+  l3/l4
+  l3/4
+  l3-5
+  l4-5
+  l4-l5
+  l4 l5
+  l4/l5
+  l4/5
+  lumbar facet joint
+lumbar multiple
+  l3-5
+  l1/2
+  l2/l3
+  l2/3
+  l3/l4
+  l3/4
+  l4/l5
+  l4/5
+  l1-l2
+  l1-2
+  l2-l3
+  l2-3
+  l3-l4
+  l3-4
+  l4-l5
+  l4-5
+lumbar nerve
+  l1-2
+  l1-l2
+  l1 l2
+  l1/l2
+  l1/2
+  l1-3
+  l1-4
+  l1-5
+  l2-3
+  l2-l3
+  l2 l3
+  l2/l3
+  l2/3
+  l2-4
+  l2-5
+  l3-4
+  l3-l4
+  l3 l4
+  l3/l4
+  l3/4
+  l3-5
+  l4-5
+  l4-l5
+  l4 l5
+  l4/l5
+  l4/5
+  lumbarsacral trunk
+  spinal nerve, lumbar
+  superior clunic nerve
+  superior cluneal nerve
+  l1 nerve
+  l2 nerve
+  l3 nerve
+  l4 nerve
+  l5 nerve
+  l1
+  l2
+  l3
+  l4
+  l5
+lumbosacral
+  l5-s1
+  s1
+  l5
+lumbosacral joint
+  l5-s1
+  l5 s1
+  l5/s1
+  5, s1
+  l1-s1
+  l5 and into s1
+  lumbosacral
+  lumbar 5 sacral 1
+  lumbarsacral facet joint
+thorax lymphatic
+  intercostal lymph node
+  intercostal~3 lymph node
+  mediastinal lymph node
+  mediastinal~3 lymph node
+  lymphatic thorax
+  parasternal lymph node
+  paratracheal lymph node
+  paraesophageal lymph node
+  paraesophageal node
+  paraesophageal region
+  lymph nodes~5 paraesophageal region
+  lymph nodes~5 mediastinum
+  tracheobronchial lymph node
+  intercostal lymph nodes
+  mediastinal lymph nodes
+  mediastinum lymph nodes
+  mediastinum level 7
+  subcarinal mediastinum
+  parasternal lymph nodes
+  paratracheal lymph nodes
+  tracheobronchial lymph nodes
+manual
+  surgeon's hand
+map
+  mapping
+main bronchus
+  bronchus intermedius
+  intermediate bronchus
+  main bronchial
+  main bronchi
+mcroberts maneuver
+  mcroberts
+  mcrobert's
+  external version
+  reposition to assist~3 delivery
+measurement
+  pft
+  interrogation
+  doppler study
+  doppler studies
+  nonreassuring
+measurement cardiac electrical
+  comprehensive ep study with induction
+  comprehensive electrophysiology study with induction
+  comprehensive ep study
+  comprehensive eps
+  electrophysiology study with induction
+  ep study with induction
+  eps with induction
+mechanical ventilation
+  device type ventilator
+  ventilation
+  ventilator
+  placed on ventilator
+  vent
+  respiratory ventilation
+  endotracheal tube~3 was placed
+  intubation was performed
+  intubation performed
+  intubated
+metal
+  titanium
+  titanium cobalt
+  stainless steel
+  cobalt-chromium
+  trabecular metal 
+  accolade
+middle esophagus
+  middle third of esophagus
+  middle third~3 esophagus
+  middle 3rd~3 esophagus
+  esophagus middle third
+  esophagus midde 3rd
+  esophagus middle
+  middle esophageal
+  esophageal middle
+  thoracic esophagus
+midline catheter
+  midline
+  picc/midline 
+mitral valve repair  
+  annuloplasty~2 mitral valve
+  supplement mitral valve
+  bicuspid valve repair
+  left atrioventricular valve repair
+  mitral annulus repair
+  deployment~3 mitral clip
+  deployment~3 mitraclip
+  deployment~3 mitral clips
+  deployment~3 mitraclips
+  placement~3 mitraclip
+  postion~3 mitraclip
+  mitral valve clipping
+monitoring
+  iassist
+  intraoperative knee replacement sensor
+  findings
+  monitor
+  placed
+  eeg to characterize
+  was placed on eeg
+  connected to eeg
+  cveeg
+  cv eeg
+monitoring device
+  arterial line
+  cardiac event recorder
+  patient-activated cardiac event recorder
+  patient-activated implantable loop recorder
+  cardiac rhythm monitor
+  subcutaneous cardiac rhythm monitor
+  linq
+  loop recorder
+  loop recording
+  hemodynamic monitoring
+multiple cervical vertebral joints
+  c4-c5, c5-c6, c6-c7
+  c3-c4, c4-c5, c5-c6
+  c4 - c5, c5 - c6
+  c2-c3, c3-c4
+  c3-4 c-4-5
+  c3-c4, c4-c5
+  c4-5 c5-6
+  c4-c5, c5-c6
+  c2 c3 c4
+  c2-3 c3-4
+  c5-6 c6-7
+  c5-c6
+  c6-c7
+  c1-2 c2-3
+  c1-c2, c2-c3
+  c4~8 c7
+  c6~1 c7 and c4~1 c5
+  cervical 2-3 cervical 3-4
+  cervical 3-4 cervical 4-5
+  cervical 4-5 cervical 5-6
+  cervical 4-5 cervical 5-6 cervical 6-7
+  cervical 5-6 cervical 6-7
+  cervical 1-2 cervical 2-3
+nasopharyngoscopy
+  inspection~3 mouth and throat
+  inspection~3 mouth and pharynx
+nasogastric tube
+  ng tube
+  ngt
+nasogastric tube feed
+  ng tube feed
+  ng feeds
+  ng feed
+  ng fed
+  ngt feed
+  ngt feeds
+  ngt feeding
+  ngt feedings
+  ngt fed
+  started ng feeds
+  start tube feed
+  start tube feeds
+  start tube feeding
+  start tube feedings
+  tube feed
+  tube feedings
+  -gt feeds
+  gt feeds
+  gt feedings
+  gt feeding
+  bolus feeding
+  ngt placement 
+  ng feed initiation
+  reinstitute peg feedings
+  reinstitute peg feed
+  g-tube feed
+  g-tube feeds
+  g-tube feedings
+  gtube feed
+  gtube feeds
+  gtube feeding
+  gtube feedings
+  trophic pediasure 
+  via ng
+  enteral feeds
+  enteral feeding
+  peg feed
+  peg feeds
+  peg feeding
+  peg feedings
+  will start tube feeds
+  will start tube feeding
+  will start tube feedings
+natural opening
+  artificial opening
+  vaginal
+  mouth
+  po
+newborn document type
+  newborn history and physical
+nephrectomy
+  resection kidney
+  resection renal
+nephroureterectomy
+  nephrectomy
+  resection kidney
+  resection renal
+newborn
+  live~2 infant
+  infant delivered
+  infant~3 delivered
+  delivery~4 infant
+  liveborn~2 infant
+nonautologous tissue substitute
+  allograft
+  allogeneic
+  dural substitute
+  homograft
+  homoplastic graft
+  vitoss bimodal
+  bioburst fluid
+  dural matrix
+  tisseel
+  medtronic grafton dbm
+zooplastic tissue
+  sapien
+  sapien s3 valve
+  sapien 3 ultra valve 
+  sapien transcatheter aortic valve
+  zooplastic
+  zoograft
+  xenograft
+  porcine
+  bovine
+  bovine pericardial valve
+  bovine pericardium graft
+  pericardial bovine patch
+  bioprosthesis
+  insipiris aortic valve
+  edwards inspiris resilia
+  3f bioprosthesis valve
+  hancock
+  mosaic bioprosthesis
+  carpentier-edwards magna ease valve
+  contegra
+  contegra pulmonary valved conduit
+  corevalve
+  epic stented tissue valve
+  freestyle aortic root bioprosthesis
+  hancock
+  hancock bioprosthesis valve
+  hancock bioprosthetic valved conduit
+  melody
+  melody transcatheter pulmonary valve
+  mitroflow
+  mitroflow aortic pericardial heart valve
+  mosaic bioprosthesis valve
+  sjm biocor
+  sjm biocor stented valve system
+  stented tissue valve
+  trifecta
+not performed
+  deferred
+  was not performed
+  no injection
+nutritional substance
+  tpn
+  d10 
+oae
+  otoacoustic emission
+occlusion
+  ligation
+  ligated
+  eradicated
+  embolization
+  banding
+  exclusion
+  embolization with coils
+omentectomy
+  excision~2 omentum
+  excision~2 omental
+  omental~2 excision
+  omentum~2 excision
+  biopsy~2 omental
+  biopsy~2 omentum
+  omental~2 biopsy
+  omentum~2 biopsy
+oophorectomy
+  resection ovary
+  resection ovaries
+  salpingo-oophorectomy
+  salpingo-oophorectomies
+  salpingo oophorectomy
+  salpingooophorectomy
+  salpingo oophorectomies
+open procedure
+  dissection~5 subcutaneous tissue
+  dissection was carried down to
+  deep dissection
+  dissection continued
+  dehiscence
+  dissection~4 sternum
+  dissect~4 subcutaneous tissue
+  converted~3 open operation
+  amputation
+  resection
+  excisional
+  excisional debridement
+  excisional debris
+  excision
+  excised
+  fascia was opened
+  #15 scalpel
+  15in-blade~5 skin
+  curvilinear incision
+  subperiosteal dissection
+  supraumbilical~4 incision
+  midline incision
+  horizontal incision
+  open
+  incision
+  cruciate incision
+  skin~2 incised
+  incised sharply
+  incised~4 knife
+  incise~3 midline
+  incision~4 sternum
+  incision~5 pectoral
+  incision~5 prepectoralis fascia
+  incision~5 widely open
+  incision~6 midline
+  incision from the~4 down to
+  incision was deepened
+  skin incision
+  skin~3 incised
+  small incision
+  transverse incision
+  fogarty catheter
+  fusion
+  midline cervical incision
+  paramedian incision
+  pocket was formed
+  pocket was fashioned
+  placed in pocket
+  create~3 pocket
+  pocket was
+  with a pocket 
+  paced the wound
+  created a pocket
+  vertical midline laparotomy
+  laparotomy
+  laparotomy was performed
+  abdominal hysterectomy
+  spinal exposure
+  sternotomy
+  sternum~3 divided with saw
+  subcutaneous pocket created
+  thoracotomy
+  thoracostomy
+  arteriotomy
+  craniotomy
+  hemicraniectomy
+  cesarean
+  c-section
+  laparotomy
+  bypass
+  coronary bypass grafting
+  cabg
+operating room
+  general anesthesia
+  general via
+  brought to sleep
+  nerve integrity monitoring endotracheal tube
+  operations
+  operating
+  operative note
+  operative suite
+  operating suite
+  surgery
+  preoperative diagnosis
+  postoperative diagnosis
+orif
+  open reduction internal fixation
+  open reduction, internal fixation
+  open reduction and internal fixation
+  open reduction with internal fixation
+other device
+  hardware
+  sling
+  sling and swath
+other bronchoscopy procedure
+  brushing
+  washing
+  washings
+  bronchial alveolar lavage
+  biopsy
+  biopsies
+  placement
+  navigational
+  transbronchial lung biopsy
+  needle aspiration biopsy
+  dilation
+  reduction
+  stent
+  balloon occlusion
+  removal
+  revision
+  excision
+  destruction
+  aspiration
+  aspiration of mucus plug
+  aspiration of mucus plugs
+  ebus
+  thermoplasty
+  insertion
+other colonoscopy procedure
+  polypectomy
+  polyp~3 removed
+  removal polyp
+  removed
+  removal  
+  biopsy
+  biopsies
+  cold forceps
+  ablation
+  stent
+  band ligation
+  banding
+  submucosal injection
+  control bleeding
+  balloon dilation
+  mucosal resection
+  ultrasound
+  biopsy fine needle
+  decompression
+other cystoscopy procedure
+  biopsies
+  biopsy
+  stent
+  double-j~2 stent
+  dilation
+  destruction
+  drainage
+  excision
+  extirpation
+  extraction
+  fragment
+  fragmentation
+  insertion
+  lithotripsy
+  basket extraction
+  stone manipulation
+  stent placement
+other egd procedure
+  biopsy
+  biopsies
+  injection
+  submucosal injection
+  fine needle aspiration biopsy
+  drainage
+  insertion
+  endoscopic ultrasound
+  band ligation
+  varices banding
+  banding
+  balloon dilation
+  hemostatic clips
+  clips
+  epinephrine
+  gastrostomy tube
+  removal
+  optical endomicroscopy
+  resection
+  control bleeding
+  delivery thermal energy
+  ablation
+other ercp procedure
+  swept~4 balloon
+  stones~2 removed
+other procedure
+  coronary artery bypass
+  cardioversion
+  cholecystectomy
+  cystoscopy
+  colonoscopy
+  biliary tree was swept
+  angioplasty
+  heart catheterization
+  left heart catheterization
+  intraoperative
+  angiography
+  arteriography
+  arthroplasty
+  arterial line placement
+  insertion arterial line
+  prostatectomy
+  pacemaker
+  embolization
+  gastric bypass
+  thyroid lobectomy
+  isthmusectomy
+  roux-en-y
+  lymph node dissection
+  cesarean section
+  c-section
+  tubal sterilization
+  partial knee
+  total knee
+  tavr
+  transcatheter aortic valve replacement
+  sacral colpopexy 
+  fusion
+  decompression
+  hysterectomy
+  supracervical hysterectomy
+  lymphadenectomy
+  electrocautery blunt dissection
+  remove the wire
+  specimen was removed
+other therapeutic substance
+  botox
+  hemabate
+  im hemabate
+  carboprost tromethamine
+  cytotec
+other therapeutic substance in gi tract
+  cytotec~4 pr
+  cytotec placed pr
+  cytotec placed rectally
+  rectal cytotec
+pacemaker 
+  pacer
+  pacing
+cardiac 
+lead
+  elctrode
+  elctrodes
+  transvenous electrodes
+  leads
+pacing and recording
+  tracings
+  his bundle electrogram recording
+packing 
+  placement
+  packing material~3 placement
+pancreatectomy
+pancreaticoduodenectomy
+  duodenectomy
+  normal examined duodenum. biopsied
+paracentesis
+  drainage peritoneal
+  peritoneal drainage
+  aspiration of abdominal fluid
+  drain peritoneal
+  drainage of ascites
+  drained ascites
+  peritoneal drain
+  upper quadrant drainage
+  drain~3 upper quadrant
+  therapeuticparacentesis
+  obtained~4 acidic fluid
+partial amputation
+  amputation~4 metacarpal
+  metacarpal~4 amputation
+  amputation~4 metatarsal
+  metatarsal amputation
+  amputation~4 transmetatarsal
+  transmetatarsal~4 amputation
+partial cecectomy
+  excision~4 cecum
+partial colectomy
+  excision~3 large intestine
+  coloproctostomy
+partial diskectomy
+  microdiskectomy
+  removed some disk material
+partial knee  
+  patellofemoral
+  unicondylar
+partial nephrectomy
+  cyst~6 kidney was cut
+percutaneous 
+  puncture
+  punctured
+  puncture sites
+  minor incision
+  burr hole
+  burr holes
+  angiojet
+  venogram
+  pulled through
+  needle biopsies
+  needle biopsy
+  needle was introduced
+  biopsy needle
+  arterial line
+  guided
+  guidewire was inserted
+  crossed with~3 wire
+  ct guided
+  ct-guided
+  ct-guided biopsy
+  ct-guided biopsies
+  liposuction
+  linq delivery system
+  micropuncture sheath
+  micropuncture catheter
+  Jamshidi needle
+  working sleeve
+  plunger
+  small incision
+  subcutaneous
+  subcutaneously
+  transcatheter
+  safe sheath
+  tuohy needle
+  catheter
+  catheter directed lysis
+  catheter was threaded
+  intracardiac catheter
+  catheterization
+  fogarty
+  eps
+  ep study
+  electrophysiology study
+  transvenous
+  transjugular
+  transseptal puncture
+  tunneled
+  endovascular
+  fluoroscopy
+  injection
+  inj
+  ivf
+  im
+  infusion rate
+  iv
+  inserted subcutaneously
+  screw
+  screws
+  tf to 100c
+percutaneous endoscopic
+  laparoscopic
+  laparoscopic-assisted
+  total laparoscopic
+  laparoscopy
+  diagnostic laparoscopy
+  da vinci
+  laparoscopy
+  arthroscopy
+  scope and camera
+  robotic hysterectomy
+  thoracoscopic
+  transbronchial
+  vats
+  5mm port
+  optivoew trocar
+  stab incision
+  robotic trocar
+  robotic-assisted
+  trocars placed
+  trocar~3 placed
+  trocars in place
+  trocar~3 introduced
+  trocar was introduced
+  trocar lap scope
+  trocar was placed
+  veress needle
+  video camera
+  video-assisted 
+  video assisted
+  video-assist
+  video assist
+  video-assistance
+  video assistance
+percutaneous endoscopic assistance
+  laparoscopic-assisted
+  laparoscopic assisted
+  laparoscopic-assistance
+  laparoscopic assistance
+percutaneous gastrostomy tube
+  peg tube
+  peg
+  feed tube
+  tube feeding
+  tube feed
+  feeding tubes
+  gi tubes
+  gi tube
+  gastric tube
+permcath placement
+  picc line
+  infusion device
+  central line
+  cvl
+  permacatheter
+  permcath
+  picc
+  midline catheter
+  picc/midline catheter
+  picc or midline catheter
+permanent sterilization
+  permanent surgical sterility
+  bilateral salpingectomy
+  total salpingectomy
+phototherapy
+  phototx
+  photo
+physical exam
+  physical examination
+picc line
+  infusion device
+  central line
+  cvl
+  cvp line
+  permacatheter
+  permcath
+  permacath
+  picc
+  pic line
+  mediport
+  midline
+  picc/midline
+  picc/midline catheter
+  picc or midline catheter
+  hickman
+  broviac
+  double lumen
+  single-lumen
+  single lumen
+  triple lumen
+  central venous
+  central venous catheter
+  catheter tip
+  vascular access
+  temporary dialysis catheter
+  non-tunneled dialysis catheter
+  tunneled dialysis catheter
+  tunneled catheter
+  tunneled cath
+  hemodialysis catheter
+  nontunneled hemodialysis catheter
+  non-tunnelled dialysis catheter
+  tunnelled dialysis catheter
+  tunnelled catheter
+  tunnelled cath
+  nontunnelled hemodialysis catheter
+  dialysis catheter
+  trialysis catheter
+  infusaport
+placement of suprapubic catheter
+placed on nasal cannula
+  placed~3 oxygen
+  requiring~3 nasal cannula
+  currently~3 2l
+  currently~3 3l
+  currently~3 4l
+  currently~3 5l
+  currently~3 6l
+  currently~3 7l
+  oxygen requiement 3.5 l via nasal cannula
+  blow by oxygen
+  high-flow oxygen
+  high flow oxygen
+  wean oxygen
+  weaned to 2l
+  weaned to 3l
+  weaned to 4l
+  2 l at bedtime only
+  on 2 l. currently
+  oxygen supplement
+  oxygen supplementation
+  oxygen supplemental
+  oxygen support
+  requiring~2 2-3l
+  requiring~2 4-5l
+  requiring increased o2
+  required 2 liters of oxygen
+  required 3 liters of oxygen
+  required 4 liters of oxygen
+  required 5 liters of oxygen
+  required 6 liters of oxygen
+  required 7 liters of oxygen
+  supplement oxygen
+  supplemental oxygen
+  supplemental oxygen requirement
+  supplemental oxygen by nasal cannula
+  supplement oxygenation
+  supplemental oxygenation
+  supplemental o2
+  supplement o2
+  on 2 l
+  on 3 l
+  on 4 l
+  on 5 l
+  on 6 l
+  on 7 l
+  placed on 2l nc
+  placed on 3l nc
+  placed on 4l nc
+  placed on 5l nc
+  placed on 6l nc
+  placed on 7l nc
+  placed on 2 liters
+  placed on 3 liters
+  placed on 4 liters
+  placed on 5 liters
+  placed on 6 liters
+  placed on 7 liters
+  home o2~3 increased 
+  oxygen per nasal cannula
+  oxygen~4 nasal cannula
+  oxygen supplementation
+  oxygen requirement
+  oxygen support
+  oxygen~4 nc
+  currently~4 nasal cannula
+  currently on 2l
+  currently on 3l
+  currently on 4l
+  currently on 5l
+  currently on 6l
+  currently on 7l
+  now~4 nasal cannula
+  oxygen saturation on 15l
+  increased to 2l
+  increased to 3l
+  increased to 4l
+  increased to 5l
+  increased to 6l
+  increased to 7l
+polyethylene
+  e-poly liner
+  poly liner
+  cross linked poly
+  poly
+  polyethylene wear liner
+  polyethylene liner
+  crosslink poly
+  cross link poly
+pomeroy method
+  excised
+  excision
+posterior approach, anterior column
+  posterior approach/anterior column
+  prone~2 sneak around
+  axialif
+  plif
+  posterior lumbar interbody fusion
+  posterior lumbosacral interbody fusion
+  tlif
+posterior approach, posterior column
+  posterolateral
+  posterior lateral
+  posterior lateral gutters
+  posterior
+  transpedicular
+  transverse process
+  transverse processes
+  trans process
+  trans processes
+  prone
+  transferred~4 prone
+  transfer~4 prone
+  flipped~4 prone
+  anesthesia~4 turned prone
+posterior approach
+  prone
+  posterolateral
+  posterior
+posterolateral fusion
+  posterior fusion
+posterior interbody fusion
+  posterior fusion~5 interbody
+  posterior~2 interbody fusion
+  fusion~5 posterior interbody
+  transforaminal~3 interbody fusion
+  interbody fusion
+interbody fusion
+  fusion~5 interbody
+  interb
+  fusion~3 cage
+  fusion~3 cages
+  fusion with crescent cage
+posterior lumbosacral interbody fusion
+  l5-s1 transforaminal~2 interbody fusion
+  l5-s1 interbody fusion
+  interbody fusion~12 l5-s1
+percutaneous coronary intervention  
+  ptca
+  percutaneous transluminal coronary angioplasty
+  dilation of heart and great vessels
+previously placed
+  previously deployed
+  widely patent
+prostatectomy
+pulmonary vein isolation
+  atrial fibrillation
+pulmonary valve repair
+  annuloplasty~2 pulmonary valve
+  pulmonary annulus repair
+  pulmonic valve repair
+pregnancy
+  pregnant
+  gestation
+  gestational
+  cesarean section
+  antepartum
+  term newborn delivered
+  complicating pregnancy
+  induction of labor
+  baby a
+  pregnant
+  labor
+  deliver~4 infant
+  birth weight
+  c-section
+  full term intrauterine pregnancy
+  transverse cesarean section
+  iol
+  obstetrics
+pyeloplasty
+  repair~3 kidney
+reattachment
+  replantation
+  tenodesis
+reduction
+  reposition
+release
+  adhesiolysis
+  adhesion lysis
+  lysis of adhesions
+  lysis of adhesion
+  adhesions~3 taken down
+  decortication
+  decorticate
+  decompressive laminectomy
+  decompression
+  decompressing
+  no further compression
+  take down~3 adhesions
+  ureterolysis
+  lysis
+  lysed
+  released
+  carpal tunnel release
+  cubital tunnel release
+  frenulotomy
+  freeing 
+  mobilization
+  capsulotomy
+  takedown
+  taking the adhesions down
+release trigger finger
+  trigger finger release
+  release trigger thumb
+  trigger thumb release
+remdesivir
+  remdesvir
+  remdesevir
+  remedisvir
+removal
+  extubation of endotracheal tube
+  retrieval
+  extraction
+  explanted
+  revision
+  explant
+  explantation
+  explanted
+  exchange
+  exchanged
+  removed
+  remove
+  change
+  replacement
+removal pacemaker
+  generator change
+repair
+  suture laceration
+  suture
+  sutures
+  stitches
+  close the defect
+  closed the defect
+  repaired
+  herniorrhaphy
+  recession
+  reclosure
+  valvulopasty
+  reapproximated
+  simple repair
+  2-0 chromic
+  2 0 chromic
+  2-0 vicryl
+  2 0 vicryl
+  3-0 chromic
+  3-0 vicryl
+  3-0 silk sutures
+  3-0 vicryl sutures
+  4-0 vicryl
+  4-0 chromic
+  4-0 vicryl and 4.0 chromic
+  5-0 chromic
+  layered fashion
+  wound closure
+  wound repair
+  staples
+  laceration repair
+replacement
+  revision femoral component
+  revision
+  apligraf
+  transplant
+  total knee arthroplasty
+  total shoulder arthroplasty
+  arthroplasty
+  arthroplasties
+  total knee replacement
+  total knee
+  knee replacement
+  partial knee replacement
+  total shoulder replacement
+  total shoulder
+  reverse shoulder arthroplasty
+  hemiarthroplasty
+  full thickness skin graft
+  bone bank bone graft to fill the defect
+  keratoplasty of cornea with donor matched cornea
+  saline breast implants
+  gore-tex graft replacement
+  tram flap reconstruction
+  valve replacement
+  prosthetic lens insertion
+  phacoemulsification with intraocular lens implant
+  makoplasty
+reposition
+  reduction
+  reduced
+  resection~2 extraocular muscle
+  resection~2 lateral rectus
+  resected~2 lateral rectus
+  extraocular muscle~2 resection
+  extraocular muscle~2 resected
+  lateral rectus~2 resected
+  lateral rectus~2 resection
+  dislodged
+  transposition
+  transpositional
+  tendon transfers
+  tendon transfer
+  im nailing
+  intramedullary nail fixation
+  suspension
+  correction
+  sling 
+  advancement
+  kyphoplasty
+  vertebral augmentation
+  hangback suture
+reservoir
+  port
+  power injectable mediport
+resection
+  resect
+  resected
+  radical~4 diskectomy
+  radical~4 discectomy
+  lobectomy
+  corpectomy
+  colectomy
+  completely eviscerated
+  complete discectomy
+  thorough discectomy
+  deep diskectomy
+  disc in its entirety
+  appendectomy
+  cholecystectomy
+  total removal
+  hysterectomy
+  hystsersectomy
+  salpingectomy
+  oophorectomy
+  oophorectomies
+  salpingo-oophorectomy
+  salpingo-oophorectomies
+  salpingo oophorectomy
+  salpingo oophorectomies
+  total mastectomy
+  total gastrectomy
+  total lobectomy
+  right hemicolectomy
+  nephroureterectomy
+  radical prostatectomy
+  lymphadenectomy
+  total~4 diskectomy
+  complete~4 diskectomy
+  incised and emptied
+  laparoscopic cholecystectomy with intraoperative cholangiogram
+  circumcision
+  prostatectomy
+  nephrectomy
+  regional d2 lymphadenectomy
+  harvested clearing
+  wedge resection
+respiratory capacity
+  vital capacity
+  vc
+  fvc
+respiratory flow
+  flow volume
+respiratory isolation
+  covid isolation
+  isolated~3 covid
+respiratory ventilation
+  mechanical ventilation
+restriction
+  cerclage
+  banding
+  clipping
+  clip
+  restrictive stent
+  placement~5 coil
+  placement~5 coils
+  coil placement
+  coils placement
+  endograft
+  endologix
+  stent-graft
+  gore tag
+  zenith renu
+  bifurcated modular device
+retrograde pyelogram
+  pyelogram
+  pyelography
+retrograde ureteropyelograms
+  fluoroscopy of kidneys, ureters and bladder
+  retrograde ureteropyelogram
+revision
+  adjustment of postion
+  closed reduction prosthetic
+  external repositioning of foley 
+  adjustment or repair of pacemaker lead
+  exchange of a component of heart device
+  lengthening of growing rods
+  revision of gastric banding
+  repair with reinsertion 
+  repair with reinsertion of stimulator generator
+  repositioning of vad reservoir
+  repair of joint prosthesis of previous knee replacement
+  trimming and reanastomosis
+  reanastomosis
+right
+  rt
+right atrium
+  right atrial
+  ra
+  atrium dextrum cordis
+  right auricular appendix
+  sinus venousus
+  atrium right
+  atrial right
+  atrium,right 
+right and left cardiac catheterization
+  left and right cardiac catheterization
+  right and left heart catheterization
+  left and right heart catheterization
+right hepatic duct
+  right intrahepatic duct
+right retrograde pyelogram
+  right ureteroscopic~6 retrograde pyelogram
+  right ureter~6 retrograde pyelogram
+  right ureteral~6 retrograde pyelogram
+  right ureters~6 retrograde pyelogram
+  right ureteroscopy~6 retrograde pyelogram
+  cystoscopy right pyelogram
+right colon
+  right large intestine
+right total knee
+  bilateral total knee
+right ventricle
+  right ventricular
+  ventricular
+  conus arteriosus
+right leg
+  right thigh
+right lower lobe
+  rll
+right middle lobe
+  rml
+right pulmonary artery
+  right pulmonary arterial
+  bilateral pulmonary artery
+  bilateral pulmonary arterial
+right upper leg subcutaneous collection
+  right thigh subcutaneous collection
+  right hip subcutaneous collection
+  bilateral upper leg subcutaneous collection
+  bilateral thigh subcutaneous collection
+  bilateral hip subcutaneous collection
+right upper lobe
+  rul
+robotic-assisted
+  robotic assisted
+  robotic-assistance
+  robotic assistance
+  robotic-assist
+  robotic assist
+  robot-assisted
+  robot assisted
+  robot-assistance
+  robot assistance
+  robot-assist
+  robot assist
+  robotic surgery
+  robotic
+  da vinci
+  da vinci robot
+  da vinci xi robot
+  da vinci robotic
+  mako robotic assisted
+  robot
+  video-assisted
+  video assisted
+  assisted robotic
+  assistance robotic
+  assist robotic
+  assisted robot
+  assistance robot
+  assist robot
+robotic hysterectomy
+  laparoscopic hysterectomy~3 robot assisted
+  laparoscopic hysterectomy~3 robotic assisted
+  laparoscopic hysterectomy~3 robotic-assistance
+  laparoscopic hysterectomy~3 robotic assistance
+  laparoscopic hysterectomy~3 robotic-assist
+  laparoscopic hysterectomy~3 robotic assist
+  laparoscopic hysterectomy~3 robot-assisted
+  laparoscopic hysterectomy~3 robot-assistance
+  laparoscopic hysterectomy~3 robot assistance
+  laparoscopic hysterectomy~3 robot-assist
+  laparoscopic hysterectomy~3 robot assist
+  laparoscopic hysterectomy~3 robotic surgery
+roux-en-y gastric bypass
+  roux en y gastric bypass
+salpingectomy
+  salpingo
+  resection fallopian tubes
+  resection fallopian tube
+  salpingo-oophorectomy
+  salpingo-oophorectomies
+  salpingo oophorectomy
+  salpingo oophorectomies
+salpingo-oophorectomy
+  salpingo-oophorectomies
+  salpingo oophorectomy
+  salpingo oophorectomies
+  salpingectomy~4 oophorectomy
+  salpingectomy~4 oophorectomies
+saphenous vein
+  saphenous veins
+  external pudendal vein
+  great saphenous vein
+  greater saphenous vein
+  lesser saphenous vein
+  small saphenous vein
+  superficial circumflex iliac vein
+  superficial epigastric vein
+second-degree
+  second degree
+  second degree laceration
+  second degree lac
+  second deree midline laceration
+  second-degree laceration
+  second-degree lac
+  second-deree midline laceration
+  2nd degree
+  2 degree
+  2nd degree lac
+  2nd degree laceration
+  2nd-degree
+  2-degree
+  vaginal wall
+  vagina wall
+serum, toxoid and vaccine
+  toxoid
+  hepatitis b pediatric vaccine
+  hepatatis b vaccine
+  hepatatis b vaccine given
+  hepatitis b vaccine{ped}:
+  tetanus vaccine
+  tetanus: given today
+  tdap
+  pneumococcal vaccine
+  pneumonia vaccine
+  rhogam
+  anti-d immune globulin
+selective coronary angiography
+  coronary angiogram
+  coronary angiography
+  coronary arteriography
+  coronary arteriogram
+  coronary cineangiography
+  angiography native right and left coronary arteries
+  angiography native left and right coronary arteries
+  selective coronary arteriography
+  selective angiography
+  selective coronary
+  right and left selective coronary arteriography
+  right and left coronary arteriography
+  Left and right coronary angiography
+  left right coronary angiography
+  Left and right selective coronary angiography
+  left and right catheters~5 coronary angiogram
+  right and left catheters~5 coronary angiogram
+  bilateral coronary angiography
+short-arm cast
+  short-arm cast
+short-arm splint
+  short arm splint
+  ocl
+  sugar tong
+sigmoid colon
+  sigmoid flexure
+  sigmoid
+  splenic flexure
+  rectosigmoid
+  recto-sigmoid
+  recto-sigmoid colon
+  low anterior
+sigmoidoscopy
+  proctoscopy
+  colonoscopy
+sigmoidectomy
+  excision~2 sigmoid colon
+  low anterior resection
+single chamber
+  single lead
+single chamber rate responsive
+  single lead rate responsive
+small intestine
+  jejunum
+  ileum
+  small bowel
+  small and large bowel
+stomach
+  gastric
+  gastric fundus
+  gastric body
+  gastric antrum
+  stomach antrum
+  antrum
+  gastro
+  antral
+  gastrectomy
+  gastritis
+stomach to ileum
+  gastric~2 ileum
+  stomach~2 ileum
+stomach, pylorus
+  stomach canal
+  gastric canal
+  stomach sphincter
+  gastric sphincter
+  pyloric antrum
+  pyloric canal
+  pyloric sphincter
+  pyloric
+  pylorus
+  pre-pylorus
+  pre-pyloric
+stress test
+  stress testing
+  lexiscan
+  lexiscan stress
+  lexiscan cardiolite stress test
+  myocardial perfusion scan
+  myocardial perfusion study
+  myocardial perfusion imaging
+  nuclear myocardial perfusion study
+  nuclear study
+  treadmill stress nuclear perfusion scan
+  treadmill stress perfusion exam
+subcutaneous tissue and fascia
+  subcutaneous
+  subcutaneous tissue
+  fascia
+  subcutaneous pocket
+  fat graft
+  necrosis devitalized tissue
+  cutaneous incision
+supplement
+  reinforcement
+  implantation~5 mesh
+  repair with mesh
+  covered
+  patch
+  bovine patchplasty
+  patch angioplasty
+  bone graft
+  annuloplasty
+  marlex plug
+  autograft nerve graft
+  tendon graft
+  exchange of liner
+  implantation~5 CorCap cardiac support device
+  keratoplasty~5 cornea using autograft
+  hernia repair~5 mesh
+  resurfacing
+  reconstruction~5 patch
+  kyphoplasty
+superior vena cava
+  svc
+  scv/caj
+  svc-caj
+  svc/ra
+  svc/right atrial junction
+  distal svc
+  cavoatrial junction
+  catheter in the svc
+  superior atrial caval junction
+  superior vena cava/cavoatrial junction
+  superior vena cava-cavoatrial junction
+  superior vena cava/cavoatrial junction(svc/caj)
+  tip~5 at the level of the cavoatrial junction
+  tip~5 at the level of the superior vena cava
+  tip~5 at the level of the svc
+  atriocaval junction
+  tip~5 at the level of the atriocaval junction
+  tip~5 superior vena cava
+  tip~5 svc
+suture
+  sutures
+synthetic substitute
+  marlex plug
+  annuloplasty ring
+  bone cement
+  composite
+  stainless steel crown
+  stainless steel crowns
+  gynemesh
+  ptfe
+  thermafix
+  thermafix pericardial value
+  physio ii ring
+  propatent graft
+  polytetrafluoroethylene
+  hero
+  semirigid rod prosthesis
+  mesh
+  mitraclip
+  mitraclips
+  abiocor
+  prosthesis
+  prodisc-c
+  prodisc-l
+  pmma
+  prestige cervical disc
+  proceed ventral patch
+  amplatzer muscular vsd occluder
+  annuloplasty ripening
+  bard composix
+  mesh patch
+  kugel patch
+  bard dulex mesh
+  bard ventralex hernia patch
+  bryan cervical disc system
+  ex-press mini glaucoma shunt
+  flexible composite mesh
+  gore dualmesh
+  holter valve ventricular shunt
+  nitinol framed polymer mesh
+  open pivot valve
+  open pivot aortic valve-graft
+  open pivot avg
+  partially absorbable mesh
+  prolene polypropylene hernia system
+  prolene phs
+  rebound hrd
+  syncardia total artificial heart
+  total artificial heart 
+  ultrapro hernia system
+  uhs
+  ultrapro 
+  ventrio
+  zimmer nexgen 
+  zimmer
+synthetic substitute, patellofemoral
+  arthroplasty total knee
+synthetic substitute, unicondylar medial
+  arthroplasty medial
+synthetic substitute, unicondylar lateral
+  arthroplasty lateral 
+tympanostomy tube placement
+  eustachian tube placement
+  tympanostomy tube replacement
+  eustachian tube replacement
+  ear tube placement
+  ear tube replacement
+  ear tube insertion
+  myringotomy~3 ventilation tube placement
+  myringotomy~3 tube insertion
+  myringotomy~3 ventilation tube insertion
+  myringotomy~3 tube placemant
+  myringotomy~3 tubes
+tavr
+  transcatheter aortic valve replacement
+  transcatheter aortic valve implantation
+  transfemoral aortic valve replacement
+  transfemoral aortic valve-in-valve replacement
+  tavi
+  percutaneous aortic valve placement
+  percutaneous aortic valve replacement
+  percutaneous transfemoral aortic valve replacement
+tevar
+  thoracic endovascular aortic repair
+tee
+  transesophageal echocardiography
+  transesophageal echocardiogram
+  transesophageal echo
+therapeutic
+  fluid~4 discarded
+third degree
+  3rd degree
+  anal sphincter
+thoracentesis
+  management~2 pleural effusion
+  drainage~2 pleural effusion
+thoracic aorta
+thoracic aorta, descending
+  descending thoracic aorta
+  descending aorta
+thoracic aorta, ascending/arch
+  ascending thoracic aorta
+  aortic arch
+  ascending aorta
+thoracic artery
+  lita
+three-dimensional mapping
+  three dimensional mapping
+  3d electroanatomic mapping
+  3-dimensional map
+  3-dimensional mapping
+  3-d mapping
+  3 d mapping
+  3-d intracardiac mapping
+  3 d intracardiac mapping
+  3d mapping
+  carto electroanatomic mapping
+  bundle recording
+three drug-eluting stents
+  three drug eluting
+  3 drug-eluting
+  3 drug eluting
+  three des
+  3 des
+thyroid lobectomy
+  resection~3 thyroid gland lobe
+  excision~3 thyroid gland lobe
+tied
+  tie
+times 2
+  x2
+  times 3~4 left internal mammary artery
+times 3
+  x3
+  times 4~4 left internal mammary artery
+times 4 or more
+  x4
+  times 4
+  x5
+  times 5
+tips
+  portosystemic shunt, transvenous intrahepatic
+  portosystemic shunt
+tpa
+  angiomax
+  bivalirudin
+  thrombin inhibitor
+  tissue plasminogen activator
+tocilizumab
+  toci
+tonsillectomy
+  resection~3 tonsils
+  adenotonsillectomy
+tracheoscopy
+  inspection~2 trachea
+transfer
+  fasciocutaneous flap closure
+  flap closure
+  advancement flap
+  pedicle flap
+  reconstruction
+transfusion of blood
+  transfused
+  transfuse
+  transfusion data
+transfusion
+  transfused
+  transfuse
+  transfusing
+  transfusion data
+  received
+  did receive
+  required
+  given today
+  administered
+  blood product
+  1 unit
+  2 units
+  2 more units
+  second unit
+  multiple units
+  was given~3 units
+  started on~3 convalescent 
+transplantation
+  transplant
+transverse colon
+  transverse
+  hepatic flexure
+  splenic flexure
+transurethral resection of prostate
+  turp
+tubal ligation
+  female sterilization
+  fallopian tube tied
+  fallopian tubes tied
+turb
+  transurethral resection of bladder
+  turbt
+  transurethral resection of bladder tissue
+tracheostomy tube
+tricuspid valve repair  
+  annuloplasty~2 tricuspid valve
+  right atrioventricular valve repair
+  tricuspid annulus repair
+trunk region
+  hiatal hernia
+  hernia
+  esophagus
+  enterocele
+  bladder
+  chest
+  stomach
+  abdominal cavity
+  abdomen
+  gastric
+  shoulder
+  shoulders
+  abdomen
+  heart
+  lungs
+  liver
+  gallbladder
+  kidney
+  pelvic
+  renal pelvis
+  urteter
+  ureter
+  uterus
+  uterine
+  vaginal
+  vagina
+  intertines
+  bowels
+  sigmoid
+  colon
+  splenic flexure
+  rectum
+  prostate
+  thoracic
+  thoracic surgery
+  small intestine
+  small bowel
+  large bowel
+  large intestine
+  omentum
+  lysis of adhesion
+  lysis of adhesions
+  bronchoscopy
+  lobectomy
+  colectomy
+  hemicolectomy
+  cystectomy
+  colpopexy
+  cystourethroscopy
+  gastric bypass
+  low anterior resection
+  prostatectomy
+  pancreatectomy
+  nephroureterectomy
+  hysterectomy
+toupet fundoplication
+  nissen fundoplication
+  fundoplication wrap
+total hip arthroplasty
+  total hip replacement
+two drug-eluting stents
+  two drug eluting
+  2 drug-eluting
+  2 drug eluting
+  two des
+  2 des
+  drug-eluting stent 2.5x15 and 2.5x38
+ultrasonography
+  ultrasound
+  ecg
+  ecc
+  echocardiogram
+  doppler
+  ultrasound utilized: yes
+uncemented
+  press-fit
+  press fit
+  impacted
+upper arm
+  arm
+  shoulder
+  medial epicondyle
+subclavian artery
+  costocervical trunk
+  dorsal scapular artery
+  internal thoracic artery
+upper artery
+  aortic intercostal artery
+  bronchial artery
+  esophageal artery
+  subcostal artery
+  arteriovenous
+  fistulography
+  mammary artery
+  mammary arteries
+  innominate artery
+  innominate arteries
+  subclavian arteries
+  subclavian artery
+  axillary artery
+  axillary arteries
+  axillary
+  brachial artery
+  brachial arteries
+  ulnar artery
+  ulnar arteries
+  radial artery
+  radial arteries
+  radial access
+  hand artery
+  hand arteries
+  intracranial artery
+  intracranial arteries
+  common carotid artery
+  common carotid arteries
+  external carotid artery
+  external carotid arteries
+  vertebral artery
+  vertebral arteries
+  face artery
+  face arteries
+  temporal artery
+  temporal arteries
+  thyroid artery
+  thyroid arteries
+  internal carotid artery
+  internal carotid arteries
+  radial/femoral
+external carotid artery
+  external carotid
+  ascending pharyngel artery
+  internal maxillary artery
+  lingual artery
+  maxillary artery
+  occipital artery
+  posterior auricular artery
+  superior thyroid artery
+internal carotid artery
+  ica
+  internal carotid
+  caroticotympanic artery
+  carotid sinus
+upper lobe bronchus
+  rul bronchus
+  lul bronchus
+vertebral artery
+  anterior spinal artery
+  posterior spinal artery
+upper esophagus
+  upper third of esophagus
+  upper third~5 esophagus
+  upper 3rd of esophagus
+  esophagus upper third
+  esophagus upper 3rd
+  esophageal upper third
+  esophageal upper 3rd
+  esophageal upper
+  upper esophageal
+  upper esophagus
+  cervical esophagus
+  upper third of esophagus
+  upper third~2 esophagus
+  upper 3rd of esophagus
+  esophagus upper third
+  esophagus upper 3rd
+  esophageal upper third
+  esophageal upper 3rd
+  esophageal upper
+upper leg
+  thigh
+  hip
+left ureteral calculus
+  lt ureteral calculus
+  left ureteral stone
+  lt ureteral stone
+  left ureter stone
+  lt urter stone
+  left jj
+  left ureteropelvic junction
+  calculus left ureteral
+  calculus lt ureteral
+  calculus left urter
+  calculus lt urter
+  stone left ureteral
+  stone left urter
+right ureteral calculus
+  rt ureteral calculus
+  right ureteral stone
+  rt ureteral stone
+  right ureter stone
+  rt urter stone
+  right jj
+  right ureteropelvic junction
+  calculus right ureteral
+  calculus rt ureteral
+  calculus right urter
+  calculus rt urter
+  stone right ureteral
+  stone right urter
+vaginal delivery
+  delivery type: vaginal
+  baby a - delivery type: vaginal
+  vaginal~5 delivery
+  delivery~5 vaginal
+  spontaneous vaginal delivery
+  svd
+  nsvd
+  vaginal birth
+vacuum-assisted 
+  vacuum assisted
+  vacuum assistance
+  vacuum
+  vacuum assist
+  vacuum extraction
+vascular access device
+  tunneled catheter
+  tunneled cath
+  tunneled dialysis catheter
+  tunneled hemodialysis catheter
+  tunneled~4 dialysis catheter
+  tunneled~4 hemodialysis catheter
+  tunneled~4 hickman catheter
+  catheter~3 tunneled
+  tunnelled catheter
+  tunnelled cath
+  tunnelled dialysis catheter
+  tunnelled hemodialysis catheter
+  tunnelled~4 dialysis catheter
+  tunnelled~4 hemodialysis catheter
+  tunnelled~4 hickman catheter
+  catheter~3 tunnelled
+  catheter was tunnelled
+  create a good tunnel
+vasopressor
+  dobutamine
+  dopamine
+  isoproten
+  phenylephrine
+  vasopressin
+  levophoid
+  neo drip
+vaping-related
+  vaping related
+venogram
+  venography
+ventriculogram
+  angiogram left heart
+  lv gram
+  lv angiogram
+  left ventricular pressure
+  left ventriculogram
+  ventriculography
+  ventricular angiography
+  lv~4 pressures 
+  lv~4 pressure
+  left ventricular pressures
+  left ventricular pressure
+  ventricular pressure
+  ventricular pressures
+ventriculostomy
+  external ventricular drain
+  external ventricular catheter
+verebelyi-ogston procedure
+  talus decancellation
+  calcaneocuboid arthrodesis
+vertical sleeve gastrectomy
+  sleeve gastrectomy
+  sleeve gastric resection
+  gastric resection vertical
+  gastric sleeve
+  gastrectomy partial
+  gastrectomy sleeve
+  gastrectomy partial
+  partial gastrectomy
+watchman  
+  exclusion of left atrial appendage
+  occlusion pf left atrial appendage
+zooplastic tissue
+  sapien
+  sapien s3 valve
+  sapien 3 ultra valve 
+  sapien transcatheter aortic valve
+  zooplastic
+  zoograft
+  xenograft
+  porcine
+  bovine
+  bovine pericardial valve
+  bovine pericardium graft
+  pericardial bovine patch
+  bioprosthesis
+  insipiris aortic valve
+  inspiris resilia
+  edwards inspiris resilia
+  3f bioprosthesis valve
+  hancock
+  mosaic bioprosthesis
+  carpentier-edwards magna ease valve
+  contegra
+  contegra pulmonary valved conduit
+  corevalve
+  epic stented tissue valve
+  freestyle aortic root bioprosthesis
+  hancock
+  hancock bioprosthesis valve
+  hancock bioprosthetic valved conduit
+  melody
+  melody transcatheter pulmonary valve
+  mitroflow
+  mitroflow aortic pericardial heart valve
+  mosaic bioprosthesis valve
+  sjm biocor
+  sjm biocor stented valve system
+  stented tissue valve
+  trifecta

@@ -1,0 +1,1451 @@
+30230AZ* [transfusion] {embryonic stem cells} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230C0	 [transfusion] `autologous hematopoietic stem/progenitor cells` {genetically modified} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous] 
+30233C0	 [transfusion] `autologous hematopoietic stem/progenitor cells` {genetically modified} `peripheral vein` {percutaneous} 
+30240C0	 [transfusion] `autologous hematopoietic stem/progenitor cells` {genetically modified} `central vein` & ![percutaneous endoscopic] & ![percutaneous] 
+30243C0	 [transfusion] `autologous hematopoietic stem/progenitor cells` {genetically modified} `central vein` {percutaneous} 
+30230G0* [transfusion] {autologous} {bone marrow} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230G2* [transfusion] {allogeneic} {related} {bone marrow} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230G3* [transfusion] {allogeneic} {unrelated} {bone marrow} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230G4* [transfusion] {allogeneic} {bone marrow} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230H0* [transfusion] {autologous} `whole blood` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230H1* [transfusion] {nonautologous} `whole blood` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230J0* [transfusion] {autologous} `serum albumin` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230J1* [transfusion] {nonautologous} `serum albumin` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230K0* [transfusion] {autologous} `frozen plasma` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230K1* [transfusion] {nonautologous} `frozen plasma` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230L0* [transfusion] {autologous} `fresh plasma` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230L1* [transfusion] {nonautologous} `fresh plasma` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230M0* [transfusion] {autologous} `plasma cryoprecipitate` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230M1* [transfusion] {nonautologous} `plasma cryoprecipitate` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230N0* [transfusion] {autologous} `red blood cells` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230N1* [transfusion] {nonautologous} `red blood cells` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230P0* [transfusion] {autologous} `frozen red cells` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230P1* [transfusion] {nonautologous} `frozen red cells` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230Q0* [transfusion] {autologous} `white cells` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230Q1* [transfusion] {nonautologous} `white cells` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230R0* [transfusion] {autologous} `platelets` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230R1* [transfusion] {nonautologous} `platelets` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230S0* [transfusion] {autologous} `globulin` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230S1* [transfusion] {nonautologous} `globulin` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230T0* [transfusion] {autologous} `fibrinogen` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230T1* [transfusion] {nonautologous} `fibrinogen` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230U2	 [transfusion] {allogeneic} {related} `t cell depleted` {hematopoietic stem cells} `peripheral vein`& [open procedure]	
+30230U3  [transfusion] {allogeneic} {unrelated} `t cell depleted` {hematopoietic stem cells} `peripheral vein` & [open procedure]	
+30230U4  [transfusion] {allogeneic} `t cell depleted` {hematopoietic stem cells} `peripheral vein` & [open procedure]	
+30230V0* [transfusion] {autologous} `antihemophilic factors` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230V1* [transfusion] {nonautologous} `antihemophilic factors` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230W0* [transfusion] {autologous} `factor ix` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230W1* [transfusion] {nonautologous} `factor ix` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230X0* [transfusion] {autologous} `cord blood stem cells` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230X2* [transfusion] {allogeneic} {related} `cord blood stem cells` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230X3* [transfusion] {allogeneic} {unrelated} `cord blood stem cells` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230X4* [transfusion] {allogeneic} `cord blood stem cells` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230Y0* [transfusion] {autologous} `hematopoietic stem cells` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230Y2* [transfusion] {allogeneic} {related} `hematopoietic stem cells` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230Y3* [transfusion] {allogeneic} {unrelated} `hematopoietic stem cells` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30230Y4* [transfusion] {allogeneic} `hematopoietic stem cells` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+30233AZ* [transfusion] {embryonic stem cells} `peripheral vein` {percutaneous}
+30233G0* [transfusion] {autologous} {bone marrow} `peripheral vein` {percutaneous}
+30233G2* [transfusion] {allogeneic} {related} {bone marrow} `peripheral vein` {percutaneous}
+30233G3* [transfusion] {allogeneic} {unrelated} {bone marrow} `peripheral vein` {percutaneous}
+30233G4* [transfusion] {allogeneic} {bone marrow} `peripheral vein` {percutaneous}
+30233H0* [transfusion] {autologous} `whole blood` `peripheral vein` {percutaneous}
+30233H1  [transfusion] `whole blood`
+30233J0* [transfusion] {autologous} `serum albumin` `peripheral vein` {percutaneous}
+30233J1  [transfusion] `serum albumin`
+30233K0* [transfusion] {autologous} `frozen plasma` `peripheral vein` {percutaneous}
+30233K1  [transfusion] `frozen plasma`
+30233L0* [transfusion] {autologous} `fresh plasma` `peripheral vein` {percutaneous}
+30233L1  [transfusion] `fresh plasma`
+30233M0* [transfusion] {autologous} `plasma cryoprecipitate` `peripheral vein` {percutaneous}
+30233M1  [transfusion] `plasma cryoprecipitate`
+30233N0* [transfusion] {autologous} `red blood cells` `peripheral vein` {percutaneous}
+30233N1  [transfusion] `red blood cells` !{past status}
+30233P0  [transfusion] `frozen red cells` {autologous}
+30233P1  [transfusion] `frozen red cells` !{autologous}
+30233Q0* [transfusion] {autologous} `white cells` `peripheral vein` {percutaneous}
+30233Q1  [transfusion] `white cells`
+30233R0* [transfusion] {autologous} `platelets` `peripheral vein` {percutaneous}
+30233R1  [transfusion] `platelets`
+30233S0* [transfusion] {autologous} `globulin` `peripheral vein` {percutaneous}
+30233S1  [transfusion] `globulin`
+30233T0* [transfusion] {autologous} `fibrinogen` `peripheral vein` {percutaneous}
+30233T1  [transfusion] `fibrinogen`
+30233__  [transfusion of blood] !`whole blood` !`serum albumin` !`fresh plasma` !`plasma cryoprecipitate` !`red blood cells` !`platelets` !`globulin` !`frozen red cells` !`plasma cryoprecipitate` "Partial Coding"
+30233U2* transfusion of allogeneic related t cell depleted hematopoietic stem cells into peripheral vein, percutaneous approach	
+30233U3* transfusion of allogeneic unrelated t cell depleted hematopoietic stem cells into peripheral vein, percutaneous approach	
+30233U4* transfusion of allogeneic unspecified t cell depleted hematopoietic stem cells into peripheral vein, percutaneous approach	
+30233V0* [transfusion] {autologous} `antihemophilic factors` `peripheral vein` {percutaneous}
+30233V1  [transfusion] `antihemophilic factors`
+30233W0* [transfusion] {autologous} `factor ix` `peripheral vein` {percutaneous}
+30233W1  [transfusion] `factor ix`
+30233X0* [transfusion] {autologous} `cord blood stem cells` `peripheral vein` {percutaneous}
+30233X2* [transfusion] {allogeneic} {related} `cord blood stem cells` `peripheral vein` {percutaneous}
+30233X3* [transfusion] {allogeneic} {unrelated} `cord blood stem cells` `peripheral vein` {percutaneous}
+30233X4* [transfusion] {allogeneic} `cord blood stem cells` `peripheral vein` {percutaneous}
+30233Y0* [transfusion] {autologous} `hematopoietic stem cells` `peripheral vein` {percutaneous}
+30233Y2* [transfusion] {allogeneic} {related} `hematopoietic stem cells` `peripheral vein` {percutaneous}
+30233Y3* [transfusion] {allogeneic} {unrelated} `hematopoietic stem cells` `peripheral vein` {percutaneous}
+30233Y4* [transfusion] {allogeneic} `hematopoietic stem cells` `peripheral vein` {percutaneous}
+30240AZ* [transfusion] {embryonic stem cells} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240G0* [transfusion] {autologous} {bone marrow} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240G2* [transfusion] {allogeneic} {related} {bone marrow} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240G3* [transfusion] {allogeneic} {unrelated} {bone marrow} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240G4* [transfusion] {allogeneic} {bone marrow} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240H0* [transfusion] {autologous} `whole blood` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240H1* [transfusion] {nonautologous} `whole blood` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240J0* [transfusion] {autologous} `serum albumin` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240J1* [transfusion] {nonautologous} `serum albumin` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240K0* [transfusion] {autologous} `frozen plasma` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240K1* [transfusion] {nonautologous} `frozen plasma` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240L0* [transfusion] {autologous} `fresh plasma` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240L1* [transfusion] {nonautologous} `fresh plasma` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240M0* [transfusion] {autologous} `plasma cryoprecipitate` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240M1* [transfusion] {nonautologous} `plasma cryoprecipitate` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240N0* [transfusion] {autologous} `red blood cells` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240N1* [transfusion] {nonautologous} `red blood cells` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240P0* [transfusion] {autologous} `frozen red cells` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240P1* [transfusion] {nonautologous} `frozen red cells` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240Q0* [transfusion] {autologous} `white cells` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240Q1* [transfusion] {nonautologous} `white cells` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240R0* [transfusion] {autologous} `platelets` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240R1* [transfusion] {nonautologous} `platelets` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240S0* [transfusion] {autologous} `globulin` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240S1* [transfusion] {nonautologous} `globulin` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240T0* [transfusion] {autologous} `fibrinogen` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240T1* [transfusion] {nonautologous} `fibrinogen` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240U2*	transfusion of allogeneic related t cell depleted hematopoietic stem cells into central vein, open approach	
+30240U3*	transfusion of allogeneic unrelated t cell depleted hematopoietic stem cells into central vein, open approach	
+30240U4*	transfusion of allogeneic unspecified t cell depleted hematopoietic stem cells into central vein, open approach	
+30240V0* [transfusion] {autologous} `antihemophilic factors` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240V1* [transfusion] {nonautologous} `antihemophilic factors` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240W0* [transfusion] {autologous} `factor ix` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240W1* [transfusion] {nonautologous} `factor ix` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240X0* [transfusion] {autologous} `cord blood stem cells` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240X2* [transfusion] {allogeneic} {related} `cord blood stem cells` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240X3* [transfusion] {allogeneic} {unrelated} `cord blood stem cells` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240X4* [transfusion] {allogeneic} `cord blood stem cells` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240Y0* [transfusion] {autologous} `hematopoietic stem cells` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240Y2* [transfusion] {allogeneic} {related} `hematopoietic stem cells` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240Y3* [transfusion] {allogeneic} {unrelated} `hematopoietic stem cells` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30240Y4* [transfusion] {allogeneic} `hematopoietic stem cells` `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+30243AZ* [transfusion] {embryonic stem cells} `central vein` {percutaneous}
+30243G0* [transfusion] {autologous} {bone marrow} `central vein` {percutaneous}
+30243G2* [transfusion] {allogeneic} {related} {bone marrow} `central vein` {percutaneous}
+30243G3* [transfusion] {allogeneic} {unrelated} {bone marrow} `central vein` {percutaneous}
+30243G4* [transfusion] {allogeneic} {bone marrow} `central vein` {percutaneous}
+30243H0* [transfusion] {autologous} `whole blood` `central vein` {percutaneous}
+30243H1* [transfusion] {nonautologous} `whole blood` `central vein` {percutaneous}
+30243J0* [transfusion] {autologous} `serum albumin` `central vein` {percutaneous}
+30243J1* [transfusion] {nonautologous} `serum albumin` `central vein` {percutaneous}
+30243K0* [transfusion] {autologous} `frozen plasma` `central vein` {percutaneous}
+30243K1* [transfusion] {nonautologous} `frozen plasma` `central vein` {percutaneous}
+30243L0* [transfusion] {autologous} `fresh plasma` `central vein` {percutaneous}
+30243L1* [transfusion] {nonautologous} `fresh plasma` `central vein` {percutaneous}
+30243M0* [transfusion] {autologous} `plasma cryoprecipitate` `central vein` {percutaneous}
+30243M1* [transfusion] {nonautologous} `plasma cryoprecipitate` `central vein` {percutaneous}
+30243N0* [transfusion] {autologous} `red blood cells` `central vein` {percutaneous}
+30243N1* [transfusion] {nonautologous} `red blood cells` `central vein` {percutaneous}
+30243P0* [transfusion] {autologous} `frozen red cells` `central vein` {percutaneous}
+30243P1* [transfusion] {nonautologous} `frozen red cells` `central vein` {percutaneous}
+30243Q0* [transfusion] {autologous} `white cells` `central vein` {percutaneous}
+30243Q1* [transfusion] {nonautologous} `white cells` `central vein` {percutaneous}
+30243R0* [transfusion] {autologous} `platelets` `central vein` {percutaneous}
+30243R1* [transfusion] {nonautologous} `platelets` `central vein` {percutaneous}
+30243S0* [transfusion] {autologous} `globulin` `central vein` {percutaneous}
+30243S1* [transfusion] {nonautologous} `globulin` `central vein` {percutaneous}
+30243T0* [transfusion] {autologous} `fibrinogen` `central vein` {percutaneous}
+30243U2*	transfusion of allogeneic related t cell depleted hematopoietic stem cells into central vein, percutaneous approach	
+30243U3*	transfusion of allogeneic unrelated t cell depleted hematopoietic stem cells into central vein, percutaneous approach	
+30243U4*	transfusion of allogeneic unspecified t cell depleted hematopoietic stem cells into central vein, percutaneous approach	
+30243T1* [transfusion] {nonautologous} `fibrinogen` `central vein` {percutaneous}
+30243V0* [transfusion] {autologous} `antihemophilic factors` `central vein` {percutaneous}
+30243V1* [transfusion] {nonautologous} `antihemophilic factors` `central vein` {percutaneous}
+30243W0* [transfusion] {autologous} `factor ix` `central vein` {percutaneous}
+30243W1* [transfusion] {nonautologous} `factor ix` `central vein` {percutaneous}
+30243X0* [transfusion] {autologous} `cord blood stem cells` `central vein` {percutaneous}
+30243X2* [transfusion] {allogeneic} {related} `cord blood stem cells` `central vein` {percutaneous}
+30243X3* [transfusion] {allogeneic} {unrelated} `cord blood stem cells` `central vein` {percutaneous}
+30243X4* [transfusion] {allogeneic} `cord blood stem cells` `central vein` {percutaneous}
+30243Y0* [transfusion] {autologous} `hematopoietic stem cells` `central vein` {percutaneous}
+30243Y2* [transfusion] {allogeneic} {related} `hematopoietic stem cells` `central vein` {percutaneous}
+30243Y3* [transfusion] {allogeneic} {unrelated} `hematopoietic stem cells` `central vein` {percutaneous}
+30243Y4* [transfusion] {allogeneic} `hematopoietic stem cells` `central vein` {percutaneous}
+30250G0* [transfusion] {autologous} {bone marrow} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250G1* [transfusion] {nonautologous} {bone marrow} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250H0* [transfusion] {autologous} `whole blood` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250H1* [transfusion] {nonautologous} `whole blood` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250J0* [transfusion] {autologous} `serum albumin` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250J1* [transfusion] {nonautologous} `serum albumin` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250K0* [transfusion] {autologous} `frozen plasma` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250K1* [transfusion] {nonautologous} `frozen plasma` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250L0* [transfusion] {autologous} `fresh plasma` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250L1* [transfusion] {nonautologous} `fresh plasma` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250M0* [transfusion] {autologous} `plasma cryoprecipitate` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250M1* [transfusion] {nonautologous} `plasma cryoprecipitate` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250N0* [transfusion] {autologous} `red blood cells` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250N1* [transfusion] {nonautologous} `red blood cells` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250P0* [transfusion] {autologous} `frozen red cells` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250P1* [transfusion] {nonautologous} `frozen red cells` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250Q0* [transfusion] {autologous} `white cells` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250Q1* [transfusion] {nonautologous} `white cells` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250R0* [transfusion] {autologous} `platelets` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250R1* [transfusion] {nonautologous} `platelets` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250S0* [transfusion] {autologous} `globulin` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250S1* [transfusion] {nonautologous} `globulin` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250T0* [transfusion] {autologous} `fibrinogen` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250T1* [transfusion] {nonautologous} `fibrinogen` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250V0* [transfusion] {autologous} `antihemophilic factors` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250V1* [transfusion] {nonautologous} `antihemophilic factors` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250W0* [transfusion] {autologous} `factor ix` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250W1* [transfusion] {nonautologous} `factor ix` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250X0* [transfusion] {autologous} `cord blood stem cells` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250X1* [transfusion] {nonautologous} `cord blood stem cells` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250Y0* [transfusion] {autologous} `hematopoietic stem cells` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30250Y1* [transfusion] {nonautologous} `hematopoietic stem cells` `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+30253G0* [transfusion] {autologous} {bone marrow} 
+30253G1* [transfusion] {bone marrow}
+30253H0* [transfusion] {autologous} `whole blood` `peripheral artery` {percutaneous}
+30253H1* [transfusion] `whole blood` 
+30253J0* [transfusion] {autologous} `serum albumin` `peripheral artery` {percutaneous}
+30253J1* [transfusion] `serum albumin` 
+30253K0* [transfusion] {autologous} `frozen plasma` `peripheral artery` {percutaneous}
+30253K1* [transfusion] `frozen plasma` 
+30253L0* [transfusion] {autologous} `fresh plasma` `peripheral artery` {percutaneous}
+30253L1* [transfusion] `fresh plasma` 
+30253M0* [transfusion] {autologous} `plasma cryoprecipitate` `peripheral artery` {percutaneous}
+30253M1* [transfusion] `plasma cryoprecipitate` 
+30253N0* [transfusion] {autologous} `red blood cells` `peripheral artery` {percutaneous}
+30253N1* [transfusion] `red blood cells` 
+30253P0* [transfusion] {autologous} `frozen red cells` `peripheral artery` {percutaneous}
+30253P1* [transfusion] `frozen red cells` 
+30253Q0* [transfusion] {autologous} `white cells` `peripheral artery` {percutaneous}
+30253Q1* [transfusion] `white cells` 
+30253R0* [transfusion] {autologous} `platelets` `peripheral artery` {percutaneous}
+30253R1* [transfusion] `platelets` 
+30253S0* [transfusion] {autologous} `globulin` `peripheral artery` {percutaneous}
+30253S1* [transfusion] `globulin` 
+30253T0* [transfusion] {autologous} `fibrinogen` `peripheral artery` {percutaneous}
+30253T1* [transfusion] `fibrinogen` 
+30253V0* [transfusion] {autologous} `antihemophilic factors` `peripheral artery` {percutaneous}
+30253V1* [transfusion] `antihemophilic factors` 
+30253W0* [transfusion] {autologous} `factor ix` `peripheral artery` {percutaneous}
+30253W1* [transfusion] `factor ix` 
+30253X0* [transfusion] {autologous} `cord blood stem cells` `peripheral artery` {percutaneous}
+30253X1* [transfusion] `cord blood stem cells` 
+30253Y0* [transfusion] {autologous} `hematopoietic stem cells` `peripheral artery` {percutaneous}
+30253Y1* [transfusion] `hematopoietic stem cells` 
+30260G0* [transfusion] {autologous} {bone marrow} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260G1* [transfusion] {nonautologous} {bone marrow} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260H0* [transfusion] {autologous} `whole blood` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260H1* [transfusion] {nonautologous} `whole blood` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260J0* [transfusion] {autologous} `serum albumin` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260J1* [transfusion] {nonautologous} `serum albumin` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260K0* [transfusion] {autologous} `frozen plasma` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260K1* [transfusion] {nonautologous} `frozen plasma` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260L0* [transfusion] {autologous} `fresh plasma` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260L1* [transfusion] {nonautologous} `fresh plasma` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260M0* [transfusion] {autologous} `plasma cryoprecipitate` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260M1* [transfusion] {nonautologous} `plasma cryoprecipitate` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260N0* [transfusion] {autologous} `red blood cells` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260N1* [transfusion] {nonautologous} `red blood cells` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260P0* [transfusion] {autologous} `frozen red cells` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260P1* [transfusion] {nonautologous} `frozen red cells` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260Q0* [transfusion] {autologous} `white cells` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260Q1* [transfusion] {nonautologous} `white cells` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260R0* [transfusion] {autologous} `platelets` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260R1* [transfusion] {nonautologous} `platelets` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260S0* [transfusion] {autologous} `globulin` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260S1* [transfusion] {nonautologous} `globulin` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260T0* [transfusion] {autologous} `fibrinogen` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260T1* [transfusion] {nonautologous} `fibrinogen` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260V0* [transfusion] {autologous} `antihemophilic factors` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260V1* [transfusion] {nonautologous} `antihemophilic factors` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260W0* [transfusion] {autologous} `factor ix` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260W1* [transfusion] {nonautologous} `factor ix` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260X0* [transfusion] {autologous} `cord blood stem cells` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260X1* [transfusion] {nonautologous} `cord blood stem cells` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260Y0* [transfusion] {autologous} `hematopoietic stem cells` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30260Y1* [transfusion] {nonautologous} `hematopoietic stem cells` `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+30263G0* [transfusion] {autologous} {bone marrow} `central artery` {percutaneous}
+30263G1* [transfusion] {nonautologous} {bone marrow} `central artery` {percutaneous}
+30263H0* [transfusion] {autologous} `whole blood` `central artery` {percutaneous}
+30263H1* [transfusion] {nonautologous} `whole blood` `central artery` {percutaneous}
+30263J0* [transfusion] {autologous} `serum albumin` `central artery` {percutaneous}
+30263J1* [transfusion] {nonautologous} `serum albumin` `central artery` {percutaneous}
+30263K0* [transfusion] {autologous} `frozen plasma` `central artery` {percutaneous}
+30263K1* [transfusion] {nonautologous} `frozen plasma` `central artery` {percutaneous}
+30263L0* [transfusion] {autologous} `fresh plasma` `central artery` {percutaneous}
+30263L1* [transfusion] {nonautologous} `fresh plasma` `central artery` {percutaneous}
+30263M0* [transfusion] {autologous} `plasma cryoprecipitate` `central artery` {percutaneous}
+30263M1* [transfusion] {nonautologous} `plasma cryoprecipitate` `central artery` {percutaneous}
+30263N0* [transfusion] {autologous} `red blood cells` `central artery` {percutaneous}
+30263N1* [transfusion] {nonautologous} `red blood cells` `central artery` {percutaneous}
+30263P0* [transfusion] {autologous} `frozen red cells` `central artery` {percutaneous}
+30263P1* [transfusion] {nonautologous} `frozen red cells` `central artery` {percutaneous}
+30263Q0* [transfusion] {autologous} `white cells` `central artery` {percutaneous}
+30263Q1* [transfusion] {nonautologous} `white cells` `central artery` {percutaneous}
+30263R0* [transfusion] {autologous} `platelets` `central artery` {percutaneous}
+30263R1* [transfusion] {nonautologous} `platelets` `central artery` {percutaneous}
+30263S0* [transfusion] {autologous} `globulin` `central artery` {percutaneous}
+30263S1* [transfusion] {nonautologous} `globulin` `central artery` {percutaneous}
+30263T0* [transfusion] {autologous} `fibrinogen` `central artery` {percutaneous}
+30263T1* [transfusion] {nonautologous} `fibrinogen` `central artery` {percutaneous}
+30263V0* [transfusion] {autologous} `antihemophilic factors` `central artery` {percutaneous}
+30263V1* [transfusion] {nonautologous} `antihemophilic factors` `central artery` {percutaneous}
+30263W0* [transfusion] {autologous} `factor ix` `central artery` {percutaneous}
+30263W1* [transfusion] {nonautologous} `factor ix` `central artery` {percutaneous}
+30263X0* [transfusion] {autologous} `cord blood stem cells` `central artery` {percutaneous}
+30263X1* [transfusion] {nonautologous} `cord blood stem cells` `central artery` {percutaneous}
+30263Y0* [transfusion] {autologous} `hematopoietic stem cells` `central artery` {percutaneous}
+30263Y1* [transfusion] {nonautologous} `hematopoietic stem cells` `central artery` {percutaneous}
+30273H1* [transfusion] {nonautologous} `whole blood` {products of conception} `circulatory` {percutaneous}
+30273J1* [transfusion] {nonautologous} `serum albumin` {products of conception} `circulatory` {percutaneous}
+30273K1* [transfusion] {nonautologous} `frozen plasma` {products of conception} `circulatory` {percutaneous}
+30273L1* [transfusion] {nonautologous} `fresh plasma` {products of conception} `circulatory` {percutaneous}
+30273M1* [transfusion] {nonautologous} `plasma cryoprecipitate` {products of conception} `circulatory` {percutaneous}
+30273N1* [transfusion] {nonautologous} `red blood cells` {products of conception} `circulatory` {percutaneous}
+30273P1* [transfusion] {nonautologous} `frozen red cells` {products of conception} `circulatory` {percutaneous}
+30273Q1* [transfusion] {nonautologous} `white cells` {products of conception} `circulatory` {percutaneous}
+30273R1* [transfusion] {nonautologous} `platelets` {products of conception} `circulatory` {percutaneous}
+30273S1* [transfusion] {nonautologous} `globulin` {products of conception} `circulatory` {percutaneous}
+30273T1* [transfusion] {nonautologous} `fibrinogen` {products of conception} `circulatory` {percutaneous}
+30273V1* [transfusion] {nonautologous} `antihemophilic factors` {products of conception} `circulatory` {percutaneous}
+30273W1* [transfusion] {nonautologous} `factor ix` {products of conception} `circulatory` {percutaneous}
+30277H1* [transfusion] {nonautologous} `whole blood` {products of conception} `circulatory` & [via natural or artificial opening]
+30277J1* [transfusion] {nonautologous} `serum albumin` {products of conception} `circulatory` & [via natural or artificial opening]
+30277K1* [transfusion] {nonautologous} `frozen plasma` {products of conception} `circulatory` & [via natural or artificial opening]
+30277L1* [transfusion] {nonautologous} `fresh plasma` {products of conception} `circulatory` & [via natural or artificial opening]
+30277M1* [transfusion] {nonautologous} `plasma cryoprecipitate` {products of conception} `circulatory` & [via natural or artificial opening]
+30277N1* [transfusion] {nonautologous} `red blood cells` {products of conception} `circulatory` & [via natural or artificial opening]
+30277P1* [transfusion] {nonautologous} `frozen red cells` {products of conception} `circulatory` & [via natural or artificial opening]
+30277Q1* [transfusion] {nonautologous} `white cells` {products of conception} `circulatory` & [via natural or artificial opening]
+30277R1* [transfusion] {nonautologous} `platelets` {products of conception} `circulatory` & [via natural or artificial opening]
+30277S1* [transfusion] {nonautologous} `globulin` {products of conception} `circulatory` & [via natural or artificial opening]
+30277T1* [transfusion] {nonautologous} `fibrinogen` {products of conception} `circulatory` & [via natural or artificial opening]
+30277V1* [transfusion] {nonautologous} `antihemophilic factors` {products of conception} `circulatory` & [via natural or artificial opening]
+30277W1* [transfusion] {nonautologous} `factor ix` {products of conception} `circulatory` & [via natural or artificial opening]
+30280B1* [transfusion] {nonautologous} `4-factor prothrombin complex concentrate` `vein` & ![percutaneous endoscopic] & ![percutaneous]
+30283B1* [transfusion] {nonautologous} `4-factor prothrombin complex concentrate` `vein` {percutaneous}
+3C1ZX8Z  [irrigation] {indwelling device} {irrigating substance} 
+3E00X05* [introduction] {other antineoplastic} `skin and mucous membranes` & [external]
+3E00X0M* [introduction] {monoclonal antibody} `skin and mucous membranes` & [external]
+3E00X28* [introduction] {oxazolidinones} `skin and mucous membranes` & [external]
+3E00X29* [introduction] {other anti-infective} `skin and mucous membranes` & [external]
+3E00X3Z* [introduction] {anti-inflammatory} `skin and mucous membranes` & [external]
+3E00X4Z* [introduction] {serum, toxoid and vaccine} `skin and mucous membranes` & [external]
+3E00XBZ* [introduction] {local anesthetic} `skin and mucous membranes` & [external]
+3E00XGC* [introduction] {other therapeutic substance} `skin and mucous membranes` & [external]
+3E00XKZ* [introduction] {other diagnostic substance} `skin and mucous membranes` & [external]
+3E00XMZ* [introduction] {pigment} `skin and mucous membranes` & [external]
+3E00XNZ* [introduction] {analgesics, hypnotics, sedatives} `skin and mucous membranes` & [external]
+3E00XTZ* [introduction] {destructive agent} `skin and mucous membranes` & [external]
+3E0102A* [introduction] {anti-infective envelope} `subcutaneous tissue` & ![percutaneous endoscopic] & ![percutaneous]
+3E01305* [introduction] {other antineoplastic} `subcutaneous tissue` {percutaneous}
+3E0130M* [introduction] {monoclonal antibody} `subcutaneous tissue` {percutaneous}
+3E01328* [introduction] {oxazolidinones} `subcutaneous tissue` {percutaneous}
+3E01329* [introduction] {other anti-infective} `subcutaneous tissue` {percutaneous}
+3E0132A* [introduction] {anti-infective envelope} `subcutaneous tissue` {percutaneous}
+3E0133Z* [introduction] {anti-inflammatory} `subcutaneous tissue` {percutaneous}
+3E0134Z* [introduction] {serum, toxoid and vaccine} `subcutaneous tissue` {percutaneous}
+3E0136Z* [introduction] {nutritional substance} `subcutaneous tissue` {percutaneous}
+3E0137Z* [introduction] {electrolytic and water balance substance} `subcutaneous tissue` {percutaneous}
+3E013BZ* [introduction] {local anesthetic} `subcutaneous tissue` {percutaneous}
+3E013GC  [introduction] {other therapeutic substance} {percutaneous}
+3E013HZ* [introduction] {radioactive substance} `subcutaneous tissue` {percutaneous}
+3E013KZ* [introduction] {other diagnostic substance} `subcutaneous tissue` {percutaneous}
+3E013NZ* [introduction] {analgesics, hypnotics, sedatives} `subcutaneous tissue` {percutaneous}
+3E013TZ* [introduction] {destructive agent} `subcutaneous tissue` {percutaneous}
+3E013VG* [introduction] {insulin} `subcutaneous tissue` {percutaneous}
+3E013VJ* [introduction] {other hormone} `subcutaneous tissue` {percutaneous}
+3E02305* [introduction] {other antineoplastic} `muscle` {percutaneous}
+3E0230M* [introduction] {monoclonal antibody} `muscle` {percutaneous}
+3E02328* [introduction] {oxazolidinones} `muscle` {percutaneous}
+3E02329* [introduction] {other anti-infective} `muscle` {percutaneous}
+3E0233Z* [introduction] {anti-inflammatory} `muscle` {percutaneous}
+3E02340  [influenza vaccine]
+3E0234Z  [serum, toxoid and vaccine] !{levels or labs}
+3E0236Z* [introduction] {nutritional substance} `muscle` {percutaneous}
+3E0237Z* [introduction] {electrolytic and water balance substance} `muscle` {percutaneous}
+3E023BZ  [local anesthetic] `muscle`
+3E023GC  [other therapeutic substance]
+3E023HZ* [introduction] {radioactive substance} `muscle` {percutaneous}
+3E023KZ* [introduction] {other diagnostic substance} `muscle` {percutaneous}
+3E023NZ* [introduction] {analgesics, hypnotics, sedatives} `muscle` {percutaneous}
+3E023TZ* [introduction] {destructive agent} `muscle` {percutaneous}
+3E03002* [introduction] {high-dose} {interleukin-2} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E03003* [introduction] {low-dose} {interleukin-2} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E03005* [introduction] {other antineoplastic} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E0300M* [introduction] {monoclonal antibody} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E0300P* [introduction] {clofarabine} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E03016* [introduction] {recombinant human-activated protein c} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E03017* [introduction] {other thrombolytic} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E03028* [introduction] {oxazolidinones} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E03029* [introduction] {other anti-infective} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E0303Z* [introduction] {anti-inflammatory} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E0304Z* [introduction] {serum, toxoid and vaccine} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E0306Z* [introduction] {nutritional substance} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E0307Z* [introduction] {electrolytic and water balance substance} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E030FZ* [introduction] {intracirculatory anesthetic} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E030GC* [introduction] {other therapeutic substance} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E030GN* [introduction] {blood brain barrier disruption substance} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E030HZ* [introduction] {radioactive substance} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E030KZ* [introduction] {other diagnostic substance} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E030NZ* [introduction] {analgesics, hypnotics, sedatives} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E030PZ* [introduction] {platelet inhibitor} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E030RZ* [introduction] {antiarrhythmic} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E030TZ* [introduction] {destructive agent} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E030U0* [introduction] {autologous} `pancreatic islet cells` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E030U1* [introduction] {nonautologous} `pancreatic islet cells` `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E030VG* [introduction] {insulin} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E030VH* [introduction] {human b-type natriuretic peptide} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E030VJ* [introduction] {other hormone} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E030WK* [introduction] {immunostimulator} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E030WL* [introduction] {immunosuppressive} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E030XZ* [introduction] {vasopressor} `peripheral vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E03302* [introduction] {high-dose} {interleukin-2} `peripheral vein` {percutaneous}
+3E03303* [introduction] {low-dose} {interleukin-2} `peripheral vein` {percutaneous}
+3E03305  [introduction] {other antineoplastic} {percutaneous} !{past status} !{recieving}
+3E0330M  [introduction] {monoclonal antibody} {percutaneous}
+3E0330P* [introduction] {clofarabine} `peripheral vein` {percutaneous}
+3E03316* [introduction] {recombinant human-activated protein c} `peripheral vein` [percutaneous]
+3E03317  [introduction] {tpa}
+3E03328* [introduction] {oxazolidinones} `peripheral vein` {percutaneous}
+3E03329* [introduction] {other anti-infective} `peripheral vein` {percutaneous}
+3E0333Z  [introduction] {anti-inflammatory} !{home} !{past status}  
+3E0334Z* [introduction] {serum, toxoid and vaccine} `peripheral vein` {percutaneous}
+3E0336Z  [introduction] {nutritional substance} !{home} !{past status} !{stage or meds}
+3E0337Z* [introduction] {electrolytic and water balance substance} `peripheral vein` {percutaneous}
+3E033FZ* [introduction] {intracirculatory anesthetic} `peripheral vein` {percutaneous}
+3E033GC  [introduction] {other therapeutic substance} `peripheral vein` {percutaneous}
+3E033GN* [introduction] {blood brain barrier disruption substance} `peripheral vein` {percutaneous}
+3E033GQ* [introduction] {glucarpidase} `peripheral vein` {percutaneous}
+3E033HZ  [introduction] {radioactive substance} 
+3E033KZ  [programmed stimulation after iv drug]
+3E033NZ* [introduction] {analgesics, hypnotics, sedatives} `peripheral vein` {percutaneous}
+3E033PZ* [introduction] {platelet inhibitor} `peripheral vein` {percutaneous}
+3E033RZ* [introduction] {antiarrhythmic} `peripheral vein` {percutaneous}
+3E033TZ* [introduction] {destructive agent} `peripheral vein` {percutaneous}
+3E033U0* [introduction] {autologous} `pancreatic islet cells` `peripheral vein` {percutaneous}
+3E033U1* [introduction] {nonautologous} `pancreatic islet cells` `peripheral vein` {percutaneous}
+3E033VG* [introduction] {insulin} `peripheral vein` {percutaneous}
+3E033VH* [introduction] {human b-type natriuretic peptide} `peripheral vein` {percutaneous}
+3E033VJ  [induction of labor] & [hormone] & ![augment] !"newborn"
+         [given hormone] & ![augment] !"newborn"
+3E033WK* [introduction] {immunostimulator} `peripheral vein` [percutaneous]
+3E033WL* [introduction] {immunosuppressive} `peripheral vein` [percutaneous]
+3E033XZ  [vasopressor] !{past status} !{home}
+3E04002* [introduction] {high-dose} {interleukin-2} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E04003* [introduction] {low-dose} {interleukin-2} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E04005* [introduction] {other antineoplastic} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E0400M* [introduction] {monoclonal antibody} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E0400P* [introduction] {clofarabine} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E04016* [introduction] {recombinant human-activated protein c} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E04017* [introduction] {other thrombolytic} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E04028* [introduction] {oxazolidinones} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E04029* [introduction] {other anti-infective} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E0403Z* [introduction] {anti-inflammatory} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E0404Z* [introduction] {serum, toxoid and vaccine} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E0406Z* [introduction] {nutritional substance} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E0407Z* [introduction] {electrolytic and water balance substance} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E040FZ* [introduction] {intracirculatory anesthetic} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E040GC* [introduction] {other therapeutic substance} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E040GN* [introduction] {blood brain barrier disruption substance} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E040HZ* [introduction] {radioactive substance} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E040KZ* [introduction] {other diagnostic substance} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E040NZ* [introduction] {analgesics, hypnotics, sedatives} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E040PZ* [introduction] {platelet inhibitor} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E040RZ* [introduction] {antiarrhythmic} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E040TZ* [introduction] {destructive agent} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E040VG* [introduction] {insulin} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E040VH* [introduction] {human b-type natriuretic peptide} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E040VJ* [introduction] {other hormone} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E040WK* [introduction] {immunostimulator} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E040WL* [introduction] {immunosuppressive} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E040XZ* [introduction] {vasopressor} `central vein` & ![percutaneous endoscopic] & ![percutaneous]
+3E04302* [introduction] {high-dose} {interleukin-2} `central vein` {percutaneous}
+3E04303* [introduction] {low-dose} {interleukin-2} `central vein` {percutaneous}
+3E04305  [introduction] {other antineoplastic}
+3E0430M* [introduction] {monoclonal antibody} `central vein` {percutaneous}
+3E0430P* [introduction] {clofarabine} `central vein` {percutaneous}
+3E04316* [introduction] {recombinant human-activated protein c} `central vein` {percutaneous}
+3E04317* [introduction] {other thrombolytic} `central vein` {percutaneous}
+3E04328* [introduction] {oxazolidinones} `central vein` {percutaneous}
+3E04329* [introduction] {other anti-infective} `central vein` {percutaneous}
+3E0433Z* [introduction] {anti-inflammatory} `central vein` {percutaneous}
+3E0434Z* [introduction] {serum, toxoid and vaccine} `central vein` {percutaneous}
+3E0436Z  [introduction] {nutritional substance} {percutaneous}
+3E0437Z* [introduction] {electrolytic and water balance substance} `central vein` {percutaneous}
+3E043FZ* [introduction] {intracirculatory anesthetic} `central vein` {percutaneous}
+3E043GC* [introduction] {other therapeutic substance} `central vein` {percutaneous}
+3E043GN* [introduction] {blood brain barrier disruption substance} `central vein` {percutaneous}
+3E043GQ* [introduction] {glucarpidase} `central vein` {percutaneous}
+3E043HZ* [introduction] {radioactive substance} `central vein` {percutaneous}
+3E043KZ* [introduction] {other diagnostic substance} `central vein` {percutaneous}
+3E043NZ* [introduction] {analgesics, hypnotics, sedatives} `central vein` {percutaneous}
+3E043PZ* [introduction] {platelet inhibitor} `central vein` {percutaneous}
+3E043RZ* [introduction] {antiarrhythmic} `central vein` {percutaneous}
+3E043TZ* [introduction] {destructive agent} `central vein` {percutaneous}
+3E043VG* [introduction] {insulin} `central vein` {percutaneous}
+3E043VH* [introduction] {human b-type natriuretic peptide} `central vein` {percutaneous}
+3E043VJ* [introduction] {other hormone} `central vein` {percutaneous}
+3E043WK* [introduction] {immunostimulator} `central vein` {percutaneous}
+3E043WL* [introduction] {immunosuppressive} `central vein` {percutaneous}
+3E043XZ  [vasopressor] `central vein`
+3E05002* [introduction] {high-dose} {interleukin-2} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E05003* [introduction] {low-dose} {interleukin-2} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E05005* [introduction] {other antineoplastic} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E0500M* [introduction] {monoclonal antibody} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E0500P* [introduction] {clofarabine} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E05016* [introduction] {recombinant human-activated protein c} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E05017* [introduction] {other thrombolytic} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E05028* [introduction] {oxazolidinones} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E05029* [introduction] {other anti-infective} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E0503Z* [introduction] {anti-inflammatory} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E0504Z* [introduction] {serum, toxoid and vaccine} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E0506Z* [introduction] {nutritional substance} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E0507Z* [introduction] {electrolytic and water balance substance} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E050FZ* [introduction] {intracirculatory anesthetic} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E050GC* [introduction] {other therapeutic substance} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E050GN* [introduction] {blood brain barrier disruption substance} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E050HZ* [introduction] {radioactive substance} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E050KZ* [introduction] {other diagnostic substance} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E050NZ* [introduction] {analgesics, hypnotics, sedatives} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E050PZ* [introduction] {platelet inhibitor} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E050RZ* [introduction] {antiarrhythmic} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E050TZ* [introduction] {destructive agent} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E050VG* [introduction] {insulin} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E050VH* [introduction] {human b-type natriuretic peptide} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E050VJ* [introduction] {other hormone} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E050WK* [introduction] {immunostimulator} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E050WL* [introduction] {immunosuppressive} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E050XZ* [introduction] {vasopressor} `peripheral artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E05302* [introduction] {high-dose} {interleukin-2} `peripheral artery` {percutaneous}
+3E05303* [introduction] {low-dose} {interleukin-2} `peripheral artery` {percutaneous}
+3E05305* [introduction] {other antineoplastic} `peripheral artery` {percutaneous}
+3E0530M* [introduction] {monoclonal antibody} `peripheral artery` {percutaneous}
+3E0530P* [introduction] {clofarabine} `peripheral artery` {percutaneous}
+3E05316* [introduction] {recombinant human-activated protein c} `peripheral artery` {percutaneous}
+3E05317* [introduction] {other thrombolytic} `peripheral artery` {percutaneous}
+3E05328* [introduction] {oxazolidinones} `peripheral artery` {percutaneous}
+3E05329* [introduction] {other anti-infective} `peripheral artery` {percutaneous}
+3E0533Z* [introduction] {anti-inflammatory} `peripheral artery` {percutaneous}
+3E0534Z* [introduction] {serum, toxoid and vaccine} `peripheral artery` {percutaneous}
+3E0536Z* [introduction] {nutritional substance} `peripheral artery` {percutaneous}
+3E0537Z* [introduction] {electrolytic and water balance substance} `peripheral artery` {percutaneous}
+3E053FZ* [introduction] {intracirculatory anesthetic} `peripheral artery` {percutaneous}
+3E053GC* [introduction] {other therapeutic substance} `peripheral artery` {percutaneous}
+3E053GN* [introduction] {blood brain barrier disruption substance} `peripheral artery` {percutaneous}
+3E053HZ* [introduction] {radioactive substance} `peripheral artery` {percutaneous}
+3E053KZ* [introduction] {other diagnostic substance} `peripheral artery` {percutaneous}
+3E053NZ* [introduction] {analgesics, hypnotics, sedatives} `peripheral artery` {percutaneous}
+3E053PZ* [introduction] {platelet inhibitor} `peripheral artery` {percutaneous}
+3E053RZ* [introduction] {antiarrhythmic} `peripheral artery` {percutaneous}
+3E053TZ* [introduction] {destructive agent} `peripheral artery` {percutaneous}
+3E053VG* [introduction] {insulin} `peripheral artery` {percutaneous}
+3E053VH* [introduction] {human b-type natriuretic peptide} `peripheral artery` {percutaneous}
+3E053VJ* [introduction] {other hormone} `peripheral artery` {percutaneous}
+3E053WK* [introduction] {immunostimulator} `peripheral artery` {percutaneous}
+3E053WL* [introduction] {immunosuppressive} `peripheral artery` {percutaneous}
+3E053XZ* [introduction] {vasopressor} `peripheral artery` {percutaneous}
+3E06002* [introduction] {high-dose} {interleukin-2} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E06003* [introduction] {low-dose} {interleukin-2} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E06005* [introduction] {other antineoplastic} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E0600M* [introduction] {monoclonal antibody} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E0600P* [introduction] {clofarabine} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E06016* [introduction] {recombinant human-activated protein c} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E06017* [introduction] {other thrombolytic} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E06028* [introduction] {oxazolidinones} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E06029* [introduction] {other anti-infective} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E0603Z* [introduction] {anti-inflammatory} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E0604Z* [introduction] {serum, toxoid and vaccine} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E0606Z* [introduction] {nutritional substance} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E0607Z* [introduction] {electrolytic and water balance substance} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E060FZ* [introduction] {intracirculatory anesthetic} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E060GC* [introduction] {other therapeutic substance} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E060GN* [introduction] {blood brain barrier disruption substance} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E060HZ* [introduction] {radioactive substance} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E060KZ* [introduction] {other diagnostic substance} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E060NZ* [introduction] {analgesics, hypnotics, sedatives} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E060PZ* [introduction] {platelet inhibitor} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E060RZ* [introduction] {antiarrhythmic} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E060TZ* [introduction] {destructive agent} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E060VG* [introduction] {insulin} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E060VH* [introduction] {human b-type natriuretic peptide} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E060VJ* [introduction] {other hormone} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E060WK* [introduction] {immunostimulator} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E060WL* [introduction] {immunosuppressive} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E060XZ* [introduction] {vasopressor} `central artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E06302* [introduction] {high-dose} {interleukin-2} `central artery` {percutaneous}
+3E06303* [introduction] {low-dose} {interleukin-2} `central artery` {percutaneous}
+3E06305* [introduction] {other antineoplastic} `central artery` {percutaneous}
+3E0630M* [introduction] {monoclonal antibody} `central artery` {percutaneous}
+3E0630P* [introduction] {clofarabine} `central artery` {percutaneous}
+3E06316* [introduction] {recombinant human-activated protein c} `central artery` {percutaneous}
+3E06317* [introduction] {other thrombolytic} `central artery` {percutaneous}
+3E06328* [introduction] {oxazolidinones} `central artery` {percutaneous}
+3E06329* [introduction] {other anti-infective} `central artery` {percutaneous}
+3E0633Z* [introduction] {anti-inflammatory} `central artery` {percutaneous}
+3E0634Z* [introduction] {serum, toxoid and vaccine} `central artery` {percutaneous}
+3E0636Z* [introduction] {nutritional substance} `central artery` {percutaneous}
+3E0637Z* [introduction] {electrolytic and water balance substance} `central artery` {percutaneous}
+3E063FZ* [introduction] {intracirculatory anesthetic} `central artery` {percutaneous}
+3E063GC* [introduction] {other therapeutic substance} `central artery` {percutaneous}
+3E063GN* [introduction] {blood brain barrier disruption substance} `central artery` {percutaneous}
+3E063HZ* [introduction] {radioactive substance} `central artery` {percutaneous}
+3E063KZ* [introduction] {other diagnostic substance} `central artery` {percutaneous}
+3E063NZ* [introduction] {analgesics, hypnotics, sedatives} `central artery` {percutaneous}
+3E063PZ* [introduction] {platelet inhibitor} `central artery` {percutaneous}
+3E063RZ* [introduction] {antiarrhythmic} `central artery` {percutaneous}
+3E063TZ* [introduction] {destructive agent} `central artery` {percutaneous}
+3E063VG* [introduction] {insulin} `central artery` {percutaneous}
+3E063VH* [introduction] {human b-type natriuretic peptide} `central artery` {percutaneous}
+3E063VJ* [introduction] {other hormone} `central artery` {percutaneous}
+3E063WK* [introduction] {immunostimulator} `central artery` {percutaneous}
+3E063WL* [introduction] {immunosuppressive} `central artery` {percutaneous}
+3E063XZ* [introduction] {vasopressor} `central artery` {percutaneous}
+3E07016* [introduction] {recombinant human-activated protein c} `coronary artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E07017* [introduction] {other thrombolytic} `coronary artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E070GC* [introduction] {other therapeutic substance} `coronary artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E070KZ* [introduction] {other diagnostic substance} `coronary artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E070PZ* [introduction] {platelet inhibitor} `coronary artery` & ![percutaneous endoscopic] & ![percutaneous]
+3E07316* [introduction] {recombinant human-activated protein c} `coronary artery` {percutaneous}
+3E07317* [introduction] {other thrombolytic} `coronary artery` {percutaneous}
+3E073GC* [introduction] {other therapeutic substance} `coronary artery` {percutaneous}
+3E073KZ  [introduction] {other diagnostic substance} `coronary artery` {percutaneous}
+3E073PZ* [introduction] {platelet inhibitor} `coronary artery` {percutaneous}
+3E08016* [introduction] {recombinant human-activated protein c} `heart` & ![percutaneous endoscopic] & ![percutaneous]
+3E08017* [introduction] {other thrombolytic} `heart` & ![percutaneous endoscopic] & ![percutaneous]
+3E080GC* [introduction] {other therapeutic substance} `heart` & ![percutaneous endoscopic] & ![percutaneous]
+3E080KZ* [introduction] {other diagnostic substance} `heart` & ![percutaneous endoscopic] & ![percutaneous]
+3E080PZ* [introduction] {platelet inhibitor} `heart` & ![percutaneous endoscopic] & ![percutaneous]
+3E08316* [introduction] {recombinant human-activated protein c} `heart` {percutaneous}
+3E08317* [introduction] {other thrombolytic} `heart` {percutaneous}
+3E083GC* [introduction] {other therapeutic substance} `heart` {percutaneous}
+3E083KZ* [introduction] {other diagnostic substance} `heart` {percutaneous}
+3E083PZ* [introduction] {platelet inhibitor} `heart` {percutaneous}
+3E09305* [introduction] {other antineoplastic} `nose` {percutaneous}
+3E0930M* [introduction] {monoclonal antibody} `nose` {percutaneous}
+3E09328* [introduction] {oxazolidinones} `nose` {percutaneous}
+3E09329* [introduction] {other anti-infective} `nose` {percutaneous}
+3E0933Z* [introduction] {anti-inflammatory} `nose` {percutaneous}
+3E0934Z* [introduction] {serum, toxoid and vaccine} `nose` {percutaneous}
+3E093BZ* [introduction] {local anesthetic} `nose` {percutaneous}
+3E093GC* [introduction] {other therapeutic substance} `nose` {percutaneous}
+3E093HZ* [introduction] {radioactive substance} `nose` {percutaneous}
+3E093KZ* [introduction] {other diagnostic substance} `nose` {percutaneous}
+3E093NZ* [introduction] {analgesics, hypnotics, sedatives} `nose` {percutaneous}
+3E093TZ* [introduction] {destructive agent} `nose` {percutaneous}
+3E09705* [introduction] {other antineoplastic} `nose` & [via natural or artificial opening]
+3E0970M* [introduction] {monoclonal antibody} `nose` & [via natural or artificial opening]
+3E09728* [introduction] {oxazolidinones} `nose` & [via natural or artificial opening]
+3E09729* [introduction] {other anti-infective} `nose` & [via natural or artificial opening]
+3E0973Z* [introduction] {anti-inflammatory} `nose` & [via natural or artificial opening]
+3E0974Z* [introduction] {serum, toxoid and vaccine} `nose` & [via natural or artificial opening]
+3E097BZ* [introduction] {local anesthetic} `nose` & [via natural or artificial opening]
+3E097GC* [introduction] {other therapeutic substance} `nose` & [via natural or artificial opening]
+3E097HZ* [introduction] {radioactive substance} `nose` & [via natural or artificial opening]
+3E097KZ* [introduction] {other diagnostic substance} `nose` & [via natural or artificial opening]
+3E097NZ* [introduction] {analgesics, hypnotics, sedatives} `nose` & [via natural or artificial opening]
+3E097TZ* [introduction] {destructive agent} `nose` & [via natural or artificial opening]
+3E09X05* [introduction] {other antineoplastic} `nose` & [external]
+3E09X0M* [introduction] {monoclonal antibody} `nose` & [external]
+3E09X28* [introduction] {oxazolidinones} `nose` & [external]
+3E09X29* [introduction] {other anti-infective} `nose` & [external]
+3E09X3Z* [introduction] {anti-inflammatory} `nose` & [external]
+3E09X4Z* [introduction] {serum, toxoid and vaccine} `nose` & [external]
+3E09XBZ* [introduction] {local anesthetic} `nose` & [external]
+3E09XGC* [introduction] {other therapeutic substance} `nose` & [external]
+3E09XHZ* [introduction] {radioactive substance} `nose` & [external]
+3E09XKZ* [introduction] {other diagnostic substance} `nose` & [external]
+3E09XNZ* [introduction] {analgesics, hypnotics, sedatives} `nose` & [external]
+3E09XTZ* [introduction] {destructive agent} `nose` & [external]
+3E0A305* [introduction] {other antineoplastic} {bone marrow} {percutaneous}
+3E0A30M* [introduction] {monoclonal antibody} {bone marrow} {percutaneous}
+3E0A3GC* [introduction] {other therapeutic substance} {bone marrow} {percutaneous}
+3E0B304* [introduction] {liquid brachytherapy radioisotope} `ear` {percutaneous}
+3E0B305* [introduction] {other antineoplastic} `ear` {percutaneous}
+3E0B30M* [introduction] {monoclonal antibody} `ear` {percutaneous}
+3E0B328* [introduction] {oxazolidinones} `ear` {percutaneous}
+3E0B329* [introduction] {other anti-infective} `ear` {percutaneous}
+3E0B33Z* [introduction] {anti-inflammatory} `ear` {percutaneous}
+3E0B3BZ* [introduction] {local anesthetic} `ear` {percutaneous}
+3E0B3GC* [introduction] {other therapeutic substance} `ear` {percutaneous}
+3E0B3HZ* [introduction] {radioactive substance} `ear` {percutaneous}
+3E0B3KZ* [introduction] {other diagnostic substance} `ear` {percutaneous}
+3E0B3NZ* [introduction] {analgesics, hypnotics, sedatives} `ear` {percutaneous}
+3E0B3TZ* [introduction] {destructive agent} `ear` {percutaneous}
+3E0B704* [introduction] {liquid brachytherapy radioisotope} `ear` & [via natural or artificial opening]
+3E0B705* [introduction] {other antineoplastic} `ear` & [via natural or artificial opening]
+3E0B70M* [introduction] {monoclonal antibody} `ear` & [via natural or artificial opening]
+3E0B728* [introduction] {oxazolidinones} `ear` & [via natural or artificial opening]
+3E0B729* [introduction] {other anti-infective} `ear` & [via natural or artificial opening]
+3E0B73Z* [introduction] {anti-inflammatory} `ear` & [via natural or artificial opening]
+3E0B7BZ* [introduction] {local anesthetic} `ear` & [via natural or artificial opening]
+3E0B7GC* [introduction] {other therapeutic substance} `ear` & [via natural or artificial opening]
+3E0B7HZ* [introduction] {radioactive substance} `ear` & [via natural or artificial opening]
+3E0B7KZ* [introduction] {other diagnostic substance} `ear` & [via natural or artificial opening]
+3E0B7NZ* [introduction] {analgesics, hypnotics, sedatives} `ear` & [via natural or artificial opening]
+3E0B7TZ* [introduction] {destructive agent} `ear` & [via natural or artificial opening]
+3E0BX04* [introduction] {liquid brachytherapy radioisotope} `ear` & [external]
+3E0BX05* [introduction] {other antineoplastic} `ear` & [external]
+3E0BX0M* [introduction] {monoclonal antibody} `ear` & [external]
+3E0BX28* [introduction] {oxazolidinones} `ear` & [external]
+3E0BX29* [introduction] {other anti-infective} `ear` & [external]
+3E0BX3Z* [introduction] {anti-inflammatory} `ear` & [external]
+3E0BXBZ* [introduction] {local anesthetic} `ear` & [external]
+3E0BXGC* [introduction] {other therapeutic substance} `ear` & [external]
+3E0BXHZ* [introduction] {radioactive substance} `ear` & [external]
+3E0BXKZ* [introduction] {other diagnostic substance} `ear` & [external]
+3E0BXNZ* [introduction] {analgesics, hypnotics, sedatives} `ear` & [external]
+3E0BXTZ* [introduction] {destructive agent} `ear` & [external]
+3E0C304* [introduction] {liquid brachytherapy radioisotope} `eye` {percutaneous}
+3E0C305* [introduction] {other antineoplastic} `eye` {percutaneous}
+3E0C30M* [introduction] {monoclonal antibody} `eye` {percutaneous}
+3E0C328* [introduction] {oxazolidinones} `eye` {percutaneous}
+3E0C329* [introduction] {other anti-infective} `eye` {percutaneous}
+3E0C33Z* [introduction] {anti-inflammatory} `eye` {percutaneous}
+3E0C3BZ* [introduction] {local anesthetic} `eye` {percutaneous}
+3E0C3GC* [introduction] {other therapeutic substance} `eye` {percutaneous}
+3E0C3HZ* [introduction] {radioactive substance} `eye` {percutaneous}
+3E0C3KZ* [introduction] {other diagnostic substance} `eye` {percutaneous}
+3E0C3MZ* [introduction] {pigment} `eye` {percutaneous}
+3E0C3NZ* [introduction] {analgesics, hypnotics, sedatives} `eye` {percutaneous}
+3E0C3SF* [introduction] {other gas} `eye` {percutaneous}
+3E0C3TZ* [introduction] {destructive agent} `eye` {percutaneous}
+3E0C704* [introduction] {liquid brachytherapy radioisotope} `eye` & [via natural or artificial opening]
+3E0C705* [introduction] {other antineoplastic} `eye` & [via natural or artificial opening]
+3E0C70M* [introduction] {monoclonal antibody} `eye` & [via natural or artificial opening]
+3E0C728* [introduction] {oxazolidinones} `eye` & [via natural or artificial opening]
+3E0C729* [introduction] {other anti-infective} `eye` & [via natural or artificial opening]
+3E0C73Z* [introduction] {anti-inflammatory} `eye` & [via natural or artificial opening]
+3E0C7BZ* [introduction] {local anesthetic} `eye` & [via natural or artificial opening]
+3E0C7GC* [introduction] {other therapeutic substance} `eye` & [via natural or artificial opening]
+3E0C7HZ* [introduction] {radioactive substance} `eye` & [via natural or artificial opening]
+3E0C7KZ* [introduction] {other diagnostic substance} `eye` & [via natural or artificial opening]
+3E0C7MZ* [introduction] {pigment} `eye` & [via natural or artificial opening]
+3E0C7NZ* [introduction] {analgesics, hypnotics, sedatives} `eye` & [via natural or artificial opening]
+3E0C7SF* [introduction] {other gas} `eye` & [via natural or artificial opening]
+3E0C7TZ* [introduction] {destructive agent} `eye` & [via natural or artificial opening]
+3E0CX04* [introduction] {liquid brachytherapy radioisotope} `eye` & [external]
+3E0CX05* [introduction] {other antineoplastic} `eye` & [external]
+3E0CX0M* [introduction] {monoclonal antibody} `eye` & [external]
+3E0CX28* [introduction] {oxazolidinones} `eye` & [external]
+3E0CX29* [introduction] {other anti-infective} `eye` & [external]
+3E0CX3Z* [introduction] {anti-inflammatory} `eye` & [external]
+3E0CXBZ* [introduction] {local anesthetic} `eye` & [external]
+3E0CXGC* [introduction] {other therapeutic substance} `eye` & [external]
+3E0CXHZ* [introduction] {radioactive substance} `eye` & [external]
+3E0CXKZ* [introduction] {other diagnostic substance} `eye` & [external]
+3E0CXMZ* [introduction] {pigment} `eye` & [external]
+3E0CXNZ* [introduction] {analgesics, hypnotics, sedatives} `eye` & [external]
+3E0CXSF* [introduction] {other gas} `eye` & [external]
+3E0CXTZ* [introduction] {destructive agent} `eye` & [external]
+3E0D304* [introduction] {liquid brachytherapy radioisotope} `mouth and pharynx` {percutaneous}
+3E0D305* [introduction] {other antineoplastic} `mouth and pharynx` {percutaneous}
+3E0D30M* [introduction] {monoclonal antibody} `mouth and pharynx` {percutaneous}
+3E0D328* [introduction] {oxazolidinones} `mouth and pharynx` {percutaneous}
+3E0D329* [introduction] {other anti-infective} `mouth and pharynx` {percutaneous}
+3E0D33Z* [introduction] {anti-inflammatory} `mouth and pharynx` {percutaneous}
+3E0D34Z* [introduction] {serum, toxoid and vaccine} `mouth and pharynx` {percutaneous}
+3E0D36Z* [introduction] {nutritional substance} `mouth and pharynx` {percutaneous}
+3E0D37Z* [introduction] {electrolytic and water balance substance} `mouth and pharynx` {percutaneous}
+3E0D3BZ* [introduction] {local anesthetic} `mouth and pharynx` {percutaneous}
+3E0D3GC* [introduction] {other therapeutic substance} `mouth and pharynx` {percutaneous}
+3E0D3HZ* [introduction] {radioactive substance} `mouth and pharynx` {percutaneous}
+3E0D3KZ* [introduction] {other diagnostic substance} `mouth and pharynx` {percutaneous}
+3E0D3NZ* [introduction] {analgesics, hypnotics, sedatives} `mouth and pharynx` {percutaneous}
+3E0D3RZ* [introduction] {antiarrhythmic} `mouth and pharynx` {percutaneous}
+3E0D3TZ* [introduction] {destructive agent} `mouth and pharynx` {percutaneous}
+3E0D704* [introduction] {liquid brachytherapy radioisotope} `mouth and pharynx` & [via natural or artificial opening]
+3E0D705  [introduction] {other antineoplastic} `mouth and pharynx` & [natural opening]
+3E0D70M* [introduction] {monoclonal antibody} `mouth and pharynx` & [via natural or artificial opening]
+3E0D728* [introduction] {oxazolidinones} `mouth and pharynx` & [via natural or artificial opening]
+3E0D729* [introduction] {other anti-infective} `mouth and pharynx` & [via natural or artificial opening]
+3E0D73Z* [introduction] {anti-inflammatory} `mouth and pharynx` & [via natural or artificial opening]
+3E0D74Z* [introduction] {serum, toxoid and vaccine} `mouth and pharynx` & [via natural or artificial opening]
+3E0D76Z* [introduction] {nutritional substance} `mouth and pharynx` & [via natural or artificial opening]
+3E0D77Z* [introduction] {electrolytic and water balance substance} `mouth and pharynx` & [via natural or artificial opening]
+3E0D7BZ* [introduction] {local anesthetic} `mouth and pharynx` & [via natural or artificial opening]
+3E0D7GC  [introduction] {other therapeutic substance} `mouth and pharynx` & [via natural or artificial opening]
+3E0D7HZ* [introduction] {radioactive substance} `mouth and pharynx` & [via natural or artificial opening]
+3E0D7KZ* [introduction] {other diagnostic substance} `mouth and pharynx` & [via natural or artificial opening]
+3E0D7NZ* [introduction] {analgesics, hypnotics, sedatives} `mouth and pharynx` & [via natural or artificial opening]
+3E0D7RZ* [introduction] {antiarrhythmic} `mouth and pharynx` & [via natural or artificial opening]
+3E0D7TZ* [introduction] {destructive agent} `mouth and pharynx` & [via natural or artificial opening]
+3E0DX04* [introduction] {liquid brachytherapy radioisotope} `mouth and pharynx` & [external]
+3E0DX05* [introduction] {other antineoplastic} `mouth and pharynx` & [external]
+3E0DX0M* [introduction] {monoclonal antibody} `mouth and pharynx` & [external]
+3E0DX28* [introduction] {oxazolidinones} `mouth and pharynx` & [external]
+3E0DX29* [introduction] {other anti-infective} `mouth and pharynx` & [external]
+3E0DX3Z* [introduction] {anti-inflammatory} `mouth and pharynx` & [external]
+3E0DX4Z* [introduction] {serum, toxoid and vaccine} `mouth and pharynx` & [external]
+3E0DX6Z* [introduction] {nutritional substance} `mouth and pharynx` & [external]
+3E0DX7Z* [introduction] {electrolytic and water balance substance} `mouth and pharynx` & [external]
+3E0DXBZ* [introduction] {local anesthetic} `mouth and pharynx` & [external]
+3E0DXGC  [introduction] {other therapeutic substance} `mouth and pharynx`
+3E0DXHZ* [introduction] {radioactive substance} `mouth and pharynx` & [external]
+3E0DXKZ* [introduction] {other diagnostic substance} `mouth and pharynx` & [external]
+3E0DXNZ* [introduction] {analgesics, hypnotics, sedatives} `mouth and pharynx` & [external]
+3E0DXRZ* [introduction] {antiarrhythmic} `mouth and pharynx` & [external]
+3E0DXTZ* [introduction] {destructive agent} `mouth and pharynx` & [external]
+3E0E304* [introduction] {liquid brachytherapy radioisotope} {products of conception} {percutaneous}
+3E0E305* [introduction] {other antineoplastic} {products of conception} {percutaneous}
+3E0E30M* [introduction] {monoclonal antibody} {products of conception} {percutaneous}
+3E0E328* [introduction] {oxazolidinones} {products of conception} {percutaneous}
+3E0E329* [introduction] {other anti-infective} {products of conception} {percutaneous}
+3E0E33Z* [introduction] {anti-inflammatory} {products of conception} {percutaneous}
+3E0E36Z* [introduction] {nutritional substance} {products of conception} {percutaneous}
+3E0E37Z* [introduction] {electrolytic and water balance substance} {products of conception} {percutaneous}
+3E0E3BZ* [introduction] {local anesthetic} {products of conception} {percutaneous}
+3E0E3GC* [introduction] {other therapeutic substance} {products of conception} {percutaneous}
+3E0E3HZ* [introduction] {radioactive substance} {products of conception} {percutaneous}
+3E0E3KZ* [introduction] {other diagnostic substance} {products of conception} {percutaneous}
+3E0E3NZ* [introduction] {analgesics, hypnotics, sedatives} {products of conception} {percutaneous}
+3E0E3SF* [introduction] {other gas} {products of conception} {percutaneous}
+3E0E3TZ* [introduction] {destructive agent} {products of conception} {percutaneous}
+3E0E704* [introduction] {liquid brachytherapy radioisotope} {products of conception} & [via natural or artificial opening]
+3E0E705* [introduction] {other antineoplastic} {products of conception} & [via natural or artificial opening]
+3E0E70M* [introduction] {monoclonal antibody} {products of conception} & [via natural or artificial opening]
+3E0E728* [introduction] {oxazolidinones} {products of conception} & [via natural or artificial opening]
+3E0E729* [introduction] {other anti-infective} {products of conception} & [via natural or artificial opening]
+3E0E73Z* [introduction] {anti-inflammatory} {products of conception} & [via natural or artificial opening]
+3E0E76Z* [introduction] {nutritional substance} {products of conception} & [via natural or artificial opening]
+3E0E77Z* [introduction] {electrolytic and water balance substance} {products of conception} & [via natural or artificial opening]
+3E0E7BZ* [introduction] {local anesthetic} {products of conception} & [via natural or artificial opening]
+3E0E7GC [amnioinfusion] {initiated}
+3E0E7HZ* [introduction] {radioactive substance} {products of conception} & [via natural or artificial opening]
+3E0E7KZ* [introduction] {other diagnostic substance} {products of conception} & [via natural or artificial opening]
+3E0E7NZ* [introduction] {analgesics, hypnotics, sedatives} {products of conception} & [via natural or artificial opening]
+3E0E7SF* [introduction] {other gas} {products of conception} & [via natural or artificial opening]
+3E0E7TZ* [introduction] {destructive agent} {products of conception} & [via natural or artificial opening]
+3E0E804* [introduction] {liquid brachytherapy radioisotope} {products of conception} & [via natural or artificial opening] {endoscopic}
+3E0E805* [introduction] {other antineoplastic} {products of conception} & [via natural or artificial opening] {endoscopic}
+3E0E80M* [introduction] {monoclonal antibody} {products of conception} & [via natural or artificial opening] {endoscopic}
+3E0E828* [introduction] {oxazolidinones} {products of conception} & [via natural or artificial opening] {endoscopic}
+3E0E829* [introduction] {other anti-infective} {products of conception} & [via natural or artificial opening] {endoscopic}
+3E0E83Z* [introduction] {anti-inflammatory} {products of conception} & [via natural or artificial opening] {endoscopic}
+3E0E86Z* [introduction] {nutritional substance} {products of conception} & [via natural or artificial opening] {endoscopic}
+3E0E87Z* [introduction] {electrolytic and water balance substance} {products of conception} & [via natural or artificial opening] {endoscopic}
+3E0E8BZ* [introduction] {local anesthetic} {products of conception} & [via natural or artificial opening] {endoscopic}
+3E0E8GC* [introduction] {other therapeutic substance} {products of conception} & [via natural or artificial opening] {endoscopic}
+3E0E8HZ* [introduction] {radioactive substance} {products of conception} & [via natural or artificial opening] {endoscopic}
+3E0E8KZ* [introduction] {other diagnostic substance} {products of conception} & [via natural or artificial opening] {endoscopic}
+3E0E8NZ* [introduction] {analgesics, hypnotics, sedatives} {products of conception} & [via natural or artificial opening] {endoscopic}
+3E0E8SF* [introduction] {other gas} {products of conception} & [via natural or artificial opening] {endoscopic}
+3E0E8TZ* [introduction] {destructive agent} {products of conception} & [via natural or artificial opening] {endoscopic}
+3E0F304* [introduction] {liquid brachytherapy radioisotope} `respiratory tract` {percutaneous}
+3E0F305* [introduction] {other antineoplastic} `respiratory tract` {percutaneous}
+3E0F30M* [introduction] {monoclonal antibody} `respiratory tract` {percutaneous}
+3E0F328* [introduction] {oxazolidinones} `respiratory tract` {percutaneous}
+3E0F329* [introduction] {other anti-infective} `respiratory tract` {percutaneous}
+3E0F33Z* [introduction] {anti-inflammatory} `respiratory tract` {percutaneous}
+3E0F36Z* [introduction] {nutritional substance} `respiratory tract` {percutaneous}
+3E0F37Z* [introduction] {electrolytic and water balance substance} `respiratory tract` {percutaneous}
+3E0F3BZ* [introduction] {local anesthetic} `respiratory tract` {percutaneous}
+3E0F3GC* [introduction] {other therapeutic substance} `respiratory tract` {percutaneous}
+3E0F3HZ* [introduction] {radioactive substance} `respiratory tract` {percutaneous}
+3E0F3KZ* [introduction] {other diagnostic substance} `respiratory tract` {percutaneous}
+3E0F3NZ* [introduction] {analgesics, hypnotics, sedatives} `respiratory tract` {percutaneous}
+3E0F3SD* [introduction] {nitric oxide gas} `respiratory tract` {percutaneous}
+3E0F3SF* [introduction] {other gas} `respiratory tract` {percutaneous}
+3E0F3TZ* [introduction] {destructive agent} `respiratory tract` {percutaneous}
+3E0F704* [introduction] {liquid brachytherapy radioisotope} `respiratory tract` & [via natural or artificial opening]
+3E0F705* [introduction] {other antineoplastic} `respiratory tract` & [via natural or artificial opening]
+3E0F70M* [introduction] {monoclonal antibody} `respiratory tract` & [via natural or artificial opening]
+3E0F728* [introduction] {oxazolidinones} `respiratory tract` & [via natural or artificial opening]
+3E0F729* [introduction] {other anti-infective} `respiratory tract` & [via natural or artificial opening]
+3E0F73Z* [introduction] {anti-inflammatory} `respiratory tract` & [via natural or artificial opening]
+3E0F76Z* [introduction] {nutritional substance} `respiratory tract` & [via natural or artificial opening]
+3E0F77Z* [introduction] {electrolytic and water balance substance} `respiratory tract` & [via natural or artificial opening]
+3E0F7BZ* [introduction] {local anesthetic} `respiratory tract` & [via natural or artificial opening]
+3E0F7DZ* [introduction] {inhalation anesthetic} `respiratory tract` & [via natural or artificial opening]
+3E0F7GC* [introduction] {other therapeutic substance} `respiratory tract` & [via natural or artificial opening]
+3E0F7HZ* [introduction] {radioactive substance} `respiratory tract` & [via natural or artificial opening]
+3E0F7KZ* [introduction] {other diagnostic substance} `respiratory tract` & [via natural or artificial opening]
+3E0F7NZ* [introduction] {analgesics, hypnotics, sedatives} `respiratory tract` & [via natural or artificial opening]
+3E0F7SD* [introduction] {nitric oxide gas} `respiratory tract` & [via natural or artificial opening]
+3E0F7SF  [placed on nasal cannula] & ![other procedure]
+3E0F7TZ* [introduction] {destructive agent} `respiratory tract` & [via natural or artificial opening]
+3E0F804* [introduction] {liquid brachytherapy radioisotope} `respiratory tract` & [via natural or artificial opening] {endoscopic}
+3E0F805* [introduction] {other antineoplastic} `respiratory tract` & [via natural or artificial opening] {endoscopic}
+3E0F80M* [introduction] {monoclonal antibody} `respiratory tract` & [via natural or artificial opening] {endoscopic}
+3E0F828* [introduction] {oxazolidinones} `respiratory tract` & [via natural or artificial opening] {endoscopic}
+3E0F829* [introduction] {other anti-infective} `respiratory tract` & [via natural or artificial opening] {endoscopic}
+3E0F83Z* [introduction] {anti-inflammatory} `respiratory tract` & [via natural or artificial opening] {endoscopic}
+3E0F86Z* [introduction] {nutritional substance} `respiratory tract` & [via natural or artificial opening] {endoscopic}
+3E0F87Z* [introduction] {electrolytic and water balance substance} `respiratory tract` & [via natural or artificial opening] {endoscopic}
+3E0F8BZ* [introduction] {local anesthetic} `respiratory tract` & [via natural or artificial opening] {endoscopic}
+3E0F8DZ* [introduction] {inhalation anesthetic} `respiratory tract` & [via natural or artificial opening] {endoscopic}
+3E0F8GC* [introduction] {other therapeutic substance} `respiratory tract` & [via natural or artificial opening] {endoscopic}
+3E0F8HZ* [introduction] {radioactive substance} `respiratory tract` & [via natural or artificial opening] {endoscopic}
+3E0F8KZ* [introduction] {other diagnostic substance} `respiratory tract` & [via natural or artificial opening] {endoscopic}
+3E0F8NZ* [introduction] {analgesics, hypnotics, sedatives} `respiratory tract` & [via natural or artificial opening] {endoscopic}
+3E0F8SD* [introduction] {nitric oxide gas} `respiratory tract` & [via natural or artificial opening] {endoscopic}
+3E0F8SF* [introduction] {other gas} `respiratory tract` & [via natural or artificial opening] {endoscopic}
+3E0F8TZ* [introduction] {destructive agent} `respiratory tract` & [via natural or artificial opening] {endoscopic}
+3E0G304* [introduction] {liquid brachytherapy radioisotope} `upper gi` {percutaneous}
+3E0G305* [introduction] {other antineoplastic} `upper gi` {percutaneous}
+3E0G30M* [introduction] {monoclonal antibody} `upper gi` {percutaneous}
+3E0G328* [introduction] {oxazolidinones} `upper gi` {percutaneous}
+3E0G329* [introduction] {other anti-infective} `upper gi` {percutaneous}
+3E0G33Z* [introduction] {anti-inflammatory} `upper gi` {percutaneous}
+3E0G36Z* [introduction] {nutritional substance} `upper gi` {percutaneous}
+3E0G37Z* [introduction] {electrolytic and water balance substance} `upper gi` {percutaneous}
+3E0G3BZ* [introduction] {local anesthetic} `upper gi` {percutaneous}
+3E0G3GC* [introduction] {other therapeutic substance} `upper gi` {percutaneous}
+3E0G3HZ* [introduction] {radioactive substance} `upper gi` {percutaneous}
+3E0G3KZ* [introduction] {other diagnostic substance} `upper gi` {percutaneous}
+3E0G3NZ* [introduction] {analgesics, hypnotics, sedatives} `upper gi` {percutaneous}
+3E0G3SF* [introduction] {other gas} `upper gi` {percutaneous}
+3E0G3TZ* [introduction] {destructive agent} `upper gi` {percutaneous}
+3E0G704* [introduction] {liquid brachytherapy radioisotope} `upper gi` & [via natural or artificial opening]
+3E0G705* [introduction] {other antineoplastic} `upper gi` & [via natural or artificial opening]
+3E0G70M* [introduction] {monoclonal antibody} `upper gi` & [via natural or artificial opening]
+3E0G728* [introduction] {oxazolidinones} `upper gi` & [via natural or artificial opening]
+3E0G729* [introduction] {other anti-infective} `upper gi` & [via natural or artificial opening]
+3E0G73Z* [introduction] {anti-inflammatory} `upper gi` & [via natural or artificial opening]
+3E0G76Z  [nasogastric tube feed]
+3E0G77Z* [introduction] {electrolytic and water balance substance} `upper gi` & [via natural or artificial opening]
+3E0G7BZ* [introduction] {local anesthetic} `upper gi` & [via natural or artificial opening]
+3E0G7GC* [introduction] {other therapeutic substance} `upper gi` & [via natural or artificial opening]
+3E0G7HZ* [introduction] {radioactive substance} `upper gi` & [via natural or artificial opening]
+3E0G7KZ* [introduction] {other diagnostic substance} `upper gi` & [via natural or artificial opening]
+3E0G7NZ* [introduction] {analgesics, hypnotics, sedatives} `upper gi` & [via natural or artificial opening]
+3E0G7SF* [introduction] {other gas} `upper gi` & [via natural or artificial opening]
+3E0G7TZ* [introduction] {destructive agent} `upper gi` & [via natural or artificial opening]
+3E0G804* [introduction] {liquid brachytherapy radioisotope} `upper gi` & [via natural or artificial opening] {endoscopic}
+3E0G805* [introduction] {other antineoplastic} `upper gi` & [via natural or artificial opening] {endoscopic}
+3E0G80M* [introduction] {monoclonal antibody} `upper gi` & [via natural or artificial opening] {endoscopic}
+3E0G828* [introduction] {oxazolidinones} `upper gi` & [via natural or artificial opening] {endoscopic}
+3E0G829* [introduction] {other anti-infective} `upper gi` & [via natural or artificial opening] {endoscopic}
+3E0G83Z* [introduction] {anti-inflammatory} `upper gi` & [via natural or artificial opening] {endoscopic}
+3E0G86Z* [introduction] {nutritional substance} `upper gi` & [via natural or artificial opening] {endoscopic}
+3E0G87Z* [introduction] {electrolytic and water balance substance} `upper gi` & [via natural or artificial opening] {endoscopic}
+3E0G8BZ* [introduction] {local anesthetic} `upper gi` & [via natural or artificial opening] {endoscopic}
+3E0G8GC* [introduction] {other therapeutic substance} `upper gi` & [via natural or artificial opening] {endoscopic}
+3E0G8HZ* [introduction] {radioactive substance} `upper gi` & [via natural or artificial opening] {endoscopic}
+3E0G8KZ* [introduction] {other diagnostic substance} `upper gi` & [via natural or artificial opening] {endoscopic}
+3E0G8NZ* [introduction] {analgesics, hypnotics, sedatives} `upper gi` & [via natural or artificial opening] {endoscopic}
+3E0G8SF* [introduction] {other gas} `upper gi` & [via natural or artificial opening] {endoscopic}
+3E0G8TZ* [introduction] {destructive agent} `upper gi` & [via natural or artificial opening] {endoscopic}
+3E0H304* [introduction] {liquid brachytherapy radioisotope} `lower gi` {percutaneous}
+3E0H305* [introduction] {other antineoplastic} `lower gi` {percutaneous}
+3E0H30M* [introduction] {monoclonal antibody} `lower gi` {percutaneous}
+3E0H328* [introduction] {oxazolidinones} `lower gi` {percutaneous}
+3E0H329* [introduction] {other anti-infective} `lower gi` {percutaneous}
+3E0H33Z* [introduction] {anti-inflammatory} `lower gi` {percutaneous}
+3E0H36Z* [introduction] {nutritional substance} `lower gi` {percutaneous}
+3E0H37Z* [introduction] {electrolytic and water balance substance} `lower gi` {percutaneous}
+3E0H3BZ* [introduction] {local anesthetic} `lower gi` {percutaneous}
+3E0H3GC* [introduction] {other therapeutic substance} `lower gi` {percutaneous}
+3E0H3HZ* [introduction] {radioactive substance} `lower gi` {percutaneous}
+3E0H3KZ* [introduction] {other diagnostic substance} `lower gi` {percutaneous}
+3E0H3NZ* [introduction] {analgesics, hypnotics, sedatives} `lower gi` {percutaneous}
+3E0H3SF* [introduction] {other gas} `lower gi` {percutaneous}
+3E0H3TZ* [introduction] {destructive agent} `lower gi` {percutaneous}
+3E0H704* [introduction] {liquid brachytherapy radioisotope} `lower gi` & [via natural or artificial opening]
+3E0H705* [introduction] {other antineoplastic} `lower gi` & [via natural or artificial opening]
+3E0H70M* [introduction] {monoclonal antibody} `lower gi` & [via natural or artificial opening]
+3E0H728* [introduction] {oxazolidinones} `lower gi` & [via natural or artificial opening]
+3E0H729* [introduction] {other anti-infective} `lower gi` & [via natural or artificial opening]
+3E0H73Z* [introduction] {anti-inflammatory} `lower gi` & [via natural or artificial opening]
+3E0H76Z  [jejunostomy tube feed]
+3E0H77Z* [introduction] {electrolytic and water balance substance} `lower gi` & [via natural or artificial opening]
+3E0H7BZ* [introduction] {local anesthetic} `lower gi` & [via natural or artificial opening]
+3E0H7GC  [other therapeutic substance in gi tract]
+3E0H7HZ* [introduction] {radioactive substance} `lower gi` & [via natural or artificial opening]
+3E0H7KZ* [introduction] {other diagnostic substance} `lower gi` & [via natural or artificial opening]
+3E0H7NZ* [introduction] {analgesics, hypnotics, sedatives} `lower gi` & [via natural or artificial opening]
+3E0H7SF* [introduction] {other gas} `lower gi` & [via natural or artificial opening]
+3E0H7TZ* [introduction] {destructive agent} `lower gi` & [via natural or artificial opening]
+3E0H804* [introduction] {liquid brachytherapy radioisotope} `lower gi` & [via natural or artificial opening] {endoscopic}
+3E0H805* [introduction] {other antineoplastic} `lower gi` & [via natural or artificial opening] {endoscopic}
+3E0H80M* [introduction] {monoclonal antibody} `lower gi` & [via natural or artificial opening] {endoscopic}
+3E0H828* [introduction] {oxazolidinones} `lower gi` & [via natural or artificial opening] {endoscopic}
+3E0H829* [introduction] {other anti-infective} `lower gi` & [via natural or artificial opening] {endoscopic}
+3E0H83Z* [introduction] {anti-inflammatory} `lower gi` & [via natural or artificial opening] {endoscopic}
+3E0H86Z* [introduction] {nutritional substance} `lower gi` & [via natural or artificial opening] {endoscopic}
+3E0H87Z* [introduction] {electrolytic and water balance substance} `lower gi` & [via natural or artificial opening] {endoscopic}
+3E0H8BZ* [introduction] {local anesthetic} `lower gi` & [via natural or artificial opening] {endoscopic}
+3E0H8GC* [introduction] {other therapeutic substance} `lower gi` & [via natural or artificial opening] {endoscopic}
+3E0H8HZ* [introduction] {radioactive substance} `lower gi` & [via natural or artificial opening] {endoscopic}
+3E0H8KZ* [introduction] {other diagnostic substance} `lower gi` & [via natural or artificial opening] {endoscopic}
+3E0H8NZ* [introduction] {analgesics, hypnotics, sedatives} `lower gi` & [via natural or artificial opening] {endoscopic}
+3E0H8SF* [introduction] {other gas} `lower gi` & [via natural or artificial opening] {endoscopic}
+3E0H8TZ* [introduction] {destructive agent} `lower gi` & [via natural or artificial opening] {endoscopic}
+3E0J304* [introduction] {liquid brachytherapy radioisotope} `biliary and pancreatic tract` {percutaneous}
+3E0J305* [introduction] {other antineoplastic} `biliary and pancreatic tract` {percutaneous}
+3E0J30M* [introduction] {monoclonal antibody} `biliary and pancreatic tract` {percutaneous}
+3E0J328* [introduction] {oxazolidinones} `biliary and pancreatic tract` {percutaneous}
+3E0J329* [introduction] {other anti-infective} `biliary and pancreatic tract` {percutaneous}
+3E0J33Z* [introduction] {anti-inflammatory} `biliary and pancreatic tract` {percutaneous}
+3E0J36Z* [introduction] {nutritional substance} `biliary and pancreatic tract` {percutaneous}
+3E0J37Z* [introduction] {electrolytic and water balance substance} `biliary and pancreatic tract` {percutaneous}
+3E0J3BZ* [introduction] {local anesthetic} `biliary and pancreatic tract` {percutaneous}
+3E0J3GC* [introduction] {other therapeutic substance} `biliary and pancreatic tract` {percutaneous}
+3E0J3HZ* [introduction] {radioactive substance} `biliary and pancreatic tract` {percutaneous}
+3E0J3KZ* [introduction] {other diagnostic substance} `biliary and pancreatic tract` {percutaneous}
+3E0J3NZ* [introduction] {analgesics, hypnotics, sedatives} `biliary and pancreatic tract` {percutaneous}
+3E0J3SF* [introduction] {other gas} `biliary and pancreatic tract` {percutaneous}
+3E0J3TZ* [introduction] {destructive agent} `biliary and pancreatic tract` {percutaneous}
+3E0J3U0* [introduction] {autologous} `pancreatic islet cells` `biliary and pancreatic tract` {percutaneous}
+3E0J3U1* [introduction] {nonautologous} `pancreatic islet cells` `biliary and pancreatic tract` {percutaneous}
+3E0J704* [introduction] {liquid brachytherapy radioisotope} `biliary and pancreatic tract` & [via natural or artificial opening]
+3E0J705* [introduction] {other antineoplastic} `biliary and pancreatic tract` & [via natural or artificial opening]
+3E0J70M* [introduction] {monoclonal antibody} `biliary and pancreatic tract` & [via natural or artificial opening]
+3E0J728* [introduction] {oxazolidinones} `biliary and pancreatic tract` & [via natural or artificial opening]
+3E0J729* [introduction] {other anti-infective} `biliary and pancreatic tract` & [via natural or artificial opening]
+3E0J73Z* [introduction] {anti-inflammatory} `biliary and pancreatic tract` & [via natural or artificial opening]
+3E0J76Z* [introduction] {nutritional substance} `biliary and pancreatic tract` & [via natural or artificial opening]
+3E0J77Z* [introduction] {electrolytic and water balance substance} `biliary and pancreatic tract` & [via natural or artificial opening]
+3E0J7BZ* [introduction] {local anesthetic} `biliary and pancreatic tract` & [via natural or artificial opening]
+3E0J7GC* [introduction] {other therapeutic substance} `biliary and pancreatic tract` & [via natural or artificial opening]
+3E0J7HZ* [introduction] {radioactive substance} `biliary and pancreatic tract` & [via natural or artificial opening]
+3E0J7KZ* [introduction] {other diagnostic substance} `biliary and pancreatic tract` & [via natural or artificial opening]
+3E0J7NZ* [introduction] {analgesics, hypnotics, sedatives} `biliary and pancreatic tract` & [via natural or artificial opening]
+3E0J7SF* [introduction] {other gas} `biliary and pancreatic tract` & [via natural or artificial opening]
+3E0J7TZ* [introduction] {destructive agent} `biliary and pancreatic tract` & [via natural or artificial opening]
+3E0J7U0* [introduction] {autologous} `pancreatic islet cells` `biliary and pancreatic tract` & [via natural or artificial opening]
+3E0J7U1* [introduction] {nonautologous} `pancreatic islet cells` `biliary and pancreatic tract` & [via natural or artificial opening]
+3E0J804* [introduction] {liquid brachytherapy radioisotope} `biliary and pancreatic tract` & [via natural or artificial opening] {endoscopic}
+3E0J805* [introduction] {other antineoplastic} `biliary and pancreatic tract` & [via natural or artificial opening] {endoscopic}
+3E0J80M* [introduction] {monoclonal antibody} `biliary and pancreatic tract` & [via natural or artificial opening] {endoscopic}
+3E0J828* [introduction] {oxazolidinones} `biliary and pancreatic tract` & [via natural or artificial opening] {endoscopic}
+3E0J829* [introduction] {other anti-infective} `biliary and pancreatic tract` & [via natural or artificial opening] {endoscopic}
+3E0J83Z* [introduction] {anti-inflammatory} `biliary and pancreatic tract` & [via natural or artificial opening] {endoscopic}
+3E0J86Z* [introduction] {nutritional substance} `biliary and pancreatic tract` & [via natural or artificial opening] {endoscopic}
+3E0J87Z* [introduction] {electrolytic and water balance substance} `biliary and pancreatic tract` & [via natural or artificial opening] {endoscopic}
+3E0J8BZ* [introduction] {local anesthetic} `biliary and pancreatic tract` & [via natural or artificial opening] {endoscopic}
+3E0J8GC* [introduction] {other therapeutic substance} `biliary and pancreatic tract` & [via natural or artificial opening] {endoscopic}
+3E0J8HZ* [introduction] {radioactive substance} `biliary and pancreatic tract` & [via natural or artificial opening] {endoscopic}
+3E0J8KZ* [introduction] {other diagnostic substance} `biliary and pancreatic tract` & [via natural or artificial opening] {endoscopic}
+3E0J8NZ* [introduction] {analgesics, hypnotics, sedatives} `biliary and pancreatic tract` & [via natural or artificial opening] {endoscopic}
+3E0J8SF* [introduction] {other gas} `biliary and pancreatic tract` & [via natural or artificial opening] {endoscopic}
+3E0J8TZ* [introduction] {destructive agent} `biliary and pancreatic tract` & [via natural or artificial opening] {endoscopic}
+3E0J8U0* [introduction] {autologous} `pancreatic islet cells` `biliary and pancreatic tract` & [via natural or artificial opening] {endoscopic}
+3E0J8U1* [introduction] {nonautologous} `pancreatic islet cells` `biliary and pancreatic tract` & [via natural or artificial opening] {endoscopic}
+3E0K304* [introduction] {liquid brachytherapy radioisotope} `genitourinary tract` {percutaneous}
+3E0K305* [introduction] {other antineoplastic} `genitourinary tract` {percutaneous}
+3E0K30M* [introduction] {monoclonal antibody} `genitourinary tract` {percutaneous}
+3E0K328* [introduction] {oxazolidinones} `genitourinary tract` {percutaneous}
+3E0K329* [introduction] {other anti-infective} `genitourinary tract` {percutaneous}
+3E0K33Z* [introduction] {anti-inflammatory} `genitourinary tract` {percutaneous}
+3E0K36Z* [introduction] {nutritional substance} `genitourinary tract` {percutaneous}
+3E0K37Z* [introduction] {electrolytic and water balance substance} `genitourinary tract` {percutaneous}
+3E0K3BZ* [introduction] {local anesthetic} `genitourinary tract` {percutaneous}
+3E0K3GC* [introduction] {other therapeutic substance} `genitourinary tract` {percutaneous}
+3E0K3HZ* [introduction] {radioactive substance} `genitourinary tract` {percutaneous}
+3E0K3KZ* [introduction] {other diagnostic substance} `genitourinary tract` {percutaneous}
+3E0K3NZ* [introduction] {analgesics, hypnotics, sedatives} `genitourinary tract` {percutaneous}
+3E0K3SF* [introduction] {other gas} `genitourinary tract` {percutaneous}
+3E0K3TZ* [introduction] {destructive agent} `genitourinary tract` {percutaneous}
+3E0K704* [introduction] {liquid brachytherapy radioisotope} `genitourinary tract` & [via natural or artificial opening]
+3E0K705* [introduction] {other antineoplastic} `genitourinary tract` & [via natural or artificial opening]
+3E0K70M* [introduction] {monoclonal antibody} `genitourinary tract` & [via natural or artificial opening]
+3E0K728* [introduction] {oxazolidinones} `genitourinary tract` & [via natural or artificial opening]
+3E0K729* [introduction] {other anti-infective} `genitourinary tract` & [via natural or artificial opening]
+3E0K73Z* [introduction] {anti-inflammatory} `genitourinary tract` & [via natural or artificial opening]
+3E0K76Z* [introduction] {nutritional substance} `genitourinary tract` & [via natural or artificial opening]
+3E0K77Z* [introduction] {electrolytic and water balance substance} `genitourinary tract` & [via natural or artificial opening]
+3E0K7BZ* [introduction] {local anesthetic} `genitourinary tract` & [via natural or artificial opening]
+3E0K7GC* [introduction] {other therapeutic substance} `genitourinary tract` & [via natural or artificial opening]
+3E0K7HZ* [introduction] {radioactive substance} `genitourinary tract` & [via natural or artificial opening]
+3E0K7KZ* [introduction] {other diagnostic substance} `genitourinary tract` & [via natural or artificial opening]
+3E0K7NZ* [introduction] {analgesics, hypnotics, sedatives} `genitourinary tract` & [via natural or artificial opening]
+3E0K7SF* [introduction] {other gas} `genitourinary tract` & [via natural or artificial opening]
+3E0K7TZ* [introduction] {destructive agent} `genitourinary tract` & [via natural or artificial opening]
+3E0K804* [introduction] {liquid brachytherapy radioisotope} `genitourinary tract` & [via natural or artificial opening] {endoscopic}
+3E0K805* [introduction] {other antineoplastic} `genitourinary tract` & [via natural or artificial opening] {endoscopic}
+3E0K80M* [introduction] {monoclonal antibody} `genitourinary tract` & [via natural or artificial opening] {endoscopic}
+3E0K828* [introduction] {oxazolidinones} `genitourinary tract` & [via natural or artificial opening] {endoscopic}
+3E0K829* [introduction] {other anti-infective} `genitourinary tract` & [via natural or artificial opening] {endoscopic}
+3E0K83Z* [introduction] {anti-inflammatory} `genitourinary tract` & [via natural or artificial opening] {endoscopic}
+3E0K86Z* [introduction] {nutritional substance} `genitourinary tract` & [via natural or artificial opening] {endoscopic}
+3E0K87Z* [introduction] {electrolytic and water balance substance} `genitourinary tract` & [via natural or artificial opening] {endoscopic}
+3E0K8BZ* [introduction] {local anesthetic} `genitourinary tract` & [via natural or artificial opening] {endoscopic}
+3E0K8GC* [introduction] {other therapeutic substance} `genitourinary tract` & [via natural or artificial opening] {endoscopic}
+3E0K8HZ* [introduction] {radioactive substance} `genitourinary tract` & [via natural or artificial opening] {endoscopic}
+3E0K8KZ* [introduction] {other diagnostic substance} `genitourinary tract` & [via natural or artificial opening] {endoscopic}
+3E0K8NZ* [introduction] {analgesics, hypnotics, sedatives} `genitourinary tract` & [via natural or artificial opening] {endoscopic}
+3E0K8SF* [introduction] {other gas} `genitourinary tract` & [via natural or artificial opening] {endoscopic}
+3E0K8TZ* [introduction] {destructive agent} `genitourinary tract` & [via natural or artificial opening] {endoscopic}
+3E0L05Z* [introduction] {adhesion barrier} `pleural cavity` & ![percutaneous endoscopic] & ![percutaneous]
+3E0L304* [introduction] {liquid brachytherapy radioisotope} `pleural cavity` {percutaneous}
+3E0L305* [introduction] {other antineoplastic} `pleural cavity` {percutaneous}
+3E0L30M* [introduction] {monoclonal antibody} `pleural cavity` {percutaneous}
+3E0L328* [introduction] {oxazolidinones} `pleural cavity` {percutaneous}
+3E0L329* [introduction] {other anti-infective} `pleural cavity` {percutaneous}
+3E0L33Z* [introduction] {anti-inflammatory} `pleural cavity` {percutaneous}
+3E0L36Z* [introduction] {nutritional substance} `pleural cavity` {percutaneous}
+3E0L37Z* [introduction] {electrolytic and water balance substance} `pleural cavity` {percutaneous}
+3E0L3BZ* [introduction] {local anesthetic} `pleural cavity` {percutaneous}
+3E0L3GC* [introduction] {other therapeutic substance} `pleural cavity`
+3E0L3HZ* [introduction] {radioactive substance} `pleural cavity` {percutaneous}
+3E0L3KZ* [introduction] {other diagnostic substance} `pleural cavity` {percutaneous}
+3E0L3NZ* [introduction] {analgesics, hypnotics, sedatives} `pleural cavity` {percutaneous}
+3E0L3SF* [introduction] {other gas} `pleural cavity` {percutaneous}
+3E0L3TZ* [introduction] {destructive agent} `pleural cavity` {percutaneous}
+3E0L704* [introduction] {liquid brachytherapy radioisotope} `pleural cavity` & [via natural or artificial opening]
+3E0L705* [introduction] {other antineoplastic} `pleural cavity` & [via natural or artificial opening]
+3E0L70M* [introduction] {monoclonal antibody} `pleural cavity` & [via natural or artificial opening]
+3E0L7SF* [introduction] {other gas} `pleural cavity` & [via natural or artificial opening]
+3E0M05Z* [introduction] {adhesion barrier} `peritoneal cavity` & ![percutaneous endoscopic] & ![percutaneous]
+3E0M304* [introduction] {liquid brachytherapy radioisotope} `peritoneal cavity` {percutaneous}
+3E0M305* [introduction] {other antineoplastic} `peritoneal cavity` {percutaneous}
+3E0M30M* [introduction] {monoclonal antibody} `peritoneal cavity` {percutaneous}
+3E0M30Y	 [introduction of hyperthermic antineoplastic]
+3E0M328* [introduction] {oxazolidinones} `peritoneal cavity` {percutaneous}
+3E0M329* [introduction] {other anti-infective} `peritoneal cavity` {percutaneous}
+3E0M33Z* [introduction] {anti-inflammatory} `peritoneal cavity` {percutaneous}
+3E0M36Z* [introduction] {nutritional substance} `peritoneal cavity` {percutaneous}
+3E0M37Z* [introduction] {electrolytic and water balance substance} `peritoneal cavity` {percutaneous}
+3E0M3BZ* [introduction] {local anesthetic} `peritoneal cavity` {percutaneous}
+3E0M3GC* [introduction] {other therapeutic substance} `peritoneal cavity` {percutaneous}
+3E0M3HZ* [introduction] {radioactive substance} `peritoneal cavity` {percutaneous}
+3E0M3KZ* [introduction] {other diagnostic substance} `peritoneal cavity` {percutaneous}
+3E0M3NZ* [introduction] {analgesics, hypnotics, sedatives} `peritoneal cavity` {percutaneous}
+3E0M3SF* [introduction] {other gas} `peritoneal cavity` {percutaneous}
+3E0M3TZ* [introduction] {destructive agent} `peritoneal cavity` {percutaneous}
+3E0M704* [introduction] {liquid brachytherapy radioisotope} `peritoneal cavity` & [via natural or artificial opening]
+3E0M705* [introduction] {other antineoplastic} `peritoneal cavity` & [via natural or artificial opening]
+3E0M70M* [introduction] {monoclonal antibody} `peritoneal cavity` & [via natural or artificial opening]
+3E0M7SF* [introduction] {other gas} `peritoneal cavity` & [via natural or artificial opening]
+3E0N304* [introduction] {liquid brachytherapy radioisotope} `male reproductive` {percutaneous}
+3E0N305* [introduction] {other antineoplastic} `male reproductive` {percutaneous}
+3E0N30M* [introduction] {monoclonal antibody} `male reproductive` {percutaneous}
+3E0N328* [introduction] {oxazolidinones} `male reproductive` {percutaneous}
+3E0N329* [introduction] {other anti-infective} `male reproductive` {percutaneous}
+3E0N33Z* [introduction] {anti-inflammatory} `male reproductive` {percutaneous}
+3E0N36Z* [introduction] {nutritional substance} `male reproductive` {percutaneous}
+3E0N37Z* [introduction] {electrolytic and water balance substance} `male reproductive` {percutaneous}
+3E0N3BZ* [introduction] {local anesthetic} `male reproductive` {percutaneous}
+3E0N3GC* [introduction] {other therapeutic substance} `male reproductive` {percutaneous}
+3E0N3HZ* [introduction] {radioactive substance} `male reproductive` {percutaneous}
+3E0N3KZ* [introduction] {other diagnostic substance} `male reproductive` {percutaneous}
+3E0N3NZ* [introduction] {analgesics, hypnotics, sedatives} `male reproductive` {percutaneous}
+3E0N3SF* [introduction] {other gas} `male reproductive` {percutaneous}
+3E0N3TZ* [introduction] {destructive agent} `male reproductive` {percutaneous}
+3E0N704* [introduction] {liquid brachytherapy radioisotope} `male reproductive` & [via natural or artificial opening]
+3E0N705* [introduction] {other antineoplastic} `male reproductive` & [via natural or artificial opening]
+3E0N70M* [introduction] {monoclonal antibody} `male reproductive` & [via natural or artificial opening]
+3E0N728* [introduction] {oxazolidinones} `male reproductive` & [via natural or artificial opening]
+3E0N729* [introduction] {other anti-infective} `male reproductive` & [via natural or artificial opening]
+3E0N73Z* [introduction] {anti-inflammatory} `male reproductive` & [via natural or artificial opening]
+3E0N76Z* [introduction] {nutritional substance} `male reproductive` & [via natural or artificial opening]
+3E0N77Z* [introduction] {electrolytic and water balance substance} `male reproductive` & [via natural or artificial opening]
+3E0N7BZ* [introduction] {local anesthetic} `male reproductive` & [via natural or artificial opening]
+3E0N7GC* [introduction] {other therapeutic substance} `male reproductive` & [via natural or artificial opening]
+3E0N7HZ* [introduction] {radioactive substance} `male reproductive` & [via natural or artificial opening]
+3E0N7KZ* [introduction] {other diagnostic substance} `male reproductive` & [via natural or artificial opening]
+3E0N7NZ* [introduction] {analgesics, hypnotics, sedatives} `male reproductive` & [via natural or artificial opening]
+3E0N7SF* [introduction] {other gas} `male reproductive` & [via natural or artificial opening]
+3E0N7TZ* [introduction] {destructive agent} `male reproductive` & [via natural or artificial opening]
+3E0N804* [introduction] {liquid brachytherapy radioisotope} `male reproductive` & [via natural or artificial opening] {endoscopic}
+3E0N805* [introduction] {other antineoplastic} `male reproductive` & [via natural or artificial opening] {endoscopic}
+3E0N80M* [introduction] {monoclonal antibody} `male reproductive` & [via natural or artificial opening] {endoscopic}
+3E0N828* [introduction] {oxazolidinones} `male reproductive` & [via natural or artificial opening] {endoscopic}
+3E0N829* [introduction] {other anti-infective} `male reproductive` & [via natural or artificial opening] {endoscopic}
+3E0N83Z* [introduction] {anti-inflammatory} `male reproductive` & [via natural or artificial opening] {endoscopic}
+3E0N86Z* [introduction] {nutritional substance} `male reproductive` & [via natural or artificial opening] {endoscopic}
+3E0N87Z* [introduction] {electrolytic and water balance substance} `male reproductive` & [via natural or artificial opening] {endoscopic}
+3E0N8BZ* [introduction] {local anesthetic} `male reproductive` & [via natural or artificial opening] {endoscopic}
+3E0N8GC* [introduction] {other therapeutic substance} `male reproductive` & [via natural or artificial opening] {endoscopic}
+3E0N8HZ* [introduction] {radioactive substance} `male reproductive` & [via natural or artificial opening] {endoscopic}
+3E0N8KZ* [introduction] {other diagnostic substance} `male reproductive` & [via natural or artificial opening] {endoscopic}
+3E0N8NZ* [introduction] {analgesics, hypnotics, sedatives} `male reproductive` & [via natural or artificial opening] {endoscopic}
+3E0N8SF* [introduction] {other gas} `male reproductive` & [via natural or artificial opening] {endoscopic}
+3E0N8TZ* [introduction] {destructive agent} `male reproductive` & [via natural or artificial opening] {endoscopic}
+3E0P05Z* [introduction] {adhesion barrier} `female reproductive` & ![percutaneous endoscopic] & ![percutaneous]
+3E0P304* [introduction] {liquid brachytherapy radioisotope} `female reproductive` {percutaneous}
+3E0P305* [introduction] {other antineoplastic} `female reproductive` {percutaneous}
+3E0P30M* [introduction] {monoclonal antibody} `female reproductive` {percutaneous}
+3E0P328* [introduction] {oxazolidinones} `female reproductive` {percutaneous}
+3E0P329* [introduction] {other anti-infective} `female reproductive` {percutaneous}
+3E0P33Z* [introduction] {anti-inflammatory} `female reproductive` {percutaneous}
+3E0P36Z* [introduction] {nutritional substance} `female reproductive` {percutaneous}
+3E0P37Z* [introduction] {electrolytic and water balance substance} `female reproductive` {percutaneous}
+3E0P3BZ* [introduction] {local anesthetic} `female reproductive` {percutaneous}
+3E0P3GC* [introduction] {other therapeutic substance} `female reproductive` {percutaneous}
+3E0P3HZ* [introduction] {radioactive substance} `female reproductive` {percutaneous}
+3E0P3KZ* [introduction] {other diagnostic substance} `female reproductive` {percutaneous}
+3E0P3LZ* [introduction] {sperm} `female reproductive` {percutaneous}
+3E0P3NZ* [introduction] {analgesics, hypnotics, sedatives} `female reproductive` {percutaneous}
+3E0P3Q0* [introduction] {autologous} `fertilized ovum` `female reproductive` {percutaneous}
+3E0P3Q1* [introduction] {nonautologous} `fertilized ovum` `female reproductive` {percutaneous}
+3E0P3SF* [introduction] {other gas} `female reproductive` {percutaneous}
+3E0P3TZ* [introduction] {destructive agent} `female reproductive` {percutaneous}
+3E0P704* [introduction] {liquid brachytherapy radioisotope} `female reproductive` & [via natural or artificial opening]
+3E0P705* [introduction] {other antineoplastic} `female reproductive` & [via natural or artificial opening]
+3E0P70M* [introduction] {monoclonal antibody} `female reproductive` & [via natural or artificial opening]
+3E0P728* [introduction] {oxazolidinones} `female reproductive` & [via natural or artificial opening]
+3E0P729* [introduction] {other anti-infective} `female reproductive` & [via natural or artificial opening]
+3E0P73Z* [introduction] {anti-inflammatory} `female reproductive` & [via natural or artificial opening]
+3E0P76Z* [introduction] {nutritional substance} `female reproductive` & [via natural or artificial opening]
+3E0P77Z* [introduction] {electrolytic and water balance substance} `female reproductive` & [via natural or artificial opening]
+3E0P7BZ* [introduction] {local anesthetic} `female reproductive` & [via natural or artificial opening]
+3E0P7GC*  [introduction] {other therapeutic substance} `female reproductive` & [via natural or artificial opening]
+3E0P7HZ* [introduction] {radioactive substance} `female reproductive` & [via natural or artificial opening]
+3E0P7KZ* [introduction] {other diagnostic substance} `female reproductive` & [via natural or artificial opening]
+3E0P7LZ* [introduction] {sperm} `female reproductive` & [via natural or artificial opening]
+3E0P7NZ* [introduction] {analgesics, hypnotics, sedatives} `female reproductive` & [via natural or artificial opening]
+3E0P7Q0* [introduction] {autologous} `fertilized ovum` `female reproductive` & [via natural or artificial opening]
+3E0P7Q1* [introduction] {nonautologous} `fertilized ovum` `female reproductive` & [via natural or artificial opening]
+3E0P7SF* [introduction] {other gas} `female reproductive` & [via natural or artificial opening]
+3E0P7TZ* [introduction] {destructive agent} `female reproductive` & [via natural or artificial opening]
+3E0P7VZ  [cervical ripening agent] & ![augment] !{stage or meds}
+3E0P804* [introduction] {liquid brachytherapy radioisotope} `female reproductive` & [via natural or artificial opening] {endoscopic}
+3E0P805* [introduction] {other antineoplastic} `female reproductive` & [via natural or artificial opening] {endoscopic}
+3E0P80M* [introduction] {monoclonal antibody} `female reproductive` & [via natural or artificial opening] {endoscopic}
+3E0P828* [introduction] {oxazolidinones} `female reproductive` & [via natural or artificial opening] {endoscopic}
+3E0P829* [introduction] {other anti-infective} `female reproductive` & [via natural or artificial opening] {endoscopic}
+3E0P83Z* [introduction] {anti-inflammatory} `female reproductive` & [via natural or artificial opening] {endoscopic}
+3E0P86Z* [introduction] {nutritional substance} `female reproductive` & [via natural or artificial opening] {endoscopic}
+3E0P87Z* [introduction] {electrolytic and water balance substance} `female reproductive` & [via natural or artificial opening] {endoscopic}
+3E0P8BZ* [introduction] {local anesthetic} `female reproductive` & [via natural or artificial opening] {endoscopic}
+3E0P8GC* [introduction] {other therapeutic substance} `female reproductive` & [via natural or artificial opening] {endoscopic}
+3E0P8HZ* [introduction] {radioactive substance} `female reproductive` & [via natural or artificial opening] {endoscopic}
+3E0P8KZ* [introduction] {other diagnostic substance} `female reproductive` & [via natural or artificial opening] {endoscopic}
+3E0P8NZ* [introduction] {analgesics, hypnotics, sedatives} `female reproductive` & [via natural or artificial opening] {endoscopic}
+3E0P8SF* [introduction] {other gas} `female reproductive` & [via natural or artificial opening] {endoscopic}
+3E0P8TZ* [introduction] {destructive agent} `female reproductive` & [via natural or artificial opening] {endoscopic}
+3E0Q004* [introduction] {liquid brachytherapy radioisotope} `cranial cavity and brain` & ![percutaneous endoscopic] & ![percutaneous]
+3E0Q005* [introduction] {other antineoplastic} `cranial cavity and brain` & ![percutaneous endoscopic] & ![percutaneous]
+3E0Q00M* [introduction] {monoclonal antibody} `cranial cavity and brain` & ![percutaneous endoscopic] & ![percutaneous]
+3E0Q028* [introduction] {oxazolidinones} `cranial cavity and brain` & ![percutaneous endoscopic] & ![percutaneous]
+3E0Q029* [introduction] {other anti-infective} `cranial cavity and brain` & ![percutaneous endoscopic] & ![percutaneous]
+3E0Q03Z* [introduction] {anti-inflammatory} `cranial cavity and brain` & ![percutaneous endoscopic] & ![percutaneous]
+3E0Q06Z* [introduction] {nutritional substance} `cranial cavity and brain` & ![percutaneous endoscopic] & ![percutaneous]
+3E0Q07Z* [introduction] {electrolytic and water balance substance} `cranial cavity and brain` & ![percutaneous endoscopic] & ![percutaneous]
+3E0Q0AZ* [introduction] {embryonic stem cells} `cranial cavity and brain` & ![percutaneous endoscopic] & ![percutaneous]
+3E0Q0BZ* [introduction] {local anesthetic} `cranial cavity and brain` & ![percutaneous endoscopic] & ![percutaneous]
+3E0Q0E0* [introduction] {autologous} {somatic stem cells} `cranial cavity and brain` & ![percutaneous endoscopic] & ![percutaneous]
+3E0Q0E1* [introduction] {nonautologous} {somatic stem cells} `cranial cavity and brain` & ![percutaneous endoscopic] & ![percutaneous]
+3E0Q0GC* [introduction] {other therapeutic substance} `cranial cavity and brain` & ![percutaneous endoscopic] & ![percutaneous]
+3E0Q0HZ* [introduction] {radioactive substance} `cranial cavity and brain` & ![percutaneous endoscopic] & ![percutaneous]
+3E0Q0KZ* [introduction] {other diagnostic substance} `cranial cavity and brain` & ![percutaneous endoscopic] & ![percutaneous]
+3E0Q0NZ* [introduction] {analgesics, hypnotics, sedatives} `cranial cavity and brain` & ![percutaneous endoscopic] & ![percutaneous]
+3E0Q0SF* [introduction] {other gas} `cranial cavity and brain` & ![percutaneous endoscopic] & ![percutaneous]
+3E0Q0TZ* [introduction] {destructive agent} `cranial cavity and brain` & ![percutaneous endoscopic] & ![percutaneous]
+3E0Q304* [introduction] {liquid brachytherapy radioisotope} `cranial cavity and brain` {percutaneous}
+3E0Q305* [introduction] {other antineoplastic} `cranial cavity and brain` {percutaneous}
+3E0Q30M* [introduction] {monoclonal antibody} `cranial cavity and brain` {percutaneous}
+3E0Q328* [introduction] {oxazolidinones} `cranial cavity and brain` {percutaneous}
+3E0Q329* [introduction] {other anti-infective} `cranial cavity and brain` {percutaneous}
+3E0Q33Z* [introduction] {anti-inflammatory} `cranial cavity and brain` {percutaneous}
+3E0Q36Z* [introduction] {nutritional substance} `cranial cavity and brain` {percutaneous}
+3E0Q37Z* [introduction] {electrolytic and water balance substance} `cranial cavity and brain` {percutaneous}
+3E0Q3AZ* [introduction] {embryonic stem cells} `cranial cavity and brain` {percutaneous}
+3E0Q3BZ* [introduction] {local anesthetic} `cranial cavity and brain` {percutaneous}
+3E0Q3E0* [introduction] {autologous} {somatic stem cells} `cranial cavity and brain` {percutaneous}
+3E0Q3E1* [introduction] {nonautologous} {somatic stem cells} `cranial cavity and brain` {percutaneous}
+3E0Q3GC* [introduction] {other therapeutic substance} `cranial cavity and brain` {percutaneous}
+3E0Q3HZ* [introduction] {radioactive substance} `cranial cavity and brain` {percutaneous}
+3E0Q3KZ* [introduction] {other diagnostic substance} `cranial cavity and brain` {percutaneous}
+3E0Q3NZ* [introduction] {analgesics, hypnotics, sedatives} `cranial cavity and brain` {percutaneous}
+3E0Q3SF* [introduction] {other gas} `cranial cavity and brain` {percutaneous}
+3E0Q3TZ* [introduction] {destructive agent} `cranial cavity and brain` {percutaneous}
+3E0Q704* [introduction] {liquid brachytherapy radioisotope} `cranial cavity and brain` & [via natural or artificial opening]
+3E0Q705* [introduction] {other antineoplastic} `cranial cavity and brain` & [via natural or artificial opening]
+3E0Q70M* [introduction] {monoclonal antibody} `cranial cavity and brain` & [via natural or artificial opening]
+3E0Q7SF* [introduction] {other gas} `cranial cavity and brain` & [via natural or artificial opening]
+3E0R0AZ* [introduction] {embryonic stem cells} `spinal canal` & ![percutaneous endoscopic] & ![percutaneous]
+3E0R0E0* [introduction] {autologous} {somatic stem cells} `spinal canal` & ![percutaneous endoscopic] & ![percutaneous]
+3E0R0E1* [introduction] {nonautologous} {somatic stem cells} `spinal canal` & ![percutaneous endoscopic] & ![percutaneous]
+3E0R302* [introduction] {high-dose} {interleukin-2} `spinal canal` {percutaneous}
+3E0R303* [introduction] {low-dose} {interleukin-2} `spinal canal` {percutaneous}
+3E0R304* [introduction] {liquid brachytherapy radioisotope} `spinal canal` {percutaneous}
+3E0R305* [introduction] {other antineoplastic} `spinal canal` {percutaneous}
+3E0R30M* [introduction] {monoclonal antibody} `spinal canal` {percutaneous}
+3E0R328* [introduction] {oxazolidinones} `spinal canal` {percutaneous}
+3E0R329* [introduction] {other anti-infective} `spinal canal` {percutaneous}
+3E0R33Z* [introduction] {anti-inflammatory} `spinal canal` {percutaneous}
+3E0R36Z* [introduction] {nutritional substance} `spinal canal` {percutaneous}
+3E0R37Z* [introduction] {electrolytic and water balance substance} `spinal canal` {percutaneous}
+3E0R3AZ* [introduction] {embryonic stem cells} `spinal canal` {percutaneous}
+3E0R3BZ* [introduction] {local anesthetic} `spinal canal` {percutaneous}
+3E0R3CZ* [introduction] {regional anesthetic} `spinal canal` {percutaneous}
+3E0R3E0* [introduction] {autologous} {somatic stem cells} `spinal canal` {percutaneous}
+3E0R3E1* [introduction] {nonautologous} {somatic stem cells} `spinal canal` {percutaneous}
+3E0R3GC  [introduction] {other therapeutic substance} `spinal canal` {percutaneous}
+         [lumbar blood patch]
+3E0R3HZ* [introduction] {radioactive substance} `spinal canal` {percutaneous}
+3E0R3KZ* [introduction] {other diagnostic substance} `spinal canal` {percutaneous}
+3E0R3NZ* [introduction] {analgesics, hypnotics, sedatives} `spinal canal` {percutaneous}
+3E0R3SF* [introduction] {other gas} `spinal canal` {percutaneous}
+3E0R3TZ* [introduction] {destructive agent} `spinal canal` {percutaneous}
+3E0R7SF* [introduction] {other gas} `spinal canal` & [via natural or artificial opening]
+3E0S302* [introduction] {high-dose} {interleukin-2} `epidural space` {percutaneous}
+3E0S303* [introduction] {low-dose} {interleukin-2} `epidural space` {percutaneous}
+3E0S304* [introduction] {liquid brachytherapy radioisotope} `epidural space` {percutaneous}
+3E0S305* [introduction] {other antineoplastic} `epidural space` {percutaneous}
+3E0S30M* [introduction] {monoclonal antibody} `epidural space` {percutaneous}
+3E0S328* [introduction] {oxazolidinones} `epidural space` {percutaneous}
+3E0S329* [introduction] {other anti-infective} `epidural space` {percutaneous}
+3E0S33Z* [introduction] {anti-inflammatory} `epidural space` {percutaneous}
+3E0S36Z* [introduction] {nutritional substance} `epidural space` {percutaneous}
+3E0S37Z* [introduction] {electrolytic and water balance substance} `epidural space` {percutaneous}
+3E0S3BZ* [introduction] {local anesthetic} `epidural space` {percutaneous}
+3E0S3CZ* [introduction] {regional anesthetic} `epidural space` {percutaneous}
+3E0S3GC* [introduction] {other therapeutic substance} `epidural space` {percutaneous}
+3E0S3HZ* [introduction] {radioactive substance} `epidural space` {percutaneous}
+3E0S3KZ* [introduction] {other diagnostic substance} `epidural space` {percutaneous}
+3E0S3NZ* [introduction] {analgesics, hypnotics, sedatives} `epidural space` {percutaneous}
+3E0S3SF* [introduction] {other gas} `epidural space` {percutaneous}
+3E0S3TZ* [introduction] {destructive agent} `epidural space` {percutaneous}
+3E0S7SF* [introduction] {other gas} `epidural space` & [via natural or artificial opening]
+3E0T33Z  [introduction] {anti-inflammatory} !{natural opening}
+3E0T3BZ* [introduction] & [local anesthetic] TURNED OFF - CAUSING ISSUES CODING ON ALL OP REPORTS WITH WORD PLACED AND MARCAINE WHICH WAS EVERYONE. TURN TO BE MORE SPECIFIC AND TURN BACK ON.
+3E0T3CZ* [introduction] {regional anesthetic} `peripheral nerves and plexi` {percutaneous}
+3E0T3GC* [introduction] {other therapeutic substance} `peripheral nerves and plexi` {percutaneous}
+3E0T3TZ  [destruction by neurolytic agent] `peripheral nerves and plexi`
+3E0U028* [introduction] {oxazolidinones} `joints` & ![percutaneous endoscopic] & ![percutaneous]
+3E0U029* [introduction] {other anti-infective} `joints` & ![percutaneous endoscopic] & ![percutaneous]
+3E0U0GB  [introduction] {bone morphogenetic protein}
+3E0U304* [introduction] {liquid brachytherapy radioisotope} `joints` {percutaneous}
+3E0U305* [introduction] {other antineoplastic} `joints` {percutaneous}
+3E0U30M* [introduction] {monoclonal antibody} `joints` {percutaneous}
+3E0U328* [introduction] {oxazolidinones} `joints` {percutaneous}
+3E0U329* [introduction] {other anti-infective} `joints` {percutaneous}
+3E0U33Z  [introduction] {anti-inflammatory} & [joint] !{currently on} 
+3E0U36Z* [introduction] {nutritional substance} `joints` {percutaneous}
+3E0U37Z* [introduction] {electrolytic and water balance substance} `joints` {percutaneous}
+3E0U3BZ  [introduction] {local anesthetic} & [joint]
+3E0U3GB* [introduction] {recombinant bone morphogenetic protein} `joints` {percutaneous}
+3E0U3GC* [introduction] {other therapeutic substance} `joints` {percutaneous}
+3E0U3HZ* [introduction] {radioactive substance} `joints` {percutaneous}
+3E0U3KZ* [introduction] {other diagnostic substance} `joints` {percutaneous}
+3E0U3NZ* [introduction] {analgesics, hypnotics, sedatives} `joints` {percutaneous}
+3E0U3SF* [introduction] {other gas} `joints` {percutaneous}
+3E0U3TZ* [introduction] {destructive agent} `joints` {percutaneous}
+3E0V0GB* [introduction] {recombinant bone morphogenetic protein} `bones` & ![percutaneous endoscopic] & ![percutaneous]
+3E0V305* [introduction] {other antineoplastic} `bones` {percutaneous}
+3E0V30M* [introduction] {monoclonal antibody} `bones` {percutaneous}
+3E0V328* [introduction] {oxazolidinones} `bones` {percutaneous}
+3E0V329* [introduction] {other anti-infective} `bones` {percutaneous}
+3E0V33Z* [introduction] {anti-inflammatory} `bones` {percutaneous}
+3E0V36Z* [introduction] {nutritional substance} `bones` {percutaneous}
+3E0V37Z* [introduction] {electrolytic and water balance substance} `bones` {percutaneous}
+3E0V3BZ* [introduction] {local anesthetic} `bones` {percutaneous}
+3E0V3GB* [introduction] {recombinant bone morphogenetic protein} `bones` {percutaneous}
+3E0V3GC* [introduction] {other therapeutic substance} `bones` {percutaneous}
+3E0V3HZ* [introduction] {radioactive substance} `bones` {percutaneous}
+3E0V3KZ* [introduction] {other diagnostic substance} `bones` {percutaneous}
+3E0V3NZ* [introduction] {analgesics, hypnotics, sedatives} `bones` {percutaneous}
+3E0V3TZ* [introduction] {destructive agent} `bones` {percutaneous}
+3E0W305* [introduction] {other antineoplastic} `lymphatics` {percutaneous}
+3E0W30M* [introduction] {monoclonal antibody} `lymphatics` {percutaneous}
+3E0W328* [introduction] {oxazolidinones} `lymphatics` {percutaneous}
+3E0W329* [introduction] {other anti-infective} `lymphatics` {percutaneous}
+3E0W33Z* [introduction] {anti-inflammatory} `lymphatics` {percutaneous}
+3E0W36Z* [introduction] {nutritional substance} `lymphatics` {percutaneous}
+3E0W37Z* [introduction] {electrolytic and water balance substance} `lymphatics` {percutaneous}
+3E0W3BZ* [introduction] {local anesthetic} `lymphatics` {percutaneous}
+3E0W3GC* [introduction] {other therapeutic substance} `lymphatics` {percutaneous}
+3E0W3HZ* [introduction] {radioactive substance} `lymphatics` {percutaneous}
+3E0W3KZ* [introduction] {other diagnostic substance} `lymphatics` {percutaneous}
+3E0W3NZ* [introduction] {analgesics, hypnotics, sedatives} `lymphatics` {percutaneous}
+3E0W3TZ* [introduction] {destructive agent} `lymphatics` {percutaneous}
+3E0X33Z* [introduction] {anti-inflammatory} `cranial nerves` {percutaneous}
+3E0X3BZ* [introduction] {local anesthetic} `cranial nerves` {percutaneous}
+3E0X3CZ* [introduction] {regional anesthetic} `cranial nerves` {percutaneous}
+3E0X3GC* [introduction] {other therapeutic substance} `cranial nerves` {percutaneous}
+3E0X3TZ* [introduction] {destructive agent} `cranial nerves` {percutaneous}
+3E0Y304* [introduction] {liquid brachytherapy radioisotope} `pericardial cavity` {percutaneous}
+3E0Y305* [introduction] {other antineoplastic} `pericardial cavity` {percutaneous}
+3E0Y30M* [introduction] {monoclonal antibody} `pericardial cavity` {percutaneous}
+3E0Y328* [introduction] {oxazolidinones} `pericardial cavity` {percutaneous}
+3E0Y329* [introduction] {other anti-infective} `pericardial cavity` {percutaneous}
+3E0Y33Z* [introduction] {anti-inflammatory} `pericardial cavity` {percutaneous}
+3E0Y36Z* [introduction] {nutritional substance} `pericardial cavity` {percutaneous}
+3E0Y37Z* [introduction] {electrolytic and water balance substance} `pericardial cavity` {percutaneous}
+3E0Y3BZ* [introduction] {local anesthetic} `pericardial cavity` {percutaneous}
+3E0Y3GC* [introduction] {other therapeutic substance} `pericardial cavity` {percutaneous}
+3E0Y3HZ* [introduction] {radioactive substance} `pericardial cavity` {percutaneous}
+3E0Y3KZ* [introduction] {other diagnostic substance} `pericardial cavity` {percutaneous}
+3E0Y3NZ* [introduction] {analgesics, hypnotics, sedatives} `pericardial cavity` {percutaneous}
+3E0Y3SF* [introduction] {other gas} `pericardial cavity` {percutaneous}
+3E0Y3TZ* [introduction] {destructive agent} `pericardial cavity` {percutaneous}
+3E0Y704* [introduction] {liquid brachytherapy radioisotope} `pericardial cavity` & [via natural or artificial opening]
+3E0Y705* [introduction] {other antineoplastic} `pericardial cavity` & [via natural or artificial opening]
+3E0Y70M* [introduction] {monoclonal antibody} `pericardial cavity` & [via natural or artificial opening]
+3E0Y7SF* [introduction] {other gas} `pericardial cavity` & [via natural or artificial opening]
+3E1038X* [irrigation] `skin and mucous membranes` {irrigating substance} {percutaneous} {diagnostic}
+3E1038Z* [irrigation] `skin and mucous membranes` {irrigating substance} {percutaneous}
+3E10X8X* [irrigation] `skin and mucous membranes` {irrigating substance} {diagnostic}
+3E10X8Z* [irrigation] `skin and mucous membranes` {irrigating substance}
+3E1938X* [irrigation] `nose` {irrigating substance} {percutaneous} {diagnostic}
+3E1938Z* [irrigation] `nose` {irrigating substance} {percutaneous}
+3E1978X* [irrigation] `nose` {irrigating substance} & [via natural or artificial opening] {diagnostic}
+3E1978Z* [irrigation] `nose` {irrigating substance} & [via natural or artificial opening]
+3E1988X* [irrigation] `nose` {irrigating substance} & [via natural or artificial opening] {endoscopic} {diagnostic}
+3E1988Z* [irrigation] `nose` {irrigating substance} & [via natural or artificial opening] {endoscopic}
+3E1B38X* [irrigation] `ear` {irrigating substance} {percutaneous} {diagnostic}
+3E1B38Z* [irrigation] `ear` {irrigating substance} {percutaneous}
+3E1B78X* [irrigation] `ear` {irrigating substance} & [via natural or artificial opening] {diagnostic}
+3E1B78Z* [irrigation] `ear` {irrigating substance} & [via natural or artificial opening]
+3E1B88X* [irrigation] `ear` {irrigating substance} & [via natural or artificial opening] {endoscopic} {diagnostic}
+3E1B88Z* [irrigation] `ear` {irrigating substance} & [via natural or artificial opening] {endoscopic}
+3E1C38X* [irrigation] `eye` {irrigating substance} {percutaneous} {diagnostic}
+3E1C38Z* [irrigation] `eye` {irrigating substance} {percutaneous}
+3E1CX8X* [irrigation] `eye` {irrigating substance} {diagnostic}
+3E1CX8Z* [irrigation] `eye` {irrigating substance}
+3E1F38X* [irrigation] `respiratory tract` {irrigating substance} {percutaneous} {diagnostic}
+3E1F38Z* [irrigation] `respiratory tract` {irrigating substance} {percutaneous}
+3E1F78X* [irrigation] `respiratory tract` {irrigating substance} & [via natural or artificial opening] {diagnostic}
+3E1F78Z* [irrigation] `respiratory tract` {irrigating substance} & [via natural or artificial opening]
+3E1F88X* [irrigation] `respiratory tract` {irrigating substance} & [via natural or artificial opening] {endoscopic} {diagnostic}
+3E1F88Z* [irrigation] `respiratory tract` {irrigating substance} & [via natural or artificial opening] {endoscopic}
+3E1G38X* [irrigation] `upper gi` {irrigating substance} {percutaneous} {diagnostic}
+3E1G38Z* [irrigation] `upper gi` {irrigating substance} {percutaneous}
+3E1G78X* [irrigation] `upper gi` {irrigating substance} & [via natural or artificial opening] {diagnostic}
+3E1G78Z* [irrigation] `upper gi` {irrigating substance} & [via natural or artificial opening]
+3E1G88X* [irrigation] `upper gi` {irrigating substance} & [via natural or artificial opening] {endoscopic} {diagnostic}
+3E1G88Z* [irrigation] `upper gi` {irrigating substance} & [via natural or artificial opening] {endoscopic}
+3E1H38X* [irrigation] `lower gi` {irrigating substance} {percutaneous} {diagnostic}
+3E1H38Z* [irrigation] `lower gi` {irrigating substance} {percutaneous}
+3E1H78X* [irrigation] `lower gi` {irrigating substance} & [via natural or artificial opening] {diagnostic}
+3E1H78Z* [irrigation] `lower gi` {irrigating substance} & [via natural or artificial opening]
+3E1H88X* [irrigation] `lower gi` {irrigating substance} & [via natural or artificial opening] {endoscopic} {diagnostic}
+3E1H88Z* [irrigation] `lower gi` {irrigating substance} & [via natural or artificial opening] {endoscopic}
+3E1J38X* [irrigation] `biliary and pancreatic tract` {irrigating substance} {percutaneous} {diagnostic}
+3E1J38Z* [irrigation] `biliary and pancreatic tract` {irrigating substance} {percutaneous}
+3E1J78X* [irrigation] `biliary and pancreatic tract` {irrigating substance} & [via natural or artificial opening] {diagnostic}
+3E1J78Z* [irrigation] `biliary and pancreatic tract` {irrigating substance} & [via natural or artificial opening]
+3E1J88X* [irrigation] `biliary and pancreatic tract` {irrigating substance} & [via natural or artificial opening] {endoscopic} {diagnostic}
+3E1J88Z* [irrigation] `biliary and pancreatic tract` {irrigating substance} & [via natural or artificial opening] {endoscopic}
+3E1K38X* [irrigation] `genitourinary tract` {irrigating substance} {percutaneous} {diagnostic}
+3E1K38Z* [irrigation] `genitourinary tract` {irrigating substance} {percutaneous}
+3E1K78X  [irrigation] `genitourinary tract` & [diagnostic]
+3E1K78Z  [irrigation] `genitourinary tract` 
+3E1K88X* [irrigation] `genitourinary tract` {irrigating substance} & [via natural or artificial opening] {endoscopic} {diagnostic}
+3E1K88Z* [irrigation] `genitourinary tract` {irrigating substance} & [via natural or artificial opening] {endoscopic}
+3E1L38X* [irrigation] `pleural cavity` {irrigating substance} {percutaneous} {diagnostic}
+3E1L38Z* [irrigation] `pleural cavity` {irrigating substance} {percutaneous}
+3E1M38X  [irrigation] `peritoneal cavity` {percutaneous} & [diagnostic]
+3E1M38Z  [irrigation peritoneal cavity]
+3E1M39Z* [irrigation] `peritoneal cavity` {dialysate} {percutaneous}
+3E1N38X* [irrigation] `male reproductive` {irrigating substance} {percutaneous} {diagnostic}
+3E1N38Z* [irrigation] `male reproductive` {irrigating substance} {percutaneous}
+3E1N78X* [irrigation] `male reproductive` {irrigating substance} & [via natural or artificial opening] {diagnostic}
+3E1N78Z* [irrigation] `male reproductive` {irrigating substance} & [via natural or artificial opening]
+3E1N88X* [irrigation] `male reproductive` {irrigating substance} & [via natural or artificial opening] {endoscopic} {diagnostic}
+3E1N88Z* [irrigation] `male reproductive` {irrigating substance} & [via natural or artificial opening] {endoscopic}
+3E1P38X* [irrigation] `female reproductive` {irrigating substance} {percutaneous} {diagnostic}
+3E1P38Z* [irrigation] `female reproductive` {irrigating substance} {percutaneous}
+3E1P78X* [irrigation] `female reproductive` {irrigating substance} & [via natural or artificial opening] {diagnostic}
+3E1P78Z* [irrigation] `female reproductive` {irrigating substance} & [via natural or artificial opening]
+3E1P88X* [irrigation] `female reproductive` {irrigating substance} & [via natural or artificial opening] {endoscopic} {diagnostic}
+3E1P88Z* [irrigation] `female reproductive` {irrigating substance} & [via natural or artificial opening] {endoscopic}
+3E1Q38X* [irrigation] `cranial cavity and brain` {irrigating substance} {percutaneous} {diagnostic}
+3E1Q38Z* [irrigation] `cranial cavity and brain` {irrigating substance} {percutaneous}
+3E1R38X* [irrigation] `spinal canal` {irrigating substance} {percutaneous} {diagnostic}
+3E1R38Z* [irrigation] `spinal canal` {irrigating substance} {percutaneous}
+3E1S38X* [irrigation] `epidural space` {irrigating substance} {percutaneous} {diagnostic}
+3E1S38Z* [irrigation] `epidural space` {irrigating substance} {percutaneous}
+3E1U38X* [irrigation] `joints` {irrigating substance} {percutaneous} {diagnostic}
+3E1U38Z* [irrigation] `joints` {irrigating substance} {percutaneous}
+3E1Y38X* [irrigation] `pericardial cavity` {irrigating substance} {percutaneous} {diagnostic}
+3E1Y38Z* [irrigation] `pericardial cavity` {irrigating substance} {percutaneous}
+3E1U48X	 [irrigation] `joints` {irrigating substance} & [percutaneous endoscopic] {diagnostic}	
+3E1U48Z  [irrigation] `joints` {irrigating substance} & [percutaneous endoscopic] 	

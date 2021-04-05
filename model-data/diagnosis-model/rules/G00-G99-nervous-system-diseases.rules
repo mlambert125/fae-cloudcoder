@@ -1,0 +1,674 @@
+G000    [hemophilus meningitis]
+G001    [pneumococcal meningitis]
+G002    [streptococcal meningitis]
+G003    [staphylococcal meningitis]
+G008*   other bacterial meningitis
+G009    [bacterial meningitis]
+G01*    [meningitis] in [bacterial disease]s classified elsewhere
+G02*    meningitis in other infectious and parasitic diseases classified elsewhere
+G030    [nonpyogenic meningitis] & ![leptospirosis]
+G031    [meningitis] {chronic}
+G032    [recurrent meningitis] {benign}
+G038*   meningitis due to other specified causes
+G039    [meningitis] 
+        [arachnoiditis]
+G0400   [encephalitis] {acute} {disseminated}
+        [encephalomyelitis] {acute} {disseminated}
+G0401   [encephalitis] {postinfectious} {acute} {disseminated}
+        [encephalomyelitis] {postinfectious} {acute} {disseminated}
+G0402   [encephalitis] {postimmunization} {acute} {disseminated}
+        [myelitis] {postimmunization} {acute} {disseminated}
+        [encephalomyelitis] {postimmunization} {acute} {disseminated}
+G041    [tropical spastic paraplegia]
+G042*   [bacterial meningoencephalitis]
+        [bacterial*meningomyelitis]
+G0430   [necrotizing hemorrhagic encephalopathy] {acute}
+G0431   [necrotizing hemorrhagic encephalopathy] {acute} {postinfectious}
+G0432   [necrotizing hemorrhagic encephalopathy] {acute} {postimmunization}
+G0439   [necrotizing hemorrhagic encephalopathy] {acute}
+G0481*  other [encephalitis] and [encephalomyelitis]
+G0489*  other [myelitis]
+G0490   [encephalitis] !{history of}
+        [encephalomyelitis]
+G0491   [myelitis] & ![tuberculosis]
+G053*   encephalitis and encephalomyelitis in diseases classified elsewhere
+G054*   myelitis in diseases classified elsewhere
+G060    [abscess] `intracranial`
+        [granuloma] `intracranial`
+G061    [abscess] `intraspinal`
+        [granuloma] `intraspinal`
+G062    [abscess] `extradural`
+        [abscess] `subdural`
+G07*    `intracranial` and intraspinal abscess and granuloma in diseases classified elsewhere
+G08*    `intracranial` and intraspinal phlebitis and thrombophlebitis
+G09*    sequela of inflammatory diseases of `central nervous system`
+G10     [huntingtons disease]
+G110    [ataxia] {nonprogressive}
+G111*   [ataxia] {early onset} {cerebellar} "Deleted ICD10 FY2021"
+G1110   [ataxia] {early onset} {cerebellar} 
+G1111	[friedreich ataxia] 
+G1119	[other early-onset cerebellar ataxia] 
+G112    [ataxia] {late onset} {cerebellar}
+G113    [ataxia] `cerebellum` & [defective dna repair]
+G114    [spastic paraplegia] {hereditary}
+G118*   other {hereditary} [ataxia]s
+G119    [ataxia] {hereditary}
+G120    [spinal muscular atrophy type i] 
+G121    [other inherited spinal muscular atrophy]
+G1220   [motor neuron disease]
+G1221   [amyotrophic lateral sclerosis]
+G1222   [progressive bulbar palsy]
+G1223   [lateral sclerosis]
+G1224   [familial motor neuron disease]
+G1225   [spinal muscle atrophy] {progressive} 
+G1229*  other motor neuron disease
+G128*   other spinal muscular atrophies and related syndromes
+G129    [spinal muscular atrophy] !{type} & ![other inherited spinal muscular atrophy]
+G130    [paraneoplastic neuromyopathy]
+        [paraneoplastic neuropathy]
+G131    [systemic atrophy] `central nervous system` & [neoplastic disease]
+G132    [systemic atrophy] `central nervous system` & [myxedema]
+G138*   [systemic atrophy] primarily affecting `central nervous system` in other diseases classified elsewhere
+G14     [postpolio syndrome]
+G20     [parkinsons disease] !{past or family hx or specimens} !{drug induced}
+G210    [neuroleptic syndrome] {malignant}
+G2111   [neuroleptic induced parkinsonism]
+G2119   [parkinsons disease] {drug induced}
+G212    [secondary parkinsonism] {external agents}
+G213    [postencephalitic parkinsonism]
+G214    [vascular parkinsonism]
+G218*   other secondary parkinsonism
+G219    [secondary parkinsonism]
+G230    [hallervorden spatz disease]
+G231    [progressive supranuclear ophthalmoplegia]
+G232    [striatonigral degeneration]
+G238*   other specified degenerative diseases of basal ganglia
+G239    [degeneration] `basal ganglia`
+G2401   [dyskinesia] {drug induced} {subacute}
+G2402   [dystonia] {drug induced} {acute}
+G2409   [dystonia] {drug induced}
+        [tardive dyskinesia]
+G241    [torsion dystonia] {genetic}
+G242    [dystonia] {idiopathic} {nonfamilial}
+G243    [spasmodic torticollis]
+G244    [dystonia] {idiopathic} `orofacial`
+G245    [blepharospasm]
+G248*   other dystonia
+G249    [dystonia] !{drug induced} !{idiopathic} !{genetic}
+G250    [tremor] {essential}
+G251    [tremor] {drug induced}
+G252    [tremor] {other specified}
+G253    [myoclonus]
+G254    [chorea] {drug induced}
+G255    [chorea]
+G2561   [tics] {drug induced}
+G2569   [tics] {organic}
+G2570   [movement disorder] {drug induced}
+G2571   [akathisia] {drug induced}
+G2579   [movement disorder] {drug induced}
+G2581   [restless legs syndrome]
+G2582   [stiff man syndrome]
+G2583   [shuddering attack] {benign}
+G2589*  other specified extrapyramidal and movement disorders
+G259    [extrapyramidal and movement disorder]
+G26*     extrapyramidal and movement disorders in diseases classified elsewhere
+G300    [alzheimers disease] {early onset}
+G301    [alzheimers disease] {late onset}
+G308*   other alzheimers disease
+G309    [alzheimers disease]
+G3101   [picks disease]
+G3109   [dementia] `frontotemporal`
+G311*   {senile} [degeneration] `brain`
+G312    [degeneration] {alcohol} `nervous system`
+G3181   [alpers disease]
+G3182   [leighs disease]
+G3183   [dementia] & [lewy bodies]
+        [dementia] & [parkinsonism]
+G3184   [cognitive impairment] {mild}
+G3185   [degeneration] `corticobasal`
+G3189*  other specified degenerative diseases of nervous system
+G319    [degeneration] `nervous system`
+G320*   {subacute} combined [degeneration] `spinal cord` in diseases classified elsewhere
+G3281*  {cerebellar} [ataxia] in diseases classified elsewhere
+G3289*  other specified degenerative disorders of nervous system in diseases classified elsewhere
+G35     [multiple sclerosis]
+G360    [neuromyelitis optica]
+G361    [hemorrhagic leukoencephalitis] {acute} {subacute}
+G368*   other specified [disseminated demyelination] {acute}
+G369    [disseminated demyelination] {acute}
+G370    [sclerosis] {diffuse} `central nervous system`
+G371    [central demyelination] `corpus callosum`
+G372    [central pontine myelinolysis]
+G373    [transverse myelitis] {acute} & [demyelinating disease] `central nervous system`
+G374    [necrotizing myelitis] {subacute} `central nervous system`
+G375    [concentric sclerosis] `central nervous system`
+G378*   other specified [demyelinating disease]s of `central nervous system`
+G379    [demyelinating disease] `central nervous system`
+G40001  [epilepsy] {localization related} {idiopathic} & [seizures of localized onset] & [status epilepticus] & ![intractable]
+G40001  [epileptic syndrome] {localization related} {idiopathic} & [seizures of localized onset] & [status epilepticus] & ![intractable]
+G40009  [epilepsy] {localization related} {idiopathic} & [seizures of localized onset] & ![intractable] & ![status epilepticus]
+G40009  [epileptic syndrome] {localization related} {idiopathic} & [seizures of localized onset] & ![intractable] & ![status epilepticus]
+G40011  [epilepsy] {localization related} {idiopathic} & [seizures of localized onset] {intractable} & [status epilepticus]
+G40011  [epileptic syndrome] {localization related} {idiopathic} & [seizures of localized onset] {intractable} & [status epilepticus]
+G40019  [epilepsy] {localization related} {idiopathic} & [seizures of localized onset] {intractable} & ![status epilepticus]
+G40019  [epileptic syndrome] {localization related} {idiopathic} & [seizures of localized onset] {intractable} & ![status epilepticus]
+G40101  [epilepsy] {localization related} {symptomatic} & [simple partial seizures] & [status epilepticus] & ![intractable]
+G40101  [epileptic syndrome] {localization related} {symptomatic}  & [simple partial seizures] & [status epilepticus] & ![intractable]
+G40109  [epilepsy] {localization related} {symptomatic} & [simple partial seizures] & ![intractable] & ![status epilepticus]
+G40109  [epileptic syndrome] {localization related} {symptomatic}  & [simple partial seizures] & ![intractable] & ![status epilepticus]
+G40111  [epilepsy] {localization related} {symptomatic} & [simple partial seizures] {intractable} & [status epilepticus]
+G40111  [epileptic syndrome] {localization related} {symptomatic}  & [simple partial seizures] {intractable} & [status epilepticus]
+G40119  [epilepsy] {localization related} {symptomatic} & [simple partial seizures] {intractable} & ![status epilepticus]
+G40119  [epileptic syndrome] {localization related} {symptomatic}  & [simple partial seizures] {intractable} & ![status epilepticus]
+G40201  [epilepsy] {localization related} {symptomatic} & [complex partial seizures] & [status epilepticus] & ![intractable]
+G40201  [epileptic syndrome] {localization related} {symptomatic}  & [complex partial seizures] & [status epilepticus] & ![intractable]
+G40209  [epilepsy] {complex partial seizure} & ![intractable] & ![status epilepticus]
+G40209  [epileptic syndrome] {localization related} {symptomatic}  & [complex partial seizures] & ![intractable] & ![status epilepticus]
+G40211  [epilepsy] {localization related} {symptomatic} & [complex partial seizures] {intractable} & [status epilepticus]
+G40211  [epileptic syndrome] {localization related} {symptomatic}  & [complex partial seizures] {intractable} & [status epilepticus]
+G40219  [epilepsy] {localization related} {symptomatic} & [complex partial seizures] {intractable} & ![status epilepticus]
+G40219  [epileptic syndrome] {localization related} {symptomatic}  & [complex partial seizures] {intractable} & ![status epilepticus]
+G40301  [epilepsy] {generalized} {idiopathic} & [status epilepticus] & ![intractable]
+G40301  [epileptic syndromes] {generalized} {idiopathic} & [status epilepticus] & ![intractable]
+G40309  [epilepsy] {generalized} {idiopathic} & ![intractable] & ![status epilepticus]
+G40309  [epileptic syndromes] {generalized} {idiopathic} & ![intractable] & ![status epilepticus]
+G40311  [epilepsy] {generalized} {idiopathic} {intractable} & [status epilepticus]
+G40311  [epileptic syndromes] {generalized} {idiopathic} {intractable} & [status epilepticus]
+G40319  [epilepsy] {generalized} {idiopathic} {intractable} & ![status epilepticus]
+G40319  [epileptic syndromes] {generalized} {idiopathic} {intractable} & ![status epilepticus]
+G40A01  [absence epileptic syndrome] & [status epilepticus] & ![intractable]
+G40A09  [absence epileptic syndrome] & ![intractable] & ![status epilepticus]
+G40A11  [absence epileptic syndrome] {intractable} & [status epilepticus]
+G40A19  [absence epileptic syndrome] {intractable} & ![status epilepticus]
+G40B01  [myoclonic epilepsy] & [status epilepticus] & ![intractable]
+G40B09  [myoclonic epilepsy] & ![intractable] & ![status epilepticus]
+G40B11  [myoclonic epilepsy] {intractable} & [status epilepticus]
+G40B19  [myoclonic epilepsy] {intractable} & ![status epilepticus]
+G40401  [other generalized epilepsy] & [status epilepticus] & ![intractable]
+G40409  [other generalized epilepsy] & ![intractable] & ![status epilepticus]
+G40411  [other generalized epilepsy] {intractable} & [status epilepticus]
+G40419  [other generalized epilepsy] {intractable} & ![status epilepticus]
+G4042	[cyclin-dependent kinase-like 5 deficiency] 
+G40501  [epileptic seizure] {external cause} & [status epilepticus] & ![intractable]
+G40509  [epileptic seizure] {external cause} & ![intractable] & ![status epilepticus]
+G40801* [epilepsy] & [status epilepticus] & ![intractable]
+G40802* [epilepsy] & ![intractable] & ![status epilepticus]
+G40803* [epilepsy] {intractable} & [status epilepticus]
+G40804* [epilepsy] {intractable} & ![status epilepticus]
+G40811  [lennox gastaut syndrome] & [status epilepticus] & ![intractable]
+G40812  [lennox gastaut syndrome] & ![intractable] & ![status epilepticus]
+G40813  [lennox gastaut syndrome] {intractable} & [status epilepticus]
+G40814  [lennox gastaut syndrome] {intractable} & ![status epilepticus]
+G40821  [epileptic spasms] & [status epilepticus] & ![intractable]
+G40822  [epileptic spasms] & ![intractable] & ![status epilepticus]
+G40823  [epileptic spasms] {intractable} & [status epilepticus]
+G40824  [epileptic spasms] {intractable} & ![status epilepticus]
+G40833	[dravet syndrome] {intractable} & [status epilepticus] 
+G40834	[dravet syndrome] {intractable} & ![status epilepticus] 
+G4089   [other seizures]
+G40901  [epilepsy] & [status epilepticus] & ![intractable]
+G40909  [epilepsy] !{partial} !{intractable} & ![status epilepticus]
+        [seizure disorder] !{partial} !{intractable} & ![status epilepticus]
+G40911  [epilepsy] {intractable} & [status epilepticus]
+        [epilepsy] & [intractable] & [status epilepticus]
+G40919  [epilepsy] {intractable} & ![status epilepticus]
+        [epilepsy] & [intractable] & ![status epilepticus]
+G43001  [migraine] {not intractable} & [status migrainosus] & ![aura]
+G43009  [migraine] & ![intractable] & ![aura] & ![status migrainosus]
+G43011  [migraine] & [status migrainosus] & ![aura] {intractable}
+G43019  [migraine] & ![aura] {intractable} & ![status migrainosus]
+G43101  [migraine] {not intractable} & [aura] & [status migrainosus]
+G43109  [migraine] !{intractable} & [aura] & ![status migrainosus] 
+G43111  [migraine] & [aura] {intractable} & [status migrainosus]
+G43119  [migraine] & [aura] {intractable} & ![status migrainosus]
+G43401  [hemiplegic migraine] {not intractable} & [status migrainosus]
+G43409  [hemiplegic migraine] {not intractable} & ![status migrainosus]
+G43411  [hemiplegic migraine] {intractable} & [status migrainosus]
+G43419  [hemiplegic migraine] {intractable} & ![status migrainosus]
+G43501  [persistent migraine aura] {not intractable} & [status migrainosus] & ![cerebral infarction]
+G43509  [persistent migraine aura] {not intractable} & ![cerebral infarction] & ![status migrainosus]
+G43511  [persistent migraine aura] {not intractable} & ![cerebral infarction] {intractable} & [status migrainosus]
+G43519  [persistent migraine aura] {not intractable} & ![cerebral infarction] {intractable} & ![status migrainosus]
+G43601  [persistent migraine aura] {not intractable} & [cerebral infarction] & [status migrainosus]
+G43609  [persistent migraine aura] {not intractable} & [cerebral infarction] & ![status migrainosus]
+G43611  [persistent migraine aura] {not intractable} & [cerebral infarction] {intractable} & [status migrainosus]
+G43619  [persistent migraine aura] {not intractable} & [cerebral infarction] {intractable} & ![status migrainosus]
+G43701  [migraine] {chronic} {transformed} {not intractable} & ![aura] & [status migrainosus]
+G43709  [migraine] {not intractable} {chronic} & ![aura] & ![status migrainosus]
+G43711  [migraine] {chronic} {intractable} & [status migrainosus] & ![aura] 
+G43719  [migraine] {chronic} {intractable} & ![aura] & ![status migrainosus]
+G43A0   [cyclical vomiting] & ![intractable]
+G43A1   [cyclical vomiting] {intractable}
+G43B0   [ophthalmoplegic migraine] {not intractable}
+G43B1   [ophthalmoplegic migraine] {intractable}
+G43C0   [periodic headache syndromes] {not intractable}
+G43C1   [periodic headache syndromes] {intractable}
+G43D0   [abdominal migraine] {not intractable}
+G43D1   [abdominal migraine] {intractable}
+G43801* other [migraine] & [status migrainosus] & ![intractable]
+G43809* other [migraine] & ![intractable] & ![status migrainosus]
+G43811* other [migraine] {intractable} & [status migrainosus]
+G43819* other [migraine] {intractable} & ![status migrainosus] 
+G43821  [menstrual migraine] & [status migrainosus] & ![intractable]
+G43829  [menstrual migraine] & ![intractable] & ![status migrainosus]
+G43831  [menstrual migraine] {intractable} & [status migrainosus]
+G43839  [menstrual migraine] {intractable} & ![status migrainosus]
+G43901  [migraine] & [status migrainosus] & ![intractable]
+G43909  [migraine] & ![intractable] & ![status migrainosus] & ![unspecified aura]
+G43911  [migraine] {intractable} & [status migrainosus]
+G43919  [migraine] {intractable} & ![status migrainosus]
+G44001  [cluster headache syndrome] {intractable}
+G44009  [cluster headache syndrome] & ![intractable]
+G44011  [episodic cluster headache] {intractable}
+G44019  [episodic cluster headache] & ![intractable]
+G44021  [cluster headache] {chronic} {intractable}
+G44029  [cluster headache] {chronic} & ![intractable]
+G44031  [paroxysmal hemicrania] {episodic} {intractable}
+G44039  [paroxysmal hemicrania] {episodic} & ![intractable]
+G44041  [paroxysmal hemicrania] {chronic} {intractable}
+G44049  [paroxysmal hemicrania] {chronic} & ![intractable]
+G44051  [short lasting unilateral neuralgiform headache with conjunctival injection and tearing] {intractable}
+G44059  [short lasting unilateral neuralgiform headache with conjunctival injection and tearing] & ![intractable]
+G44091  [trigeminal autonomic cephalgias] {intractable}
+G44099  [trigeminal autonomic cephalgias] & ![intractable]
+G441*   [vascular headache]
+G44201  [tension type headache] {intractable}
+G44209  [tension type headache] & ![intractable]
+G44211  [tension type headache] {episodic}  {intractable}
+G44219  [tension type headache] {episodic}  & ![intractable]
+G44221  [tension type headache] {chronic} {intractable}
+G44229  [tension type headache] {chronic} & ![intractable]
+G44301  [headache] !{drug induced} {post traumatic} {intractable}
+G44309  [headache] !{drug induced} {post traumatic} & ![intractable]
+G44311  [headache] !{drug induced} !{chronic} {post traumatic} {intractable}
+G44319  [headache] !{drug induced} !{chronic} {post traumatic} & ![intractable]
+G44321  [headache] !{drug induced} {chronic} {post traumatic} {intractable}
+G44329  [headache] !{drug induced} {chronic} {post traumatic} & ![intractable]
+G4440   [headache] {drug induced} & ![intractable]
+G4441   [headache] {drug induced} {intractable}
+G4451   [hemicrania continua]
+G4452   [new daily persistent headache]
+G4453   [primary thunderclap headache]
+G4459   [other complicated headache syndrome]
+G4481   [hypnic headache]
+G4482   [headache] {sexual activity}
+G4483   [primary cough headache]
+G4484   [primary exertional headache]
+G4485   [primary stabbing headache]
+G4489   [other headache syndrome]
+G450    [vertebro basilar artery syndrome]
+G451    [carotid artery syndrome]
+G452    [precerebral artery syndromes] {bilateral}
+G453    [amaurosis fugax]
+G454    [transient global amnesia]
+G458    [other transient cerebral ischemic attacks and related syndromes]
+G459    [transient cerebral ischemic attack] !{history}
+G460    [middle cerebral artery syndrome]
+G461    [anterior cerebral artery syndrome]
+G462    [posterior cerebral artery syndrome]
+G463    [brain stem stroke syndrome]
+G464    [cerebellar stroke syndrome]
+G465    [lacunar syndrome] {pure motor}
+G466    [lacunar syndrome] {pure sensory}
+G467    [lacunar syndrome]
+G468    [other vascular syndromes of brain in cerebrovascular diseases]
+G4700   [insomnia]
+G4701   [insomnia] {medical condition}
+G4709   [other insomnia]
+G4710   [hypersomnia] !{other}
+G4711   [hypersomnia] {idiopathic} & [long sleep time]
+G4712   [hypersomnia] {idiopathic} & ![long sleep time]
+G4713   [hypersomnia] {recurrent}
+G4714   [hypersomnia] & [medical condition]
+G4719   [hypersomnia]
+G4720   [circadian rhythm sleep disorder]
+G4721   [circadian rhythm sleep disorder] {delayed sleep phase}
+G4722   [circadian rhythm sleep disorder] {advanced sleep phase}
+G4723   [circadian rhythm sleep disorder] {irregular sleep wake}
+G4724   [circadian rhythm sleep disorder] {free running}
+G4725   [circadian rhythm sleep disorder] {jet lag}
+G4726   [circadian rhythm sleep disorder] {shift work}
+G4727   [circadian rhythm sleep disorder in conditions classified elsewhere]
+G4729   [circadian rhythm sleep disorder]
+G4730   [sleep apnea] & ![obstructive]
+        [apnea] & [sleep study] & ![obstructive]
+G4731   {primary} [central sleep apnea]
+G4732   [high altitude periodic breathing]
+G4733   [obstructive sleep apnea]
+G4734   {idiopathic} [sleep related nonobstructive alveolar hypoventilation]
+G4735   [central alveolar hypoventilation syndrome]
+G4736   [sleep related hypoventilation in conditions classified elsewhere]
+G4737   [central sleep apnea in conditions classified elsewhere]
+G4739   [other sleep apnea]
+G47411  [narcolepsy] & [cataplexy]
+G47419  [narcolepsy] & ![cataplexy]
+G47421  [narcolepsy in conditions classified elsewhere with cataplexy]
+G47429  [narcolepsy in conditions classified elsewhere without cataplexy]
+G4750   [parasomnia]
+G4751   [confusional arousal]
+G4752   [rem sleep behavior disorder]
+G4753   [recurrent isolated sleep paralysis]
+G4754   [parasomnia in conditions classified elsewhere]
+G4759   [parasomnia]
+G4761   [periodic limb movement disorder]
+G4762   [sleep related leg cramps]
+G4763   [sleep related bruxism]
+G4769   [sleep related movement disorder]
+G478    [other sleep wake disorders]
+G479    [sleep disorder] !{sleep apnea}
+G500    [neuralgia] `trigeminal`
+G501    [atypical facial pain]
+G508    [other disorders of trigeminal nerve]
+G509    [disorder] `trigeminal nerve`
+G510    [bells palsy]
+G511    [geniculate ganglionitis]
+G512    [melkerssons syndrome]
+G5131	[clonic hemifacial spasm] {right} !{left}
+G5132	[clonic hemifacial spasm] {left} !{right}
+G5133	[clonic hemifacial spasm] `bilateral`
+G5139	[clonic hemifacial spasm]
+G514    [myokymia] `facial nerve` 
+G518    [other disorders of facial nerve]
+G519    [disorder] `facial nerve`
+G520    [disorder] `olfactory nerve`
+G521    [disorder] `glossopharyngeal nerve`
+G522    [disorder] `vagus nerve`
+G523    [disorder] `hypoglossal nerve`
+G527    [disorders of multiple cranial nerves]
+G528    [disorders of other specified cranial nerves]
+G529    [disorder] `cranial nerve`
+G53     [cranial nerve disorders in diseases classified elsewhere]
+G540    [disorder] `brachial plexus`
+G541    [disorder] `lumbosacral plexus`
+G542    [cervical root disorders]
+G543    [thoracic root disorders]
+G544    [lumbosacral root disorders]
+G545    [neuralgic amyotrophy]
+G546    [phantom limb syndrome] & [pain]
+G547    [phantom limb syndrome] & ![pain]
+G548    [other nerve root and plexus disorders]
+G549    [disorder] `nerve root`
+        [disorder] `plexus`
+G55     [nerve root and plexus compressions in diseases classified elsewhere]
+G5600   [carpal tunnel syndrome] !{left} !{right} !{bilateral}
+G5603   [carpal tunnel syndrome] `bilateral`
+G5601   [carpal tunnel syndrome] {right}
+G5602   [carpal tunnel syndrome] {left}
+G5610   [lesion of median nerve] `upper limb` !{left} !{right} !{bilateral}
+G5611   [lesion of median nerve] {right} `upper limb`
+G5612   [lesion of median nerve] {left} `upper limb`
+G5620   [cubital tunnel syndrome] & ![left] & ![right]
+G5621   [cubital tunnel syndrome] {right}
+G5622   [cubital tunnel syndrome] {left}
+G5630   [lesion of radial nerve] `upper limb` !{left} !{right} !{bilateral} 
+G5631   [radial nerve palsy] {right}
+G5632   [mononeuropathy] `radial` {left}
+G5640   [causalgia] !{ii} `upper limb` !{left} !{right} !{bilateral}
+G5641   [causalgia] !{ii} {right} `upper limb`
+G5642   [causalgia] !{ii} {left} `upper limb`
+G5680*  other specified mononeuropathies of unspecified `upper limb`
+G5681*  other specified mononeuropathies of {right} `upper limb`
+G5682*  other specified mononeuropathies of {left} `upper limb`
+G5690   [mononeuropathy] `upper limb` !{left} !{right} !{bilateral}
+G5691   [mononeuropathy] {right} `upper limb`
+G5692   [mononeuropathy] {left} `upper limb`
+G5700   [lesion of sciatic nerve] `lower limb` !{left} !{right} !{bilateral}
+G5701   [lesion of sciatic nerve] {right} `lower limb`
+        [piriformis syndrome] {right}
+G5702   [lesion of sciatic nerve] {left} `lower limb`
+        [piriformis syndrome] {left}
+G5710   [meralgia paresthetica] `lower limb` !{left} !{right} !{bilateral}
+G5711   [meralgia paresthetica] {right} `lower limb`
+G5712   [meralgia paresthetica] {left} `lower limb`
+G5720   [lesion of femoral nerve] `lower limb` !{left} !{right} !{bilateral}
+G5721   [lesion of femoral nerve] {right} `lower limb`
+G5722   [lesion of femoral nerve] {left} `lower limb` 
+G5730   [lesion of lateral popliteal nerve] `lower limb` !{left} !{right} !{bilateral}
+G5731   [lesion of lateral popliteal nerve] {right} `lower limb`
+G5732   [lesion of lateral popliteal nerve] {left} `lower limb`
+G5740   [lesion of medial popliteal nerve] `lower limb` !{left} !{right} !{bilateral}
+G5741   [lesion of medial popliteal nerve] {right} `lower limb`
+G5742   [lesion of medial popliteal nerve] {left} `lower limb`
+G5750   [tarsal tunnel syndrome] `lower limb` !{left} !{right} !{bilateral}
+G5751   [tarsal tunnel syndrome] {right} `lower limb`
+G5752   [tarsal tunnel syndrome] {left} `lower limb`
+G5760   [lesion of plantar nerve] !{left} !{right} !{bilateral} `lower limb`
+G5761   [lesion of plantar nerve] {right} `lower limb`
+G5762   [lesion of plantar nerve] {left} `lower limb`
+G5770   [causalgia] !{ii} `lower limb` !{left} !{right} !{bilateral}
+G5771   [causalgia] !{ii} {right} `lower limb`
+G5772   [causalgia] !{ii} {left} `lower limb`
+G5780*  other specified mononeuropathies of unspecified `lower limb`
+G5781*  other specified mononeuropathies of {right} `lower limb`
+G5782*  other specified mononeuropathies of {left} `lower limb`
+G5790   [mononeuropathy] `lower limb` !{left} !{right} !{bilateral}
+G5791   [mononeuropathy] {right} `lower limb`
+G5792   [mononeuropathy] {left} `lower limb`
+G580    [intercostal neuropathy]
+G587    [mononeuritis multiplex]
+G588*   other specified mononeuropathies
+G589    [mononeuropathy]
+G59*    mononeuropathy in diseases classified elsewhere
+G600    [motor neuropathy] {hereditary}
+        [sensory neuropathy] {hereditary}
+G601    [refsums disease]
+G602    [neuropathy] & [ataxia] {hereditary}
+G603    [progressive neuropathy] {idiopathic}
+G608*   other hereditary and idiopathic neuropathies
+G609    [neuropathy] {hereditary}
+G610    [guillain barre syndrome]
+G611    [serum neuropathy]
+G6181   [polyneuritis] {inflammatory} {demyelinating} {chronic}
+G6189*  [polyneuropathy] {inflammatory}
+G619    [polyneuropathy] {inflammatory}
+G620    [polyneuropathy] {drug induced}
+G621    [polyneuropathy] {alcoholic}
+G622    [polyneuropathy] {toxic agent}
+G6281   [polyneuropathy] {critical illness}
+G6282   [polyneuropathy] {radiation induced}
+G6289*  other specified polyneuropathies
+G629    [polyneuropathy] & ![diabetes]
+        [neuropathy]
+G63*    polyneuropathy in diseases classified elsewhere 
+G64     [disorder] {peripheral nervous system}
+G650*   sequela of guillain barre syndrome
+G651*   sequela of other inflammatory polyneuropathy
+G652*   sequela of toxic polyneuropathy
+G7000   [myasthenia gravis] & ![exacerbation] !{chronic}
+G7001   [myasthenia gravis] & [exacerbation] !{chronic}
+G701    [toxic myoneural disorder]
+G702    [myasthenia]
+        [myasthenia] {developmental}
+G7080   [lambert eaton syndrome]
+G7081*  lambert eaton syndrome in disease classified elsewhere
+G7089*  other specified myoneural disorders
+G709    [myoneural disorder]
+G7100   [muscular dystrophy]
+G7101   [becker type muscular dystrophy]
+G7109   [other specified muscular dystrophy]
+G7101   [duchenne muscular dystrophy]
+G7111   [myotonic muscular dystrophy]
+G7112   [myotonia congenita]
+G7113   [myotonic chondrodystrophy]
+G7114   [myotonia] {drug induced}
+G7119*  other specified myotonic disorders
+G712*   [congenital myopathy] "Deleted ICD10 FY2021"
+G7120	[congenital myopathy] 
+G7121	[nemaline myopathy] 
+G7122	[centronuclear myopathy] 
+G71220	[x-linked myotubular myopathy] 
+G71228	[other centronuclear myopathy] 
+G7129	[other congenital myopathy] 
+G713*   [mitochondrial myopathy]
+G718*   other primary disorders of muscles
+G719    [disorder] {primary} `muscle`
+G720    [myopathy] {drug induced}
+G721    [myopathy] {alcoholic}
+G722    [myopathy] {toxic agents}
+G723    [periodic paralysis]
+G7241   [inclusion body myositis]
+G7249*  other inflammatory and immune myopathies
+G7281   [myopathy] {critical illness}
+G7289   [other specified myopathies]
+G729    [myopathy]
+G731    [lambert eaton syndrome] & [neoplastic disease]
+G733*   myasthenic syndromes in other diseases classified elsewhere
+G737*   myopathy in diseases classified elsewhere
+G800    [spastic quadriplegia] & [cerebral palsy]
+G801    [spastic diplegia] & [cerebral palsy]
+        [spastic cerebral palsy]
+G802    [spastic hemiplegia] & [cerebral palsy]
+G803    [athetoid cerebral palsy]
+        [palsy] {dystonic} `cerebral`
+G804    [ataxic cerebral palsy]
+        [palsy] {ataxia} `cerebral`
+G808    [other cerebral palsy]
+G809    [palsy] !{spastic} {cerebral} & ![spastic quadriplegia] & ![spastic hemiplegia] & ![spastic diplegia]
+G8100   [flaccid hemiplegia] !{congenital} & ![sequela] {cva}
+G8101   [flaccid hemiplegia] {right dominant side}  & ![sequela] {cva}
+G8102   [flaccid hemiplegia] {left dominant side} & ![sequela] {cva} 
+G8103   [flaccid hemiplegia] {right nondominant side} & ![sequela] {cva} 
+G8104   [flaccid hemiplegia] {left nondominant side} & ![sequela] {cva} 
+G8110   [hemiplegia] {spastic} !{dominate} & ![sequela] {cva}
+G8111   [hemiplegia] {spastic} {right dominant side} & ![sequela] {cva} 
+G8112   [hemiplegia] {spastic} {left dominant side} & ![sequela] {cva} 
+G8113   [hemiplegia] {spastic} {right nondominant side} & ![sequela] {cva}
+G8114   [hemiplegia] {spastic} {left nondominant side} & ![sequela] {cva}
+G8190   [hemiplegia] !{spastic} !{congenital} !{left} !{right} & ![sequela] {cva}
+G8191   [hemiplegia] !{spastic} !{congenital} {right dominant side} & ![sequela] {cva} 
+G8192   [hemiplegia] !{spastic} !{congenital} {left dominant side} & ![sequela] {cva}
+G8193   [hemiplegia] !{spastic} !{congenital} {right nondominant side} & ![sequela] {cva}
+G8194   [hemiplegia] !{spastic} {left side} & ![sequela] {cva}
+G8220   [paraplegia] !{spastic}
+G8221   [paraplegia] {complete}
+G8222   [paraplegia] {incomplete}
+G8250   [quadriplegia] !{functional} !{spastic} & ![cerebral palsy]
+G8251   [quadriplegia] {c1 c4} {complete}
+G8252   [quadriplegia] {c1 c4} {incomplete}
+G8253   [quadriplegia] {c5 c7} {complete}
+G8254   [quadriplegia] {c5 c7} {incomplete}
+G830    [diplegia] {upper limbs}
+G8310   [monoplegia] `lower limb` & ![sequela] {cva}
+G8311   [monoplegia] `lower limb` {right dominant side} & ![sequela] {cva}
+G8312   [monoplegia] `lower limb` {left dominant side} & ![sequela] {cva}
+G8313   [monoplegia] `lower limb` {right nondominant side} & ![sequela] {cva}
+G8314   [monoplegia] `lower limb` {left nondominant side} & ![sequela] {cva}
+G8320   [monoplegia] `upper limb` & ![sequela] {cva}
+G8321   [monoplegia] `upper limb` {right dominant side} & ![sequela] {cva}
+G8322   [monoplegia] `upper limb` {left dominant side} & ![sequela] {cva}
+G8323   [monoplegia] `upper limb` {right nondominant side} & ![sequela] {cva}
+G8324   [monoplegia] `upper limb` {left nondominant side} & ![sequela] {cva}
+G8330   [monoplegia] & ![sequela] {cva}
+G8331   [monoplegia] {right dominant side} & ![sequela] {cva}
+G8332   [monoplegia] {left dominant side} & ![sequela] {cva}
+G8333   [monoplegia] {right nondominant side} & ![sequela] {cva}
+G8334   [monoplegia] {left nondominant side} & ![sequela] {cva}
+G834    [cauda equina syndrome]
+G835    [locked in state]
+G8381   [brown sequard syndrome]
+G8382   [anterior cord syndrome]
+G8383   [posterior cord syndrome]
+G8384   [todds paralysis]
+G8389*  other specified paralytic syndromes
+G839    [paralytic syndrome]
+G890    [central pain syndrome]
+G8911   [pain] {acute} & [traumatic] !{stress}
+G8912   [pain] {acute} {post thoracotomy}
+G8918   [pain] {postprocedural} !{operative header} !{occasional} !{chronic} !{educated} !{management}
+G8921   [pain] {chronic} {due to trauma} !{stress}
+G8922   [pain] {chronic} {post thoracotomy}
+G8928*  other {chronic} {postprocedural} [pain]
+G8929   [chronic pain] !{syndrome} 
+G893    [cancer associated pain]
+G894    [chronic pain syndrome]
+G9001   [carotid sinus syncope]
+G9009*  other idiopathic peripheral autonomic neuropathy  
+G901    [dysautonomia] {familial}
+G902    [horners syndrome]
+G903    [degeneration] `autonomic nervous system`
+G904    [autonomic dysreflexia]
+G9050*  [complex regional pain syndrome i]
+G90511  [complex regional pain syndrome i] !{ii} `upper limb` {right}
+G90512  [complex regional pain syndrome i] `upper limb` {left}
+G90513  [complex regional pain syndrome i] `upper limb` {bilateral}
+G90519  [complex regional pain syndrome i] `upper limb` !{left} !{right} !{bilateral}
+G90521  [complex regional pain syndrome i] {right} `lower limb`
+G90522  [complex regional pain syndrome i] {left} `lower limb`
+G90523  [complex regional pain syndrome i] `lower limb` {bilateral}
+G90529  [complex regional pain syndrome i] `lower limb` !{left} !{right} !{bilateral}
+G9059   [complex regional pain syndrome i] 
+G908*   other [disorders] of `autonomic nervous system`
+G909    [disorder] `autonomic nervous system`
+G910    [hydrocephalus] {communicating}
+G911    [hydrocephalus] {obstructive} {acquired}
+G912    [hydrocephalus] {normal pressure}
+G913    [hydrocephalus] {post traumatic}
+G914*   hydrocephalus in diseases classified elsewhere
+G918*   other hydrocephalus
+G919    [hydrocephalus] !{normal pressure} !{arnold-chiari syndrome}
+G92     [toxic encephalopathy] 
+G930    [cyst] `cerebral`
+G931    [anoxic brain injury]
+G932    [hypertension] {benign} `intracranial`
+        [pseudotumor cerebri]
+G933    [postviral fatigue syndrome]
+G9340   [encephalopathy] !{congenital} !{metabolic} !{toxic} & ![metabolic encephalopathy] & ![toxic encephalopathy] & ![hepatic]
+G9341   [metabolic encephalopathy] !{toxic} !{congenital}
+G9349*  other encephalopathy 
+G935    [compression of brain]
+G936    [edema] `cerebral`
+G937    [reyes syndrome] "pediatric"
+G9381   [temporal sclerosis]
+G9382   [brain death]
+G9389   [other specified disorders of brain]
+G939    [damage] `brain`
+G94*    other [disorders] of `brain` in diseases classified elsewhere
+G950    [syringomyelia]
+G9511   [infarction] {acute} `spinal cord`
+G9519*  other [vascular myelopathies]
+G9520   [spinal cord compression]
+G9529*  other cord compression
+G9581   [conus medullaris syndrome]
+G9589   [myelomalacia]
+G959    [disease] `spinal cord`
+G960*   [fluid leak] `cerebrospinal` "Deleted ICD10 FY2021"
+G9600	[cerebrospinal fluid leak] 
+G9601	[cranial cerebrospinal fluid leak] {spontaneous} 
+G9602	[spinal cerebrospinal fluid leak] {spontaneous} 
+G9608	[other cranial cerebrospinal fluid leak] 
+G9609	[other spinal cerebrospinal fluid leak] 
+G9611   [dural tear]
+G9612   [adhesion] `meninges`
+G9619*  [other disorders of meninges] "Deleted ICD10 FY2021"
+G96191  [perineural cyst] 
+G96198  [other disorders of meninges] 
+G96810  [intracranial hypotension] 
+G96811  [spontaneous intracranial hypotension] 
+G9689   [other specified disorders of the nervous system] 
+G968*   [other specified disorders of central nervous system] !
+G969    [disorder] `central nervous system`
+G970    [fluid leak] `cerebrospinal` & [spinal puncture]
+G971*   other reaction to spinal and lumbar puncture
+G972    [intracranial hypotension] & [ventricular shunting]
+G9731   [intraoperative hemorrhage] `nervous system` & [procedure] `nervous system`
+        [intraoperative hematoma] `nervous system` & [procedure] `nervous system`
+G9732   [intraoperative hemorrhage] `nervous system` & [procedure]
+        [intraoperative hematoma] `nervous system` & [procedure]
+G9741   [accidental puncture] `dura` & [procedure]
+        [accidental laceration] `dura` & [procedure]
+G9748   [accidental puncture]  `nervous system` & [procedure] `nervous system`
+        [accidental laceration]  `nervous system` & [procedure] `nervous system`
+G9749   [accidental puncture] `nervous system` & [procedure]
+        [accidental laceration] `nervous system` &  [procedure]
+G9751   [postprocedural hemorrhage] `nervous system` & [procedure] `nervous system`
+        [postprocedural hematoma] `nervous system` & [procedure] `nervous system`
+G9752*  [postprocedural hemorrhage] `nervous system` organ or structure following other {procedure}
+G9781*  other intraoperative complications of nervous system
+G9782*  other postprocedural complications and disorders of nervous system
+G9783	[intracranial hypotension] & [following lumbar cerebrospinal fluid shunting] 
+G9784	[intracranial hypotension] {following other procedure} 
+G980*   neurogenic arthritis
+G988*   other disorders of nervous system
+G990*   autonomic neuropathy in diseases classified elsewhere
+G992*   myelopathy in diseases classified elsewhere
+G998*   other specified disorders of nervous system in diseases classified elsewhere

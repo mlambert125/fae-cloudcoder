@@ -1,0 +1,1726 @@
+C000  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `external upper lip` 
+C001  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `external lower lip` 
+C002  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `external lip` 
+C003  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `upper lip, inner aspect` 
+C004  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lower lip, inner aspect` 
+C005  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lip inner aspect` 
+C006  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `commissure of lip` 
+C008* [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens}  lip 
+C009  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lip`
+C01   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `base of tongue` 
+C020  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `dorsal surface of tongue` 
+C021  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `border of tongue` 
+C022  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `ventral surface of tongue` 
+C023  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `anterior two thirds of tongue` 
+C024  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lingual tonsil` 
+C028* [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens}  tongue 
+C029  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `tongue` !{base} !{dorsal} !{border} !{ventral} !{anterior}
+C030  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `upper gum` 
+C031  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lower gum` 
+C039  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `gum` 
+C040  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `anterior floor of mouth` 
+C041  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lateral floor of mouth` 
+C048* [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens}  floor of mouth 
+C049  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `floor of mouth` 
+C050  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `hard palate` 
+C051  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `soft palate` 
+C052  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `uvula` 
+C058* [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens}  palate 
+C059  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `palate` !{hard} !{soft}
+C060  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `cheek mucosa` 
+C061  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `vestibule of mouth` 
+C062  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `retromolar area` 
+C0680  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `mouth` 
+C0689 [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `mouth` 
+C069  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `mouth` 
+C07   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `parotid gland` 
+C080  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `submandibular gland` 
+C081  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `sublingual gland` 
+C089  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `major salivary gland` 
+C090  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `tonsillar fossa` 
+C091  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `tonsillar pillar` 
+C098* [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens}  tonsil 
+C099  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `tonsil` 
+C100  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `vallecula` 
+C101  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `anterior surface of epiglottis` 
+C102  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lateral wall of oropharynx` 
+C103  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `posterior wall of oropharynx` 
+C104  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `branchial cleft` 
+C108* [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `oropharynx` 
+C109  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `oropharynx` 
+C110  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `superior wall of nasopharynx` 
+C111  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `posterior wall of nasopharynx` 
+C112  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lateral wall of nasopharynx` 
+C113  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `anterior wall of nasopharynx` 
+C118* [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens}  nasopharynx 
+C119  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `nasopharynx` 
+C13  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `pyriform sinus` 
+C130  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `postcricoid region` 
+C131  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `aryepiglottic fold, hypopharyngeal aspect` 
+C132  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `posterior wall of hypopharynx` 
+C138* [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens}  hypopharynx 
+C139  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `hypopharynx` 
+C140  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `pharynx` 
+C142  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `waldeyers ring` 
+C148* [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens}  lip, oral cavity and pharynx 
+C153  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `upper third of esophagus` 
+C154  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `middle third of esophagus` 
+C155  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lower third of esophagus` 
+C158* [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens}  esophagus 
+C159  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `esophagus` 
+C160  [neoplasm malignant] {primary} !{other specified neoplasm} !{past or family hx or specimens} `cardia` 
+C161  [neoplasm malignant] {primary} !{other specified neoplasm} !{past or family hx or specimens} `fundus of stomach` 
+C162  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `body of stomach` 
+C163  [neoplasm malignant] {primary} !{other specified neoplasm} !{past or family hx or specimens} `pyloric antrum` 
+C164  [neoplasm malignant] {primary} !{other specified neoplasm} !{past or family hx or specimens} `pylorus` 
+C165  [neoplasm malignant] {primary} !{other specified neoplasm} !{past or family hx or specimens} `lesser curvature of stomach` 
+C166  [neoplasm malignant] {primary} !{other specified neoplasm} !{past or family hx or specimens} `greater curvature of stomach` 
+C168* [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens}  stomach 
+C169  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `stomach` 
+C170  [neoplasm malignant] {primary} !{other specified neoplasm} !{past or family hx or specimens} `duodenum` 
+C171  [neoplasm malignant] {primary} !{other specified neoplasm} !{past or family hx or specimens} `jejunum` 
+C172  [neoplasm malignant] {primary} !{other specified neoplasm} !{past or family hx or specimens} `ileum` 
+C173  [meckels diverticulum] {malignant}
+C178* [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens}  small intestine 
+C179  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `small intestine` 
+C180  [neoplasm malignant] {primary} !{other specified neoplasm} !{past or family hx or specimens} `ileocecum vavle` 
+C181  [neoplasm malignant] {primary} !{other specified neoplasm} !{past or family hx or specimens} `appendix` 
+C182  [neoplasm malignant] {primary} !{other specified neoplasm} !{past or family hx or specimens} `ascending colon` {right}
+C183  [neoplasm malignant] {primary} !{other specified neoplasm} !{past or family hx or specimens} `hepatic flexure` 
+C184  [neoplasm malignant] {primary} !{other specified neoplasm} !{past or family hx or specimens} `transverse colon` 
+C185  [neoplasm malignant] {primary} !{other specified neoplasm} !{past or family hx or specimens} `splenic flexure` 
+C186  [neoplasm malignant] {primary} !{other specified neoplasm} !{past or family hx or specimens} `descending colon` 
+C187  [neoplasm malignant] {primary} !{other specified neoplasm} !{past or family hx or specimens} `sigmoid flexure` 
+C188* [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens}  colon  
+C189  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{screening} `colon` 
+C19   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `rectosigmoid junction` 
+C20   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{screening} `rectum`
+C210  [neoplasm malignant] {primary} !{other specified neoplasm} !{past or family hx or specimens} `anus` !{canal}
+C211  [neoplasm malignant] {primary} !{other specified neoplasm} !{past or family hx or specimens} `anal canal` 
+C212  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `cloacogenic zone` 
+C218* [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens}  rectum, anus and anal canal 
+C220  [liver cell carcinoma] `liver`
+      [carcinoma] {hepatocellular}
+C221  [cholangiocarcinoma]  
+C222  [hepatoblastoma] 
+C223  [angiosarcoma] `liver` 
+C224  [sarcoma] `liver` 
+C227  [carcinomas] `liver` 
+C228  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `liver` {primary}
+C229  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `liver` !{past or family hx or specimens} & ![primary] & ![secondary malignant neoplasm] 
+C23   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `gallbladder` 
+C240  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `extrahepatic bile duct` 
+C241  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `ampulla of vater` 
+C248  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `overlapping sites of biliary tract` 
+C249  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `biliary tract` 
+C250  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `head of pancreas` 
+C251  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `body of pancreas` 
+C252  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `tail of pancreas` 
+C253  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `pancreatic duct` 
+C254  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `endocrine pancreas` 
+C257  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `neck pancreas` 
+C258* [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `pancreas` 
+C259  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {pancreatic}   
+C260  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `intestinal tract` 
+C261  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `spleen` 
+C269  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `digestive system` 
+C300  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `nasal cavity` 
+C301  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `middle ear` 
+C310  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `maxillary sinus` 
+C311  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `ethmoidal sinus` 
+C312  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `frontal sinus` 
+C313  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `sphenoid sinus` 
+C318* [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens}  accessory sinuses 
+C319  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `accessory sinus` 
+C320  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `glottis` 
+C321  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `supraglottis` 
+C322  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `subglottis` 
+C323  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `laryngeal cartilage` 
+C328* [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens}  larynx 
+C329  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `larynx` 
+C33   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `trachea` 
+C3400  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `main bronchus` 
+C3401  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `main bronchus` 
+C3402  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `main bronchus` 
+C3410  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lung or bronchus` & [upper lobe] !{left} !{right}
+C3411  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lung or bronchus` & [right upper lobe]
+C3412  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lung or bronchus` & [left upper lobe]
+C342   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `middle lobe of lung` 
+C3430  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lung or bronchus` & [lower lobe] !{left} !{right}
+C3431  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lung or bronchus` & [right lower lobe] 
+C3432  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lung or bronchus` & [left lower lobe] 
+C3480  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `bronchus and lung` 
+C3481  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `bronchus and lung` 
+C3482  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `bronchus and lung` 
+C3490  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} !{upper} !{lower} !{middle} `lung` !{family history} 
+C3491  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `lung` !{upper} !{lower} !{middle} !{family history}
+C3492  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `lung` !{upper} !{lower} !{middle} !{family history}
+C37*  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `thymus` 
+C380* [malignant] `heart` 
+C381  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `anterior mediastinum` 
+C382  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `posterior mediastinum` 
+C383  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `mediastinum` 
+C384* [malignant] `pleura` 
+C388* [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens}  heart, mediastinum and pleura 
+C390  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `upper respiratory tract` 
+C399  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lower respiratory tract` 
+C4000  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `scapula` 
+C4001  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `scapula` 
+C4002  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `scapula` 
+C4010  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `metacarpal bones` !{foot} !{toe} !{ankle}
+C4011  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `metacarpal bones` {right} !{foot} !{toe} !{ankle}
+C4012  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `metacarpal bones` {left}!{foot} !{toe} !{ankle}
+C4020  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `long bones of lower limb` 
+C4021  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `long bones of lower limb` {right} 
+C4022  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `long bones of lower limb` {left}
+C4030  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `metatarsal bones` !{hand} !{wrist} !{finger} 
+C4031  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `metatarsal bones` !{hand} !{wrist} !{finger} 
+C4032  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `metatarsal bones` !{hand} !{wrist} !{finger}
+C4080  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `bone and articular cartilage of limb` 
+C4081  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `bone and articular cartilage of right limb` 
+C4082  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `bone and articular cartilage of left limb` 
+C4090  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `bones and articular cartilage of limb` 
+C4091  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `bones and articular cartilage of right limb` 
+C4092  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `bones and articular cartilage of left limb` 
+C410  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `bones of skull and face` 
+C411  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `mandible` 
+C412  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `vertebral column` 
+C413  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `ribs, sternum and clavicle` 
+C414  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `pelvic bones` 
+C419  [osteosarcoma] !{past or family hx or specimens} `bone and articular cartilage` 
+C430* [malignant melanoma] `lip` 
+C4310*[malignant melanoma] !{left} !{right} `eyelid` 
+C43111*[malignant melanoma] {right} `eyelid` 
+C43112*[malignant melanoma] {left} `eyelid` 
+C43121*[malignant melanoma] {left} `upper eyelid` 
+C43122*[malignant melanoma] {left} `lower eyelid` 
+C4320* [malignant melanoma] !{left} !{right} `ear` 
+C4321  [malignant melanoma] {right} `ear` 
+C4322  [malignant melanoma] {left} `ear` 
+C4330  [malignant melanoma] `face` 
+C4331  [malignant melanoma] `nose` 
+C4339  [malignant melanoma] {other parts of face} 
+C434   [malignant melanoma] `scalp` 
+C4351  [malignant melanoma] `anal skin` 
+C4352  [malignant melanoma] `skin of breast` 
+C4359  [malignant melanoma] `trunk` 
+C4360  [malignant melanoma] !{left} !{right} `upper limb` 
+C4361  [malignant melanoma] {right} `upper limb` 
+C4362  [malignant melanoma] {left} `upper limb` 
+C4370  [malignant melanoma] !{left} !{right} `lower limb` 
+C4371  [malignant melanoma] {right} `lower limb including hip` 
+C4372  [malignant melanoma] {left} `lower limb including hip` 
+C438* [malignant melanoma of skin]
+C439  [malignant melanoma] `skin` 
+C4A0  [merkel cell carcinoma] `lip`
+C4A10  [merkel cell carcinoma] !{left} !{right} `eyelid`
+C4A111  [merkel cell carcinoma] {right} `eyelid`
+C4A112  [merkel cell carcinoma] {left} `eyelid`
+C4A121  [merkel cell carcinoma] {left} `upper eyelid` `canthus`
+C4A122  [merkel cell carcinoma] {left} `lower eyelid` `canthus`
+C4A20  [merkel cell carcinoma] !{left} !{right} `ear`
+       [merkel cell carcinoma] !{left} !{right} `external auricular canal` 
+C4A21  [merkel cell carcinoma] {right} `ear` 
+       [merkel cell carcinoma] {right} `external auricular canal` 
+C4A22  [merkel cell carcinoma] {left} `ear` 
+       [merkel cell carcinoma] {left} `external auricular canal` 
+C4A30  [merkel cell carcinoma] `face` 
+       [skin cancer type] {merkel cell carcinoma} `face`
+C4A31  [merkel cell carcinoma]  `nose` 
+       [skin cancer type] {merkel cell carcinoma} `nose`
+C4A39  [merkel cell carcinoma]  `face`
+       [skin cancer type] {merkel cell carcinoma} `face`
+C4A4   [skin cancer type] {merkel cell carcinoma} `scalp`
+       [skin cancer type] {merkel cell carcinoma} `neck`
+       [merkel cell carcinoma]  `scalp`
+       [merkel cell carcinoma]  `neck`
+C4A51  [merkel cell carcinoma]  `anal skin`
+C4A52  [merkel cell carcinoma]  `breast`
+C4A59  [merkel cell carcinoma]  `trunk`
+C4A60  [merkel cell carcinoma] !{left} !{right} `upper limb`
+       [skin cancer type] {merkel cell carcinoma}  !{left} !{right} `shoulder`
+C4A61  [merkel cell carcinoma] {right} `upper limb` 
+       [merkel cell carcinoma] {right} `shoulder` 
+C4A62  [merkel cell carcinoma] {left} `upper limb` 
+       [merkel cell carcinoma] {left} `shoulder` 
+C4A70  [merkel cell carcinoma] !{left} !{right} `lower limb` 
+       [merkel cell carcinoma]  !{left} !{right} `hip` 
+C4A71  [merkel cell carcinoma] {right} `lower limb` 
+       [merkel cell carcinoma] {right} `hip` 
+C4A72  [merkel cell carcinoma] {left} `lower limb` 
+       [merkel cell carcinoma] {left} `hip` 
+C4A8*  merkel cell carcinoma of overlapping sites 
+C4A9*  [merkel cell carcinoma] !{face} !{hip} !{lower} !{upper} !{shoulder}
+C4400  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin of lip` 
+C4401  [carcinoma] {basal cell} `skin of lip` 
+C4402  [squamous cell carcinoma] `skin of lip` 
+C4409* [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin of lip` 
+C44101  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `skin of eyelid` 
+C441021 [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin of eyelid` {right} {upper} 
+C441022 [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin of eyelid` {right} {lower} 
+C441091 [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin of eyelid` {left} {upper} 
+C441092 [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin of eyelid` {left} {lower} 
+C44111  [carcinoma] {basal cell} `skin of eyelid` !{right} !{left}
+C441121 [carcinoma] {basal cell} `skin of eyelid` {right} {upper} 
+C441122 [carcinoma] {basal cell} `skin of eyelid` {right} {lower} 
+C441191 [carcinoma] {basal cell} `skin of eyelid` {left} {upper} 
+C441192 [carcinoma] {basal cell} `skin of eyelid` {left} {lower} 
+C44121  [carcinoma] {squamous}  `skin of eyelid` !{left} !{right}
+C441221 [carcinoma] {squamous} `skin of eyelid` {right} {upper} 
+C441222 [carcinoma] {squamous} `skin of eyelid` {right} {lower} 
+C441291 [carcinoma] {squamous} `skin of eyelid` {left} {upper} 
+C441292 [carcinoma] {squamous} `skin of eyelid` {left} {lower} 
+C44131* [sebaceous cell carcinoma] `skin of eyelid` !{right} {left} {upper}
+C441321*[sebaceous cell carcinoma] `skin of eyelid` {right} {upper}
+C441322*[sebaceous cell carcinoma] `skin of eyelid` {left} {lower}  
+C441391*[sebaceous cell carcinoma] `skin of eyelid` {left} {upper} 
+C441392*[sebaceous cell carcinoma] `skin of eyelid` {left} {lower} 
+C44191  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `canthus or eyelid` 
+C441921 [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `eyelid` {right} {upper} 
+C441922 [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `canthus or eyelid` {lower} 
+C441991 [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `canthus or eyelid` {upper} 
+C441992 [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `canthus or eyelid` {lower} 
+C44201  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `skin of ear` 
+C44202  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin of ear` {right} 
+C44209  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin of ear` {left} 
+C44211  [carcinoma] {basal cell} !{left} !{right} `skin of ear` 
+C44212  [carcinoma] {basal cell} `ear` {right} 
+C44219  [carcinoma] {basal cell} `ear` {left} 
+C44221  [squamous cell carcinoma] !{left} !{right} `skin of ear` 
+C44222  [squamous cell carcinoma] `ear` {right} 
+C44229  [squamous cell carcinoma] `ear` {left} 
+C44291  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `skin of ear` 
+C44292  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin of ear` {right} 
+C44299  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin of ear` {left} 
+C44300  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin of face` 
+C44301  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin of nose` 
+C44309  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin of face` 
+C44310  [carcinoma] {basal cell} `face`
+C44311  [carcinoma] {basal cell} `nose` 
+C44319  [carcinoma] {basal cell} !`face` !`nose` !`cheek` !`lip`
+C44320  [squamous cell carcinoma] `skin of face` 
+C44321  [squamous cell carcinoma] `nose` 
+C44329  [squamous cell carcinoma] `other part of face` 
+C44390  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin of face` 
+C44391  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin of nose` 
+C44399  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin of face` 
+C4440   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `scalp` 
+C4441   [carcinoma] {basal cell} `scalp` 
+C4442   [squamous cell carcinoma] `scalp` 
+C4449   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin of scalp` 
+C44500  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `anal skin` 
+C44501  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin of breast` 
+C44509  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin of trunk` 
+C44510  [carcinoma] {basal cell} `anal skin` 
+C44511  [carcinoma] {basal cell} `skin of breast` 
+C44519  [carcinoma] {basal cell} `skin of trunk` 
+C44520  [squamous cell carcinoma] `anal skin` 
+C44521  [squamous cell carcinoma] `skin of breast` 
+C44529  [squamous cell carcinoma] `skin of trunk` 
+C44590  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `anal skin` 
+C44591  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin of breast` 
+C44599  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin of trunk` 
+C44601  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `skin of upper limb` 
+C44602  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin of upper limb` {right}
+C44609  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin of upper limb` {left}
+C44611  [carcinoma] {basal cell} !{left} !{right} `skin of upper limb` 
+C44612  [carcinoma] {basal cell} `skin of upper limb` {right}
+C44619  [carcinoma] {basal cell} `skin of upper limb` {left}
+C44621  [squamous cell carcinoma] !{left} !{right} `skin of upper limb` 
+C44622  [squamous cell carcinoma] `skin of upper limb` {right}
+C44629  [squamous cell carcinoma] `skin of upper limb` {left}
+C44691  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `skin of upper limb` 
+C44692  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin of upper limb` {right}
+C44699  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin of upper limb` {left}
+C44701  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `skin of unspecified lower limb` 
+C44702  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin of lower limb` {right}
+C44709  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin of lower limb` {left}
+C44711  [carcinoma] {basal cell} !{left} !{right} `skin of lower limb` 
+C44712  [carcinoma] {basal cell} `skin of lower limb` {right}
+C44719  [carcinoma] {basal cell} `skin of lower limb` {left}
+C44721  [squamous cell carcinoma] !{left} !{right} `skin of lower limb` 
+C44722  [squamous cell carcinoma] `skin of lower limb` {right}
+C44729  [squamous cell carcinoma] `skin of lower limb` {left}
+C44791  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `skin of lower limb` 
+C44792  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin of lower limb` {right}
+C44799  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin of lower limb` {left}
+C4480*  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin` 
+C4481   [carcinoma] {basal cell} `overlapping sites of skin` 
+C4482   [carcinoma] {squamous cell} `overlapping sites of skin` 
+C4489   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `overlapping sites of skin` 
+C4490   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `overlapping sites of skin` 
+C4491   [carcinoma] {basal cell} !{nose} !{limb} !{arm} !{past or family hx or specimens} `skin` 
+C4492   [carcinoma] {squamous} !{nose} !{limb} !{arm} !{past or family hx or specimens} `skin` 
+C4499   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `skin` 
+C450    [mesothelioma] `pleura` 
+C451    [mesothelioma] `peritoneum` 
+C452    [mesothelioma] `pericardium` 
+C457*   [mesothelioma] of other sites 
+C459    [mesothelioma] 
+C460    [kaposis sarcoma] `skin` 
+C461    [kaposis sarcoma] `soft tissue` 
+C462    [kaposis sarcoma] `palate` 
+C463    [kaposis sarcoma] `lymph nodes` 
+C464    [kaposis sarcoma] `gastrointestinal` 
+C4650   [kaposis sarcoma] !{left} !{right} `lung` 
+C4651   [kaposis sarcoma] {right} `lung` 
+C4652   [kaposis sarcoma] {left} `lung` 
+C467*   [kaposis sarcoma of other sites] 
+C469    [kaposis sarcoma] 
+C470    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `peripheral nerves of head` 
+C4710   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `peripheral nerves of upper limb` 
+C4711   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `peripheral nerves of upper limb` {right}
+C4712   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `peripheral nerves of upper limb` {left}
+C4720   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `peripheral nerves of lower limb` 
+C4721   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `peripheral nerves of lower limb` {right}
+C4722   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `peripheral nerves of lower limb` {left}
+C473    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `peripheral nerves of thorax` 
+C474    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `peripheral nerves of abdomen` 
+C475    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `peripheral nerves of pelvis` 
+C476    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `peripheral nerves of trunk` 
+C478*   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens}  peripheral nerves and autonomic nervous system 
+C479    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `peripheral nerves` 
+C480    [neoplasm malignant] {primary} !{other specified neoplasm} !{past or family hx or specimens} `retroperitoneum` 
+C481*   [neoplasm malignant] {primary} !{other specified neoplasm} !{past or family hx or specimens}  specified parts of peritoneum 
+C482    [neoplasm malignant] {primary} !{other specified neoplasm} !{past or family hx or specimens} `peritoneum` 
+C488*   [neoplasm malignant] {primary} !{other specified neoplasm} !{past or family hx or specimens}  retroperitoneum and peritoneum 
+C490    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `connective tissue of head or face or neck`
+C4910*  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `connective tissue of upper limb` 
+C4911*  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `connective tissue of upper limb` {right}
+C4912*  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `connective tissue of upper limb` {left}
+C4920*  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `connective tissue of lower limb` 
+C4921*  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `connective tissue of lower limb` {right}
+C4922   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `connective tissue of lower limb` {left}
+C493    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `connective tissue of thorax` 
+C494    [connective tissue sarcoma] !{past or family hx or specimens} `intra-abdominal` 
+C495    [dermatofibrosarcoma protuberans] `buttock`
+C496    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `connective tissue of trunk` 
+C498*   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens}  connective and soft tissue 
+C499    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `connective tissue` 
+C499    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `soft tissue` 
+C49A0   [stromal tumor] !`esophagus` !`gastric` !`small intestine` !`large intestine` !`rectum`
+C49A1   [stromal tumor] `esophagus` 
+C49A2   [stromal tumor] `gastric`
+C49A3   [stromal tumor] {gastrointestinal} `small intestine` 
+C49A4   [stromal tumor] `large intestine` 
+C49A5   [stromal tumor] `rectum` 
+C49A9*  [stromal tumor] `other` !`esophagus` !`gastric` !`small intestine` !`large intestine` !`rectum`
+C50011  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `nipple or areola` "female" 
+C50012  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `nipple or areola` "female" 
+C50019  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `nipple or areola` "female" 
+C50021  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `nipple or areola` "male" 
+C50022  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `nipple or areola` "male" 
+C50029  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `nipple or areola` "male" 
+C50111  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `central portion` & [breast] {right} "female" 
+C50112  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `central portion` & [breast] {left} "female" 
+C50119  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `central portion of breast` "female" 
+C50121  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `central portion` & [breast] {right} "male" 
+C50122  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `central portion` & [breast] {left} "male" 
+C50129  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens}  !{left} !{right}`central portion of breast` "male" 
+C50211  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens}  & [breast] {right} `upper inner quadrant` "female" 
+C50212  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `upper inner quadrant` & [breast] {left} "female" 
+C50219  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `breast` `upper inner quadrant` "female" 
+C50221  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `upper inner quadrant` & [breast] {right} "male" 
+C50222  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `upper inner quadrant` & [breast] {left} "male" 
+C50229  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `upper inner quadrant` & [breast] !{left} & [breast] !{right} "male" 
+C50311  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lower inner quadrant` & [breast] {right} "female" 
+C50312  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lower inner quadrant` & [breast] {left} "female" 
+C50319  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lower inner quadrant` & [breast] !{left} & [breast] !{right} "female" 
+C50321  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lower inner quadrant` & [breast] {right} "male" 
+C50322  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lower inner quadrant` & [breast] {left} "male" 
+C50329  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lower inner quadrant` & [breast] !{left} & [breast] !{right} "male" 
+C50411  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `upper outer quadrant` & [breast] {right} !{male}
+C50412  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `upper outer quadrant` & [breast] {left} !{male} "female"
+C50419  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `upper outer quadrant` & [breast] !{left} & [breast] !{right} "female" 
+C50421  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `upper outer quadrant` & [breast] {right} "male" 
+C50422  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `upper outer quadrant` & [breast] {left} "male" 
+C50429  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `upper outer quadrant` & [breast] !{left} & [breast] !{right} "male" 
+C50511  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lower outer quadrant` & [breast] {right} "female" 
+C50512  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lower outer quadrant` & [breast] {left} "female" 
+C50519  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lower outer quadrant` & [breast] !{left} & [breast] !{right} "female" 
+C50521  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lower outer quadrant` & [breast] {right} "male" 
+C50522  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lower outer quadrant` & [breast] {left} "male" 
+C50529  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lower outer quadrant` & [breast] !{left} & [breast] !{right} "male" 
+C50611  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lower tail` & [breast] {right} "female" 
+C50612  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lower tail` & [breast] {left} "female" 
+C50619  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lower tail` & [breast] !{left} & [breast] !{right} "female" 
+C50621  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lower tail` & [breast] {right} "male" 
+C50622  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lower tail` & [breast] {left} "male" 
+C50629  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lower tail` & [breast] !{left} & [breast] !{right} "male" 
+C50811  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `breast` & [clock position] "female" 
+C50812  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `breast` & [overlapping sites] 
+C50819* [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `breast` "female" 
+C50821* [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `breast` "male" 
+C50822* [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `breast` "male" 
+C50829* [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `breast` "male" 
+C50911  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !`quadrant` !`axillary tail` !`central portion` {right} `breast` & [current treatment] & ![screen mammogram]
+C50912  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !`quadrant` !`axillary tail` !`central portion` {left} `breast` & [current treatment] & ![metastasis] & ![screen mammogram]
+C50919  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !`quadrant` !`axillary tail` !`central portion` !{left} !{right} `breast` & [current treatment] & ![screen mammogram]
+C50921  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `breast` & [current treatment] "male" 
+C50922  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `breast` & [current treatment] "male" 
+C50929  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `breast` & [current treatment] "male" 
+C510    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `labium majus` 
+C511    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `labium minus` 
+C513    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `clitoris` 
+C518*   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `vulva` 
+C519    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `vulva` 
+C52     [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `vagina` 
+C530    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `endocervix` 
+C531    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `exocervix` 
+C538*   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `cervix` 
+C539    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `cervix` 
+C540    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `isthmus uteri` 
+C541    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `endometrium` 
+C543    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `myometrium` 
+C543    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `fundus uteri` 
+C548*   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens}  corpus uteri 
+C549    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `corpus uteri` !{endometrium} !{myometrium}
+C55     [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `uterus` !{endometrial}
+C561    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `ovary` 
+C563    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `ovary` 
+C569    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `ovary` 
+C5700   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `fallopian tube` 
+C5701   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `fallopian tube` !{endometrium}
+C5702   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `fallopian tube` !{endometrium}
+C5710   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `broad ligament` 
+C5711   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `broad ligament` 
+C5712   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `broad ligament` 
+C5720   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `round ligament` 
+C5721   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `round ligament` 
+C5722   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `round ligament` 
+C573    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `parametrium` 
+C574    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `uterine adnexa` 
+C577*   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens}  other specified female genital organs  
+C578*   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens}  female genital organs 
+C579    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `genital organ` "female" 
+C58     [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `placenta` 
+C600    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `prepuce` 
+C601    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `glans penis` 
+C603    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `body of penis` 
+C608    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {overlapping sites} `penis` 
+C609    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `penis` 
+C61     [neoplasm malignant] `prostate` & [current treatment] & ![secondary malignant neoplasm]
+        [neoplasm malignant] `prostate` !{history} !{past or family hx or specimens} !{screening} & [current treatment] & ![secondary malignant neoplasm]
+C6200   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `undescended testis` "male" 
+C6201   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `undescended right testis` "male" 
+C6202   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `undescended left testis` "male" 
+C6210   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `descended testis` "male" 
+C6211   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `descended right testis` "male" 
+C6212   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `descended left testis` "male" 
+C6290   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `testis` !{past or family hx or specimens} & ![descended] & ![undescended] "male" 
+C6291   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `testis` !{past or family hx or specimens} & ![descended] & ![undescended] "male" 
+C6292   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `testis` !{past or family hx or specimens} & ![descended] & ![undescended] "male" 
+C6300   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `epididymis` "male"  
+C6301   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `epididymis` "male"  
+C6302   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `epididymis` "male"  
+C6310   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `spermatic cord` "male" 
+C6311   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `spermatic cord` "male"  
+C6312   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `spermatic cord` "male"  
+C633    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `scrotum` "male" 
+C637    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `other specified male genital organs` "male" 
+C638    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {overlapping sites} `genital organ` "male" 
+C639    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `genital organ` "male" 
+C641    [wilms tumor] {right} !{calyces} `kidney` !{past or family hx or specimens} !`renal pelvis` 
+C642    [wilms tumor] {left} !{calyces} `kidney` !`renal pelvis` 
+C649    [wilms tumor] !{past or family hx or specimens} !{left} !{right} {kidney} !`renal pelvis` 
+C651    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `renal pelvis` 
+C653    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `renal pelvis` 
+C659    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `renal pelvis` 
+C661    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `ureter` 
+C663    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `ureter` 
+C669    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `ureter` 
+C670    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `trigone` 
+C671    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `dome of bladder` 
+C673    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {lateral} `bladder wall`
+C673    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {anterior} `bladder wall`
+C674    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {posterior wall} `bladder wall` 
+C675    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `bladder neck` 
+C676    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `ureteric orifice` 
+C677    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `urachus` 
+C678    [malignancy overlapping sites] `bladder` 
+        [neoplasm malignant] `overlapping sites of bladder`
+C679    [neoplasm malignant] !{other specified neoplasm}  !{other specified bladder sites} `bladder` !{past or family hx or specimens}
+C680    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `urethra` 
+C681    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `paraurethral glands` 
+C688    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {overlapping sites} `urinary organs` 
+C689    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `urinary organ` 
+C6900   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `conjunctiva` 
+C6901   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `conjunctiva` 
+C6902   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `conjunctiva` 
+C6910   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `cornea` 
+C6911   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `cornea` 
+C6912   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `cornea` 
+C6920   [retinoblastoma] !{past or family hx or specimens} !{left} !{right} `retina`
+C6921   [retinoblastoma] !{past or family hx or specimens} {right} 
+C6922   [retinoblastoma] !{past or family hx or specimens} {left} 
+C6930   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `choroid` 
+C6931   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `choroid` 
+C6932   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `choroid` 
+C6940   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `ciliary body` 
+C6941   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `ciliary body` 
+C6942   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `ciliary body` 
+C6950   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `lacrimal gland and duct` 
+C6951   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `lacrimal gland and duct` 
+C6952   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `lacrimal gland and duct` 
+C6960   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `orbit` 
+C6961   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `orbit` 
+C6962   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `orbit` 
+C6980*  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right}  eye and adnexa 
+C6981*  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens}  right eye and adnexa 
+C6982*  [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens}  left eye and adnexa 
+C6990   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `eye` 
+C6991   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `eye` 
+C6992   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `eye` 
+C700    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `cerebral meninges` 
+C701    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `spinal meninges` 
+C709    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `meninges` 
+C710    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `cerebrum` !`lobes` !`ventricle` 
+C711    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `frontal lobe` 
+C712    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `temporal lobe` 
+C713    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `parietal lobe` 
+C714    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `occipital lobe` 
+C715    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `cerebral ventricle` 
+C716    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `cerebellum` 
+C717    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `brain stem` 
+C718*   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens}  brain 
+C719    [malignant glioma] !{past or family hx or specimens} `brain` 
+C720    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `spinal cord` 
+C721    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `cauda equina` 
+C7220   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `olfactory nerve` 
+C7221   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `olfactory nerve` 
+C7222   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `olfactory nerve` 
+C7230   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `optic nerve` 
+C7231   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `optic nerve` 
+C7232   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `optic nerve` 
+C7240   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `acoustic nerve` 
+C7241   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `acoustic nerve` 
+C7242   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `acoustic nerve` 
+C7250   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `cranial nerve` 
+C7259   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `other cranial nerves`
+C729    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `central nervous system` 
+C73     [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `thyroid` 
+C7400   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `cortex of adrenal gland` 
+C7401   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `cortex of right adrenal gland` 
+C7402   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `cortex of left adrenal gland` 
+C7410   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `medulla of adrenal gland` 
+C7411   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `medulla of right adrenal gland` 
+C7412   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `medulla of left adrenal gland` 
+C7490   [neuroblastoma] !{past or family hx or specimens} !{left} !{right}
+C7491   [neuroblastoma] !{past or family hx or specimens} {right} `adrenal` 
+C7492   [neuroblastoma] !{past or family hx or specimens} {left} `adrenal` 
+C750    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `parathyroid gland` 
+C751    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `pituitary gland` 
+C753    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `craniopharyngeal duct` 
+C753    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `pineal gland` 
+C754    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `carotid body` 
+C755    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `aortic body and other paraganglia` 
+C758*   [malignant neoplasm with pluriglandular involvement] 
+C759    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `endocrine gland` 
+C7A00*  [carcinoid tumor] {malignant} 
+C7A010  [carcinoid tumor] {malignant} `duodenum` 
+C7A011  [carcinoid tumor] {malignant} `jejunum` 
+C7A012  [carcinoid tumor] {malignant} `ileum` 
+C7A019  [carcinoid tumor] {malignant} `small intestine` 
+C7A020  [carcinoid tumor] {malignant} `appendix` 
+C7A021  [carcinoid tumor] {malignant} `cecum` 
+C7A022  [carcinoid tumor] {malignant} `ascending colon` 
+C7A023  [carcinoid tumor] {malignant} `transverse colon` 
+C7A024  [carcinoid tumor] {malignant} `descending colon` 
+C7A025  [carcinoid tumor] {malignant} `sigmoid colon` 
+C7A026  [carcinoid tumor] {malignant} `rectum` 
+C7A029  [carcinoid tumor] {malignant} `large intestine` 
+C7A090  [carcinoid tumor] {malignant} `bronchus` 
+C7A090  [carcinoid tumor] {malignant} `lung` 
+C7A091  [carcinoid tumor] {malignant} `thymus` 
+C7A092  [carcinoid tumor] {malignant} `stomach` 
+C7A093  [carcinoid tumor] {malignant} `kidney` 
+C7A094  [carcinoid tumor] {malignant} `foregut` 
+C7A095  [carcinoid tumor] {malignant} `midgut` 
+C7A096  [carcinoid tumor] {malignant} `hindgut` 
+C7A098* [carcinoid tumor] {malignant}s of other sites 
+C7A1    [carcinoid tumor] {malignant} & [poorly differentiated]
+C7A8*   [other malignant neuroendocrine tumor] 
+C7B00*  [carcinoid tumor] {secondary}
+C7B01   [carcinoid tumor] {secondary} `distant lymph nodes` 
+C7B02   [carcinoid tumor] {secondary} `liver` 
+C7B03   [carcinoid tumor] {secondary} `bone` 
+C7B04   [carcinoid tumor] {secondary} `peritoneum` 
+C7B09   [carcinoid tumor] {secondary} 
+C7B1    [merkel cell carcinoma] {secondary} 
+C7B8*   [other secondary neuroendocrine tumors] 
+C760    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `head region` !`bladder neck` !`pancreas`
+C761    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `thorax region` 
+C762    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `abdomen` 
+C763    [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `pelvis` 
+C7640   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} !{left} !{right} `upper limb` 
+C7641   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `upper limb` 
+C7642   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `upper limb` 
+C7650   [neoplasm malignant] !{metastasis} !{past or family hx or specimens} !{left} !{right} `lower limb` 
+C7651   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {right} `lower limb` 
+C7652   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} {left} `lower limb` !{including hip}
+C768*   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} of other specified ill defined sites 
+C770    [secondary malignant neoplasm] !{primary} !{past or family hx or specimens} `lymph nodes` `head or face or neck` 
+C771    [secondary malignant neoplasm] !{past or family hx or specimens} `intrathoracic lymph nodes` 
+C772    [secondary malignant neoplasm] !{past or family hx or specimens} `intra abdominal lymph nodes` 
+        [retroperitoneal lymph node metastases] 
+C773    [secondary malignant neoplasm] & [carcinoma]  `axillary lymph nodes`
+C774    [secondary malignant neoplasm] !{past or family hx or specimens} `lymph nodes of inguinal region or lower limb`
+C775    [secondary malignant neoplasm] !{past or family hx or specimens} `intrapelvic lymph nodes` 
+C778*   [secondary malignant neoplasm] !{past or family hx or specimens} `lymph nodes` of multiple regions 
+C779    [secondary malignant neoplasm] !{past or family hx or specimens} `lymph nodes` !`axillary` 
+C7800   [secondary malignant neoplasm] `lung` !{right} !{left}
+C7801   [secondary malignant neoplasm] !{past or family hx or specimens} {right} `lung` 
+C7802   [secondary malignant neoplasm] !{past or family hx or specimens} {left} `lung` 
+C781    [secondary malignant neoplasm] !{past or family hx or specimens} `mediastinum` 
+C782    [secondary malignant neoplasm] !{past or family hx or specimens} `pleura` 
+C7830   [secondary malignant neoplasm] !{past or family hx or specimens} `respiratory organ` 
+C7839*  [secondary malignant neoplasm] of other `respiratory organs` 
+C784    [secondary malignant neoplasm] !{past or family hx or specimens} `small intestine` 
+C785    [secondary malignant neoplasm] !{past or family hx or specimens} `large intestine`  
+C786    [secondary malignant neoplasm] !{past or family hx or specimens} `peritoneum` 
+        [secondary malignant neoplasm] !{past or family hx or specimens} `omentum`
+C787    [secondary malignant neoplasm] !{past or family hx or specimens} `liver` 
+        [secondary malignant neoplasm] !{past or family hx or specimens} `intrahepatic bile duct`
+C7880*  [secondary malignant neoplasm] !{past or family hx or specimens} `unspecified digestive organ` 
+C7889   [secondary malignant neoplasm] !{past or family hx or specimens} `other digestive organs` 
+C7900   [secondary malignant neoplasm] !{past or family hx or specimens} !{left} !{right} `renal pelvis or kidney` 
+C7901   [secondary malignant neoplasm] !{past or family hx or specimens} {right} `renal pelvis or kidney` 
+C7902   [secondary malignant neoplasm] !{past or family hx or specimens} {left} `renal pelvis or kidney` 
+C7910   [secondary malignant neoplasm] !{past or family hx or specimens} `urinary organs` 
+C7911   [secondary malignant neoplasm] !{past or family hx or specimens} {bladder} 
+C7919   [secondary malignant neoplasm] !{past or family hx or specimens} `urinary organ` 
+C793    [secondary malignant neoplasm] !{past or family hx or specimens} `skin` !`other skin of body parts`
+C7931   [secondary malignant neoplasm] !{past or family hx or specimens} `brain` 
+C7932   [secondary malignant neoplasm] !{past or family hx or specimens} `cerebral meninges` 
+C7940   [secondary malignant neoplasm] !{past or family hx or specimens} `nervous system` 
+C7949*  [secondary malignant neoplasm] !{past or family hx or specimens} `nervous system` 
+C7951   [secondary malignant neoplasm] `bone` !`marrow` !{family hx}
+        [metastasis] `bone` & [neoplasm malignant] 
+C7952   [secondary malignant neoplasm] !{past or family hx or specimens} `bone marrow` 
+C7960   [secondary malignant neoplasm] !{past or family hx or specimens} `ovary` !{right} !{left}
+C7961   [secondary malignant neoplasm] !{past or family hx or specimens} {right} `ovary` 
+C7962   [secondary malignant neoplasm] !{past or family hx or specimens} {left} `ovary` 
+C7970   [secondary malignant neoplasm] !{past or family hx or specimens} !{left} !{right} `adrenal gland` 
+C7971   [secondary malignant neoplasm] !{past or family hx or specimens} {right} `adrenal gland` 
+C7972   [secondary malignant neoplasm] !{past or family hx or specimens} {left} `adrenal gland` 
+C7981*  [secondary malignant neoplasm] !{past or family hx or specimens} `breast` 
+C7982   [secondary malignant neoplasm] !{family hx} `genital organ` 
+C7989   [secondary malignant neoplasm] !{past or family hx or specimens} `other specified sites` 
+C799*   [secondary malignant neoplasm] 
+C800*   [secondary malignant neoplasm] {disseminated} {malignant}  
+C801*   [secondary malignant neoplasm] !{past or family hx or specimens} {primary} 
+C802*   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `transplanted organ` 
+C8100*  [nodular lymphocyte predominant hodgkin lymphoma] !{past or family hx or specimens}
+C8101   [nodular lymphocyte predominant hodgkin lymphoma] !{past or family hx or specimens} `lymph nodes of head neck or face` 
+C8102   [nodular lymphocyte predominant hodgkin lymphoma] !{past or family hx or specimens} `intrathoracic lymph nodes` 
+C8103   [nodular lymphocyte predominant hodgkin lymphoma] !{past or family hx or specimens} `intra abdominal lymph nodes` 
+C8104   [nodular lymphocyte predominant hodgkin lymphoma] !{past or family hx or specimens} `lymph nodes of axilla or upper limb` 
+C8105   [nodular lymphocyte predominant hodgkin lymphoma] !{past or family hx or specimens} `lymph nodes of inguinal region or lower limb`
+C8106   [nodular lymphocyte predominant hodgkin lymphoma] !{past or family hx or specimens} `intrapelvic lymph nodes` 
+C8107   [nodular lymphocyte predominant hodgkin lymphoma] !{past or family hx or specimens} `spleen` 
+C8108*  [nodular lymphocyte predominant hodgkin lymphoma], lymph nodes of multiple sites 
+C8109   [nodular lymphocyte predominant hodgkin lymphoma] !{past or family hx or specimens} `solid organ` 
+C8110*  [nodular sclerosis classical hodgkin lymphoma] 
+C8111   [nodular sclerosis classical hodgkin lymphoma] !{past or family hx or specimens} `lymph nodes of head neck or face` 
+C8112   [nodular sclerosis classical hodgkin lymphoma] !{past or family hx or specimens} `intrathoracic lymph nodes` 
+C8113   [nodular sclerosis classical hodgkin lymphoma] !{past or family hx or specimens} `intra abdominal lymph nodes` 
+C8114   [nodular sclerosis classical hodgkin lymphoma] !{past or family hx or specimens} `lymph nodes of axilla or upper limb` 
+C8115   [nodular sclerosis classical hodgkin lymphoma] !{past or family hx or specimens} `lymph nodes of inguinal region or lower limb`
+C8116   [nodular sclerosis classical hodgkin lymphoma] !{past or family hx or specimens} `intrapelvic lymph nodes` 
+C8117   [nodular sclerosis classical hodgkin lymphoma] !{past or family hx or specimens} `spleen` 
+C8118*  [nodular sclerosis classical hodgkin lymphoma], lymph nodes of multiple sites 
+C8119   [nodular sclerosis classical hodgkin lymphoma] !{past or family hx or specimens} `solid organ` 
+C8120*  [mixed cellularity classical hodgkin lymphoma] 
+C8121   [mixed cellularity classical hodgkin lymphoma] !{past or family hx or specimens} `lymph nodes of head neck or face` 
+C8122   [mixed cellularity classical hodgkin lymphoma] !{past or family hx or specimens} `intrathoracic lymph nodes` 
+C8123   [mixed cellularity classical hodgkin lymphoma] !{past or family hx or specimens} `intra abdominal lymph nodes` 
+C8124   [mixed cellularity classical hodgkin lymphoma] !{past or family hx or specimens} `lymph nodes of axilla or upper limb`
+C8125   [mixed cellularity classical hodgkin lymphoma] !{past or family hx or specimens} `lymph nodes of inguinal region or lower limb`
+C8126   [mixed cellularity classical hodgkin lymphoma] !{past or family hx or specimens} `intrapelvic lymph nodes` 
+C8127   [mixed cellularity classical hodgkin lymphoma] !{past or family hx or specimens} `spleen` 
+C8128*  [mixed cellularity classical hodgkin lymphoma] lymph nodes of multiple sites 
+C8129   [mixed cellularity classical hodgkin lymphoma] !{past or family hx or specimens} `solid organ` 
+C8130*  [lymphocyte depleted classical hodgkin lymphoma] 
+C8131   [lymphocyte depleted classical hodgkin lymphoma] !{past or family hx or specimens} `lymph nodes of head neck or face` 
+C8132   [lymphocyte depleted classical hodgkin lymphoma] !{past or family hx or specimens} `intrathoracic lymph nodes` 
+C8133   [lymphocyte depleted classical hodgkin lymphoma] !{past or family hx or specimens} `intra abdominal lymph nodes` 
+C8134   [lymphocyte depleted classical hodgkin lymphoma] !{past or family hx or specimens} `lymph nodes of axilla or upper limb`
+C8135   [lymphocyte depleted classical hodgkin lymphoma] !{past or family hx or specimens} `lymph nodes of inguinal region or lower limb`
+C8136   [lymphocyte depleted classical hodgkin lymphoma] !{past or family hx or specimens} `intrapelvic lymph nodes` 
+C8137   [lymphocyte depleted classical hodgkin lymphoma] !{past or family hx or specimens} `spleen` 
+C8138*  [lymphocyte depleted classical hodgkin lymphoma] !{past or family hx or specimens} `lymph nodes of multiple sites`
+C8139   [lymphocyte depleted classical hodgkin lymphoma] !{past or family hx or specimens} `solid organ` 
+C8140*  [lymphocyte rich classical hodgkin lymphoma] 
+C8141   [lymphocyte rich classical hodgkin lymphoma] !{past or family hx or specimens} `lymph nodes of head neck or face`  
+C8142   [lymphocyte rich classical hodgkin lymphoma] !{past or family hx or specimens} `intrathoracic lymph nodes` 
+C8143   [lymphocyte rich classical hodgkin lymphoma] !{past or family hx or specimens} `intra abdominal lymph nodes` 
+C8144   [lymphocyte rich classical hodgkin lymphoma] !{past or family hx or specimens} `lymph nodes of axilla or upper limb`
+C8145   [lymphocyte rich classical hodgkin lymphoma] !{past or family hx or specimens} `lymph nodes of inguinal region or lower limb`
+C8146   [lymphocyte rich classical hodgkin lymphoma] !{past or family hx or specimens} `intrapelvic lymph nodes` 
+C8147   [lymphocyte rich classical hodgkin lymphoma] !{past or family hx or specimens} `spleen` 
+C8148*  [lymphocyte rich classical hodgkin lymphoma, lymph nodes of multiple sites 
+C8149   [lymphocyte rich classical hodgkin lymphoma] !{past or family hx or specimens} `solid organ` 
+C8170*  [other classical hodgkin lymphoma] 
+C8171*  [other classical hodgkin lymphoma] !{past or family hx or specimens} `lymph nodes of head neck or face` 
+C8172*  [other classical hodgkin lymphoma] !{past or family hx or specimens} `intrathoracic lymph nodes` 
+C8173*  [other classical hodgkin lymphoma] !{past or family hx or specimens} `intra abdominal lymph nodes` 
+C8174*  [other classical hodgkin lymphoma] !{past or family hx or specimens} `lymph nodes of axilla or upper limb` 
+C8175*  [other classical hodgkin lymphoma] !{past or family hx or specimens} `lymph nodes of inguinal region or lower limb`
+C8176*  [other classical hodgkin lymphoma] !{past or family hx or specimens} `intrapelvic lymph nodes` 
+C8177*  [other classical hodgkin lymphoma] !{past or family hx or specimens} `spleen` 
+C8178*  [other classical hodgkin lymphoma, lymph nodes of multiple sites 
+C8179*  [other classical hodgkin lymphoma] !{past or family hx or specimens} `solid organ` sites 
+C8190*  CODE RESEQUENCED
+C8191   [hodgkin lymphoma] !{past or family hx or specimens} `lymph nodes of head neck or face` 
+C8192   [hodgkin lymphoma] !{past or family hx or specimens} `intrathoracic lymph nodes` 
+C8193   [hodgkin lymphoma] !{past or family hx or specimens} `intra abdominal lymph nodes` 
+C8194   [hodgkin lymphoma] !{past or family hx or specimens} `lymph nodes of axilla or upper limb` 
+C8195   [hodgkin lymphoma] !{past or family hx or specimens} `lymph nodes of inguinal region or lower limb`
+C8196   [hodgkin lymphoma] !{past or family hx or specimens} `intrapelvic lymph nodes` 
+C8197   [hodgkin lymphoma] !{past or family hx or specimens} `spleen`
+C8198*  [hodgkin lymphoma] `lymph nodes of multiple sites` 
+C8199   [hodgkin lymphoma] !{past or family hx or specimens} `solid organ` 
+C8190   [hodgkin lymphoma] !{non} !{past or family hx or specimens}
+C8201   [follicular lymphoma] {grade i} !{past or family hx or specimens} `lymph nodes of head neck or face` 
+C8202   [follicular lymphoma] {grade i} !{past or family hx or specimens} `intrathoracic lymph nodes` 
+C8203   [follicular lymphoma] {grade i} !{past or family hx or specimens} `intra abdominal lymph nodes` 
+C8204   [follicular lymphoma] {grade i} !{past or family hx or specimens} `lymph nodes of axilla or upper limb` 
+C8205   [follicular lymphoma] {grade i} !{past or family hx or specimens} `lymph nodes of inguinal region or lower limb`
+C8206   [follicular lymphoma] {grade i} !{past or family hx or specimens} `intrapelvic lymph nodes` 
+C8207   [follicular lymphoma] {grade i} !{past or family hx or specimens} `spleen` 
+C8208*  follicular lymphoma grade i, lymph nodes of multiple sites 
+C8209   [follicular lymphoma] {grade i} !{past or family hx or specimens} `solid organ` 
+C8200   [follicular lymphoma] !{grade ii} !{grade iii} !{grade iiia} !{grade iiib} !{past or family hx or specimens}
+C8210   [follicular lymphoma] {grade ii} 
+C8211   [follicular lymphoma] {grade ii} !{past or family hx or specimens} `lymph nodes of head neck or face` 
+C8212   [follicular lymphoma] {grade ii} !{past or family hx or specimens} `intrathoracic lymph nodes` 
+C8213   [follicular lymphoma] {grade ii} !{past or family hx or specimens} `intra abdominal lymph nodes` 
+C8214   [follicular lymphoma] {grade ii} !{past or family hx or specimens} `lymph nodes of axilla or upper limb` 
+C8215   [follicular lymphoma] {grade ii} !{past or family hx or specimens} `lymph nodes of inguinal region or lower limb`
+C8216   [follicular lymphoma] {grade ii} !{past or family hx or specimens} `intrapelvic lymph nodes` 
+C8217   [follicular lymphoma] {grade ii} !{past or family hx or specimens} `spleen` 
+C8218*  follicular lymphoma grade ii, lymph nodes of multiple sites 
+C8219   [follicular lymphoma] {grade ii} !{past or family hx or specimens} `solid organ` 
+C8220   [follicular lymphoma] {grade iii} 
+C8221   [follicular lymphoma] {grade iii} !{past or family hx or specimens} `lymph nodes of head neck or face` 
+C8222   [follicular lymphoma] {grade iii} !{past or family hx or specimens} `intrathoracic lymph nodes` 
+C8223   [follicular lymphoma] {grade iii} !{past or family hx or specimens} `intra abdominal lymph nodes` 
+C8224   [follicular lymphoma] {grade iii} !{past or family hx or specimens} `lymph nodes of axilla or upper limb` 
+C8225   [follicular lymphoma] {grade iii} !{past or family hx or specimens} `lymph nodes of inguinal region or lower limb`
+C8226   [follicular lymphoma] {grade iii} !{past or family hx or specimens} `intrapelvic lymph nodes` 
+C8227   [follicular lymphoma] {grade iii} !{past or family hx or specimens} `spleen` 
+C8228*  follicular lymphoma grade iii lymph nodes of multiple sites 
+C8229   [follicular lymphoma] {grade iii} !{past or family hx or specimens} `solid organ` 
+C8230   [follicular lymphoma] {grade iiia} 
+C8231   [follicular lymphoma] {grade iiia} !{past or family hx or specimens} `lymph nodes of head neck or face` 
+C8232   [follicular lymphoma] {grade iiia} !{past or family hx or specimens} `intrathoracic lymph nodes` 
+C8233   [follicular lymphoma] {grade iiia} !{past or family hx or specimens} `intra abdominal lymph nodes` 
+C8234   [follicular lymphoma] {grade iiia} !{past or family hx or specimens} `lymph nodes of axilla or upper limb` 
+C8235   [follicular lymphoma] {grade iiia} !{past or family hx or specimens} `lymph nodes of inguinal region or lower limb`
+C8236   [follicular lymphoma] {grade iiia} !{past or family hx or specimens} `intrapelvic lymph nodes` 
+C8237   [follicular lymphoma] {grade iiia} !{past or family hx or specimens} `spleen` 
+C8238*  follicular lymphoma grade iiia, lymph nodes of multiple sites 
+C8239   [follicular lymphoma] {grade iiia} !{past or family hx or specimens} `solid organ` 
+C8240   [follicular lymphoma] {grade iiib} 
+C8241   [follicular lymphoma] {grade iiib} !{past or family hx or specimens} `lymph nodes of head neck or face` 
+C8242   [follicular lymphoma] {grade iiib} !{past or family hx or specimens} `intrathoracic lymph nodes` 
+C8243   [follicular lymphoma] {grade iiib} !{past or family hx or specimens} `intra abdominal lymph nodes` 
+C8244   [follicular lymphoma] {grade iiib} !{past or family hx or specimens} `lymph nodes of axilla or upper limb` 
+C8245   [follicular lymphoma] {grade iiib} !{past or family hx or specimens} `lymph nodes of inguinal region or lower limb`
+C8246   [follicular lymphoma] {grade iiib} !{past or family hx or specimens} `intrapelvic lymph nodes` 
+C8247   [follicular lymphoma] {grade iiib} !{past or family hx or specimens} `spleen` 
+C8248*  follicular lymphoma grade iiib, lymph nodes of multiple sites 
+C8249   [follicular lymphoma] {grade iiib} !{past or family hx or specimens} `solid organ` 
+C8250   [follicle lymphoma] {diffuse} {center} !{past or family hx or specimens}
+C8251   [follicle lymphoma] {diffuse} {center} !{past or family hx or specimens} `lymph nodes of head neck or face` 
+C8252   [follicle lymphoma] {diffuse} {center} !{past or family hx or specimens} `intrathoracic lymph nodes` 
+C8253   [follicle lymphoma] {diffuse} {center} !{past or family hx or specimens} `intra abdominal lymph nodes` 
+C8254   [follicle lymphoma] {diffuse} {center} !{past or family hx or specimens} `lymph nodes of axilla or upper limb` 
+C8255   [follicle lymphoma] {diffuse} {center} !{past or family hx or specimens} `lymph nodes of inguinal region or lower limb`
+C8256   [follicle lymphoma] {diffuse} {center} !{past or family hx or specimens} `intrapelvic lymph nodes` 
+C8257   [follicle lymphoma] {diffuse} {center} !{past or family hx or specimens} `spleen` 
+C8258*  diffuse follicle center lymphoma, lymph nodes of multiple sites 
+C8259   [follicle lymphoma] {diffuse} {center} !{past or family hx or specimens} `solid organ` 
+C8260   [follicle lymphoma] {center} !{past or family hx or specimens} `cutaneous` 
+C8261   [follicle lymphoma] {center} !{past or family hx or specimens} `cutaneous` `lymph nodes of head neck or face` 
+C8262   [follicle lymphoma] {center} !{past or family hx or specimens} `cutaneous` `intrathoracic lymph nodes` 
+C8263   [follicle lymphoma] {center} !{past or family hx or specimens} `cutaneous` `intra abdominal lymph nodes` 
+C8264   [follicle lymphoma] {center} !{past or family hx or specimens} `cutaneous` `lymph nodes of axilla or upper limb` 
+C8265   [follicle lymphoma] {center} !{past or family hx or specimens} `cutaneous` `lymph nodes of inguinal region or lower limb`
+C8266   [follicle lymphoma] {center} !{past or family hx or specimens} `cutaneous` `intrapelvic lymph nodes` 
+C8267   [follicle lymphoma] {center} !{past or family hx or specimens} `cutaneous` `spleen` 
+C8268*  [cutaneous follicle center lymphoma] `lymph nodes of multiple sites`
+C8269   [follicle lymphoma] {center} !{past or family hx or specimens} `cutaneous` `solid organ` 
+C8280*  [other types of follicular lymphoma]
+C8281*  [other types of follicular lymphoma] `lymph nodes of head`
+C8282*  [other types of follicular lymphoma] `intrathoracic lymph nodes`
+C8283*  [other types of follicular lymphoma] `intra abdominal lymph nodes` 
+C8284*  [other types of follicular lymphoma] `lymph nodes of axilla` 
+C8285*  [other types of follicular lymphoma] `lymph nodes of inguinal region` 
+C8286*  [other types of follicular lymphoma] `intrapelvic lymph nodes` 
+C8287*  [other types of follicular lymphoma] `spleen` 
+C8288*  [other types of follicular lymphoma] `lymph nodes of multiple sites`
+C8289*  [other types of follicular lymphoma] `extranodal and solid organ sites` 
+C8290   [follicular lymphoma] !{past or family hx or specimens}
+C8291   [follicular lymphoma] !{past or family hx or specimens} `lymph nodes of head neck or face` 
+C8292   [follicular lymphoma] !{past or family hx or specimens} `intrathoracic lymph nodes` 
+C8293   [follicular lymphoma] !{past or family hx or specimens} `intra abdominal lymph nodes` 
+C8294   [follicular lymphoma] !{past or family hx or specimens} `lymph nodes of axilla or upper limb` 
+C8295   [follicular lymphoma] !{past or family hx or specimens} `lymph nodes of inguinal region or lower limb`
+C8296   [follicular lymphoma] !{past or family hx or specimens} `intrapelvic lymph nodes` 
+C8297   [follicular lymphoma] !{past or family hx or specimens} `spleen` 
+C8298*  follicular lymphoma lymph nodes of multiple sites 
+C8299   [follicular lymphoma] !{past or family hx or specimens} `solid organ` 
+C8300   [small cell b cell lymphoma] !{past or family hx or specimens}
+C8301   [small cell b cell lymphoma] !{past or family hx or specimens} `lymph nodes of head neck or face` 
+C8302   [small cell b cell lymphoma] !{past or family hx or specimens} `intrathoracic lymph nodes` 
+C8303   [small cell b cell lymphoma] !{past or family hx or specimens} `intra abdominal lymph nodes` 
+C8304   [small cell b cell lymphoma] !{past or family hx or specimens} `lymph nodes of axilla or upper limb` 
+C8305   [small cell b cell lymphoma] !{past or family hx or specimens} `lymph nodes of inguinal region or lower limb`
+C8306   [small cell b cell lymphoma] !{past or family hx or specimens} `intrapelvic lymph nodes` 
+C8307   [small cell b cell lymphoma] !{past or family hx or specimens} `spleen` 
+C8308*  Small cell b cell lymphoma, lymph nodes of multiple sites 
+C8309   [small cell b cell lymphoma] !{past or family hx or specimens} `solid organ` 
+C8310   [mantle cell lymphoma] !{past or family hx or specimens}
+C8311   [mantle cell lymphoma] !{past or family hx or specimens} `lymph nodes of head neck or face` 
+C8312   [mantle cell lymphoma] !{past or family hx or specimens} `intrathoracic lymph nodes` 
+C8313   [mantle cell lymphoma] !{past or family hx or specimens} `intra abdominal lymph nodes` 
+C8314   [mantle cell lymphoma] !{past or family hx or specimens} `lymph nodes of axilla or upper limb` 
+C8315   [mantle cell lymphoma] !{past or family hx or specimens} `lymph nodes of inguinal region or lower limb`
+C8316   [mantle cell lymphoma] !{past or family hx or specimens} `intrapelvic lymph nodes` 
+C8317   [mantle cell lymphoma] !{past or family hx or specimens} `spleen` 
+C8318*  mantle cell lymphoma, lymph nodes of multiple sites 
+C8319   [mantle cell lymphoma] !{past or family hx or specimens} `solid organ` 
+C8330   [diffuse large b cell lymphoma] !{past or family hx or specimens}
+C8331   [diffuse large b cell lymphoma] !{past or family hx or specimens} `lymph nodes of head neck or face` 
+C8332   [diffuse large b cell lymphoma] !{past or family hx or specimens} `intrathoracic lymph nodes` 
+C8333   [diffuse large b cell lymphoma] !{past or family hx or specimens} `intra abdominal lymph nodes` 
+C8334   [diffuse large b cell lymphoma] !{past or family hx or specimens} `lymph nodes of axilla or upper limb` 
+C8335   [diffuse large b cell lymphoma] !{past or family hx or specimens} `lymph nodes of inguinal region or lower limb`
+C8336   [diffuse large b cell lymphoma] !{past or family hx or specimens} `intrapelvic lymph nodes` 
+C8337   [diffuse large b cell lymphoma] !{past or family hx or specimens} `spleen` 
+C8338   [diffuse large b cell lymphoma] {multiple sites} `lymph nodes`
+C8339   [diffuse large b cell lymphoma] !{past or family hx or specimens} `solid organ` 
+C8350   [lymphoblastic lymphoma] !{past or family hx or specimens}
+C8351   [lymphoblastic lymphoma] !{past or family hx or specimens} `lymph nodes of head neck or face` 
+C8352   [lymphoblastic lymphoma] !{past or family hx or specimens} `intrathoracic lymph nodes` 
+C8353   [lymphoblastic lymphoma] !{past or family hx or specimens} `intra abdominal lymph nodes` 
+C8354   [lymphoblastic lymphoma] !{past or family hx or specimens} `lymph nodes of axilla or upper limb` 
+C8355   [lymphoblastic lymphoma] !{past or family hx or specimens} `lymph nodes of inguinal region or lower limb`
+C8356   [lymphoblastic lymphoma] !{past or family hx or specimens} `intrapelvic lymph nodes` 
+C8357   [lymphoblastic lymphoma] !{past or family hx or specimens} `spleen` 
+C8358*  lymphoblastic lymphoma, lymph nodes of multiple sites 
+C8359   [lymphoblastic lymphoma] !{past or family hx or specimens} `solid organ` 
+C8370   [burkitt lymphoma] !{past or family hx or specimens}
+C8371   [burkitt lymphoma] !{past or family hx or specimens} `lymph nodes of head neck or face` 
+C8372   [burkitt lymphoma] !{past or family hx or specimens} `intrathoracic lymph nodes` 
+C8373   [burkitt lymphoma] !{past or family hx or specimens} `intra abdominal lymph nodes` 
+C8374   [burkitt lymphoma] !{past or family hx or specimens} `lymph nodes of axilla or upper limb` 
+C8375   [burkitt lymphoma] !{past or family hx or specimens} `lymph nodes of inguinal region or lower limb`
+C8376   [burkitt lymphoma] !{past or family hx or specimens} `intrapelvic lymph nodes` 
+C8377   [burkitt lymphoma] !{past or family hx or specimens} `spleen` 
+C8378*  burkitt lymphoma, lymph nodes of multiple sites 
+C8379   [burkitt lymphoma] !{past or family hx or specimens} `solid organ` 
+C8380*  other non follicular lymphoma, unspecified site 
+C8381*  other non follicular lymphoma, lymph nodes of head 
+C8382*  other non follicular lymphoma, intrathoracic lymph nodes 
+C8383*  other non follicular lymphoma, intra abdominal lymph nodes 
+C8384*  other non follicular lymphoma, lymph nodes of axilla 
+C8385*  other non follicular lymphoma, lymph nodes of inguinal region 
+C8386*  other non follicular lymphoma, intrapelvic lymph nodes 
+C8387*  other non follicular lymphoma, spleen 
+C8388*  other non follicular lymphoma, lymph nodes of multiple sites 
+C8389*  other non follicular lymphoma `solid organ` 
+C8390  [non follicular lymphoma] 
+C8391  [non follicular lymphoma] !{past or family hx or specimens} `lymph nodes of head neck or face` 
+C8392  [non follicular lymphoma] !{past or family hx or specimens} `intrathoracic lymph nodes` 
+C8393  [non follicular lymphoma] !{past or family hx or specimens} `intra abdominal lymph nodes` 
+C8394  [non follicular lymphoma] !{past or family hx or specimens} `lymph nodes of axilla or upper limb` 
+C8395  [non follicular lymphoma] !{past or family hx or specimens} `lymph nodes of inguinal region or lower limb`
+C8396  [non follicular lymphoma] !{past or family hx or specimens} `intrapelvic lymph nodes` 
+C8397  [non follicular lymphoma] !{past or family hx or specimens} `spleen` 
+C8398* [non follicular lymphoma lymph nodes of multiple sites]
+C8399  [non follicular lymphoma] !{past or family hx or specimens} `solid organ` 
+C8400  [mycosis fungoides] !{past or family hx or specimens}
+C8401  [mycosis fungoides] !{past or family hx or specimens} `lymph nodes of head neck or face` 
+C8402  [mycosis fungoides] !{past or family hx or specimens} `intrathoracic lymph nodes` 
+C8403  [mycosis fungoides] !{past or family hx or specimens} `intra abdominal lymph nodes` 
+C8404  [mycosis fungoides] !{past or family hx or specimens} `lymph nodes of axilla or upper limb` 
+C8405  [mycosis fungoides] !{past or family hx or specimens} `lymph nodes of inguinal region or lower limb`
+C8406  [mycosis fungoides] !{past or family hx or specimens} `intrapelvic lymph nodes` 
+C8407  [mycosis fungoides] !{past or family hx or specimens} `spleen` 
+C8408* [mycosis fungoides lymph nodes of multiple sites]
+C8409  [mycosis fungoides] !{past or family hx or specimens} `solid organ` 
+C8410  [sezary disease] !{past or family hx or specimens}
+C8411  [sezary disease] !{past or family hx or specimens} `lymph nodes of head neck or face` 
+C8412  [sezary disease] !{past or family hx or specimens} `intrathoracic lymph nodes` 
+C8413  [sezary disease] !{past or family hx or specimens} `intra abdominal lymph nodes` 
+C8414  [sezary disease] !{past or family hx or specimens} `lymph nodes of axilla or upper limb` 
+C8415  [sezary disease] !{past or family hx or specimens} `lymph nodes of inguinal region or lower limb`
+C8416  [sezary disease] !{past or family hx or specimens} `intrapelvic lymph nodes` 
+C8417  [sezary disease] !{past or family hx or specimens} `spleen` 
+C8418*  Sezary disease, lymph nodes of multiple sites 
+C8419  [sezary disease] !{past or family hx or specimens} `solid organ` 
+C8440  [peripheral t cell lymphoma] !{past or family hx or specimens}
+C8441  [peripheral t cell lymphoma] !{past or family hx or specimens} `lymph nodes of head neck or face` 
+C8442  [peripheral t cell lymphoma] !{past or family hx or specimens} `intrathoracic lymph nodes` 
+C8443  [peripheral t cell lymphoma] !{past or family hx or specimens} `intra abdominal lymph nodes` 
+C8444  [peripheral t cell lymphoma] !{past or family hx or specimens} `lymph nodes of axilla or upper limb`
+C8445  [peripheral t cell lymphoma] !{past or family hx or specimens} `lymph nodes of inguinal region or lower limb`
+C8446  [peripheral t cell lymphoma] !{past or family hx or specimens} `intrapelvic lymph nodes` 
+C8447  [peripheral t cell lymphoma] !{past or family hx or specimens} `spleen` 
+C8448* [peripheral t cell lymphoma] lymph nodes of multiple sites 
+C8449  [peripheral t cell lymphoma] !{past or family hx or specimens} `solid organ` 
+C8460  [anaplastic large cell lymphoma] {alk positive} 
+C8461  [anaplastic large cell lymphoma] {alk positive} `lymph nodes of head neck or face` 
+C8462  [anaplastic large cell lymphoma] {alk positive} `intrathoracic lymph nodes` 
+C8463  [anaplastic large cell lymphoma] {alk positive} `intra abdominal lymph nodes` 
+C8464  [anaplastic large cell lymphoma] {alk positive} `lymph nodes of axilla or upper limb` 
+C8465  [anaplastic large cell lymphoma] {alk positive} `lymph nodes of inguinal region or lower limb`
+C8466  [anaplastic large cell lymphoma] {alk positive} `intrapelvic lymph nodes` 
+C8467  [anaplastic large cell lymphoma] {alk positive} `spleen` 
+C8468*  anaplastic large cell lymphoma, alk positive, lymph nodes of multiple sites 
+C8469  [anaplastic large cell lymphoma] {alk positive} `solid organ` 
+C8470  [anaplastic large cell lymphoma] {alk negative} 
+C8471  [anaplastic large cell lymphoma] {alk negative} `lymph nodes of head neck or face` 
+C8472  [anaplastic large cell lymphoma] {alk negative} `intrathoracic lymph nodes` 
+C8473  [anaplastic large cell lymphoma] {alk negative} `intra abdominal lymph nodes` 
+C8474  [anaplastic large cell lymphoma] {alk negative} `lymph nodes of axilla or upper limb` 
+C8475  [anaplastic large cell lymphoma] {alk negative} `lymph nodes of inguinal region or lower limb`
+C8476  [anaplastic large cell lymphoma] {alk negative} `intrapelvic lymph nodes` 
+C8477  [anaplastic large cell lymphoma] {alk negative} `spleen` 
+C8478* anaplastic large cell lymphoma, alk negative, lymph nodes of multiple sites 
+C8479  [anaplastic large cell lymphoma] {alk negative} `solid organ` 
+C84A0  [cutaneous t cell lymphoma] !{past or family hx or specimens}
+C84A1  [cutaneous t cell lymphoma] !{past or family hx or specimens} `lymph nodes of head neck or face` 
+C84A2  [cutaneous t cell lymphoma] !{past or family hx or specimens} `intrathoracic lymph nodes` 
+C84A3  [cutaneous t cell lymphoma] !{past or family hx or specimens} `intra abdominal lymph nodes` 
+C84A4  [cutaneous t cell lymphoma] !{past or family hx or specimens} `lymph nodes of axilla or upper limb` 
+C84A5  [cutaneous t cell lymphoma] !{past or family hx or specimens} `lymph nodes of inguinal region or lower limb`
+C84A6  [cutaneous t cell lymphoma] !{past or family hx or specimens} `intrapelvic lymph nodes` 
+C84A7  [cutaneous t cell lymphoma] !{past or family hx or specimens} `spleen` 
+C84A8* cutaneous t cell lymphoma lymph nodes of multiple sites 
+C84A9  [cutaneous t cell lymphoma] !{past or family hx or specimens} `solid organ` 
+C84Z0*  other mature t nk cell lymphomas, unspecified site 
+C84Z1*  other mature t nk cell lymphomas, lymph nodes of head 
+C84Z2*  other mature t nk cell lymphomas, intrathoracic lymph nodes 
+C84Z3*  other mature t nk cell lymphomas, intra abdominal lymph nodes 
+C84Z4*  other mature t nk cell lymphomas, lymph nodes of axilla 
+C84Z5*  other mature t nk cell lymphomas, lymph nodes of inguinal region 
+C84Z6*  other mature t nk cell lymphomas, intrapelvic lymph nodes 
+C84Z7*  other mature t nk cell lymphomas, spleen 
+C84Z8*  other mature t nk cell lymphomas, lymph nodes of multiple sites 
+C84Z9*  other mature t nk cell lymphomas, extranodal and solid organ sites 
+C8490  [mature t nk cell lymphoma] !{past or family hx or specimens}
+C8491  [mature t nk cell lymphoma] !{past or family hx or specimens} `lymph nodes of head neck or face` 
+C8492  [mature t nk cell lymphoma] !{past or family hx or specimens} `intrathoracic lymph nodes` 
+C8493  [mature t nk cell lymphoma] !{past or family hx or specimens} `intra abdominal lymph nodes` 
+C8494  [mature t nk cell lymphoma] !{past or family hx or specimens} `lymph nodes of axilla or upper limb` 
+C8495  [mature t nk cell lymphoma] !{past or family hx or specimens} `lymph nodes of inguinal region or lower limb`
+C8496  [mature t nk cell lymphoma] !{past or family hx or specimens} `intrapelvic lymph nodes` 
+C8497  [mature t nk cell lymphoma] !{past or family hx or specimens} `spleen` 
+C8498*  mature t nk cell lymphoma lymph nodes of multiple sites 
+C8499  [mature t nk cell lymphoma] !{past or family hx or specimens} `solid organ` 
+C8510  [b cell lymphoma] !{large} !{diffuse} !{past or family hx or specimens}
+C8511  [b cell lymphoma] !{large} !{diffuse} !{past or family hx or specimens} `lymph nodes of head neck or face` 
+C8512  [b cell lymphoma] !{large} !{diffuse} !{past or family hx or specimens} `intrathoracic lymph nodes` 
+C8513  [b cell lymphoma] !{large} !{diffuse} !{past or family hx or specimens} `intra abdominal lymph nodes` 
+C8514  [b cell lymphoma] !{large} !{diffuse} !{past or family hx or specimens} `lymph nodes of axilla or upper limb` 
+C8515  [b cell lymphoma] !{large} !{diffuse} !{past or family hx or specimens} `lymph nodes of inguinal region or lower limb`
+C8516  [b cell lymphoma] !{large} !{diffuse} !{past or family hx or specimens} `intrapelvic lymph nodes` 
+C8517  [b cell lymphoma] !{large} !{diffuse} !{past or family hx or specimens} `spleen` 
+C8518*  unspecified b cell lymphoma, lymph nodes of multiple sites 
+C8519  [b cell lymphoma] !{large} !{diffuse} !{past or family hx or specimens} `solid organ` 
+C8520  [mediastinal large b cell lymphoma] !{past or family hx or specimens}
+C8521  [mediastinal large b cell lymphoma] !{past or family hx or specimens} `lymph nodes of head neck or face` 
+C8522  [mediastinal large b cell lymphoma] !{past or family hx or specimens} `intrathoracic lymph nodes` 
+C8523  [mediastinal large b cell lymphoma] !{past or family hx or specimens} `intra abdominal lymph nodes` 
+C8524  [mediastinal large b cell lymphoma] !{past or family hx or specimens} `lymph nodes of axilla or upper limb` 
+C8525  [mediastinal large b cell lymphoma] !{past or family hx or specimens} `lymph nodes of inguinal region or lower limb`
+C8526  [mediastinal large b cell lymphoma] !{past or family hx or specimens} `intrapelvic lymph nodes` 
+C8527  [mediastinal large b cell lymphoma] !{past or family hx or specimens} `spleen` 
+C8528*  mediastinal large b cell lymphoma, lymph nodes of multiple sites 
+C8529  [mediastinal large b cell lymphoma] !{past or family hx or specimens} `solid organ` 
+C8580*  other specified types of non hodgkin lymphoma, unspecified site 
+C8581*  other specified types of non hodgkin lymphoma, lymph nodes of head 
+C8582*  other specified types of non hodgkin lymphoma, intrathoracic lymph nodes 
+C8583*  other specified types of non hodgkin lymphoma, intra abdominal lymph nodes 
+C8584*  other specified types of non hodgkin lymphoma, lymph nodes of axilla 
+C8585*  other specified types of non hodgkin lymphoma, lymph nodes of inguinal region 
+C8586*  other specified types of non hodgkin lymphoma, intrapelvic lymph nodes 
+C8587*  other specified types of non hodgkin lymphoma, spleen 
+C8588*  other specified types of non hodgkin lymphoma, lymph nodes of multiple sites 
+C8589*  other specified types of non hodgkin lymphoma, extranodal and solid organ sites 
+C8590  [non hodgkin lymphoma] & [current treatment]
+C8591  [non hodgkin lymphoma] !{past or family hx or specimens} `lymph nodes of head neck or face` 
+C8592  [non hodgkin lymphoma] !{past or family hx or specimens} `intrathoracic lymph nodes` 
+C8593  [non hodgkin lymphoma] !{past or family hx or specimens} `intra abdominal lymph nodes` 
+C8594  [non hodgkin lymphoma] !{past or family hx or specimens} `lymph nodes of axilla or upper limb` 
+C8595  [non hodgkin lymphoma] !{past or family hx or specimens} `lymph nodes of inguinal region or lower limb`
+C8596  [non hodgkin lymphoma] !{past or family hx or specimens} `intrapelvic lymph nodes` 
+C8597  [non hodgkin lymphoma] !{past or family hx or specimens} `spleen` 
+C8598*  non hodgkin lymphoma lymph nodes of multiple sites 
+C8599  [non hodgkin lymphoma] !{past or family hx or specimens} `solid organ` 
+C860   [t cell lymphoma] !{past or family hx or specimens} `nasal` 
+       [nk cell lymphoma] !{past or family hx or specimens} `nasal` 
+C861   [hepatic t cell lymphoma] !{past or family hx or specimens}
+C862   [t cell lymphoma] !{past or family hx or specimens} `enteropathy-type` 
+C863   [t cell lymphoma] {panniculitis like} !{past or family hx or specimens}`subcutaneous` 
+C864   [nk cell lymphoma] {blastic} !{past or family hx or specimens}
+C865   [t cell lymphoma] {angioimmunoblastic} !{past or family hx or specimens}
+C866   [cd30-positive t cell proliferations] {primary} !{past or family hx or specimens}`cutaneous` 
+C880   [waldenstrom macroglobulinemia] !{past or family hx or specimens}
+C882   [heavy chain disease] !{past or family hx or specimens}
+C883   [immunoproliferative small intestinal disease] !{past or family hx or specimens}
+C884   [mucosa-associated lymphoid tissue lymphoma] !{past or family hx or specimens}
+C888*   other malignant immunoproliferative diseases !{past or family hx or specimens}
+C889   [immunoproliferative disease] {malignant} !{past or family hx or specimens}
+C9000  [multiple myeloma] !{remission} !{past or family hx or specimens}
+C9001  [multiple myeloma] {remission} !{past or family hx or specimens}
+C9002  [multiple myeloma] {relapse} !{past or family hx or specimens} !{past or family hx or specimens}
+C9010  [plasma cell leukemia] !{remission} !{past or family hx or specimens}
+C9011  [plasma cell leukemia] {remission} !{past or family hx or specimens}
+C9012  [plasma cell leukemia] {relapse} !{past or family hx or specimens} !{past or family hx or specimens}
+C9020  [extramedullary plasmacytoma] !{remission} !{past or family hx or specimens}
+C9021  [extramedullary plasmacytoma] {remission} !{past or family hx or specimens} 
+C9022  [extramedullary plasmacytoma] {relapse} !{past or family hx or specimens} 
+C9030  [solitary plasmacytoma] !{remission} !{past or family hx or specimens}
+C9031  [solitary plasmacytoma] {remission} !{past or family hx or specimens} 
+C9032  [solitary plasmacytoma] {relapse} !{past or family hx or specimens} 
+C9100  [acute lymphoblastic leukemia] !{relapse} !{remission} !{past or family hx or specimens}
+       [b-cell all] !{relapse} !{remission} !{family history}
+C9101  [acute lymphoblastic leukemia] {remission} !{family history}
+       [b-cell all] {remission} !{family history}
+C9102  [acute lymphoblastic leukemia] & [relapse] !{family history}
+       [b-cell all] & [relapse]
+C9110  [lymphocytic leukemia] {chronic} {b cell} !{remission} !{past or family hx or specimens}
+C9111  [lymphocytic leukemia] {chronic} {b cell} {remission} !{past or family hx or specimens} 
+C9112  [lymphocytic leukemia] {chronic} {b cell} {relapse} !{past or family hx or specimens} 
+C9130  [prolymphocytic leukemia] {b cell} !{remission} !{past or family hx or specimens}
+C9131  [prolymphocytic leukemia] {b cell} {remission} !{past or family hx or specimens} 
+C9132  [prolymphocytic leukemia] {b cell} {relapse} !{past or family hx or specimens} 
+C9140  [hairy cell leukemia] !{remission} !{past or family hx or specimens}
+C9141  [hairy cell leukemia] {remission} !{past or family hx or specimens} 
+C9142  [hairy cell leukemia] {relapse} !{past or family hx or specimens} 
+C9150  [t cell lymphoma] {htlv 1 associated} !{remission} !{past or family hx or specimens} "adult"
+C9151  [t cell lymphoma] {htlv 1 associated} {remission} !{past or family hx or specimens} "adult" 
+C9152  [t cell lymphoma] {htlv 1 associated} {relapse} !{past or family hx or specimens} "adult" 
+C9160  [prolymphocytic leukemia] {t cell type} !{remission} !{past or family hx or specimens}
+C9161  [prolymphocytic leukemia] {t cell type} {remission} !{past or family hx or specimens} 
+C9162  [prolymphocytic leukemia] {t cell type} {relapse} !{past or family hx or specimens} 
+C91A0  [mature b cell leukemia] {burkitt type} !{remission} !{past or family hx or specimens}
+C91A1  [mature b cell leukemia] {burkitt type} {remission} !{past or family hx or specimens} 
+C91A2  [mature b cell leukemia] {burkitt type} {relapse} !{past or family hx or specimens} 
+C91Z0*  other lymphoid leukemia not having achieved !{remission} !{past or family hx or specimens}
+C91Z1*  other lymphoid leukemia, in {remission} !{past or family hx or specimens} 
+C91Z2*  other lymphoid leukemia, in {relapse} !{past or family hx or specimens} 
+C9190  [lymphoid leukemia] !{remission} !{past or family hx or specimens}
+C9191  [lymphoid leukemia] {remission} !{past or family hx or specimens} 
+C9192  [lymphoid leukemia] {relapse} !{past or family hx or specimens} 
+C9200  [acute myeloblastic leukemia] !{remission} !{past or family hx or specimens}
+C9201  [acute myeloid leukemia] {remission} !{past or family hx or specimens} 
+C9202  [acute myeloid leukemia] {acute} {relapse} !{past or family hx or specimens} 
+C9210  [myeloid leukemia] {chronic} {brc abl positive} !{remission} !{past or family hx or specimens}
+C9211  [myeloid leukemia] {chronic} {brc abl positive} {remission} !{past or family hx or specimens} 
+C9212  [myeloid leukemia] {chronic} {brc abl positive} {relapse} !{past or family hx or specimens} 
+C9220  [myeloid leukemia] {atypical} {chronic} {brc abl negative} !{remission} !{past or family hx or specimens}
+C9221  [myeloid leukemia] {atypical} {chronic} {brc abl negative} {remission} !{past or family hx or specimens} 
+C9222  [myeloid leukemia] {atypical} {chronic} {brc abl negative} {relapse} !{past or family hx or specimens} 
+C9230  [myeloid sarcoma] !{remission} !{past or family hx or specimens}
+C9231  [myeloid sarcoma] {remission} !{past or family hx or specimens} 
+C9232  [myeloid sarcoma] {relapse} !{past or family hx or specimens} 
+C9240  [promyelocytic leukemia] {acute} !{remission} !{past or family hx or specimens}
+C9241  [promyelocytic leukemia] {acute} {remission} !{past or family hx or specimens} 
+C9242  [promyelocytic leukemia] {acute} {relapse} !{past or family hx or specimens} 
+C9250  [myelomonocytic leukemia] {acute} !{remission} !{past or family hx or specimens}
+C9251  [myelomonocytic leukemia] {acute} {remission} !{past or family hx or specimens} 
+C9252  [myelomonocytic leukemia] {acute} {relapse} !{past or family hx or specimens} 
+C9260  [acute myeloid leukemia] & [11q23 abnormality] !{remission} !{past or family hx or specimens}
+C9261  [acute myeloid leukemia] & [11q23 abnormality] {remission} !{past or family hx or specimens} 
+C9262  [acute myeloid leukemia] & [11q23 abnormality] {relapse} !{past or family hx or specimens} 
+C92A0  [acute myeloid leukemia] & [myelodysplastic disease] !{remission} !{past or family hx or specimens}
+C92A1  [acute myeloid leukemia] & [myelodysplastic disease] {remission} !{past or family hx or specimens} 
+C92A2  [acute myeloid leukemia] & [myelodysplastic disease] {relapse} !{past or family hx or specimens} 
+C92Z0  [myeloid leukemia] !{acute} !{remission} !{past or family hx or specimens} 
+C92Z1  [myeloid leukemia] {remission} !{past or family hx or specimens} 
+C92Z2  [myeloid leukemia] {relapse} !{past or family hx or specimens} 
+C9290  [myeloid leukemia] !{acute} !{remission} !{past or family hx or specimens}
+C9291  [myeloid leukemia] !{acute} {remission} !{past or family hx or specimens} 
+C9292  [myeloid leukemia] !{acute} {relapse} !{past or family hx or specimens} 
+C9300  [monoblastic leukemia] {acute} !{remission} !{past or family hx or specimens}
+C9301  [monoblastic leukemia] {acute} {remission} !{past or family hx or specimens} 
+C9302  [monoblastic leukemia] {acute} {relapse} !{past or family hx or specimens} 
+C9310  [myelomonocytic leukemia] {chronic} !{remission} !{past or family hx or specimens}
+C9311  [myelomonocytic leukemia] {chronic} {remission} !{past or family hx or specimens} 
+C9312  [myelomonocytic leukemia] {chronic} {relapse} !{past or family hx or specimens} 
+C9330  [myelomonocytic leukemia] !{remission} !{past or family hx or specimens}"pediatric" 
+C9331  [myelomonocytic leukemia] {remission} !{past or family hx or specimens} "pediatric" 
+C9332  [myelomonocytic leukemia] {relapse} !{past or family hx or specimens} "pediatric" 
+C93Z0*  other monocytic leukemia remission 
+C93Z1*  other monocytic leukemia, in remission 
+C93Z2*  other monocytic leukemia, in relapse 
+C9390  [monocytic leukemia] !{remission} !{past or family hx or specimens}
+C9391  [monocytic leukemia] {remission} !{past or family hx or specimens} 
+C9392  [monocytic leukemia] {relapse} !{past or family hx or specimens} 
+C9400  [erythroid leukemia] {acute} !{remission} !{past or family hx or specimens}
+C9401  [erythroid leukemia] {acute} {remission} !{past or family hx or specimens} 
+C9402  [erythroid leukemia] {acute} {relapse} !{past or family hx or specimens} 
+C9420  [megakaryoblastic leukemia] {acute} !{remission} !{past or family hx or specimens}
+C9421  [megakaryoblastic leukemia] {acute} {remission} !{past or family hx or specimens} 
+C9422  [megakaryoblastic leukemia] {acute} {relapse} !{past or family hx or specimens} 
+C9430  [mast cell leukemia] !{remission} !{past or family hx or specimens}
+C9431  [mast cell leukemia] {remission} !{past or family hx or specimens} 
+C9432  [mast cell leukemia] {relapse} !{past or family hx or specimens} 
+C9440  [panmyelosis] {acute} & [myelofibrosis] !{remission} !{past or family hx or specimens}
+C9441  [panmyelosis] {acute} & [myelofibrosis] {remission} !{past or family hx or specimens} 
+C9442  [panmyelosis] {acute} & [myelofibrosis] {relapse} !{past or family hx or specimens} 
+C946   [myelodysplastic disease] !{past or family hx or specimens} 
+C9480*  other specified leukemias not having achieved !{remission} !{past or family hx or specimens}
+C9481*  other specified leukemias, in {remission} !{past or family hx or specimens} 
+C9482*  other specified leukemias, in {relapse} !{past or family hx or specimens} 
+C9500  [leukemia] !{other specified leukemia} {acute} !{remission} !{past or family hx or specimens}
+C9501  [leukemia] !{other specified leukemia} {acute} {remission} !{past or family hx or specimens}
+C9502  [leukemia] !{other specified leukemia} {acute} {relapse} !{past or family hx or specimens}
+C9510  [leukemia] !{other specified leukemia} {chronic} !{cell} !{remission} !{past or family hx or specimens}
+C9511  [leukemia] !{other specified leukemia} {chronic} !{cell} {remission} !{past or family hx or specimens}
+C9512  [leukemia] !{other specified leukemia} {chronic} {relapse} !{cell} !{past or family hx or specimens}
+C9590  [leukemia] !{other specified leukemia} !{acute} !{remission} !{past or family hx or specimens}
+C9591  [leukemia] !{other specified leukemia} !{acute} {remission} !{past or family hx or specimens} 
+C9592  [leukemia] !{other specified leukemia} !{acute} {relapse} !{past or family hx or specimens} 
+C960   [langerhans cell histiocytosis] {multifocal} {multisystemic} 
+C9620  [malignant] `mast cell` !{past or family hx or specimens} 
+C9621  [systemic mastocytosis] {aggressive}  !{past or family hx or specimens} 
+C9622  [mast cell] `sarcoma` !{past or family hx or specimens} 
+C9629*  other malignant mast cell neoplasm !{past or family hx or specimens} 
+C964   [sarcoma] `dendritic cells` !{past or family hx or specimens} 
+C965   [langerhans cell histiocytosis] {multifocal} {unisystemic} !{past or family hx or specimens} 
+C966   [langerhans cell histiocytosis] !{multifocal} !{unisystemic} !{past or family hx or specimens} 
+C96A   [histiocytic sarcoma] !{past or family hx or specimens} 
+C96Z   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lymphoid` 
+       [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `hematopoietic` 
+C969   [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `lymphoid` 
+       [neoplasm malignant] !{other specified neoplasm} !{past or family hx or specimens} `hematopoietic` 
+D0000  [carcinoma in situ] !{past or family hx or specimens} `oral` 
+D0001  [carcinoma in situ] !{past or family hx or specimens} `labial mucosa` 
+       [carcinoma in situ] !{past or family hx or specimens} `vermilion border` 
+D0002  [carcinoma in situ] `buccal mucosa` !{past or family hx or specimens}  
+D0003  [carcinoma in situ] `gingiva` !{past or family hx or specimens}  
+       [carcinoma in situ] `edentulous alveolar ridge`!{past or family hx or specimens}  
+D0004  [carcinoma in situ] `soft palate` !{past or family hx or specimens} 
+D0005  [carcinoma in situ] `hard palate`!{past or family hx or specimens} 
+D0006  [carcinoma in situ] `floor of mouth` !{past or family hx or specimens}  
+D0007  [carcinoma in situ] `tongue` !{past or family hx or specimens}  
+D0008* [carcinoma in situ] `pharynx` !{past or family hx or specimens}  
+D001   [carcinoma in situ] `esophagus` !{past or family hx or specimens}  
+D002   [carcinoma in situ] `stomach` !{past or family hx or specimens}  
+D010   [carcinoma in situ] `colon` !{past or family hx or specimens}  
+D011   [carcinoma in situ] `rectosigmoid junction` !{past or family hx or specimens}  
+D012   [carcinoma in situ] `rectum` !{past or family hx or specimens}  
+D013   [carcinoma in situ] `anus or anal canal` !{past or family hx or specimens}  
+D0140  [carcinoma in situ] `intestine` !{past or family hx or specimens}  
+D0149* [carcinoma] of other parts of intestine {in situ} !{past or family hx or specimens}  
+D015   [carcinoma in situ] `liver` !{past or family hx or specimens}  
+       [carcinoma in situ] `gallbladder` !{past or family hx or specimens}  
+       [carcinoma in situ] `bile duct` !{past or family hx or specimens}  
+D017*  [carcinoma] of other specified digestive organs {in situ} !{past or family hx or specimens}  
+D019   [carcinoma in situ] `digestive organ` !{past or family hx or specimens}  
+D020   [carcinoma in situ] `larynx` !{past or family hx or specimens}  
+D021   [carcinoma in situ] `trachea` !{past or family hx or specimens}  
+D0220  [carcinoma in situ] !{left} !{right} `lung` !{past or family hx or specimens}  
+D0221  [carcinoma in situ] {right} `lung` !{past or family hx or specimens}  
+D0222  [carcinoma in situ] {left} `lung` !{past or family hx or specimens}  
+D023   [carcinoma in situ] `respiratory system` !{past or family hx or specimens}  
+D024   [carcinoma in situ] `respiratory system` !{past or family hx or specimens}  
+D030   [melanoma] {in situ} `lip` !{past or family hx or specimens}  
+D0310  [melanoma] {in situ} !{left} !{right} !{upper} !{lower} `canthus or eyelid` !{past or family hx or specimens}  
+D03111 [melanoma] {in situ} {right} `eyelid` !{past or family hx or specimens} {upper} 
+D03112 [melanoma] {in situ} {right} `eyelid` !{past or family hx or specimens} {upper} 
+D03121 [melanoma] {in situ} {left} `eyelid` !{past or family hx or specimens} {upper} 
+D03122 [melanoma] {in situ} {left} `eyelid` !{past or family hx or specimens} {lower} 
+D0320  [melanoma] {in situ} !{left} !{right} `ear` !{past or family hx or specimens}  
+D0321  [melanoma] {in situ} {right} `ear` !{past or family hx or specimens}  
+D0322  [melanoma] {in situ} {left} `ear` !{past or family hx or specimens}  
+D0330  [melanoma] {in situ} `face` !{past or family hx or specimens}  
+D0339* melanoma of other parts of face {in situ} !{past or family hx or specimens}  
+D034   [melanoma] {in situ} `scalp`!{past or family hx or specimens}  
+       [melanoma] {in situ} `neck` !{past or family hx or specimens}  
+D0351  [melanoma] {in situ} `anal skin` !{past or family hx or specimens}  
+D0352  [melanoma] {in situ} `breast` !{past or family hx or specimens}  
+D0359  [melanoma] {in situ} `trunk` !{past or family hx or specimens}  
+D0360  [melanoma] {in situ} !{left} !{right} `upper limb` !{past or family hx or specimens}  
+D0361  [melanoma] {in situ} {right} `upper limb` !{past or family hx or specimens}  
+D0362  [melanoma] {in situ} {left} `upper limb` !{past or family hx or specimens}  
+D0370  [melanoma] {in situ} !{left} !{right} `lower limb` !{past or family hx or specimens}  
+D0371  [melanoma] {in situ} {right} `lower limb` !{past or family hx or specimens}  
+D0372  [melanoma] {in situ} {left} `lower limb` !{past or family hx or specimens}  
+D038*  melanoma of other sites {in situ} !{past or family hx or specimens}  
+D039   [melanoma] {in situ} & [unspecified] !{past or family hx or specimens}  
+D040   [carcinoma in situ] `skin of lip` !{past or family hx or specimens}  
+D0410  [carcinoma in situ] !{left} !{right} `canthus or eyelid` !{past or family hx or specimens}  
+D04111 [carcinoma in situ] `canthus or eyelid` !{past or family hx or specimens} {upper} 
+D04112 [carcinoma in situ] `canthus or eyelid` !{past or family hx or specimens} {lower} 
+D04121*carcinoma in situ of skin of left upper eyelid, including canthus 
+D04122*carcinoma in situ of skin of left lower eyelid, including canthus 
+D0420  [carcinoma in situ] !{left} !{right} `skin of ear` !{past or family hx or specimens}  
+D0421  [carcinoma in situ] `skin of ear` {right} !{past or family hx or specimens}  
+D0422  [carcinoma in situ] `skin of ear` {left} !{past or family hx or specimens}  
+D0430  [carcinoma in situ] `skin face` !{past or family hx or specimens}  
+D0439  [carcinoma in situ] `skin of face` !{past or family hx or specimens}  
+D044   [carcinoma in situ] `skin of scalp or neck` !{past or family hx or specimens}  
+D045   [carcinoma in situ] `skin of trunk` !{past or family hx or specimens}  
+D0460  [carcinoma in situ] !{left} !{right} `skin of upper limb` !{past or family hx or specimens}  
+D0461  [carcinoma in situ] `skin of upper limb` {right}!{past or family hx or specimens}  
+D0462  [carcinoma in situ] `skin of upper limb` {left}!{past or family hx or specimens}  
+D0470  [carcinoma in situ] !{left} !{right} `skin of lower limb` !{past or family hx or specimens}
+D0471  [carcinoma in situ] `skin of lower limb` {right}!{past or family hx or specimens}  
+D0472  [carcinoma in situ] `skin of lower limb` {left}!{past or family hx or specimens}  
+D048*  [carcinoma] of skin of other sites {in situ} !{past or family hx or specimens}  
+D049   [carcinoma in situ] `skin` !{past or family hx or specimens}  
+D0500  [carcinoma in situ] !{left} !{right} `lobes` `breast` !{past or family hx or specimens}  
+D0501  [carcinoma in situ] `lobes` {right} `breast` !{past or family hx or specimens}  
+D0502  [carcinoma in situ] `lobes` {left} `breast` !{past or family hx or specimens}  
+D0510  [carcinoma in situ] !{left} !{right} `intraductal` `breast` !{past or family hx or specimens}  
+D0511  [carcinoma in situ] `intraductal` {right} `breast` !{past or family hx or specimens} 
+D0512  [carcinoma in situ] `intraductal` {left} `breast` !{past or family hx or specimens}
+D0580* other specified type of carcinoma of `breast` !{past or family hx or specimens}  
+D0581* other specified type of carcinoma of {right} `breast` !{past or family hx or specimens}  
+D0582* other specified type of carcinoma of {left} `breast` !{past or family hx or specimens}  
+D0590  [carcinoma in situ] !{left} !{right} `breast` !{past or family hx or specimens}  
+D0591  [carcinoma in situ] {right} `breast` !{past or family hx or specimens}  
+D0592  [carcinoma in situ] {left} `breast` !{past or family hx or specimens}  
+D060   [carcinoma in situ] `endocervix` !{past or family hx or specimens}  
+D061   [carcinoma in situ] `exocervix` !{past or family hx or specimens}  
+D067   [carcinoma in situ] `cervix` !{past or family hx or specimens}  
+D069   [malignant] {in situ} `cervix` !{past or family hx or specimens}  
+D070   [carcinoma in situ] `endometrium` !{past or family hx or specimens}  
+D071   [carcinoma in situ] `vulva` !{past or family hx or specimens}  
+D072   [carcinoma in situ] `vagina` !{past or family hx or specimens}  
+D0730  [carcinoma in situ] "female" `genital organ` !{past or family hx or specimens}  
+D0739  [carcinoma in situ] "female" `genital organ` !{past or family hx or specimens}  
+D074   [carcinoma in situ] `penis` !{past or family hx or specimens}  
+D075   [carcinoma in situ] `prostate` !{past or family hx or specimens}  
+D0760  [carcinoma in situ] "male" `genital organ` !{past or family hx or specimens}  
+D0761  [carcinoma in situ] `scrotum` !{past or family hx or specimens}  
+D0769* [carcinoma] of other "male" `genital organ` !{past or family hx or specimens}  
+D090   [carcinoma in situ] `bladder` !{past or family hx or specimens}  
+D0910  [carcinoma in situ] `urinary organ` !{past or family hx or specimens}  
+D0919* [carcinoma] of other `urinary organs` !{past or family hx or specimens}  
+D0920  [carcinoma in situ] !{left} !{right} `eye` !{past or family hx or specimens}  
+D0921  [carcinoma in situ] {right} `eye` !{past or family hx or specimens}  
+D0922  [carcinoma in situ] {left} `eye` !{past or family hx or specimens}  
+D093   [carcinoma in situ] `thyroid` !{past or family hx or specimens}  
+       [carcinoma in situ] `endocrine glands` !{past or family hx or specimens}  
+D098*  carcinoma of other specified sites {in situ} !{past or family hx or specimens}  
+D099*  [carcinoma in situ] !{past or family hx or specimens}  
+D100   [neoplasm benign] {benign} `lip` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D101   [neoplasm benign] {benign} `tongue` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D102   [neoplasm benign] {benign} `floor of mouth` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D1030  [neoplasm benign] {benign} `mouth` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D1039* [neoplasm benign] {benign} of other parts of mouth & ![neoplasm of uncertain behavior] 
+D104   [neoplasm benign] {benign} `tonsil` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D105   [neoplasm benign] {benign} `oropharynx` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D106   [neoplasm benign] {benign} `nasopharynx` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D107   [neoplasm benign] {benign} `hypopharynx` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D109   [neoplasm benign] {benign} `pharynx` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D110   [neoplasm benign] {benign} `parotid gland` !{past or family hx or specimens} & ![neoplasm of uncertain behavior]
+D117*  [neoplasm benign] {benign} of other `major salivary gland` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D119   [neoplasm benign] {benign} `major salivary gland` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D120   [neoplasm benign] `cecum` !{malignant} !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D121   [neoplasm benign] {benign} `appendix` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D122   [neoplasm benign] `ascending colon` !{malignant} !{past or family hx or specimens} & ![neoplasm of uncertain behavior]  
+D123   [neoplasm benign] {benign} `transverse colon` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] & ![hyperplastic]
+D124   [neoplasm benign] {benign} `descending colon` !{past or family hx or specimens} & ![neoplasm of uncertain behavior]
+D125   [neoplasm benign] {benign} `sigmoid` !{past or family hx or specimens}
+D126   [neoplasm benign] {benign} `colon` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D127   [neoplasm benign] {benign} `rectosigmoid junction` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D128   [neoplasm benign] {benign} `rectum`
+D129*  [neoplasm benign] {benign} `anus and anal canal` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D130   [neoplasm benign] {benign} `esophagus` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D131   [neoplasm benign] {benign} `stomach` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D132   [neoplasm benign] {benign} `duodenum` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D1330  [neoplasm benign] {benign} `small intestine` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D1339* [neoplasm benign] {benign} of other parts of small intestine & ![neoplasm of uncertain behavior] 
+D134   [neoplasm benign] {benign} `liver` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D135   [neoplasm benign] {benign} `extrahepatic bile duct` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D136   [neoplasm benign] {benign} `pancreas` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D137   [neoplasm benign] {benign} `endocrine pancreas` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D139   [neoplasm benign] {benign} `digestive system` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D140   [neoplasm benign] {benign} `middle ear, nasal cavity and accessory sinuses` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D141   [neoplasm benign] {benign} `larynx` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D142   [neoplasm benign] {benign} `trachea` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D1430  [neoplasm benign] {benign} !{left} !{right} `bronchus and lung` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D1431  [neoplasm benign] {benign} {right} `bronchus and lung` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D1432  [neoplasm benign] {benign} {left} `bronchus and lung` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D144   [neoplasm benign] {benign} `respiratory system` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D150   [neoplasm benign] {benign} `thymus` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D151   [neoplasm benign] {benign} `heart` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D152   [neoplasm benign] {benign} `mediastinum` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D157*  [neoplasm benign] {benign} of other specified `intrathoracic organs` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D159   [neoplasm benign] {benign} `intrathoracic organ` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D1600  [neoplasm benign] {benign} !{left} !{right} `scapula and long bones of upper limb` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D1601  [neoplasm benign] {benign} `scapula and long bones of upper limb` {right}!{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D1602  [neoplasm benign] {benign} `scapula and long bones of upper limb` {left}!{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D1610  [neoplasm benign] {benign} !{left} !{right} `metacarpal bone` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D1611  [neoplasm benign] {benign} `metacarpal bone` {right}!{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D1612  [neoplasm benign] {benign} `metacarpal bone` {left}!{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D1620  [neoplasm benign] {benign} !{left} !{right} `long bones of lower limb` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D1621  [neoplasm benign] {benign} `long bones of lower limb` {right}!{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D1622  [neoplasm benign] {benign} `long bones of lower limb` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D1630  [neoplasm benign] {benign} !{left} !{right} `short bones of lower limb` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D1631  [neoplasm benign] {benign} `short bones of lower limb` {right} !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D1632  [neoplasm benign] {benign} `short bones of lower limb` {left} !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D164   [neoplasm benign] {benign} `bones of skull and face` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D165   [neoplasm benign] {benign} `lower jaw bone` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D166   [neoplasm benign] {benign} `vertebral column` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D167   [neoplasm benign] {benign} `ribs, sternum and clavicle` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D168   [neoplasm benign] {benign} `pelvic bones, sacrum and coccyx` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D169   [neoplasm benign] {benign} `bone and articular cartilage` !{past or family hx or specimens} & ![neoplasm of uncertain behavior] 
+D170   [neoplasm benign] {benign} `skin` `head` !{past or family hx or specimens}
+D171   [neoplasm benign] {benign} {lipomatous} `skin and subcutaneous tissue of trunk` 
+D1720  [neoplasm benign] {benign} {lipomatous} !{left} !{right} `skin and subcutaneous tissue of limb` 
+D1721  [neoplasm benign] {benign} {lipoma} {right} `arm`
+D1722  [neoplasm benign] {benign} {lipomatous} {left} `arm` 
+D1723  [neoplasm benign] {benign} {lipomatous} `skin and subcutaneous tissue of right leg` 
+D1724  [neoplasm benign] {benign} {lipomatous} `skin and subcutaneous tissue of left leg` 
+D1730  [neoplasm benign] {benign} {lipomatous} `skin and subcutaneous tissue` 
+D1739* [neoplasm benign] {benign} {lipomatous} `skin and subcutaneous tissue of other sites` 
+D174   [neoplasm benign] {benign} {lipomatous} `intrathoracic organ` 
+D175   [neoplasm benign] {benign} {lipomatous} `intra abdominal organ` 
+D176   [neoplasm benign] {benign} {lipomatous} `spermatic cord` 
+D1771  [neoplasm benign] {benign} {lipomatous} `kidney` 
+D1772  [neoplasm benign] {benign} {lipomatous} `genitourinary organ` 
+D1779  [neoplasm benign] {benign} {lipomatous} `peritoneum`
+       [neoplasm benign] {benign} {lipomatous} `retroperitoneum`
+D179*   [neoplasm benign] {benign} {lipomatous} 
+D1800  [hemangioma] !`skin and subcutaneous tissue` !`intracranial structures` !`intra abdominal structures` 
+D1801  [hemangioma] `skin and subcutaneous tissue` 
+D1802  [hemangioma] `intracranial structures` 
+D1803  [hemangioma] `intra abdominal structures` 
+D1809* [hemangioma] `of other sites`
+D181   [lymphangioma] 
+D190   [neoplasm benign] {benign} `mesothelial tissue of pleura` 
+D191   [neoplasm benign] {benign} `mesothelial tissue of peritoneum` 
+D197*  [neoplasm benign] {benign} `mesothelial tissue` of other sites 
+D199   [neoplasm benign] {benign} `mesothelial tissue` 
+D200   [neoplasm benign] {benign} `soft tissue of retroperitoneum` 
+D201   [neoplasm benign] {benign} `soft tissue of peritoneum` 
+D210   [neoplasm benign] {benign} `soft tissue of head` 
+D210   [neoplasm benign] {benign} `connective tissue of head or face or neck` 
+D2110  [neoplasm benign] {benign} !{left} !{right} `connective tissue of upper limb` 
+D2111  [neoplasm benign] {benign} `connective tissue of upper limb` {right}
+D2112  [neoplasm benign] {benign} `connective tissue of upper limb` {left}
+D2120  [neoplasm benign] {benign} !{left} !{right} `connective tissue of lower limb`
+D2121  [neoplasm benign] {benign} `soft tissue of lower limb` {right}
+D2122  [neoplasm benign] {benign} `soft tissue of lower limb` {left}
+D213   [neoplasm benign] {benign} `connective tissue of thorax` 
+D214   [neoplasm benign] {benign} `soft tissue of abdomen` 
+D214   [neoplasm benign] {benign} `connective tissue of abdomen` 
+D215   [neoplasm benign] {benign} `soft tissue of pelvis` 
+D215   [neoplasm benign] {benign} `connective tissue of pelvis` 
+D216   [neoplasm benign] {benign} `soft tissue of trunk` 
+D216   [neoplasm benign] {benign} `connective tissue of trunk` 
+D219   [neoplasm benign] {benign} `soft tissue` 
+D219   [neoplasm benign] {benign} `connective tissue` 
+D220   [melanocytic nevi] `lip` 
+D2210  [melanocytic nevi] !{left} !{right} `eyelid` 
+       [melanocytic canthus] !{left} !{right}
+D22111 [melanocytic nevi] {right} `canthus or eyelid` {upper} 
+D22112 [melanocytic nevi] {right} `canthus or eyelid` {lower} 
+D22121 [melanocytic nevi] {left} `canthus or eyelid` {upper} 
+D22122 [melanocytic nevi] {left} `canthus or eyelid` {lower} 
+D2220  [melanocytic nevi] !{left} !{right} `ear` 
+D2221  [melanocytic nevi] {right} `ear` 
+D2222  [melanocytic nevi] {left} `ear` 
+D2230  [melanocytic nevi] `face` 
+D2239* [melanocytic nevi of other parts of face] 
+D224   [melanocytic nevi] `skin of scalp or neck`
+D225   [melanocytic nevi] `trunk` 
+D2260  [melanocytic nevi] !{left} !{right} `upper limb` 
+D2261  [melanocytic nevi] {right} `upper limb`
+D2262  [melanocytic nevi] {left} `upper limb` 
+D2270  [melanocytic nevi] !{left} !{right} `lower limb` 
+D2271  [melanocytic nevi] {right} `lower limb` 
+D2272  [melanocytic nevi] {left} `lower limb` 
+D229   [melanocytic nevi] 
+D230   [neoplasm benign] {benign} `skin of lip` 
+D2310  [neoplasm benign] {benign}  !{left} !{right} `canthus or eyelid`
+D23111 [neoplasm benign] {benign} `canthus or eyelid` {upper} 
+D23112 [neoplasm benign] {benign} {right} `canthus or eyelid` {lower}
+D23121 [neoplasm benign] {benign} {left} `canthus or eyelid` {upper} 
+D23122 [neoplasm benign] {benign} {left} `canthus or eyelid` {lower} 
+D2320  [neoplasm benign] {benign} !{left} !{right} `skin of ear` 
+D2321  [neoplasm benign] {benign} `skin of ear` {right}
+D2322  [neoplasm benign] {benign} `skin of ear` {left} 
+D2330* [neoplasm benign] {benign} `skin of face` 
+D2339  [neoplasm benign] {benign} `skin of face` 
+D234   [neoplasm benign] {benign} `skin of scalp or neck`
+D235   [neoplasm benign] {benign} `skin of trunk` 
+D2360  [neoplasm benign] {benign} !{left} !{right} `skin of upper limb` 
+D2361  [neoplasm benign] {benign} `skin of upper limb` {right}
+D2362  [neoplasm benign] {benign} `skin of upper limb` {left}
+D2370  [neoplasm benign] {benign} !{left} !{right} `skin of lower limb` 
+D2371  [neoplasm benign] {benign} `skin of lower limb` {right}
+D2372  [neoplasm benign] {benign} `skin of lower limb` {left}
+D239*  [neoplasm benign] {benign} `skin` 
+D241   [benign neoplasm] {fibroids} {right} `breast` !{calcifications}
+D242   [benign neoplasm] {fibroids} {left} `breast` !{calcifications}
+D249   [neoplasm benign] {benign} `breast` !{tissue} !{right} !{left} !{calcifications} !{cystic}
+D250   [leiomyoma] & [submucosal] `uterus` 
+D251   [leiomyoma] & [intramural] `uterus` 
+D252   [leiomyoma] & [subserosal] `uterus` 
+D259   [leiomyoma] !{submucosal} !{intramural} !{subserosal} `uterus`
+D260   [neoplasm benign] {benign} `cervix` 
+D261   [neoplasm benign] {benign} `corpus uteri` 
+D267   [neoplasm benign] {benign} `uterus` 
+D269   [neoplasm benign] {benign} `uterus` 
+D270   [neoplasm benign] {benign} {right} `ovary` 
+D271   [neoplasm benign] {benign} {left} `ovary` !{past or family hx or specimens} & ![malignant] 
+D279   [neoplasm benign] {benign} !{left} !{right} `ovary` 
+D280   [neoplasm benign] {benign} `vulva` 
+D281   [neoplasm benign] {benign} `vagina` 
+D282   [neoplasm benign] {benign} `uterine tubes`
+D287*  [neoplasm benign] {benign} of other specified "female" `genital organ` 
+D289   [neoplasm benign] {benign} `genital organ` "female" 
+D290   [neoplasm benign] {benign} `penis` 
+D291   [neoplasm benign] {benign} `prostate` 
+D2920  [neoplasm benign] {benign} !{left} !{right} `testis` 
+D2921  [neoplasm benign] {benign} {right} `testis` 
+D2922  [neoplasm benign] {benign} {left} `testis` 
+D2930  [neoplasm benign] {benign} !{left} !{right} `epididymis` 
+D2931  [neoplasm benign] {benign} {right} `epididymis` 
+D2932  [neoplasm benign] {benign} {left} `epididymis` 
+D294   [neoplasm benign] {benign} `scrotum` 
+D298*  [benign neoplasm of other specified male genital organs]
+D299   [neoplasm benign] {benign} `genital organ` "male" 
+D3000  [neoplasm benign] {benign} `kidney` 
+D3001  [neoplasm benign] {benign} {right} `kidney` 
+D3002  [neoplasm benign] {benign} {left} `kidney` 
+D3010  [neoplasm benign] {benign} !{left} !{right} `renal pelvis` 
+D3011  [neoplasm benign] {benign} {right} `renal pelvis` 
+D3012  [neoplasm benign] {benign} {left} `renal pelvis` 
+D3020  [neoplasm benign] {benign} !{left} !{right} `ureter` 
+D3021  [neoplasm benign] {benign} {right} `ureter` 
+D3022  [neoplasm benign] {benign} {left} `ureter` 
+D303   [neoplasm benign] {benign} `bladder` 
+D304   [neoplasm benign] {benign} `urethra` 
+D308*  [benign neoplasm of other specified urinary organs]
+D309   [neoplasm benign] {benign} `urinary organ` 
+D3100  [neoplasm benign] {benign} !{left} !{right} `conjunctiva` 
+D3101  [neoplasm benign] {benign} {right} `conjunctiva` 
+D3102  [neoplasm benign] {benign} {left} `conjunctiva` 
+D3110  [neoplasm benign] {benign} !{left} !{right} `cornea` 
+D3111  [neoplasm benign] {benign} {right} `cornea` 
+D3112  [neoplasm benign] {benign} {left} `cornea` 
+D3120  [neoplasm benign] {benign} !{left} !{right} `retina` 
+D3121  [neoplasm benign] {benign} {right} `retina` 
+D3122  [neoplasm benign] {benign} {left} `retina` 
+D3130  [neoplasm benign] {benign} !{left} !{right} `choroid` 
+D3131  [neoplasm benign] {benign} {right} `choroid` 
+D3132  [neoplasm benign] {benign} {left} `choroid` 
+D3140  [neoplasm benign] {benign} !{left} !{right} `ciliary body` 
+D3141  [neoplasm benign] {benign} {right} `ciliary body` 
+D3142  [neoplasm benign] {benign} {left} `ciliary body` 
+D3150  [neoplasm benign] {benign} !{left} !{right} `lacrimal gland` 
+D3151  [neoplasm benign] {benign} {right} `lacrimal gland` 
+D3152  [neoplasm benign] {benign} {left} `lacrimal gland` 
+D3160  [neoplasm benign] {benign} !{left} !{right} `orbit` 
+D3161  [neoplasm benign] {benign} {right} `orbit` 
+D3162  [neoplasm benign] {benign} {left} `orbit` 
+D3190  [neoplasm benign] {benign}  !{left} !{right} `eye` 
+D3191  [neoplasm benign] {benign} {right} `eye` 
+D3192  [neoplasm benign] {benign} {left} `eye` 
+D320   [neoplasm benign] {benign}  `cerebral meninges` 
+       [meningioma] `brain` 
+D321   [neoplasm benign] {benign} `spinal meninges` 
+D329   [neoplasm benign] {benign} `meninges` !{spine} !{cerebral} 
+D330   [neoplasm benign] {benign} `supratentorial brain` 
+D331   [neoplasm benign] {benign} `infratentorial brain` 
+D332   [neoplasm benign] {benign} `brain` 
+D333   [neoplasm benign] {benign} `cranial nerve` 
+D334   [neoplasm benign] {benign} `spinal cord` 
+D337*  [benign neoplasm of other specified parts of central nervous system]
+D339   [neoplasm benign] {benign} `central nervous system` 
+D34    [neoplasm benign] {benign} `thyroid gland` 
+D3500  [neoplasm benign] {benign} !{left} !{right} `adrenal gland` 
+D3501  [neoplasm benign] {benign} {right} `adrenal gland` 
+D3502  [neoplasm benign] {benign} {left} `adrenal gland` 
+D351   [neoplasm benign] {benign} `parathyroid gland` 
+D352   [neoplasm benign] {benign} `pituitary gland` 
+D353   [neoplasm benign] {benign} `craniopharyngeal duct` 
+D354   [neoplasm benign] {benign} `pineal gland` 
+D355   [neoplasm benign] {benign} `carotid body` 
+D356   [neoplasm benign] {benign} `aortic body` 
+       [neoplasm benign] {benign} `paraganglia` 
+D357*  [benign neoplasm of other specified endocrine glands]
+D359   [neoplasm benign] {benign} `endocrine gland` 
+D360   [neoplasm benign] {benign} `lymph nodes` 
+D3610  [neoplasm benign] {benign} `nervous system`
+D3611  [neoplasm benign] {benign} `nerves of face head or neck`
+D3612  [neoplasm benign] {benign} `nerves of upper limb`
+D3613  [neoplasm benign] {benign} `nerves of lower limb`
+       [neoplasm benign] {benign} {peripheral} `lower limb`
+D3614  [neoplasm benign] {benign} `peripheral nerves of thorax` 
+       [neoplasm benign] {benign} `autonomic nervous system of thorax` 
+D3615  [neoplasm benign] {benign} `peripheral nerves of abdomen` 
+       [neoplasm benign] {benign} `autonomic nervous system of abdomen` 
+D3616  [neoplasm benign] {benign} `peripheral nerves of pelvis` 
+       [neoplasm benign] {benign} `autonomic nervous system of pelvis` 
+D3617  [neoplasm benign] {benign} `peripheral nerves of trunk` 
+       [neoplasm benign] {benign} `autonomic nervous system of trunk` 
+D367*  benign neoplasm of other specified sites 
+D369*  [neoplasm malignant] {benign} 
+D3A00  [carcinoid tumor] {benign} 
+D3A010 [carcinoid tumor] {benign} `duodenum` 
+D3A011 [carcinoid tumor] {benign} `jejunum` 
+D3A012 [carcinoid tumor] {benign} `ileum` 
+D3A019 [carcinoid tumor] {benign} `small intestine` 
+D3A020 [carcinoid tumor] {benign} `appendix` 
+D3A021 [carcinoid tumor] {benign} `cecum` 
+D3A022 [carcinoid tumor] {benign} `ascending colon` 
+D3A023 [carcinoid tumor] {benign} `transverse colon` 
+D3A024 [carcinoid tumor] {benign} `descending colon` 
+D3A025 [carcinoid tumor] {benign} `sigmoid colon` 
+D3A026 [carcinoid tumor] {benign} `rectum` 
+D3A029 [carcinoid tumor] {benign} `large intestine` 
+D3A090 [carcinoid tumor] {benign} `lung` 
+D3A091 [carcinoid tumor] {benign} `thymus` 
+D3A092 [carcinoid tumor] {benign} `stomach` 
+D3A093 [carcinoid tumor] {benign} `kidney` 
+D3A094 [carcinoid tumor] {benign} `foregut` 
+D3A095 [carcinoid tumor] {benign} `midgut` 
+D3A096 [carcinoid tumor] {benign} `hindgut` 
+D3A098*[carcinoid tumor] {benign}s of other sites 
+D3A8*  other {benign} `neuroendocrine tumor` 
+D3701  [neoplasm of uncertain behavior] `lip` 
+D3702  [neoplasm of uncertain behavior] `tongue` 
+D37030 [neoplasm of uncertain behavior] `parotid gland` 
+D37031 [neoplasm of uncertain behavior] `sublingual salivary glands` 
+D37032 [neoplasm of uncertain behavior] `submandibular salivary glands` 
+D37039 [neoplasm of uncertain behavior] `major salivary gland` 
+D3704  [neoplasm of uncertain behavior] `minor salivary glands` 
+D3705  [neoplasm of uncertain behavior] `pharynx` 
+D3709  [neoplasm of uncertain behavior] `oral cavity` 
+D371   [neoplasm of uncertain behavior] `stomach` 
+D372   [neoplasm of uncertain behavior] `small intestine` 
+D373   [neoplasm of uncertain behavior] `appendix` 
+D374   [neoplasm of uncertain behavior] `colon` 
+D375   [neoplasm of uncertain behavior] `rectum` 
+D376   [neoplasm of uncertain behavior] `liver` 
+       [neoplasm of uncertain behavior] `gallbladder` 
+       [neoplasm of uncertain behavior] `bile duct` 
+D378*  [neoplasm of uncertain behavior of other specified digestive organs]
+D379   [neoplasm of uncertain behavior] `digestive organ` 
+D380   [neoplasm of uncertain behavior] `larynx` 
+D381*  [neoplasm of uncertain behavior] `trachea` 
+D382   [neoplasm of uncertain behavior] `pleura` 
+D383   [neoplasm of uncertain behavior] `mediastinum` 
+D384   [neoplasm of uncertain behavior] `thymus` 
+D385   [neoplasm of uncertain behavior]  `other respiratory organs`
+D386   [neoplasm of uncertain behavior] `respiratory organ` 
+D390   [neoplasm of uncertain behavior] `uterus` 
+D3910  [neoplasm of uncertain behavior] `ovary` 
+D3911  [neoplasm of uncertain behavior] {right} `ovary` 
+D3912  [neoplasm of uncertain behavior] {left} `ovary` 
+D392   [neoplasm of uncertain behavior] `placenta` 
+D398*  [neoplasm of uncertain behavior] of other specified "female" `genital organ]
+D399   [neoplasm of uncertain behavior] "female" `genital organ` 
+D400   [neoplasm of uncertain behavior] `prostate` 
+D4010  [neoplasm of uncertain behavior] !{left} !{right} `testis` 
+D4011  [neoplasm of uncertain behavior] {right} `testis` 
+D4012  [neoplasm of uncertain behavior] {left} `testis` 
+D408*  [neoplasm of uncertain behavior of other specified male genital organs]
+D409   [neoplasm of uncertain behavior] "male" `genital organ` 
+D4100  [neoplasm of uncertain behavior] !{left} !{right} `kidney` 
+D4101  [neoplasm of uncertain behavior] {right} `kidney` 
+D4102  [neoplasm of uncertain behavior] {left} `kidney` 
+D4110  [neoplasm of uncertain behavior] !{left} !{right} `renal pelvis` 
+D4111  [neoplasm of uncertain behavior] {right} `renal pelvis` 
+D4112  [neoplasm of uncertain behavior] {left} `renal pelvis` 
+D4120  [neoplasm of uncertain behavior] !{left} !{right} `ureter` 
+D4121  [neoplasm of uncertain behavior] {right} `ureter` 
+D4122  [neoplasm of uncertain behavior] {left} `ureter` 
+D413   [neoplasm of uncertain behavior] `urethra` 
+D414   [neoplasm of uncertain behavior] `bladder` 
+D418*  [neoplasm of uncertain behavior of other specified urinary organs]
+D419   [neoplasm of uncertain behavior] `urinary organ` 
+D420   [neoplasm of uncertain behavior] `cerebral meninges` 
+D421   [neoplasm of uncertain behavior] `spinal meninges` 
+D429   [neoplasm of uncertain behavior] `meninges` 
+D430   [neoplasm of uncertain behavior] `supratentorial brain` 
+D431   [neoplasm of uncertain behavior] `infratentorial brain` 
+D432   [neoplasm of uncertain behavior] `brain` 
+D433   [neoplasm of uncertain behavior] `cranial nerve` 
+D434   [neoplasm of uncertain behavior] `spinal cord` 
+D438*  [neoplasm of uncertain behavior of other specified parts of central nervous system]
+D439   [neoplasm of uncertain behavior] `central nervous system` 
+D440   [neoplasm of uncertain behavior] `thyroid gland` 
+D4410  [neoplasm of uncertain behavior] `adrenal gland` 
+D4411  [neoplasm of uncertain behavior] {right} `adrenal gland` 
+D4412  [neoplasm of uncertain behavior] {left} `adrenal gland` 
+D442   [neoplasm of uncertain behavior] `parathyroid gland` 
+D443   [neoplasm of uncertain behavior] `pituitary gland` 
+D444   [neoplasm of uncertain behavior] `craniopharyngeal duct`
+       [craniopharyngioma]  `craniopharyngeal duct`
+D445   [neoplasm of uncertain behavior] `pineal gland` 
+D446   [neoplasm of uncertain behavior] `carotid body` 
+D447   [neoplasm of uncertain behavior] `aortic body` 
+       [neoplasm of uncertain behavior] `paraganglia` 
+D449   [neoplasm of uncertain behavior] `endocrine gland` 
+D45    [polycythemia vera] 
+D460   [refractory anemia] & ![ring sideroblasts] 
+D461   [refractory anemia] & [ring sideroblasts] 
+D4620  [refractory anemia with excess of blasts] 
+D4621  [refractory anemia with excess of blasts 1] 
+D4622  [refractory anemia with excess of blasts 2] 
+D46A   [refractory cytopenia] & [multilineage dysplasia] 
+D46B   [refractory cytopenia] & [multilineage dysplasia] & [ring sideroblasts] 
+D46C   [myelodysplastic syndrome] & [5q deletion]
+       [5q minus syndrome]
+D464   [refractory anemia] 
+D46Z*  [other myelodysplastic syndromes] 
+D469   [myelodysplasia] 
+D4701  [mastocytosis] {cutaneous}  
+D4702  [mastocytosis] {systemic} 
+D4709* [other mast cell neoplasms of uncertain behavior] 
+D471   [chronic myeloproliferative disease] 
+D472   [monoclonal gammopathy] 
+D473   [essential thrombocythemia] 
+D474   [osteomyelofibrosis] 
+D47Z1  [post transplant lymphoproliferative disorder] 
+D47Z2  [castleman disease] 
+D47Z9* [other specified neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue] 
+D479   [neoplasm of uncertain behavior] `lymphoid` 
+       [neoplasm of uncertain behavior] `hematopoietic tissue` 
+D480   [neoplasm of uncertain behavior] `bone` 
+       [neoplasm of uncertain behavior] `articular cartilage` 
+D481   [neoplasm of uncertain behavior] `connective tissue` 
+       [neoplasm of uncertain behavior] `soft tissue` 
+D482   [neoplasm of uncertain behavior] `autonomic nervous system` 
+       [neoplasm of uncertain behavior] `peripheral nerves` 
+D483   [neoplasm of uncertain behavior] `retroperitoneum` 
+D484   [neoplasm of uncertain behavior] `peritoneum` 
+D485   [neoplasm of uncertain behavior] `skin` 
+D4860  [neoplasm of uncertain behavior] !{left} !{right} `breast` 
+D4861  [neoplasm of uncertain behavior] {right} `breast` 
+D4862  [neoplasm of uncertain behavior] {left} `breast` 
+D487*  [neoplasm of uncertain behavior of other specified sites]
+D489*  [neoplasm of uncertain behavior] 
+D490   [neoplasm of unspecified behavior] `digestive system` 
+D491   [neoplasm of unspecified behavior] `respiratory system` 
+D492   [neoplasm of unspecified behavior] `bone` 
+       [neoplasm of unspecified behavior] `soft tissue` 
+       [neoplasm of unspecified behavior] `skin` 
+D493   [neoplasm of unspecified behavior] `breast` 
+D494   [neoplasm of unspecified behavior] `bladder` 
+D495*  [neoplasm of unspecified behavior of other genitourinary organs]
+D49511 [neoplasm of unspecified behavior] {right} `kidney` 
+D49512 [neoplasm of unspecified behavior] {left} `kidney` 
+D49519 [neoplasm of unspecified behavior] !{left} !{right} `kidney` 
+D4959  [neoplasm of unspecified behavior] `genitourinary organ` 
+D496   [neoplasm of unspecified behavior] `brain` 
+D497   [neoplasm of unspecified behavior] `endocrine glands` 
+       [neoplasm of unspecified behavior] `nervous system` 
+D4981  [neoplasm of unspecified behavior] `retina` 
+       [neoplasm of unspecified behavior] `choroid` 
+D4989* [neoplasm of unspecified behavior of other specified sites]
+D499   [neoplasm of unspecified behavior]

@@ -1,0 +1,2700 @@
+H00011  [stye] {bilateral or right} `upper eyelid`
+H00012  [stye] {bilateral or right} `lower eyelid`
+H00013  [stye] {bilateral or right} `eyelid` !`lower eyelid` !`upper eyelid`
+H00014  [stye] {bilateral or left} `upper eyelid`
+H00015  [stye] {bilateral or left} `lower eyelid`
+H00016  [stye] {bilateral or left} `eyelid` !`lower eyelid` !`upper eyelid`
+H00019  [stye] `eyelid` !{left} !{right} !{bilateral}
+H00021  [hordeolum internum] {bilateral or right} `upper eyelid`
+H00022  [hordeolum internum] {bilateral or right} `lower eyelid`
+H00023  [hordeolum internum] {bilateral or right} `eyelid` !`lower eyelid` !`upper eyelid`
+H00024  [hordeolum internum] {bilateral or left} `upper eyelid`
+H00025  [hordeolum internum] {bilateral or left} `lower eyelid`
+H00026  [hordeolum internum] {left} !`lower eyelid` !`upper eyelid`
+H00029  [hordeolum internum] !{left} !{right} !{bilateral}
+H00031  [abscess] {bilateral or right} `upper eyelid`
+H00032  [abscess] {bilateral or right} `lower eyelid`
+H00033  [abscess] {bilateral or right} `eyelid` !`lower eyelid` !`upper eyelid`
+H00034  [abscess] {bilateral or left} `upper eyelid`
+H00035  [abscess] {bilateral or left} `lower eyelid`
+H00036  [abscess] {bilateral or left} `eyelid` !`lower eyelid` !`upper eyelid`
+H00039  [abscess] `eye` !{left} !{right} !{bilateral}
+H0011   [chalazion] {bilateral or right} `upper eyelid`
+H0012   [chalazion] {bilateral or right} `lower eyelid`
+H0013   [chalazion] {bilateral or right} `eye` !`lower eyelid` !`upper eyelid`
+H0014   [chalazion] {bilateral or left} `upper eyelid`
+H0015   [chalazion] {bilateral or left} `lower eyelid`
+H0016   [chalazion] {bilateral or left} `eye` !`lower eyelid` !`upper eyelid`
+H0019   [chalazion] `eye` !{left} !{right} !{bilateral}
+H01001  [blepharitis] {bilateral or right} `upper eyelid`
+H01002  [blepharitis] {bilateral or right} `lower eyelid`
+H01003  [blepharitis] {bilateral or right} `eye`
+H01004  [blepharitis] {bilateral or left} `upper eyelid`
+H01005  [blepharitis] {bilateral or left} `lower eyelid`
+H01006  [blepharitis] {bilateral or left} `eye`
+H01009  [blepharitis] `eye` !{left} !{right} !{bilateral}
+H01011  [ulcerative blepharitis] {bilateral or right} `upper eyelid`
+H01012  [ulcerative blepharitis] {bilateral or right} `lower eyelid`
+H01013  [ulcerative blepharitis] {bilateral or right} `eye`
+H01014  [ulcerative blepharitis] {bilateral or left} `upper eyelid`
+H01015  [ulcerative blepharitis] {bilateral or left} `lower eyelid`
+H01016  [ulcerative blepharitis] {bilateral or left} `eye`
+H01019  [ulcerative blepharitis] `eye` !{left} !{right} !{bilateral}
+H01021  [squamous blepharitis] {bilateral or right} `upper eyelid`
+H01022  [squamous blepharitis] {bilateral or right} `lower eyelid`
+H01023  [squamous blepharitis] {bilateral or right} `eye`
+H01024  [squamous blepharitis] {bilateral or left} `upper eyelid`
+H01025  [squamous blepharitis] {bilateral or left} `lower eyelid`
+H01026  [squamous blepharitis] {bilateral or left} `eye`
+H01029  [squamous blepharitis] `eye` !{left} !{right} !{bilateral}
+H01111  [allergic dermatitis] {bilateral or right} `upper eyelid`
+H01112  [allergic dermatitis] {bilateral or right} `lower eyelid`
+H01113  [allergic dermatitis] {bilateral or right} `eye`
+H01114  [allergic dermatitis] {bilateral or left} `upper eyelid`
+H01115  [allergic dermatitis] {bilateral or left} `lower eyelid`
+H01116  [allergic dermatitis] {bilateral or left} `eye`
+H01119  [allergic dermatitis] `eye` !{left} !{right} !{bilateral}
+H01121  [discoid lupus erythematosus] {bilateral or right} `upper eyelid`
+H01122  [discoid lupus erythematosus] {bilateral or right} `lower eyelid`
+H01123  [discoid lupus erythematosus] {bilateral or right} `eye`
+H01124  [discoid lupus erythematosus] {bilateral or left} `upper eyelid`
+H01125  [discoid lupus erythematosus] {bilateral or left} `lower eyelid`
+H01126  [discoid lupus erythematosus] {bilateral or left} `eye`
+H01129  [discoid lupus erythematosus] `eye` !{left} !{right} !{bilateral}
+H01131  [eczematous dermatitis] {bilateral or right} `upper eyelid`
+H01132  [eczematous dermatitis] {bilateral or right} `lower eyelid`
+H01133  [eczematous dermatitis] {bilateral or right} `eye`
+H01134  [eczematous dermatitis] {bilateral or left} `upper eyelid`
+H01135  [eczematous dermatitis] {bilateral or left} `lower eyelid`
+H01136  [eczematous dermatitis] {bilateral or left} `eye`
+H01139  [eczematous dermatitis] `eye` !{left} !{right} !{bilateral}
+H01141  [xeroderma] {bilateral or right} `upper eyelid`
+H01142  [xeroderma] {bilateral or right} `lower eyelid`
+H01143  [xeroderma] {bilateral or right} `eye`
+H01144  [xeroderma] {bilateral or left} `upper eyelid`
+H01145  [xeroderma] {bilateral or left} `lower eyelid`
+H01146  [xeroderma] {bilateral or left} `eye`
+H01149  [xeroderma] `eye` !{left} !{right} !{bilateral}
+H018    [other specified inflammations of eyelid]
+H019    [inflammation] `eyelid`
+H02001  [entropion] {bilateral or right} `upper eyelid`
+H02002  [entropion] {bilateral or right} `lower eyelid`
+H02003  [entropion] {bilateral or right} `eye`
+H02004  [entropion] {bilateral or left} `upper eyelid`
+H02005  [entropion] {bilateral or left} `lower eyelid`
+H02006  [entropion] {bilateral or left} `eye`
+H02009  [entropion] `eye` !{left} !{right} !{bilateral}
+H02011  [cicatricial entropion] {bilateral or right} `upper eyelid`
+H02012  [cicatricial entropion] {bilateral or right} `lower eyelid`
+H02013  [cicatricial entropion] {bilateral or right} `eye`
+H02014  [cicatricial entropion] {bilateral or left} `upper eyelid`
+H02015  [cicatricial entropion] {bilateral or left} `lower eyelid`
+H02016  [cicatricial entropion] {bilateral or left} `eye`
+H02019  [cicatricial entropion] `eye` !{left} !{right} !{bilateral}
+H02021  [mechanical entropion] {bilateral or right} `upper eyelid`
+H02022  [mechanical entropion] {bilateral or right} `lower eyelid`
+H02023  [mechanical entropion] {bilateral or right} `eye`
+H02024  [mechanical entropion] {bilateral or left} `upper eyelid`
+H02025  [mechanical entropion] {bilateral or left} `lower eyelid`
+H02026  [mechanical entropion] {bilateral or left} `eye`
+H02029  [mechanical entropion] `eye` !{left} !{right} !{bilateral}
+H02031  [senile entropion] {bilateral or right} `upper eyelid`
+H02032  [senile entropion] {bilateral or right} `lower eyelid`
+H02033  [senile entropion] {bilateral or right} `eye`
+H02034  [senile entropion] {bilateral or left} `upper eyelid`
+H02035  [senile entropion] {bilateral or left} `lower eyelid`
+H02036  [senile entropion] {bilateral or left} `eye`
+H02039  [senile entropion] `eye` !{left} !{right} !{bilateral}
+H02041  [spastic entropion] {bilateral or right} `upper eyelid`
+H02042  [spastic entropion] {bilateral or right} `lower eyelid`
+H02043  [spastic entropion] {bilateral or right} `eye`
+H02044  [spastic entropion] {bilateral or left} `upper eyelid`
+H02045  [spastic entropion] {bilateral or left} `lower eyelid`
+H02046  [spastic entropion] {bilateral or left} `eye`
+H02049  [spastic entropion] `eye` !{left} !{right} !{bilateral}
+H02051  [trichiasis] & ![entropian] {bilateral or right} `upper eyelid`
+H02052  [trichiasis] & ![entropian] {bilateral or right} `lower eyelid`
+H02053  [trichiasis] & ![entropian] {bilateral or right} `eye`
+H02054  [trichiasis] & ![entropian] {bilateral or left} `upper eyelid`
+H02055  [trichiasis] & ![entropian] {bilateral or left} `lower eyelid`
+H02056  [trichiasis] & ![entropian] {bilateral or left} `eye`
+H02059  [trichiasis] & ![entropian] `eye` !{left} !{right} !{bilateral}
+H02101  [ectropion] {bilateral or right} `upper eyelid`
+H02102  [ectropion] {bilateral or right} `lower eyelid`
+H02103  [ectropion] {bilateral or right} `eye`
+H02104  [ectropion] {bilateral or left} `upper eyelid`
+H02105  [ectropion] {bilateral or left} `lower eyelid`
+H02106  [ectropion] {bilateral or left} `eye`
+H02109  [ectropion] `eye` !{left} !{right} !{bilateral}
+H02111  [cicatricial ectropion] {bilateral or right} `upper eyelid`
+H02112  [cicatricial ectropion] {bilateral or right} `lower eyelid`
+H02113  [cicatricial ectropion] {bilateral or right} `eye`
+H02114  [cicatricial ectropion] {bilateral or left} `upper eyelid`
+H02115  [cicatricial ectropion] {bilateral or left} `lower eyelid`
+H02116  [cicatricial ectropion] {bilateral or left} `eye`
+H02119  [cicatricial ectropion] `eye` !{left} !{right} !{bilateral}
+H02121  [mechanical ectropion] {bilateral or right} `upper eyelid`
+H02122  [mechanical ectropion] {bilateral or right} `lower eyelid`
+H02123  [mechanical ectropion] {bilateral or right} `eye`
+H02124  [mechanical ectropion] {bilateral or left} `upper eyelid`
+H02125  [mechanical ectropion] {bilateral or left} `lower eyelid`
+H02126  [mechanical ectropion] {bilateral or left} `eye`
+H02129  [mechanical ectropion] `eye` !{left} !{right} !{bilateral}
+H02131  [senile ectropion] {bilateral or right} `upper eyelid`
+H02132  [senile ectropion] {bilateral or right} `lower eyelid`
+H02133  [senile ectropion] {bilateral or right} `eye`
+H02134  [senile ectropion] {bilateral or left} `upper eyelid`
+H02135  [senile ectropion] {bilateral or left} `lower eyelid`
+H02136  [senile ectropion] {bilateral or left} `eye`
+H02139  [senile ectropion] `eye` !{left} !{right} !{bilateral}
+H02141  [spastic ectropion] {bilateral or right} `upper eyelid`
+H02142  [spastic ectropion] {bilateral or right} `lower eyelid`
+H02143  [spastic ectropion] {bilateral or right} `eye`
+H02144  [spastic ectropion] {bilateral or left} `upper eyelid`
+H02145  [spastic ectropion] {bilateral or left} `lower eyelid`
+H02146  [spastic ectropion] {bilateral or left} `eye`
+H02149  [spastic ectropion] `eye` !{left} !{right} !{bilateral}
+H02201  [lagophthalmos] {bilateral or right} `upper eyelid`
+H02202  [lagophthalmos] {bilateral or right} `lower eyelid`
+H02203  [lagophthalmos] {bilateral or right} `eye`
+H02204  [lagophthalmos] {bilateral or left} `upper eyelid`
+H02205  [lagophthalmos] {bilateral or left} `lower eyelid`
+H02206  [lagophthalmos] {bilateral or left} `eye`
+H02209  [lagophthalmos] `eye` !{left} !{right} !{bilateral}
+H02211  [cicatricial lagophthalmos] {bilateral or right} `upper eyelid`
+H02212  [cicatricial lagophthalmos] {bilateral or right} `lower eyelid`
+H02213  [cicatricial lagophthalmos] {bilateral or right} `eye`
+H02214  [cicatricial lagophthalmos] {bilateral or left} `upper eyelid`
+H02215  [cicatricial lagophthalmos] {bilateral or left} `lower eyelid`
+H02216  [cicatricial lagophthalmos] {left}
+H02219  [cicatricial lagophthalmos] !{left} !{right} !{bilateral}
+H02221  [mechanical lagophthalmos] {bilateral or right} `upper eyelid`
+H02222  [mechanical lagophthalmos] {bilateral or right} `lower eyelid`
+H02223  [mechanical lagophthalmos] {right}
+H02224  [mechanical lagophthalmos] {bilateral or left} `upper eyelid`
+H02225  [mechanical lagophthalmos] {bilateral or left} `lower eyelid`
+H02226  [mechanical lagophthalmos] {left}
+H02229  [mechanical lagophthalmos]  !{left} !{right} !{bilateral}
+H02231  [paralytic lagophthalmos] {bilateral or right} `upper eyelid`
+H02232  [paralytic lagophthalmos] {bilateral or right} `lower eyelid`
+H02233  [paralytic lagophthalmos] {right}
+H02234  [paralytic lagophthalmos] {bilateral or left} `upper eyelid`
+H02235  [paralytic lagophthalmos] {bilateral or left} `lower eyelid`
+H02236  [paralytic lagophthalmos] {left}
+H02239  [paralytic lagophthalmos] !{left} !{right} !{bilateral}
+H0230   [blepharochalasis] !{left} !{right} !{bilateral}
+H0231   [blepharochalasis] {bilateral or right} `upper eyelid`
+H0232   [blepharochalasis] {bilateral or right} `lower eyelid`
+H0233   [blepharochalasis] {right} !{upper} !{lower} `eyelid`
+H0234   [blepharochalasis] {bilateral or left} `upper eyelid` 
+H0235   [blepharochalasis] {bilateral or left} `lower eyelid`
+H0236   [blepharochalasis] {left}  !{upper} !{lower} `eyelid`
+H02401  [blepharoptosis] {bilateral or right} & ![blepharochalasis] & ![mechanical ptosis]
+H02402  [blepharoptosis] {bilateral or left} & ![blepharochalasis] & ![mechanical ptosis]
+H02403  [blepharoptosis] {bilateral} !{left} !{right} & ![blepharochalasis] & ![mechanical ptosis]
+H02409  [blepharoptosis] !{left} !{right} !{bilateral} & ![blepharochalasis] & ![mechanical ptosis]
+H02411  [mechanical ptosis] {bilateral or right} `eyelid`
+H02412  [mechanical ptosis] {bilateral or left} `eyelid`
+H02413  [mechanical ptosis] {bilateral} `eyelids`
+H02419  [mechanical ptosis] !{left} !{right} !{bilateral} `eyelid`
+H02421  [myogenic ptosis] {bilateral or right} `eyelid`
+H02422  [myogenic ptosis] {bilateral or left} `eyelid`
+H02423  [myogenic ptosis] {bilateral} `eyelids`
+H02429  [myogenic ptosis] !{left} !{right} !{bilateral} `eyelid`
+H02431  [paralytic ptosis] {bilateral or right} `eyelid`
+H02432  [paralytic ptosis] {bilateral or left} `eyelid`
+H02433  [paralytic ptosis] {bilateral} `eyelid`
+H02439  [paralytic ptosis] !{left} !{right} !{bilateral} `eyelid`
+H02511  [abnormal innervation syndrome] {bilateral or right} `upper eyelid`
+H02512  [abnormal innervation syndrome] {bilateral or right} `lower eyelid`
+H02513  [abnormal innervation syndrome] {bilateral or right}
+H02514  [abnormal innervation syndrome] {bilateral or left} `upper eyelid`
+H02515  [abnormal innervation syndrome] {bilateral or left} `lower eyelid`
+H02516  [abnormal innervation syndrome] {bilateral or left}
+H02519  [abnormal innervation syndrome] !{left} !{right} !{bilateral}
+H02521  [blepharophimosis] {bilateral or right} `upper eyelid`
+H02522  [blepharophimosis] {bilateral or right} `lower eyelid`
+H02523  [blepharophimosis] {bilateral or right} `eye`
+H02524  [blepharophimosis] {bilateral or left} `upper eyelid`
+H02525  [blepharophimosis] {bilateral or left} `lower eyelid`
+H02526  [blepharophimosis] {left}
+H02529  [blepharophimosis] !{left} !{right} !{bilateral}
+H02531  [retraction] {bilateral or right} `upper eyelid`
+H02532  [retraction] {bilateral or right} `lower eyelid`
+H02533  [retraction] {bilateral or right} `eye`
+H02534  [retraction] {bilateral or left} `upper eyelid`
+H02535  [retraction] {bilateral or left} `lower eyelid`
+H02536  [retraction] {bilateral or left} `eye`
+H02539  [retraction] !{left} !{right} !{bilateral} `eye`
+H0259*  other [disorder] affecting `eyelid` function
+H0260   [xanthelasma] !{left} !{right} !{bilateral} `eye` !{upper} !{lower} `eyelid`
+H0261   [xanthelasma] {bilateral or right} `upper eyelid`
+H0262   [xanthelasma] {bilateral or right} `lower eyelid`
+H0263   [xanthelasma] {bilateral or right}
+H0264   [xanthelasma] {bilateral or left} `upper eyelid`
+H0265   [xanthelasma] {bilateral or left} `lower eyelid`
+H0266   [xanthelasma] {bilateral or left}
+H0270   [degeneration] `eyelid`
+H02711  [chloasma] {bilateral or right} `upper eyelid`
+H02712  [chloasma] {bilateral or right} `lower eyelid`
+H02713  [chloasma] {bilateral or right} `eye`
+H02714  [chloasma] {bilateral or left} `upper eyelid`
+H02715  [chloasma] {bilateral or left} `lower eyelid`
+H02716  [chloasma] {bilateral or left} `eye`
+H02719  [chloasma] `eye` !{left} !{right} !{bilateral}
+H02721  [madarosis] {bilateral or right} `upper eyelid`
+H02722  [madarosis] {bilateral or right} `lower eyelid`
+H02723  [madarosis] {bilateral or right} `eye`
+H02724  [madarosis] {bilateral or left} `upper eyelid`
+H02725  [madarosis] {bilateral or left} `lower eyelid`
+H02726  [madarosis] {bilateral or left} `eye`
+H02729  [madarosis] `eye` !{left} !{right} !{bilateral}
+H02731  [vitiligo] {bilateral or right} `upper eyelid`
+H02732  [vitiligo] {bilateral or right} `lower eyelid`
+H02733  [vitiligo] {bilateral or right} `eye`
+H02734  [vitiligo] {bilateral or left} `upper eyelid`
+H02735  [vitiligo] {bilateral or left} `lower eyelid`
+H02736  [vitiligo] {bilateral or left} `eye`
+H02739  [vitiligo] `eye` !{left} !{right} !{bilateral}
+H0279*  other [degenerative disorders] `eyelid`
+H02811  [retained foreign body] {bilateral or right} `upper eyelid`
+H02812  [retained foreign body] {bilateral or right} `lower eyelid`
+H02813  [retained foreign body] {bilateral or right} `eye`
+H02814  [retained foreign body] {bilateral or left} `upper eyelid`
+H02815  [retained foreign body] {bilateral or left} `lower eyelid`
+H02816  [retained foreign body] {bilateral or left} `eye`
+H02819  [retained foreign body] `eye` !{left} !{right} !{bilateral}
+H02821  [cyst] {bilateral or right} `upper eyelid`
+H02822  [cyst] {bilateral or right} `lower eyelid`
+H02823  [cyst] {bilateral or right} `eye`
+H02824  [cyst] {bilateral or left} `upper eyelid`
+H02825  [cyst] {bilateral or left} `lower eyelid`
+H02826  [cyst] {bilateral or left} `eye`
+H02829  [cyst] `eye` !{left} !{right} !{bilateral}
+H02831  [dermatochalasis] {bilateral or right} `upper eyelid`
+        [dermatochalasis] {bilateral} `upper eyelid`
+H02832  [dermatochalasis] {bilateral or right} `lower eyelid`
+H02833  [dermatochalasis] {bilateral or right} `eyelid` !{upper} !{lower}
+H02834  [dermatochalasis] {bilateral or left} `upper eyelid`
+        [dermatochalasis] {bilateral} `upper eyelid` 
+H02835  [dermatochalasis] {bilateral or left} `lower eyelid`
+H02836  [dermatochalasis] {bilateral or left} `eyelid` !{upper} !{lower}
+H02839  [dermatochalasis] !{left} !{right} !{bilateral}
+H02841  [edema] {bilateral or right} `upper eyelid`
+H02842  [edema] {bilateral or right} `lower eyelid`
+H02843  [edema] {bilateral or right} `eye` !`lower eyelid` !`upper eyelid`
+H02844  [edema] {bilateral or left} `upper eyelid`
+H02845  [edema] {bilateral or left} `lower eyelid`
+H02846  [edema] {bilateral or left} `eye`
+H02849  [edema] `eye` !{left} !{right} !{bilateral}
+H02851  [elephantiasis] {bilateral or right} `upper eyelid`
+H02852  [elephantiasis] {bilateral or right} `lower eyelid`
+H02853  [elephantiasis] {bilateral or right} `eye`
+H02854  [elephantiasis] {bilateral or left} `upper eyelid`
+H02855  [elephantiasis] {bilateral or left} `lower eyelid`
+H02856  [elephantiasis] {bilateral or left} `eye`
+H02859  [elephantiasis] `eye` !{left} !{right} !{bilateral}
+H02861  [hypertrichosis] {bilateral or right} `upper eyelid`
+H02862  [hypertrichosis] {bilateral or right} `lower eyelid`
+H02863  [hypertrichosis] {bilateral or right} `eye`
+H02864  [hypertrichosis] {bilateral or left} `upper eyelid`
+H02865  [hypertrichosis] {bilateral or left} `lower eyelid`
+H02866  [hypertrichosis] {bilateral or left} `eye`
+H02869  [hypertrichosis] `eye` !{left} !{right} !{bilateral}
+H02871  [vascular anomaly] {bilateral or right} `upper eyelid`
+H02872  [vascular anomaly] {bilateral or right} `lower eyelid`
+H02873  [vascular anomaly] {bilateral or right} `eye`
+H02874  [vascular anomaly] {bilateral or left} `upper eyelid`
+H02875  [vascular anomaly] {bilateral or left} `lower eyelid`
+H02876  [vascular anomaly] {bilateral or left} `eye`
+H02879  [vascular anomaly] `eye` !{left} !{right} !{bilateral}
+H0289*  other specified disorders of eyelid
+H029    [disorder] `eyelid`
+H04001  [dacryoadenitis] {bilateral or right} `lacrimal gland`
+H04002  [dacryoadenitis] {bilateral or left} `lacrimal gland`
+H04003  [dacryoadenitis] `bilateral lacrimal glands`
+H04009  [dacryoadenitis] !{left} !{right} !{bilateral} `lacrimal gland`
+H04011  {acute} [dacryoadenitis] {bilateral or right} `lacrimal gland`
+H04012  {acute} [dacryoadenitis] {bilateral or left} `lacrimal gland`
+H04013  {acute} [dacryoadenitis] `bilateral lacrimal glands`
+H04019  {acute} [dacryoadenitis] !{left} !{right} !{bilateral} `lacrimal gland`
+H04021  {chronic} [dacryoadenitis] {bilateral or right} `lacrimal gland`
+H04022  {chronic} [dacryoadenitis] {bilateral or left} `lacrimal gland`
+H04023  {chronic} [dacryoadenitis] `bilateral lacrimal gland`
+H04029  {chronic} [dacryoadenitis] !{left} !{right} !{bilateral} `lacrimal gland`
+H04031  {chronic} [enlargement] {bilateral or right} `lacrimal gland`
+H04032  {chronic} [enlargement] {bilateral or left} `lacrimal gland`
+H04033  {chronic} [enlargement] `bilateral lacrimal glands`
+H04039  {chronic} [enlargement] !{left} !{right} !{bilateral} `lacrimal gland`
+H04111  [dacryops] {bilateral or right} `lacrimal gland`
+H04112  [dacryops] {bilateral or left} `lacrimal gland`
+H04113  [dacryops] `bilateral lacrimal glands`
+H04119  [dacryops] !{left} !{right} !{bilateral} `lacrimal gland`
+H04121  [dry eye syndrome] {bilateral or right} `lacrimal gland`
+H04122  [dry eye syndrome] {bilateral or left} `lacrimal gland`
+H04123  [dry eye syndrome] `bilateral lacrimal glands`
+H04129  [dry eye syndrome] !{left} !{right} !{bilateral} `lacrimal gland`
+H04131  [lacrimal cyst] {bilateral or right} `lacrimal gland`
+H04132  [lacrimal cyst] {bilateral or left} `lacrimal gland`
+H04133  [lacrimal cyst] `bilateral lacrimal glands`
+H04139  [lacrimal cyst] !{left} !{right} !{bilateral} `lacrimal gland`
+H04141  [lacrimal gland atrophy] {bilateral or right} `lacrimal gland`
+H04142  [lacrimal gland atrophy] {bilateral or left} `lacrimal gland`
+H04143  [lacrimal gland atrophy] `bilateral lacrimal glands`
+H04149  [lacrimal gland atrophy] !{left} !{right} !{bilateral} `lacrimal gland`
+H04151  [lacrimal gland atrophy] {secondary} {bilateral or right} `lacrimal gland`
+H04152  [lacrimal gland atrophy] {secondary} {bilateral or left} `lacrimal gland`
+H04153  [lacrimal gland atrophy] {secondary}  `bilateral lacrimal glands`
+H04159  [lacrimal gland atrophy] {secondary} !{left} !{right} !{bilateral}  `lacrimal gland`
+H04161  [lacrimal gland dislocation] {bilateral or right} `lacrimal gland`
+H04162  [lacrimal gland dislocation] {bilateral or left} `lacrimal gland`
+H04163  [lacrimal gland dislocation] `bilateral lacrimal glands`
+H04169  [lacrimal gland dislocation] !{left} !{right} !{bilateral} `lacrimal gland`
+H0419*  other specified [disorder] `lacrimal gland`
+H04201  [epiphora] {right} 
+H04202  [epiphora] {left}
+H04203  [epiphora] {bilateral}
+H04209  [epiphora] !{left} !{right} !{bilateral}
+H04211  [epiphora] & [excess lacrimation] {right}
+H04212  [epiphora] & [excess lacrimation] {left}
+H04213  [epiphora] & [excess lacrimation] {bilateral}
+H04219  [epiphora] & [excess lacrimation] !{left} !{right} !{bilateral}
+H04221  [epiphora] & [insufficient drainage] {right} 
+H04222  [epiphora] & [insufficient drainage] {left}
+H04223  [epiphora] & [insufficient drainage] {bilateral}
+H04229  [epiphora] & [insufficient drainage] !{left} !{right} !{bilateral}
+H04301  [dacryocystitis] {bilateral or right} `lacrimal passage`
+H04302  [dacryocystitis] {bilateral or left} `lacrimal passage`
+H04303  [dacryocystitis] `bilateral lacrimal passages`
+H04309  [dacryocystitis] `lacrimal passage` !{left} !{right} !{bilateral}
+H04311  [phlegmonous dacryocystitis] {bilateral or right} `lacrimal passage`
+H04312  [phlegmonous dacryocystitis] {bilateral or left} `lacrimal passage`
+H04313  [phlegmonous dacryocystitis] `bilateral lacrimal passages`
+H04319  [phlegmonous dacryocystitis] `lacrimal passage`
+H04321  [dacryocystitis] {acute} {bilateral or right} `lacrimal passage`
+H04322  [dacryocystitis] {acute} {bilateral or left} `lacrimal passage`
+H04323  [dacryocystitis] {acute} `bilateral lacrimal passages`
+H04329  [dacryocystitis] {acute} !{left} !{right} !{bilateral} `lacrimal passage`
+H04331  [lacrimal canaliculitis] {acute} {bilateral or right} `lacrimal passage`
+H04332  [lacrimal canaliculitis] {acute} {bilateral or left} `lacrimal passage`
+H04333  [lacrimal canaliculitis] {acute} `bilateral lacrimal passages`
+H04339  [lacrimal canaliculitis] {acute} !{left} !{right} !{bilateral} `lacrimal passage`
+H04411  [dacryocystitis] {chronic} {right}
+H04412  [dacryocystitis] {chronic} {left}
+H04413  [dacryocystitis] {chronic} `bilateral`
+H04419  [dacryocystitis] {chronic} !{left} !{right} !{bilateral}
+H04421  [lacrimal canaliculitis] {chronic} {bilateral or right} `lacrimal passage`
+H04422  [lacrimal canaliculitis] {chronic} {bilateral or left} `lacrimal passage`
+H04423  [lacrimal canaliculitis] {chronic} `bilateral lacrimal passages`
+H04429  [lacrimal canaliculitis] {chronic} !{left} !{right} !{bilateral} `lacrimal passage`
+H04431  [lacrimal mucocele] {chronic} {bilateral or right} `lacrimal passage`
+H04432  [lacrimal mucocele] {chronic} {bilateral or left} `lacrimal passage`
+H04433  [lacrimal mucocele] {chronic} `bilateral lacrimal passages`
+H04439  [lacrimal mucocele] {chronic} !{left} !{right} !{bilateral} `lacrimal passage`
+H04511  [dacryolith] {bilateral or right} `lacrimal passage`
+H04512  [dacryolith] {bilateral or left} `lacrimal passage`
+H04513  [dacryolith] `bilateral lacrimal passages`
+H04519  [dacryolith] !{left} !{right} !{bilateral} `lacrimal passage`
+H04521  [eversion] {bilateral or right} `lacrimal punctum`
+H04522  [eversion] {bilateral or left} `lacrimal punctum`
+H04523  [eversion] `bilateral lacrimal punctum`
+H04529  [eversion] !{left} !{right} !{bilateral} `lacrimal punctum`
+H04531  [neonatal obstruction] {bilateral or right} `nasolacrimal duct`
+H04532  [neonatal obstruction] {bilateral or left} `nasolacrimal duct`
+H04533  [neonatal obstruction] `bilateral nasolacrimal duct`
+H04539  [neonatal obstruction] !{left} !{right} !{bilateral} `nasolacrimal duct`
+H04541  [stenosis] {bilateral or right} `lacrimal canaliculi`
+H04542  [stenosis] {bilateral or left} `lacrimal canaliculi`
+H04543  [stenosis] `bilateral lacrimal canaliculi`
+H04549  [stenosis] !{left} !{right} !{bilateral} `lacrimal canaliculi`
+H04551  [acquired stenosis] {bilateral or right} `nasolacrimal duct` & ![congenital] {dacryostenosis} `nasolacrimal duct` {right}
+H04552  [acquired stenosis] {bilateral or left} `nasolacrimal duct` & ![congenital] {stenosis} `nasolacrimal duct` {left}
+H04553  [acquired stenosis] `bilateral nasolacrimal duct` & ![congenital] {stenosis} `nasolacrimal duct` {bilateral}
+H04559  [acquired stenosis] `nasolacrimal duct` & ![congenital] {stenosis} `nasolacrimal duct` !{left} !{right} !{bilateral}
+H04561  [stenosis] {bilateral or right} `lacrimal punctum`
+H04562  [stenosis] {bilateral or left} `lacrimal punctum`
+H04563  [stenosis] `bilateral lacrimal punctum`
+H04569  [stenosis] !{left} !{right} !{bilateral} `lacrimal punctum`
+H04571  [stenosis] {bilateral or right} `lacrimal sac`
+H04572  [stenosis] {bilateral or left} `lacrimal sac`
+H04573  [stenosis] `bilateral lacrimal sac`
+H04579  [stenosis] !{left} !{right} !{bilateral} `lacrimal sac`
+H04611  [lacrimal fistula] {bilateral or right} `lacrimal passage`
+H04612  [lacrimal fistula] {bilateral or left} `lacrimal passage`
+H04613  [lacrimal fistula] `bilateral lacrimal passages`
+H04619  [lacrimal fistula] !{left} !{right} !{bilateral} `lacrimal passage`
+H0469*  other change `lacrimal passages`
+H04811  [granuloma] {bilateral or right} `lacrimal passage`
+H04812  [granuloma] {bilateral or left} `lacrimal passage`
+H04813  [granuloma] `bilateral lacrimal passages`
+H04819  [granuloma] !{left} !{right} !{bilateral} `lacrimal passage`
+H0489*  other disorders of lacrimal system
+H049    [disorder] `lacrimal system`
+H0500   [inflammation] {acute} `orbit`
+H05011  [cellulitis] {bilateral or right} `orbit`
+H05012  [cellulitis] {bilateral or left} `orbit`
+H05013  [cellulitis] `bilateral orbits`
+H05019  [cellulitis] !{left} !{right} !{bilateral} `orbit`
+H05021  [osteomyelitis] {bilateral or right} `orbit`
+H05022  [osteomyelitis] {bilateral or left} `orbit`
+H05023  [osteomyelitis] `bilateral orbits`
+H05029  [osteomyelitis] !{left} !{right} !{bilateral} `orbit`
+H05031  [periostitis] {bilateral or right} `orbit`
+H05032  [periostitis] {bilateral or left} `orbit`
+H05033  [periostitis] `bilateral orbits`
+H05039  [periostitis] !{left} !{right} !{bilateral} `orbit`
+H05041  [tenonitis] {bilateral or right} `orbit`
+H05042  [tenonitis] {bilateral or left} `orbit`
+H05043  [tenonitis] `bilateral orbits`
+H05049  [tenonitis] !{left} !{right} !{bilateral} `orbit`
+H0510   [inflammatory disorder] {chronic} `orbit`
+H05111  [granuloma] {bilateral or right} `orbit`
+H05112  [granuloma] {bilateral or left} `orbit`
+H05113  [granuloma] `bilateral orbits`
+H05119  [granuloma] !{left} !{right} !{bilateral} `orbit`
+H05121  [orbital myositis] {bilateral or right} `orbit`
+H05122  [orbital myositis] {bilateral or left} `orbit`
+H05123  [orbital myositis] {bilateral} `eye`
+H05129  [orbital myositis] !{left} !{right} !{bilateral} `orbit`
+H0520   [exophthalmos]
+H05211  [displacement of globe] {bilateral or right} `eye`
+H05212  [displacement of globe] {bilateral or left} `eye`
+H05213  [displacement of globe] {bilateral} `eye`
+H05219  [displacement of globe] `eye` !{left} !{right} !{bilateral}
+H05221  [edema] {bilateral or right} `orbit`
+H05222  [edema] {bilateral or left} `orbit`
+H05223  [edema] `bilateral orbit`
+H05229  [edema] !{left} !{right} !{bilateral} `orbit`
+H05231  [hemorrhage] {bilateral or right} `orbit`
+H05232  [hemorrhage] {bilateral or left} `orbit`
+H05233  [hemorrhage] `bilateral orbit`
+H05239  [hemorrhage] !{left} !{right} !{bilateral} `orbit`
+H05241  [constant exophthalmos] {right}
+H05242  [constant exophthalmos] {left}
+H05243  [constant exophthalmos] {bilateral}
+H05249  [constant exophthalmos] !{left} !{right} !{bilateral}
+H05251  [intermittent exophthalmos] {right}
+H05252  [intermittent exophthalmos] {left}
+H05253  [intermittent exophthalmos] {bilateral}
+H05259  [intermittent exophthalmos] !{left} !{right} !{bilateral}
+H05261  [pulsating exophthalmos] {right}
+H05262  [pulsating exophthalmos] {left}
+H05263  [pulsating exophthalmos] {bilateral}
+H05269  [pulsating exophthalmos] !{left} !{right} !{bilateral}
+H0530   [deformity] `orbit`
+H05311  [atrophy] {bilateral or right} `orbit`
+H05312  [atrophy] {bilateral or left} `orbit`
+H05313  [atrophy] `bilateral orbit`
+H05319  [atrophy] !{left} !{right} !{bilateral} `orbit`
+H05321  [deformity] {bilateral or right} `orbit` & [bone disease]
+H05322  [deformity] {bilateral or left} `orbit` & [bone disease]
+H05323  [deformity] `bilateral orbits` & [bone disease]
+H05329  [deformity] !{left} !{right} !{bilateral} `orbit` & [bone disease]
+H05331  [deformity] {bilateral or right} `orbit` & [trauma]
+        [deformity] {bilateral or right} `orbit` & [surgery]
+H05332  [deformity] {bilateral or left} `orbit` & [trauma]
+        [deformity] {bilateral or left} `orbit` & [surgery]
+H05333  [deformity] `bilateral orbits` & [trauma]
+        [deformity] `bilateral orbits` & [surgery]
+H05339  [deformity] !{left} !{right} !{bilateral} `orbit` & [trauma]
+        [deformity] !{left} !{right} !{bilateral} `orbit` & [surgery]
+H05341  [enlargement] {bilateral or right} `orbit`
+H05342  [enlargement] {bilateral or left} `orbit`
+H05343  [enlargement] `bilateral orbits`
+H05349  [enlargement] !{left} !{right} !{bilateral} `orbit`
+H05351  [exostosis] {bilateral or right} `orbit`
+H05352  [exostosis] {bilateral or left} `orbit`
+H05353  [exostosis] `bilateral orbits`
+H05359  [exostosis] !{left} !{right} !{bilateral} `orbit`
+H05401  [enophthalmos] {bilateral or right} `eye`
+H05402  [enophthalmos] {bilateral or left} `eye`
+H05403  [enophthalmos] {bilateral} `eye`
+H05409  [enophthalmos] `eye` !{left} !{right} !{bilateral}
+H05411  [enophthalmos] & [atrophy] `orbital tissue` {right}
+H05412  [enophthalmos] & [atrophy] `orbital tissue` {left}
+H05413  [enophthalmos] & [atrophy] `orbital tissue of the both eyes`
+H05419  [enophthalmos] & [atrophy] !{left} !{right} !{bilateral} `orbital tissue of the eye`
+H05421  [enophthalmos] & [trauma] {right}
+        [enophthalmos] & [surgery] {right}
+H05422  [enophthalmos] & [trauma] {left}
+        [enophthalmos] & [surgery] {left}
+H05423  [enophthalmos] & [trauma] {bilateral}
+        [enophthalmos] & [surgery] {bilateral}
+H05429  [enophthalmos] !{left} !{right} !{bilateral} & [trauma]
+        [enophthalmos] !{left} !{right} !{bilateral} & [surgery]
+H0550   [retained foreign body] & [penetrating wound] `orbit`
+H0551   [retained foreign body] & [penetrating wound] {bilateral or right} `orbit`
+H0552   [retained foreign body] & [penetrating wound] {bilateral or left} `orbit`
+H0553   [retained foreign body] & [penetrating wound] `bilateral orbits`
+H05811  [cyst] {bilateral or right} `orbit`
+H05812  [cyst] {bilateral or left} `orbit`
+H05813  [cyst] `bilateral orbits`
+H05819  [cyst] !{left} !{right} !{bilateral} `orbit`
+H05821  [myopathy] `extraocular muscles of right orbit`
+H05822  [myopathy] `extraocular muscles of left orbit`
+H05823  [myopathy] `extraocular muscles` {bilateral}
+H05829  [myopathy] !{left} !{right} !{bilateral} `extraocular muscles of orbit`
+H0589*  [other orbit disorders] {orbital} 
+H059    [disorder] `orbit`
+H10011  [conjunctivitis] {follicular} {right}
+H10012  [conjunctivitis] {follicular} {left}
+H10013  [conjunctivitis] {follicular} {bilateral}
+H10019  [conjunctivitis] {follicular} !{left} !{right} !{bilateral}
+H10021* other [mucopurulent conjunctivitis] {right}
+H10022* other [mucopurulent conjunctivitis] {left}
+H10023* other [mucopurulent conjunctivitis] {bilateral}
+H10029* other [mucopurulent conjunctivitis]
+H1010   [conjunctivitis] {atopic} !{left} !{right} !{bilateral}
+H1011   [conjunctivitis] {atopic} {right}
+H1012   [conjunctivitis] {atopic} {left}
+H1013   [conjunctivitis] {atopic} {bilateral}
+H10211  [conjunctivitis] {toxic} {right}
+H10212  [conjunctivitis] {toxic} {left}
+H10213  [conjunctivitis] {toxic} {bilateral}
+H10219  [conjunctivitis] {toxic} !{left} !{right} !{bilateral}
+H10221  [conjunctivitis] {pseudomembranous} {right}
+H10222  [conjunctivitis] {pseudomembranous} {left}
+H10223  [conjunctivitis] {pseudomembranous} {bilateral}
+H10229  [conjunctivitis] {pseudomembranous} !{left} !{right} !{bilateral}
+H10231  [conjunctivitis] {serous} {right} & ![viral]
+H10232  [conjunctivitis] {serous} {left} & ![viral]
+H10233  [conjunctivitis] {serous} {bilateral} & ![viral]
+H10239  [conjunctivitis] {serous} & ![viral]
+H1030   [conjunctivitis] !{bilateral} !{left} !{right}
+H1031   [conjunctivitis] {right}
+H1032   [conjunctivitis] {left}
+H1033   [conjunctivitis] {bilateral}
+H10401  [conjunctivitis] {chronic} {right}
+H10402  [conjunctivitis] {chronic} {left}
+H10403  [conjunctivitis] {chronic} {bilateral}
+H10409  [conjunctivitis] {chronic} !{left} !{right} !{bilateral}
+H10411  [giant papillary conjunctivitis] {chronic} {right}
+H10412  [conjunctivitis] {chronic} {giant papillary} {left}
+H10413  [conjunctivitis] {chronic} {giant papillary} {bilateral}
+H10419  [conjunctivitis] {chronic} {giant papillary} !{left} !{right} !{bilateral}
+H10421  [conjunctivitis] {simple} {chronic} {right}
+H10422  [conjunctivitis] {simple} {chronic} {left}
+H10423  [conjunctivitis] {simple} {chronic} {bilateral}
+H10429  [conjunctivitis] {simple} {chronic} !{left} !{right} !{bilateral}
+H10431  [chronic follicular conjunctivitis] {bilateral or right} `eye`
+H10432  [chronic follicular conjunctivitis] {bilateral or left} `eye`
+H10433  [chronic follicular conjunctivitis] {bilateral}
+H10439  [conjunctivitis] {chronic} {follicular} !{left} !{right} !{bilateral}
+H1044   [conjunctivitis] {vernal}
+H1045*  other chronic allergic conjunctivitis
+H10501  [blepharoconjunctivitis] {right}
+H10502  [blepharoconjunctivitis] {left}
+H10503  [blepharoconjunctivitis] {bilateral}
+H10509  [blepharoconjunctivitis] !{left} !{right} !{bilateral}
+H10511  [conjunctivitis] {ligneous} {right}
+H10512  [conjunctivitis] {ligneous} {left}
+H10513  [conjunctivitis] {ligneous} {bilateral}
+H10519  [conjunctivitis] {ligneous} !{left} !{right} !{bilateral}
+H10521  [blepharoconjunctivitis] {angular} {right}
+H10522  [blepharoconjunctivitis] {angular} {left}
+H10523  [blepharoconjunctivitis] {angular} {bilateral}
+H10529  [blepharoconjunctivitis] {angular} !{left} !{right} !{bilateral}
+H10531  [blepharoconjunctivitis] {contact} {right}
+H10532  [blepharoconjunctivitis] {contact} {left}
+H10533  [blepharoconjunctivitis] {contact} {bilateral}
+H10539  [blepharoconjunctivitis] {contact} !{left} !{right} !{bilateral}
+H10811  [pingueculitis] {bilateral or right} `eye`
+H10812  [pingueculitis] {bilateral or left} `eye`
+H10813  [pingueculitis] {bilateral} `eye`
+H10819  [pingueculitis] `eye` !{left} !{right} !{bilateral}
+H1089*  other conjunctivitis
+H109    [conjunctivitis] !{left} !{right} !{bilateral}
+H11001  [pterygium] {bilateral or right} `eye`
+H11002  [pterygium] {bilateral or left} `eye`
+H11003  [pterygium] {bilateral} `eye`
+H11009  [pterygium] `eye` !{left} !{right} !{bilateral}
+H11011  [pterygium] {amyloid} {bilateral or right} `eye`
+H11012  [pterygium] {amyloid} {bilateral or left} `eye`
+H11013  [pterygium] {amyloid} {bilateral} `eye`
+H11019  [pterygium] {amyloid} !{bilateral} `eye`
+H11021  [pterygium] {central} {bilateral or right} `eye`
+H11022  [pterygium] {central} {bilateral or left} `eye`
+H11023  [pterygium] {central} {bilateral} `eye`
+H11029  [pterygium] {central} !{left} !{right} !{bilateral} `eye`
+H11031  [pterygium] {double} {bilateral or right} `eye`
+H11032  [pterygium] {double} {bilateral or left} `eye`
+H11033  [pterygium] {double} {bilateral} `eye`
+H11039  [pterygium] {double} !{left} !{right} !{bilateral} `eye`
+H11041  [pterygium] {stationary} {bilateral or right} `eye`
+H11042  [pterygium] {stationary} {bilateral or left} `eye`
+H11043  [pterygium] {stationary} {bilateral} `eye`
+H11049  [pterygium] {stationary}  !{left} !{right} !{bilateral}`eye`
+H11051  [pterygium] {progressive} {bilateral or right} `eye`
+H11052  [pterygium] {progressive} {bilateral or left} `eye`
+H11053  [pterygium] {progressive} {bilateral} `eye`
+H11059  [pterygium] {progressive} !{left} !{right} !{bilateral} `eye`
+H11061  [pterygium] {recurrent} {bilateral or right} `eye`
+H11062  [pterygium] {recurrent} {bilateral or left} `eye`
+H11063  [pterygium] {recurrent} {bilateral} `eye`
+H11069  [pterygium] {recurrent} !{left} !{right} !{bilateral} `eye`
+H1110   [conjunctival degeneration]
+H11111  [conjunctival deposits] {right}
+H11112  [conjunctival deposits] {left}
+H11113  [conjunctival deposits] {bilateral}
+H11119  [conjunctival deposits] !{left} !{right} !{bilateral}
+H11121  [conjunctival concretions] {right}
+H11122  [conjunctival concretions] {left}
+H11123  [conjunctival concretions] {bilateral}
+H11129  [conjunctival concretions] !{left} !{right} !{bilateral}
+H11131  [conjunctival pigmentations] {right}
+H11132  [conjunctival pigmentations] {left}
+H11133  [conjunctival pigmentations] {bilateral}
+H11139  [conjunctival pigmentations] !{left} !{right} !{bilateral}
+H11141  [conjunctival xerosis] {right}
+H11142  [conjunctival xerosis] {left}
+H11143  [conjunctival xerosis] {bilateral}
+H11149  [conjunctival xerosis] !{left} !{right} !{bilateral}
+H11151  [pinguecula] {bilateral or right} `eye`
+H11152  [pinguecula] {bilateral or left} `eye`
+H11153  [pinguecula] {bilateral} `eye`
+H11159  [pinguecula] `eye` !{left} !{right} !{bilateral}
+H11211  [conjunctival adhesions] {right}
+        [conjunctival strands] {right}
+H11212  [conjunctival adhesions] {left}
+        [conjunctival strands] {left}
+H11213  [conjunctival adhesions] {bilateral}
+        [conjunctival strands] {bilateral}
+H11219  [conjunctival adhesions] !{left} !{right} !{bilateral}
+        [conjunctival strands] !{left} !{right} !{bilateral}
+H11221  [conjunctival granuloma] {right}
+H11222  [conjunctival granuloma] {left}
+H11223  [conjunctival granuloma] {bilateral}
+H11229  [conjunctival granuloma] !{left} !{right} !{bilateral}
+H11231  [symblepharon] {right}
+H11232  [symblepharon] {left}
+H11233  [symblepharon] {bilateral}
+H11239  [symblepharon] `eye` !{left} !{right} !{bilateral}
+H11241  [scarring of conjunctiva] {right}
+H11242  [scarring of conjunctiva] {left}
+H11243  [scarring of conjunctiva] {bilateral}
+H11249  [scarring of conjunctiva] `eye` !{left} !{right} !{bilateral}
+H1130   [conjunctival hemorrhage] `eye` !{left} !{right} !{bilateral}
+H1131   [conjunctival hemorrhage] {bilateral or right} `eye`
+H1132   [conjunctival hemorrhage] {bilateral or left} `eye`
+H1133   [conjunctival hemorrhage] {bilateral}
+H11411  [vascular abnormalities of conjunctiva] {right}
+H11412  [vascular abnormalities of conjunctiva] {left}
+H11413  [vascular abnormalities of conjunctiva] {bilateral}
+H11419  [vascular abnormalities of conjunctiva] !{left} !{right} !{bilateral}
+H11421  [conjunctival edema] {right}
+H11422  [conjunctival edema] {left}
+H11423  [conjunctival edema] {bilateral}
+H11429  [conjunctival edema] `eye` !{left} !{right} !{bilateral}
+H11431  [conjunctival hyperemia] {right}
+H11432  [conjunctival hyperemia] {left}
+H11433  [conjunctival hyperemia] {bilateral}
+H11439  [conjunctival hyperemia] `eye` !{left} !{right} !{bilateral}
+H11441  [conjunctival cyst] {right}
+H11442  [conjunctival cyst] {left}
+H11443  [conjunctival cyst] {bilateral}
+H11449  [conjunctival cyst] `eye` !{left} !{right} !{bilateral}
+H11811  [pseudopterygium of conjunctiva] {right}
+H11812  [pseudopterygium of conjunctiva] {left}
+H11813  [pseudopterygium of conjunctiva] {bilateral}
+H11819  [pseudopterygium of conjunctiva] !{left} !{right} !{bilateral}
+H11821  [conjunctivochalasis] {right}
+H11822  [conjunctivochalasis] {left}
+H11823  [conjunctivochalasis] {bilateral}
+H11829  [conjunctivochalasis] !{left} !{right} !{bilateral}
+H1189*  other specified disorders of conjunctiva
+H119    [disorder of conjunctiva]
+H15001  [scleritis] {right}
+H15002  [scleritis] {left}
+H15003  [scleritis] {bilateral}
+H15009  [scleritis] !{left} !{right} !{bilateral}
+H15011  [anterior scleritis] {right}
+H15012  [anterior scleritis] {left}
+H15013  [anterior scleritis] {bilateral}
+H15019  [anterior scleritis] !{left} !{right} !{bilateral}
+H15021  [brawny scleritis] {right}
+H15022  [brawny scleritis] {left}
+H15023  [brawny scleritis] {bilateral}
+H15029  [brawny scleritis] !{left} !{right} !{bilateral}
+H15031  [posterior scleritis] {right}
+H15032  [posterior scleritis] {left}
+H15033  [posterior scleritis] {bilateral}
+H15039  [posterior scleritis] !{left} !{right} !{bilateral}
+H15041  [scleritis] {bilateral or right} `cornea`
+H15042  [scleritis] {bilateral or left} `cornea`
+H15043  [scleritis] `both corneas`
+H15049  [scleritis] `cornea` !{left} !{right} !{bilateral}
+H15051  [scleromalacia perforans] {right}
+H15052  [scleromalacia perforans] {left}
+H15053  [scleromalacia perforans] {bilateral}
+H15059  [scleromalacia perforans] !{left} !{right} !{bilateral}
+H15091* other [scleritis] {right}
+H15092* other [scleritis] {left}
+H15093* other [scleritis] {bilateral}
+H15099* other [scleritis] !{left} !{right} !{bilateral}
+H15101  [episcleritis] {right}
+H15102  [episcleritis] {left}
+H15103  [episcleritis] {bilateral}
+H15109  [episcleritis] !{left} !{right} !{bilateral}
+H15111  [episcleritis periodica fugax] {right}
+H15112  [episcleritis periodica fugax] {left}
+H15113  [episcleritis periodica fugax] {bilateral}
+H15119  [episcleritis periodica fugax] !{left} !{right} !{bilateral}
+H15121  [nodular episcleritis] {right}
+H15122  [nodular episcleritis] {left}
+H15123  [nodular episcleritis] {bilateral}
+H15129  [nodular episcleritis] !{left} !{right} !{bilateral}
+H15811  [equatorial staphyloma] {bilateral or right} `eye`
+H15812  [equatorial staphyloma] {bilateral or left} `eye`
+H15813  [equatorial staphyloma] {bilateral} `eye`
+H15819  [equatorial staphyloma] `eye` !{left} !{right} !{bilateral}
+H15821  [localized anterior staphyloma] {right}
+H15822  [localized anterior staphyloma] {left}
+H15823  [localized anterior staphyloma] {bilateral}
+H15829  [localized anterior staphyloma] !{left} !{right} !{bilateral}
+H15831  [staphyloma posticum] {right}
+H15832  [staphyloma posticum] {left}
+H15833  [staphyloma posticum] {bilateral}
+H15839  [staphyloma posticum] !{left} !{right} !{bilateral}
+H15841  [scleral ectasia] {right}
+H15842  [scleral ectasia] {left}
+H15843  [scleral ectasia] {bilateral}
+H15849  [scleral ectasia] !{left} !{right} !{bilateral}
+H15851  [ring staphyloma] {bilateral or left} `eye`
+H15852  [ring staphyloma] {bilateral or left} `eye`
+H15853  [ring staphyloma] {bilateral} `eye`
+H15859  [ring staphyloma] `eye` !{left} !{right} !{bilateral}
+H1589*  other disorders of sclera
+H159    [disorder] `sclera`
+H16001  [corneal ulcer] {bilateral or right} `eye`
+H16002  [corneal ulcer] {bilateral or left} `eye`
+H16003  [corneal ulcer] {bilateral}
+H16009  [corneal ulcer] !{left} !{right} !{bilateral}
+H16011  [central corneal ulcer] {right}
+H16012  [central corneal ulcer] {left}
+H16013  [central corneal ulcer] {bilateral}
+H16019  [central corneal ulcer] !{left} !{right} !{bilateral}
+H16021  [ring corneal ulcer] {right}
+H16022  [ring corneal ulcer] {left}
+H16023  [ring corneal ulcer] {bilateral}
+H16029  [ring corneal ulcer] !{left} !{right} !{bilateral}
+H16031  [corneal ulcer] & [hypopyon] {right}
+H16032  [corneal ulcer] & [hypopyon] {left}
+H16033  [corneal ulcer] & [hypopyon] {bilateral}
+H16039  [corneal ulcer] & [hypopyon] !{left} !{right} !{bilateral}
+H16041  [marginal corneal ulcer] {right}
+H16042  [marginal corneal ulcer] {left}
+H16043  [marginal corneal ulcer] {bilateral}
+H16049  [marginal corneal ulcer] !{left} !{right} !{bilateral}
+H16051  [moorens corneal ulcer] {right}
+H16052  [moorens corneal ulcer] {left}
+H16053  [moorens corneal ulcer] {bilateral}
+H16059  [moorens corneal ulcer] !{left} !{right} !{bilateral}
+H16061  [mycotic corneal ulcer] {right}
+H16062  [mycotic corneal ulcer] {left}
+H16063  [mycotic corneal ulcer] {bilateral}
+H16069  [mycotic corneal ulcer] !{left} !{right} !{bilateral}
+H16071  [perforated corneal ulcer] {right}
+H16072  [perforated corneal ulcer] {left}
+H16073  [perforated corneal ulcer] {bilateral}
+H16079  [perforated corneal ulcer] !{left} !{right} !{bilateral}
+H16101  [superficial keratitis] {bilateral or right} `eye`
+H16102  [superficial keratitis] {bilateral or left} `eye`
+H16103  [superficial keratitis] {bilateral} `eye`
+H16109  [superficial keratitis] `eye` !{left} !{right} !{bilateral}
+H16111  [macular keratitis] {bilateral or right} `eye`
+H16112  [macular keratitis] {bilateral or left} `eye`
+H16113  [macular keratitis] {bilateral} `eye`
+H16119  [macular keratitis] `eye` !{left} !{right} !{bilateral}
+H16121  [filamentary keratitis] {bilateral or right} `eye`
+H16122  [filamentary keratitis] {bilateral or left} `eye`
+H16123  [filamentary keratitis] {bilateral} `eye`
+H16129  [filamentary keratitis] `eye` !{left} !{right} !{bilateral}
+H16131  [photokeratitis] {bilateral or right} `eye`
+H16132  [photokeratitis] {bilateral or left} `eye`
+H16133  [photokeratitis] {bilateral} `eye`
+H16139  [photokeratitis] `eye` !{left} !{right} !{bilateral}
+H16141  [punctate keratitis] {bilateral or right} `eye`
+H16142  [punctate keratitis] {bilateral or left} `eye`
+H16143  [punctate keratitis] {bilateral} `eye`
+H16149  [punctate keratitis] `eye` !{left} !{right} !{bilateral}
+H16001  [corneal ulcer] {right}
+H16002  [corneal ulcer] {left}
+H16003  [corneal ulcer] {bilateral}
+H16201  [keratoconjunctivitis] {right}
+H16202  [keratoconjunctivitis] {left}
+H16203  [keratoconjunctivitis] {bilateral}
+H16209  [keratoconjunctivitis] !{left} !{right} !{bilateral}
+H16211  [exposure keratoconjunctivitis] {right}
+H16212  [exposure keratoconjunctivitis] {left}
+H16213  [exposure keratoconjunctivitis] {bilateral}
+H16219  [exposure keratoconjunctivitis] !{left} !{right} !{bilateral}
+H16221  [keratoconjunctivitis sicca] & ![sjogrens] {right}
+H16222  [keratoconjunctivitis sicca] & ![sjogrens] {left}
+H16223  [keratoconjunctivitis sicca] & ![sjogrens] {bilateral}
+H16229  [keratoconjunctivitis sicca] & ![sjogrens] & ![left] & ![right]
+H16231  [neurotrophic keratoconjunctivitis] {right}
+H16232  [neurotrophic keratoconjunctivitis] {left}
+H16233  [neurotrophic keratoconjunctivitis] {bilateral}
+H16239  [neurotrophic keratoconjunctivitis] !{left} !{right} !{bilateral}
+H16241  [ophthalmia nodosa] {right}
+H16242  [ophthalmia nodosa] {left}
+H16243  [ophthalmia nodosa] {bilateral}
+H16249  [ophthalmia nodosa] `eye` !{left} !{right} !{bilateral}
+H16251  [phlyctenular keratoconjunctivitis] {right}
+H16252  [phlyctenular keratoconjunctivitis] {left}
+H16253  [phlyctenular keratoconjunctivitis] {bilateral}
+H16259  [phlyctenular keratoconjunctivitis] !{left} !{right} !{bilateral}
+H16261  [vernal keratoconjunctivitis] {bilateral or right} `corneal limbus`
+H16262  [vernal keratoconjunctivitis] {bilateral or left} `corneal limbus`
+H16263  [vernal keratoconjunctivitis] `both corneal limbus`
+H16269  [vernal keratoconjunctivitis] !{left} !{right} !{bilateral} `corneal limbus`
+H16291* other [keratoconjunctivitis] {right}
+H16292* other [keratoconjunctivitis] {left}
+H16293* other [keratoconjunctivitis] {bilateral}
+H16299* other [keratoconjunctivitis] !{left} !{right} !{bilateral}
+H16301  [interstitial keratitis] {right}
+H16302  [interstitial keratitis] {left}
+H16303  [interstitial keratitis] {bilateral}
+H16309  [interstitial keratitis] !{left} !{right} !{bilateral}
+H16311  [corneal abscess] {right}
+H16312  [corneal abscess] {left}
+H16313  [corneal abscess] {bilateral}
+H16319  [corneal abscess]  !{left} !{right} !{bilateral} 
+H16321  [diffuse interstitial keratitis] {bilateral or left} `eye`
+H16322  [diffuse interstitial keratitis] {bilateral or left} `eye`
+H16323  [diffuse interstitial keratitis] {bilateral} `eye`
+H16329  [diffuse interstitial keratitis] `eye` !{left} !{right} !{bilateral}
+H16331  [sclerosing keratitis] {bilateral or right} `eye`
+H16332  [sclerosing keratitis] {bilateral or left} `eye`
+H16333  [sclerosing keratitis] {bilateral} `eye`
+H16339  [sclerosing keratitis] !{left} `eye`
+H16391* other interstitial and deep keratitis, {bilateral or left} `eye`
+H16392* other interstitial and deep keratitis, {bilateral or left} `eye`
+H16393* other interstitial and deep keratitis, {bilateral} `eye`
+H16399* other interstitial and deep keratitis, `eye`
+H16401  [corneal neovascularization] {right}
+H16402  [corneal neovascularization] {left}
+H16403  [corneal neovascularization] {bilateral}
+H16409  [corneal neovascularization] !{left} !{right} !{bilateral} `eye`
+H16411  [ghost vessels] {bilateral or right} `eye`
+H16412  [ghost vessels] {bilateral or left} `eye`
+H16413  [ghost vessels] {bilateral} `eye`
+H16419  [ghost vessels] !{left} `eye`
+H16421  [pannus] {bilateral or right} `eye`
+H16422  [pannus] {bilateral or left} `eye`
+H16423  [pannus] {bilateral} `eye`
+H16429  [pannus] `eye` !{left} !{right} !{bilateral}
+H16431  [localized vascularization of cornea] {bilateral or right} `eye`
+H16432  [localized vascularization of cornea] {bilateral or left} `eye`
+H16433  [localized vascularization of cornea] {bilateral} `eye`
+H16439  [localized vascularization of cornea] !{left} !{right} !{bilateral} `eye`
+H16441  [deep vascularization of cornea] {bilateral or right} `eye`
+H16442  [deep vascularization of cornea] {bilateral or left} `eye`
+H16443  [deep vascularization of cornea] {bilateral} `eye`
+H16449  [deep vascularization of cornea] `eye` !{left} !{right} !{bilateral}
+H168*   other keratitis
+H169    [keratitis]
+H1700   [adherent leukoma] !{left} `eye`
+H1701   [adherent leukoma] {bilateral or right} `eye`
+H1702   [adherent leukoma] {bilateral or left} `eye`
+H1703   [adherent leukoma] {bilateral} `eye`
+H1710   [central corneal opacity] !{left} !{right} !{bilateral}`eye`
+H1711   [central corneal opacity] {bilateral or right} `eye`
+H1712   [central corneal opacity] {bilateral or left} `eye`
+H1713   [central corneal opacity] {bilateral} `eye`
+H17811  [minor opacity of cornea] {bilateral or right} `eye`
+H17812  [minor opacity of cornea] {bilateral or left} `eye`
+H17813  [minor opacity of cornea] {bilateral} `eye`
+H17819  [minor opacity of cornea] !{left} !{right} !{bilateral} `eye`
+H17821  [peripheral opacity of cornea] {bilateral or right} `eye`
+H17822  [peripheral opacity of cornea] {bilateral or left} `eye`
+H17823  [peripheral opacity of cornea] {bilateral} `eye`
+H17829  [peripheral opacity of cornea] `eye` !{left} !{right} !{bilateral}
+H1789*  other corneal scars and opacities
+H179    [corneal scar] & [corneal opacity]
+H18001  [corneal deposit] {bilateral or right} `eye`
+H18002  [corneal deposit] {bilateral or left} `eye`
+H18003  [corneal deposit] {bilateral} `eye`
+H18009  [corneal deposit]  !{left} !{right} !{bilateral} `eye`
+H18011  [anterior corneal pigmentations] {bilateral or right} `eye`
+H18012  [anterior corneal pigmentations] {bilateral or left} `eye`
+H18013  [anterior corneal pigmentations] {bilateral} `eye`
+H18019  [anterior corneal pigmentations] !{left} !{right} !{bilateral} `eye`
+H18021  [argentous corneal deposits] {bilateral or right} `eye`
+H18022  [argentous corneal deposits] {bilateral or left} `eye`
+H18023  [argentous corneal deposits] {bilateral} `eye`
+H18029  [argentous corneal deposits] !{left} !{right} !{bilateral} `eye`
+H18031  [corneal deposits] & [metabolic disorder] {bilateral or right} `eye`
+H18032  [corneal deposits] & [metabolic disorder] {bilateral or left} `eye`
+H18033  [corneal deposits] & [metabolic disorder] {bilateral} `eye`
+H18039  [corneal deposits] & [metabolic disorder] `eye` !{left} !{right} !{bilateral}
+H18041  [kayser fleischer ring] {bilateral or right} `eye`
+H18042  [kayser fleischer ring] {bilateral or left} `eye`
+H18043  [kayser fleischer ring] {bilateral} `eye`
+H18049  [kayser fleischer ring] !{left} `eye`
+H18051  [posterior corneal pigmentations] {bilateral or right} `eye`
+H18052  [posterior corneal pigmentations] {bilateral or left} `eye`
+H18053  [posterior corneal pigmentations] {bilateral} `eye`
+H18059  [posterior corneal pigmentations] `eye` !{left} !{right} !{bilateral}
+H18061  [stromal corneal pigmentations] {bilateral or right} `eye`
+H18062  [stromal corneal pigmentations] {bilateral or left} `eye`
+H18063  [stromal corneal pigmentations] {bilateral} `eye`
+H18069  [stromal corneal pigmentations] `eye` !{left} !{right} !{bilateral}
+H1810   [bullous keratopathy] !{left} !{right} !{bilateral} `eye`
+H1811   [bullous keratopathy] {bilateral or right} `eye`
+H1812   [bullous keratopathy] {bilateral or left} `eye`
+H1813   [bullous keratopathy] {bilateral} `eye`
+H1820   [corneal edema] !{left} !{right} !{bilateral}
+H18211  [corneal edema] {contact lens} {right}
+H18212  [corneal edema] {contact lens} {left}
+H18213  [corneal edema] {contact lens} {bilateral}
+H18219  [corneal edema] {contact lens} !{left} !{right} !{bilateral} `eye`
+H18221  [idiopathic corneal edema] {bilateral or right} `eye`
+H18222  [idiopathic corneal edema] {bilateral or left} `eye`
+H18223  [idiopathic corneal edema] {bilateral} `eye`
+H18229  [idiopathic corneal edema] `eye` !{left} !{right} !{bilateral}
+H18231  [secondary corneal edema] {bilateral or right} `eye`
+H18232  [secondary corneal edema] {bilateral or left} `eye`
+H18233  [secondary corneal edema] {bilateral} `eye`
+H18239  [secondary corneal edema] `eye` !{left} !{right} !{bilateral}
+H1830   [corneal membrane change] !{left} !{right} !{bilateral}
+H18311  [folds in bowmans membrane] {bilateral or right} `eye`
+        [rupture in bowmans membrane] {bilateral or right} `eye`
+H18312  [folds in bowmans membrane] {bilateral or left} `eye`
+        [rupture in bowmans membrane] {bilateral or left} `eye`
+H18313  [folds in bowmans membrane] {bilateral} `eye`
+        [rupture in bowmans membrane] {bilateral} `eye`
+H18319  [folds in bowmans membrane] `eye` !{left} !{right} !{bilateral}
+        [rupture in bowmans membrane] `eye` !{left} !{right} !{bilateral}
+H18321  [folds in descemets membrane] {bilateral or right} `eye`
+H18322  [folds in descemets membrane] {bilateral or left} `eye`
+H18323  [folds in descemets membrane] {bilateral} `eye`
+H18329  [folds in descemets membrane] `eye` !{left} !{right} !{bilateral}
+H18331  [rupture in descemets membrane] {bilateral or right} `eye`
+H18332  [rupture in descemets membrane] {bilateral or left} `eye`
+H18333  [rupture in descemets membrane] {bilateral} `eye`
+H18339  [rupture in descemets membrane] `eye` !{left} !{right} !{bilateral}
+H1840   [corneal degeneration]
+H18411  [arcus senilis] {bilateral or right} `eye`
+H18412  [arcus senilis] {bilateral or left} `eye`
+H18413  [arcus senilis] {bilateral} `eye`
+H18419  [arcus senilis] `eye` !{left} !{right} !{bilateral}
+H18421  [band keratopathy] {bilateral or right} `eye`
+H18422  [band keratopathy] {bilateral or left} `eye`
+H18423  [band keratopathy] {bilateral} `eye`
+H18429  [band keratopathy] `eye` !{left} !{right} !{bilateral}
+H1843*  other calcerous corneal degeneration
+H18441  [keratomalacia] {bilateral or right} `eye`
+H18442  [keratomalacia] {bilateral or left} `eye`
+H18443  [keratomalacia] {bilateral} `eye`
+H18449  [keratomalacia] `eye` !{left} !{right} !{bilateral}
+H18451  [nodular corneal degeneration] {bilateral or right} `eye`
+H18452  [nodular corneal degeneration] {bilateral or left} `eye`
+H18453  [nodular corneal degeneration] {bilateral} `eye`
+H18459  [nodular corneal degeneration] `eye` !{left} !{right} !{bilateral}
+H18461  [peripheral corneal degeneration] {bilateral or right} `eye`
+H18462  [peripheral corneal degeneration] {bilateral or left} `eye`
+H18463  [peripheral corneal degeneration] {bilateral} `eye`
+H18469  [peripheral corneal degeneration] `eye` !{left} !{right} !{bilateral}
+H1849   [other corneal degeneration]
+H1850*  [corneal dystrophies] {hereditary} "Deleted ICD10 FY2021"
+H18501  [hereditary corneal dystrophies] `eye` {right} 
+H18502  [hereditary corneal dystrophies] `eye` {left} 
+H18503  [hereditary corneal dystrophies] `eye` {bilateral} 
+H18509  [hereditary corneal dystrophies] `eye` !{left} !{right} !{bilateral} !{left} !{right} !{bilateral} 
+H1851*  [endothelial corneal dystrophy] "Deleted ICD10 FY2021"
+H1852*  [epithelial corneal dystrophy] "Deleted ICD10 FY2021"
+H1853*  [granular corneal dystrophy] "Deleted ICD10 FY2021"
+H1854*  [lattice corneal dystrophy] "Deleted ICD10 FY2021"
+H1855*  [macular corneal dystrophy] "Deleted ICD10 FY2021"
+H1859*  [other hereditary corneal dystrophies] "Deleted ICD10 FY2021"
+H18511	[endothelial corneal dystrophy] {right} 
+H18512	[endothelial corneal dystrophy] {left} 
+H18513	[endothelial corneal dystrophy] {bilateral} 
+H18519	[endothelial corneal dystrophy] !{left} !{right} !{bilateral} 
+H18521	[epithelial corneal dystrophy] {right} !"adult" 
+H18522	[epithelial corneal dystrophy] {left} !"adult" 
+H18523	[epithelial corneal dystrophy] {bilateral} !"adult" 
+H18529	[epithelial corneal dystrophy] !{left} !{right} !{bilateral} !"adult" 
+H18531	[granular corneal dystrophy] {right} 
+H18532	[granular corneal dystrophy] {left} 
+H18533	[granular corneal dystrophy] {bilateral} 
+H18539	[granular corneal dystrophy] !{left} !{right} !{bilateral} 
+H18541	[lattice corneal dystrophy] {right} 
+H18542	[lattice corneal dystrophy] {left} 
+H18543	[lattice corneal dystrophy] {bilateral} 
+H18549	[lattice corneal dystrophy] !{left} !{right} !{bilateral} 
+H18551	[macular corneal dystrophy] {right} 
+H18552	[macular corneal dystrophy] {left} 
+H18553	[macular corneal dystrophy] {bilateral} 
+H18559	[macular corneal dystrophy] !{left} !{right} !{bilateral} 
+H18591	[other hereditary corneal dystrophies] {right} 
+H18592	[other hereditary corneal dystrophies] {left} 
+H18593	[other hereditary corneal dystrophies] {bilateral} 
+H18599	[other hereditary corneal dystrophies] !{left} !{right} !{bilateral} 
+H18601  [keratoconus] {bilateral or right} `eye`
+H18602  [keratoconus] {bilateral or left} `eye`
+H18603  [keratoconus] {bilateral} `eye`
+H18609  [keratoconus] `eye` !{left} !{right} !{bilateral}
+H18611  [keratoconus] {stable} {bilateral or right} `eye`
+H18612  [keratoconus] {stable} {bilateral or left} `eye`
+H18613  [keratoconus] {stable} {bilateral} `eye`
+H18619  [keratoconus] {stable} !{left} !{right} !{bilateral} `eye`
+H18621  [keratoconus] {unstable} {bilateral or right} `eye`
+H18622  [keratoconus] {unstable} {bilateral or left} `eye`
+H18623  [keratoconus] {unstable} {bilateral} `eye`
+H18629  [keratoconus] {unstable} !{left} !{right} !{bilateral} `eye`
+H1870   [corneal deformity]
+H18711  [corneal ectasia] {bilateral or right} `eye`
+H18712  [corneal ectasia] {bilateral or left} `eye`
+H18713  [corneal ectasia] {bilateral} `eye`
+H18719  [corneal ectasia] `eye` !{left} !{right} !{bilateral}
+H18721  [corneal staphyloma] {bilateral or right} `eye`
+H18722  [corneal staphyloma] {bilateral or left} `eye`
+H18723  [corneal staphyloma] {bilateral} `eye`
+H18729  [corneal staphyloma] `eye` !{left} !{right} !{bilateral}
+H18731  [descemetocele] {bilateral or right} `eye`
+H18732  [descemetocele] {bilateral or left} `eye`
+H18733  [descemetocele] {bilateral} `eye`
+H18739  [descemetocele] `eye` !{left} !{right} !{bilateral}
+H18791* other corneal deformities, {bilateral or right} `eye`
+H18792* other corneal deformities, {bilateral or left} `eye`
+H18793* other corneal deformities, {bilateral} `eye`
+H18799* other corneal deformities, `eye`
+H18811  [anesthesia] `cornea` {right}
+        [hypoesthesia] `cornea` {right}
+H18812  [anesthesia] `cornea` {left}
+        [hypoesthesia] `cornea` {left}
+H18813  [anesthesia] `cornea, both eyes`
+        [hypoesthesia] `cornea, both eyes`
+H18819  [anesthesia] `cornea, eye` !{left} !{right} !{bilateral}
+        [hypoesthesia] `cornea, eye` !{left} !{right} !{bilateral}
+H18821  [cornea disorder] {bilateral or right} `eye` & [contact lens]
+H18822  [cornea disorder] {bilateral or left} `eye` & [contact lens]
+H18823  [cornea disorder] {bilateral} `eye` & [contact lens]
+H18829  [cornea disorder] !{left} !{right} !{bilateral} & [contact lens]
+H18831  [erosion] {recurrent} {bilateral or right} `cornea`
+H18832  [erosion] {recurrent} {bilateral or left} `cornea`
+H18833  [erosion] {recurrent} `both corneas`
+H18839  [erosion] {recurrent} !{left} !{right} !{bilateral} `cornea`
+H18891* other specified disorders of cornea, {bilateral or right} `eye`
+H18892* other specified disorders of cornea, {bilateral or left} `eye`
+H18893* other specified disorders of cornea, {bilateral} `eye`
+H18899* other specified disorders of cornea, !{left} !{right} !{bilateral} `eye`
+H189    [disorder] `cornea`
+H2000   [iridocyclitis] {acute}
+        [iridocyclitis] {subacute}
+H20011  [iridocyclitis] {primary} {bilateral or right} `eye`
+H20012  [iridocyclitis] {primary} {bilateral or left} `eye`
+H20013  [iridocyclitis] {primary} {bilateral} `eye`
+H20019  [iridocyclitis] {primary} !{left} !{right} !{bilateral} `eye`
+H20021  [iridocyclitis] {recurrent} {acute} {bilateral or right} `eye`
+H20022  [iridocyclitis] {recurrent} {acute} {bilateral or left} `eye`
+H20023  [iridocyclitis] {recurrent} {acute} {bilateral} `eye`
+H20029  [iridocyclitis] {recurrent} {acute} !{left} !{right} !{bilateral} `eye`
+H20031  [iridocyclitis] {secondary} {infectious} {bilateral or right} `eye`
+H20032  [iridocyclitis] {secondary} {infectious} {bilateral or left} `eye`
+H20033  [iridocyclitis] {secondary} {infectious} {bilateral} `eye`
+H20039  [iridocyclitis] {secondary} {infectious} !{left} !{right} !{bilateral} `eye`
+H20041  [iridocyclitis] {secondary} {noninfectious} {bilateral or right} `eye`
+H20042  [iridocyclitis] {secondary} {noninfectious} {bilateral or left} `eye`
+H20043  [iridocyclitis] {secondary} {noninfectious} {bilateral} `eye`
+H20049  [iridocyclitis] {secondary} {noninfectious} !{left} !{right} !{bilateral} `eye`
+H20051  [hypopyon] {bilateral or right} `eye`
+H20052  [hypopyon] {bilateral or left} `eye`
+H20053  [hypopyon] {bilateral} `eye`
+H20059  [hypopyon] `eye` !{left} !{right} !{bilateral}
+H2010   [iridocyclitis] {chronic} `eye` !{left} !{right} !{bilateral}
+H2011   [iridocyclitis] {chronic} {bilateral or right} `eye`
+H2012   [iridocyclitis] {chronic} {bilateral or left} `eye`
+H2013   [iridocyclitis] {chronic} {bilateral} `eye`
+H2020   [iridocyclitis] {lens induced} !{left} !{right} !{bilateral} `eye`
+H2021   [iridocyclitis] {lens induced} {bilateral or right} `eye`
+H2022   [iridocyclitis] {lens induced} {bilateral or left} `eye`
+H2023   [iridocyclitis] {lens induced} {bilateral} `eye`
+H20811  [fuchs heterochromic cyclitis] {bilateral or right} `eye`
+H20812  [fuchs heterochromic cyclitis] {bilateral or left} `eye`
+H20813  [fuchs heterochromic cyclitis] {bilateral} `eye`
+H20819  [fuchs heterochromic cyclitis] `eye` !{left} !{right} !{bilateral}
+H20821  [vogt koyanagi syndrome] {bilateral or right} `eye`
+H20822  [vogt koyanagi syndrome] {bilateral or left} `eye`
+H20823  [vogt koyanagi syndrome] {bilateral} `eye`
+H20829  [vogt koyanagi syndrome] `eye` !{left} !{right} !{bilateral}
+H209    [iridocyclitis]
+H2100   [hyphema] `eye` !{left} !{right} !{bilateral}
+H2101   [hyphema] {bilateral or right} `eye`
+H2102   [hyphema] {bilateral or left} `eye`
+H2103   [hyphema] {bilateral} `eye`
+H211X1* other vascular disorders of iris and ciliary body, {bilateral or left} `eye`
+H211X2* other vascular disorders of iris and ciliary body, {bilateral or left} `eye`
+H211X3* other vascular disorders of iris and ciliary body, {bilateral} `eye`
+H211X9* other vascular disorders of iris and ciliary body, `eye`
+H21211  [degeneration of chamber angle] {bilateral or right} `eye`
+H21212  [degeneration of chamber angle] {bilateral or left} `eye`
+H21213  [degeneration of chamber angle] {bilateral} `eye`
+H21219  [degeneration of chamber angle] `eye` !{left} !{right} !{bilateral}
+H21221  [degeneration of ciliary body] {bilateral or right} `eye`
+H21222  [degeneration of ciliary body] {bilateral or left} `eye`
+H21223  [degeneration of ciliary body] {bilateral} `eye`
+H21229  [degeneration of ciliary body] `eye` !{left} !{right} !{bilateral}
+H21231  [degeneration of iris] {bilateral or right} `eye`
+H21232  [degeneration of iris] {bilateral or left} `eye`
+H21233  [degeneration of iris] {bilateral} `eye`
+H21239  [degeneration of iris] `eye` !{left} !{right} !{bilateral}
+H21241  [degeneration of pupillary margin] {bilateral or right} `eye`
+H21242  [degeneration of pupillary margin] {bilateral or left} `eye`
+H21243  [degeneration of pupillary margin] {bilateral} `eye`
+H21249  [degeneration of pupillary margin] `eye` !{left} !{right} !{bilateral}
+H21251  [iridoschisis] {bilateral or right} `eye`
+H21252  [iridoschisis] {bilateral or left} `eye`
+H21253  [iridoschisis] {bilateral} `eye`
+H21259  [iridoschisis] `eye` !{left} !{right} !{bilateral}
+H21261  [iris atrophy] {bilateral or right} `eye`
+H21262  [iris atrophy] {bilateral or left} `eye`
+H21263  [iris atrophy] {bilateral} `eye`
+H21269  [iris atrophy] `eye` !{left} !{right} !{bilateral}
+H21271  [miotic pupillary cyst] {bilateral or right} `eye`
+H21272  [miotic pupillary cyst] {bilateral or left} `eye`
+H21273  [miotic pupillary cyst] {bilateral} `eye`
+H21279  [miotic pupillary cyst] `eye` !{left} !{right} !{bilateral}
+H2129*  other [iris atrophy]
+H21301  [idiopathic cysts] `iris` {right}
+        [idiopathic cysts] `ciliary body` {right}
+        [idiopathic cysts] `anterior chamber` {right}
+H21302  [idiopathic cysts] `iris` {left}
+        [idiopathic cysts] `ciliary body` {left}
+        [idiopathic cysts] `anterior chamber` {left}
+H21303  [idiopathic cysts] `iris` {bilateral}
+        [idiopathic cysts] `ciliary body` {bilateral}
+        [idiopathic cysts] `anterior chamber` {bilateral}
+H21309  [idiopathic cysts] `iris of eye` !{left} !{right} !{bilateral}
+        [idiopathic cysts] `ciliary body of eye` !{left} !{right} !{bilateral}
+        [idiopathic cysts] `anterior chamber of eye` !{left} !{right} !{bilateral}
+H21311  [exudative cysts] `iris` {right}
+        [exudative cysts] `anterior chamber` {right}
+H21312  [exudative cysts] `iris` {left}
+        [exudative cysts] `anterior chamber` {left}
+H21313  [exudative cysts] `iris` {bilateral}
+        [exudative cysts] `anterior chamber` {bilateral}
+H21319  [exudative cysts] `iris of eye` !{left} !{right} !{bilateral}
+        [exudative cysts] `anterior chamber of eye` !{left} !{right} !{bilateral}
+H21321  [implantation cysts] `iris` {right} !{left} !{right} !{bilateral}
+        [implantation cysts] `ciliary body` {right}
+        [implantation cysts] `anterior chamber` {right}
+H21322  [implantation cysts] `iris` {left}
+        [implantation cysts] `ciliary body` {left}
+        [implantation cysts] `anterior chamber` {left}
+H21323  [implantation cysts] `iris` {bilateral}
+        [implantation cysts] `ciliary body` {bilateral}
+        [implantation cysts] `anterior chamber` {bilateral}
+H21329  [implantation cysts] `iris of eye` !{left} !{right} !{bilateral}
+        [implantation cysts] `ciliary body of eye` !{left} !{right} !{bilateral}
+        [implantation cysts] `anterior chamber of eye` !{left} !{right} !{bilateral}
+H21331  [parasitic cyst] `iris` {right}
+        [parasitic cyst] `ciliary body` {right}
+        [parasitic cyst] `anterior chamber` {right}
+H21332  [parasitic cyst] `iris` {left}
+        [parasitic cyst] `ciliary body` {left}
+        [parasitic cyst] `anterior chamber` {left}
+H21333  [parasitic cyst] `iris` {bilateral}
+        [parasitic cyst] `ciliary body` {bilateral}
+        [parasitic cyst] `anterior chamber` {bilateral}
+H21339  [parasitic cyst] `iris of eye` !{left} !{right} !{bilateral}
+        [parasitic cyst] `ciliary body of eye` !{left} !{right} !{bilateral}
+        [parasitic cyst] `anterior chamber of eye` !{left} !{right} !{bilateral}
+H21341  [primary cyst] `pars plana` {right}
+H21342  [primary cyst] `pars plana` {left}
+H21343  [primary cyst] `pars plana` {bilateral}
+H21349  [primary cyst] `pars plana of eye` !{left} !{right} !{bilateral}
+H21351  [exudative cyst] `pars plana` {right}
+H21352  [exudative cyst] `pars plana` {left}
+H21353  [exudative cyst] `pars plana` {bilateral}
+H21359  [exudative cyst] `pars plana of eye` !{left} !{right} !{bilateral}
+H2140   [pupillary membranes] `eye` !{left} !{right} !{bilateral}
+H2141   [pupillary membranes] {bilateral or right} `eye`
+H2142   [pupillary membranes] {bilateral or left} `eye`
+H2143   [pupillary membranes] {bilateral} `eye`
+H21501  [adhesions] `iris` {right}
+H21502  [adhesions] `iris` {left}
+H21503  [adhesions] `iris` {bilateral}
+H21509  [adhesions] `iris of eye` !{left} !{right} !{bilateral}
+        [adhesions] `ciliary body of eye` !{left} !{right} !{bilateral}
+H21511  [anterior synechiae] {bilateral or right} `eye`
+H21512  [anterior synechiae] {bilateral or left} `eye`
+H21513  [anterior synechiae] {bilateral} `eye`
+H21519  [anterior synechiae] `eye` !{left} !{right} !{bilateral}
+H21521  [goniosynechiae] {bilateral or right} `eye`
+H21522  [goniosynechiae] {bilateral or left} `eye`
+H21523  [goniosynechiae] {bilateral} `eye`
+H21529  [goniosynechiae] `eye` !{left} !{right} !{bilateral}
+H21531  [iridodialysis] {bilateral or right} `eye`
+H21532  [iridodialysis] {bilateral or left} `eye`
+H21533  [iridodialysis] {bilateral} `eye`
+H21539  [iridodialysis] `eye` !{left} !{right} !{bilateral}
+H21541  [posterior synechiae] {bilateral or right} `eye`
+H21542  [posterior synechiae] {bilateral or left} `eye`
+H21543  [posterior synechiae] {bilateral} `eye`
+H21549  [posterior synechiae] `eye` !{left} !{right} !{bilateral}
+H21551  [recession of chamber angle] {bilateral or right} `eye`
+H21552  [recession of chamber angle] {bilateral or left} `eye`
+H21553  [recession of chamber angle] {bilateral} `eye`
+H21559  [recession of chamber angle] `eye` !{left} !{right} !{bilateral}
+H21561  [pupillary abnormality] {bilateral or right} `eye`
+H21562  [pupillary abnormality] {bilateral or left} `eye`
+H21563  [pupillary abnormality] {bilateral} `eye`
+H21569  [pupillary abnormality] `eye` !{left} !{right} !{bilateral}
+H2181   [floppy iris syndrome]
+H2182   [plateau iris syndromw]
+H2189*  other specified disorders of iris and ciliary body
+H219    [disorder of iris]
+        [disorder of ciliary body]
+H22*    disorders of iris and ciliary body in diseases classified elsewhere
+H25011  [cortical age related cataract] {bilateral or right} `eye`
+H25012  [cortical age related cataract] {bilateral or left} `eye`
+H25013  [cortical age related cataract] {bilateral} `eye`
+H25019  [cortical age related cataract] `eye` !{left} !{right} !{bilateral}
+H25031  [anterior subcapsular polar age related cataract] {bilateral or right} `eye`
+H25032  [anterior subcapsular polar age related cataract] {bilateral or left} `eye`
+H25033  [anterior subcapsular polar age related cataract] {bilateral} `eye`
+H25039  [anterior subcapsular polar age related cataract] `eye` !{left} !{right} !{bilateral}
+H25041  [posterior subcapsular polar age related cataract] {bilateral or right} `eye`
+H25042  [posterior subcapsular polar age related cataract] {bilateral or left} `eye`
+H25043  [posterior subcapsular polar age related cataract] {bilateral} `eye`
+H25049  [posterior subcapsular polar age related cataract] `eye` !{left} !{right} !{bilateral}
+H25091* other [age related incipient cataract] {bilateral or right} `eye`
+H25092* other [age related incipient cataract] {bilateral or left} `eye`
+H25093* other [age related incipient cataract] {bilateral} `eye`
+H25099* other [age related incipient cataract] `eye` !{left} !{right} !{bilateral}
+H2510*  [cataract] {nuclear sclerotic} `eye`
+H2511   [cataract] {right} !{morgagnian} !{combined form} !"pediatric" !"age-related"
+H2512   [cataract] {left} !"pediatric"
+H2513   [cataract] {bilateral} !"pediatric"
+H2520   [cataract] {morgagnian} !{left} !{right} !{bilateral} `eye`
+H2521   [cataract] {morgagnian} {bilateral or right} `eye`
+H2522   [cataract] {morgagnian} {bilateral or left} `eye`
+H2523   [cataract] {morgagnian} {bilateral} `eye`
+H25811  [cataract] {combined form} {bilateral or right} `eye`
+H25812  [cataract] {combined form} {bilateral or left} `eye`
+H25813  [cataract] {combined form} {bilateral} `eye`
+H25819  [combined forms of age related cataract] `eye` !{left} !{right} !{bilateral}
+H2589*  other age related cataract
+H259    [age related cataract]
+H26001  [cataract] {bilateral or right} `eye` "pediatric"
+H26002  [cataract] {bilateral or left} `eye` "pediatric"
+H26003  [cataract] {bilateral} `eye` "pediatric"
+H26009  [cataract] `eye` !{left} !{right} !{bilateral} "pediatric"
+H26011  [cataract] {cortical} {bilateral or right} `eye` "pediatric"
+H26012  [cataract] {cortical or lamellar or zonular} {bilateral or left} `eye` "pediatric"
+H26013  [cataract] {cortical or lamellar or zonular} {bilateral} `eye` "pediatric"
+H26019  [cataract] {cortical or lamellar or zonular} !{left} !{right} !{bilateral} `eye` "pediatric"
+H26031  [cataract] {nuclear} {bilateral or right} `eye` "pediatric"
+H26032  [cataract] {nuclear} {bilateral or left} `eye` "pediatric"
+H26033  [cataract] {nuclear} {bilateral} `eye` "pediatric"
+H26039  [cataract] {nuclear} !{left} !{right} !{bilateral} `eye` "pediatric"
+H26041  [cataract] {anterior} {subcapsular} {polar} {bilateral or right} `eye` "pediatric"
+H26042  [cataract] {anterior} {subcapsular} {polar} {bilateral or left} `eye` "pediatric"
+H26043  [cataract] {anterior} {subcapsular} {polar} {bilateral} `eye` "pediatric"
+H26049  [cataract] {anterior} {subcapsular} {polar} !{left} !{right} !{bilateral} `eye` "pediatric"
+H26051  [cataract] {posterior} {subcapsular} {polar} {bilateral or right} `eye` "pediatric"
+H26052  [cataract] {posterior} {subcapsular} {polar} {bilateral or left} `eye` "pediatric"
+H26053  [cataract] {posterior} {subcapsular} {polar} {bilateral} `eye` "pediatric"
+H26059  [cataract] {posterior} {subcapsular} {polar} !{left} !{right} !{bilateral} `eye` "pediatric"
+H26061* combined forms of [cataract] {bilateral or left} `eye` "pediatric"
+H26062* combined forms of [cataract] {bilateral or left} `eye` "pediatric"
+H26063* combined forms of [cataract] {bilateral} `eye` "pediatric"
+H26069* combined forms of [cataract] `eye` !{left} !{right} !{bilateral} "pediatric"
+H2609*  other infantile and juvenile cataract "pediatric"
+H26101  [cataract] {traumatic} {bilateral or right} `eye`
+H26102  [cataract] {traumatic} {bilateral or left} `eye`
+H26103  [cataract] {traumatic} {bilateral} `eye`
+H26109  [cataract] {traumatic} !{left} !{right} !{bilateral} `eye`
+H26111  [opacities] {localized} {traumatic} {bilateral or right} `eye`
+H26112  [opacities] {localized} {traumatic} {bilateral or left} `eye`
+H26113  [opacities] {localized} {traumatic} {bilateral} `eye`
+H26119  [opacities] {localized} {traumatic} !{left} !{right} !{bilateral} `eye`
+H26121  [cataract] {partially resolved} {traumatic} {bilateral or right} `eye`
+H26122  [cataract] {partially resolved} {traumatic} {bilateral or left} `eye`
+H26123  [cataract] {partially resolved} {traumatic} {bilateral} `eye`
+H26129  [cataract] {partially resolved} {traumatic} !{left} !{right} !{bilateral} `eye`
+H26131  [cataract] {total traumatic} {bilateral or right} `eye`
+H26132  [cataract] {total traumatic} {bilateral or left} `eye`
+H26133  [cataract] {total traumatic} {bilateral} `eye`
+H26139  [cataract] {total traumatic} !{left} !{right} !{bilateral} `eye`
+H2620   [complicated cataract]
+H26211  [cataract] & [neovascularization] {bilateral or right} `eye`
+H26212  [cataract] & [neovascularization] {bilateral or left} `eye`
+H26213  [cataract] & [neovascularization] {bilateral} `eye`
+H26219  [cataract] & [neovascularization] `eye` !{left} !{right} !{bilateral}
+H26221  [cataract] & [disorder] {bilateral or right} `eye`
+H26222  [cataract] & [disorder] {bilateral or left} `eye`
+H26223  [cataract] & [disorder] {bilateral} `eye`
+H26229  [cataract] & [disorder] `eye` !{left} !{right} !{bilateral}
+H26231  [glaucomatous flecks] {bilateral or right} `eye`
+H26232  [glaucomatous flecks] {bilateral or left} `eye`
+H26233  [glaucomatous flecks] {bilateral} `eye`
+H26239  [glaucomatous flecks] `eye` !{left} !{right} !{bilateral}
+H2630   [cataract] {drug induced} `eye` !{left} !{right} !{bilateral}
+H2631   [cataract] {drug induced} {bilateral or right} `eye`
+H2632   [cataract] {drug induced} {bilateral or left} `eye`
+H2633   [cataract] {drug induced} {bilateral} `eye`
+H2640   [cataract] {secondary}
+H26411  [soemmerings ring] {bilateral or right} `eye`
+H26412  [soemmerings ring] {bilateral or left} `eye`
+H26413  [soemmerings ring] {bilateral} `eye`
+H26419  [soemmerings ring] `eye` !{left} !{right} !{bilateral}
+H26491* other {secondary} [cataract] {bilateral or left} `eye`
+H26492* other {secondary} [cataract] {bilateral or left} `eye`
+H26493* other {secondary} [cataract] {bilateral} `eye`
+H26499* other {secondary} [cataract] `eye` !{left} !{right} !{bilateral}
+H268*   other specified cataract
+H269    [cataract] !{age related} !{nuclear}
+H2700   [aphakia] `eye` !{left} !{right} !{bilateral}
+H2701   [aphakia] {bilateral or right} `eye`
+H2702   [aphakia] {bilateral or left} `eye`
+H2703   [aphakia] {bilateral} `eye`
+H2710   [dislocation] `lens`
+H27111  [subluxation] `lens` {right}
+H27112  [subluxation] `lens` {left}
+H27113  [subluxation] `lens` {bilateral}
+H27119  [subluxation] `lens of eye` !{left} !{right} !{bilateral}
+H27121  [dislocation] {anterior} `lens` {right}
+H27122  [dislocation] {anterior} `lens` {left}
+H27123  [dislocation] {anterior} `lens` {bilateral}
+H27129  [dislocation] {anterior} `lens of eye` !{left} !{right} !{bilateral}
+H27131  [dislocation] {posterior} `lens` {right}
+H27132  [dislocation] {posterior} `lens` {left}
+H27133  [dislocation] {posterior} `lens` {bilateral}
+H27139  [dislocation] {posterior} `lens of eye` !{left} !{right} !{bilateral}
+H278*   other specified disorders of `lens`
+H279    [disorder] `lens`
+H28*    cataract in diseases classified elsewhere
+H30001  [inflammation] {bilateral or right} `eye` `focal chorioretinal`
+H30002  [inflammation] {bilateral or left} `eye` `focal chorioretinal`
+H30003  [inflammation] {bilateral} `eye` `focal chorioretinal`
+H30009  [inflammation] `eye` !{left} !{right} !{bilateral} `focal chorioretinal`
+H30011  [inflammation] `juxtapapillary` {bilateral or right} `focal chorioretinal`
+H30012  [inflammation] `juxtapapillary` {bilateral or left} `focal chorioretinal`
+H30013  [inflammation] `juxtapapillary` {bilateral} `focal chorioretinal`
+H30019  [inflammation] `juxtapapillary of eye` !{left} !{right} !{bilateral} `focal chorioretinal`
+H30021  [inflammation] `posterior pole` {bilateral or right} `focal chorioretinal`
+H30022  [inflammation] `posterior pole` {bilateral or left} `focal chorioretinal`
+H30023  [inflammation] `posterior pole` {bilateral} `focal chorioretinal`
+H30029  [inflammation] `posterior pole of eye` `focal chorioretinal`
+H30031  [inflammation] {peripheral} {bilateral or right} `eye` `focal chorioretinal`
+H30032  [inflammation] {peripheral} {bilateral or left} `eye` `focal chorioretinal`
+H30033  [inflammation] {peripheral} {bilateral} `eye` `focal chorioretinal`
+H30039  [inflammation] {peripheral} !{left} !{right} !{bilateral} `eye` `focal chorioretinal`
+H30041  [inflammation] `macular` {bilateral or right} `focal chorioretinal`
+H30041  [inflammation] `paramacular` {bilateral or right} `focal chorioretinal`
+H30042  [inflammation] `macular` {bilateral or left} `focal chorioretinal`
+H30042  [inflammation] `paramacular` {bilateral or left} `focal chorioretinal`
+H30043  [inflammation] `macular` {bilateral} `focal chorioretinal`
+H30043  [inflammation] `paramacular` {bilateral} `focal chorioretinal`
+H30049  [inflammation] `macular of eye` `focal chorioretinal` !{left} !{right} !{bilateral}
+H30049  [inflammation] `paramacular of eye` `focal chorioretinal` !{left} !{right} !{bilateral}
+H30101  [inflammation] {disseminated} {bilateral or right} `eye` `chorioretinal`
+H30102  [inflammation] {disseminated} {bilateral or left} `eye` `chorioretinal`
+H30103  [inflammation] {disseminated} {bilateral} `eye` `chorioretinal`
+H30109  [inflammation] {disseminated} `eye` `chorioretinal` !{left} !{right} !{bilateral}
+H30111  [inflammation] {disseminated} `posterior pole` {bilateral or right} `chorioretinal`
+H30112  [inflammation] {disseminated} `posterior pole` {bilateral or left} `chorioretinal`
+H30113  [inflammation] {disseminated} `posterior pole` {bilateral} `chorioretinal`
+H30119  [inflammation] {disseminated} `posterior pole of eye` `chorioretinal` !{left} !{right} !{bilateral}
+H30121  [inflammation] {disseminated} {peripheral} {bilateral or right} `eye` `chorioretinal`
+H30122  [inflammation] {disseminated} {peripheral} {bilateral or left} `eye` `chorioretinal`
+H30123  [inflammation] {disseminated} {peripheral} {bilateral} `eye` `chorioretinal`
+H30129  [inflammation] {disseminated} {peripheral} `eye` `chorioretinal` !{left} !{right} !{bilateral}
+H30131  [inflammation] {disseminated} {generalized} {bilateral or right} `eye` `chorioretinal`
+H30132  [inflammation] {disseminated} {generalized} {bilateral or left} `eye` `chorioretinal`
+H30133  [inflammation] {disseminated} {generalized} {bilateral} `eye` `chorioretinal`
+H30139  [inflammation] {disseminated} {generalized} `eye` `chorioretinal` !{left} !{right} !{bilateral}
+H30141  [epitheliopathy] {acute} {bilateral or right} `eye` `posterior multifocal placoid pigment`
+H30142  [epitheliopathy] {acute} {bilateral or left} `eye` `posterior multifocal placoid pigment`
+H30143  [epitheliopathy] {acute} {bilateral} `eye` `posterior multifocal placoid pigment`
+H30149  [epitheliopathy] {acute} `eye` !{left} !{right} !{bilateral} `posterior multifocal placoid pigment`
+H3020   [posterior cyclitis] `eye` !{left} !{right} !{bilateral}
+H3021   [posterior cyclitis] {bilateral or right} `eye`
+H3022   [posterior cyclitis] {bilateral or left} `eye`
+H3023   [posterior cyclitis] {bilateral} `eye`
+H30811  [haradas disease] {bilateral or right} `eye`
+H30812  [haradas disease] {bilateral or left} `eye`
+H30813  [haradas disease] {bilateral} `eye`
+H30819  [haradas disease] `eye` !{left} !{right} !{bilateral}
+H30891* other chorioretinal inflammations, {bilateral or left} `eye`
+H30892* other chorioretinal inflammations, {bilateral or left} `eye`
+H30893* other chorioretinal inflammations, {bilateral} `eye`
+H30899* other chorioretinal inflammations, `eye`
+H3090   [inflammation] `eye` !{left} !{right} !{bilateral} `chorioretinal`
+H3091   [inflammation] {bilateral or right} `eye` `chorioretinal`
+H3092   [inflammation] {bilateral or left} `eye` `chorioretinal`
+H3093   [inflammation] {bilateral} `eye` `chorioretinal`
+H31001  [scars] {lrigh} `eye` `chorioretinal`
+H31002  [scars] {bilateral or left} `eye` `chorioretinal`
+H31003  [scars] {bilateral} `eye` `chorioretinal`
+H31009  [scars] `eye` !{left} !{right} !{bilateral} `chorioretinal`
+H31011  [scars] {macula} `posterior pole` {right}
+H31012  [scars] {macula} `posterior pole` {left}
+H31013  [scars] {macula} `posterior pole` {bilateral}
+H31019  [scars] {macula} `posterior pole of eye` !{left} !{right} !{bilateral}
+H31021  [retinopathy] {solar} {bilateral or right} `eye`
+H31022  [retinopathy] {solar} {bilateral or left} `eye`
+H31023  [retinopathy] {solar} {bilateral} `eye`
+H31029  [retinopathy] {solar} `eye` !{left} !{right} !{bilateral}
+H31091* other chorioretinal scars, {bilateral or right} `eye`
+H31092* other chorioretinal scars, {bilateral or left} `eye`
+H31093* other chorioretinal scars, {bilateral} `eye`
+H31099* other chorioretinal scars, `eye` !{left} !{right} !{bilateral}
+H31101  [degeneration] {bilateral or right} `choroid`
+H31102  [degeneration] {bilateral or left} `choroid`
+H31103  [degeneration] {bilateral} `choroid`
+H31109  [degeneration] `choroid` !{left} !{right} !{bilateral}
+H31111  [choroidal atrophy] {age related} {bilateral or right} `eye`
+H31112  [choroidal atrophy] {age related} {bilateral or left} `eye`
+H31113  [choroidal atrophy] {age related} {bilateral} `eye`
+H31119  [choroidal atrophy] {age related} `eye` !{left} !{right} !{bilateral}
+H31121  [atrophy] {diffuse} {secondary} {bilateral or right} `choroid`
+H31122  [atrophy] {diffuse} {secondary} {bilateral or left} `choroid`
+H31123  [atrophy] {diffuse} {secondary} {bilateral} `choroid`
+H31129  [atrophy] {diffuse} {secondary} `choroid` !{left} !{right} !{bilateral}
+H3120   [dystrophy] {hereditary} {choroidal}
+H3121   [choroideremia]
+H3122   [dystrophy] `choroid`
+H3123   [atrophy] {gyrate} `choroid`
+H3129*  other {hereditary} {choroidal} [dystrophy]
+H31301  [hemorrhage] `choroid` {right}
+H31302  [hemorrhage] {choroid} {bilateral or left} `choroid`
+H31303  [hemorrhage] {choroid} {bilateral} `choroid`
+H31309  [hemorrhage] `choroid` !{left} !{right} !{bilateral}
+H31311  [hemorrhage] {expulsive} {bilateral or right} `choroid`
+H31312  [hemorrhage] {expulsive} {bilateral or left} `choroid`
+H31313  [hemorrhage] {expulsive} {bilateral} `choroid`
+H31319  [hemorrhage] {expulsive} `choroid` !{left} !{right} !{bilateral}
+H31321  [rupture] {bilateral or right} `choroid`
+H31322  [rupture] {bilateral or left} `choroid`
+H31323  [rupture] {bilateral} `choroid`
+H31329  [rupture] `choroid` !{left} !{right} !{bilateral}
+H31401  [choroidal detachment] {bilateral or left} `eye`
+H31402  [choroidal detachment] {bilateral or left} `eye`
+H31403  [choroidal detachment] {bilateral} `eye`
+H31409  [choroidal detachment] `eye` !{left} !{right} !{bilateral}
+H31411  [choroidal detachment] {hemorrhagic} {bilateral or right} `eye`
+H31412  [choroidal detachment] {hemorrhagic} {bilateral or left} `eye`
+H31413  [choroidal detachment] {hemorrhagic} {bilateral} `eye`
+H31419  [choroidal detachment] {hemorrhagic} `eye` !{left} !{right} !{bilateral}
+H31421  [choroidal detachment] {serous} {bilateral or right} `eye`
+H31422  [choroidal detachment] {serous} {bilateral or left} `eye`
+H31423  [choroidal detachment] {serous} {bilateral} `eye`
+H31429  [choroidal detachment] {serous} `eye` !{left} !{right} !{bilateral}
+H318*   other specified disorders of choroid
+H319    [disorder] `choroid`
+H32*    chorioretinal disorders in diseases classified elsewhere
+H33001  [rhegmatogenous retinal detachment] !{combined traction} {right} & ![single] & ![multiple] & ![giant]
+        [retinal detachment] & [retinal break] !{combined traction} {right} & ![single] & ![multiple] & ![giant]
+H33002  [rhegmatogenous retinal detachment] !{combined traction} {left} & ![single] & ![multiple] & ![giant]       
+        [retinal detachment] & [retinal break] !{combined traction} {left} & ![single] & ![multiple] & ![giant]
+H33003  [rhegmatogenous retinal detachment] !{combined traction} {bilateral} & ![single] & ![multiple] & ![giant]
+        [retinal detachment] & [retinal break] !{combined traction} {bilateral} & ![single] & ![multiple] & ![giant]
+H33009  [rhegmatogenous retinal detachment] !{combined traction} & ![left] & ![right] & ![single] & ![multiple] & ![giant]
+        [retinal detachment] & [retinal break] !{combined traction} & ![left] & ![right] & ![single] & ![multiple] & ![giant]
+H33011  [rhegmatogenous retinal detachment] {right} & [retinal break] !{multiple}
+        [retinal detachment] & [break] {single} {right}
+H33012  [rhegmatogenous retinal detachment] {left} & [retinal break] {single} !{multiple}
+        [retinal detachment] & [break] {single} {left} 
+H33013  [rhegmatogenous retinal detachment] !{multiple breaks} {bilateral}
+        [retinal detachment] & [break] {single} {bilateral}
+H33019  [rhegmatogenous retinal detachment] {single} !{left} !{right} !{bilateral}
+        [retinal detachment] & [retinal break] {single} !{left} !{right} !{bilateral}
+H33021  [rhegmatogenous retinal detachment] {multiple} {right}
+        [retinal detachment] & [retinal break] {multiple} {right}
+H33022  [rhegmatogenous retinal detachment] {multiple} {left}
+        [rhegmatogenous retinal detachment] {multiple} {left}
+H33023  [rhegmatogenous retinal detachment] {multiple} {bilateral}
+        [retinal detachment] & [retinal break] {multiple} {bilateral}
+H33029  [rhegmatogenous retinal detachment] {multiple} !{left} !{right} !{bilateral}
+        [retinal detachment] & [retinal break] {multiple} !{left} !{right} !{bilateral}
+H33031  [rhegmatogenous retinal detachment] {giant} {right}
+        [retinal detachment] & [retinal break] {giant} {right}
+H33032  [rhegmatogenous retinal detachment] {giant} {left}
+        [retinal detachment] & [retinal break] {giant} {left}
+H33033  [rhegmatogenous retinal detachment] {giant} {bilateral}
+        [retinal detachment] & [retinal break] {giant} {bilateral}
+H33039  [rhegmatogenous retinal detachment] {giant} !{left} !{right} !{bilateral}
+        [retinal detachment] & [retinal break] {giant} !{left} !{right} !{bilateral}
+H33041  [rhegmatogenous retinal detachment] & [retinal dialysis] {right}
+        [retinal detachment] & [retinal break] & [retinal dialysis] {right}
+H33042  [rhegmatogenous retinal detachment] & [retinal dialysis] {left}
+        [retinal detachment] & [retinal break] & [retinal dialysis] {left}
+H33043  [rhegmatogenous retinal detachment] & [retinal dialysis] {bilateral}
+        [retinal detachment] & [retinal break] & [retinal dialysis] {bilateral}
+H33049  [rhegmatogenous retinal detachment] & [retinal dialysis] !{left} !{right} !{bilateral}
+        [retinal detachment] & [retinal break] & [retinal dialysis] !{left} !{right} !{bilateral}
+H33051  [total retinal detachment] {right} 
+H33052  [total retinal detachment] {left} 
+H33053  [total retinal detachment] {bilateral} 
+H33059  [total retinal detachment] !{left} !{right} !{bilateral} 
+H33101  [retinoschisis] {right} 
+H33102  [retinoschisis] {left} 
+H33103  [retinoschisis] {bilateral} 
+H33109  [retinoschisis]  !{left} !{right} !{bilateral}
+H33111  [cyst] `ora serrata` {right}
+H33112  [cyst] `ora serrata` {left}
+H33113  [cyst] `ora serrata` {bilateral}
+H33119  [cyst] `ora serrata of eye` !{left} !{right} !{bilateral}
+H33121  [parasitic cyst] `retina` {right}
+H33122  [parasitic cyst] `retina` {left}
+H33123  [parasitic cyst] `retina` {bilateral}
+H33129  [parasitic cyst] `retina of eye` !{left} !{right} !{bilateral}
+H33191* other retinoschisis and retinal cysts, {bilateral or right} `eye`
+H33192* other retinoschisis and retinal cysts, {bilateral or left} `eye`
+H33193* other retinoschisis and retinal cysts, {bilateral} `eye`
+H33199* other retinoschisis and retinal cysts, `eye`
+H3320   [retinal detachment] {serous} !{left} !{right} !{bilateral}
+H3321   [retinal detachment] {serous} {right} 
+H3322   [retinal detachment] {serous} {left} 
+H3323   [retinal detachment] {serous} {bilateral} 
+H33301  [retinal break] {right} & ![detachment]
+H33302  [retinal break] & ![detachment] {left}
+H33303  [retinal break] {bilateral} & ![detachment]
+H33309* [retinal break] 
+H33311  [horseshoe tear] {retina} & ![detachment] {right} 
+H33312  [horseshoe tear] `retina` & ![detachment] {left} 
+H33313  [horseshoe tear] `retina` & ![detachment] {bilateral} 
+H33319  [horseshoe tear] `retina` & ![detachment]  !{left} !{right} !{bilateral}
+H33321  [round hole] {bilateral or right} `eye`
+H33322  [round hole] {bilateral or left} `eye`
+H33323  [round hole] {bilateral} `eye`
+H33329  [round hole] `eye` !{left} !{right} !{bilateral}
+H33331* multiple defects of `retina` without detachment, {bilateral or right} `eye`
+H33332* multiple defects of `retina` without detachment, {bilateral or left} `eye`
+H33333* multiple defects of `retina` without detachment, {bilateral} `eye`
+H33339* multiple defects of `retina` without detachment, `eye`
+H3340   [traction detachment] `retina of eye` !{left} !{right} !{bilateral}
+H3341   [traction detachment] `retina` {right}
+H3342   [traction detachment] `retina` {left}
+H3343   [traction detachment] `retina` {bilateral}
+H338*   other retinal detachments
+H3400   [occlusion] {transient} `retinal artery` !{left} !{right} !{bilateral}
+H3401   [occlusion] {transient} `retinal artery` {right}
+H3402   [occlusion] {transient} `retinal artery` {left}
+H3403   [occlusion] {transient} `retinal artery` {bilateral}
+H3410   [occlusion] `central retinal artery` !{left} !{right} !{bilateral}
+H3411   [occlusion] `central retinal artery` {bilateral or left}
+H3412   [occlusion] `central retinal artery` {bilateral or left}
+H3413   [occlusion] `central retinal artery` {bilateral}
+H34211  [occlusion] {partial} `retinal artery` {right}
+H34212  [occlusion] {partial} `retinal artery` {left}
+H34213  [occlusion] {partial} `retinal artery` {bilateral}
+H34219  [occlusion] {partial} `retinal artery`!{bilateral}
+H34231  [occlusion] `branch retinal artery` {bilateral or right}
+H34232  [occlusion] `branch retinal artery` {bilateral or left}
+H34233  [occlusion] `branch retinal artery` {bilateral}
+H34239  [occlusion] `branch retinal artery` !{left} !{right} !{bilateral}
+H348110 [occlusion] `central retinal vein` {right} & [macular edema]
+H348111 [occlusion] `central retinal vein` {right} & [retinal neovascularization]
+H348112 [occlusion] `central retinal vein` {right}
+H348120 [occlusion] `central retinal vein` {left} & [macular edema]
+H348121 [occlusion] `central retinal vein` {left} & [retinal neovascularization]
+H348122 [occlusion] `central retinal vein` {left}
+H348130 [occlusion] `central retinal vein` {bilateral} & [macular edema]
+H348131 [occlusion] `central retinal vein` {bilateral} & [retinal neovascularization]
+H348132 [occlusion] `central retinal vein` {bilateral}
+H348190 [occlusion] `central retinal vein` & [macular edema] !{left} !{right} !{bilateral}
+H348191 [occlusion] `central retinal vein` & [retinal neovascularization] !{left} !{right} !{bilateral}
+H348192 [occlusion] `central retinal vein` !{left} !{right} !{bilateral}
+H34821  [engorgement] `venous` {right}
+H34822  [engorgement] `venous` {left}
+H34823  [engorgement] `venous` {bilateral}
+H34829  [engorgement] `venous` !{left} !{right} !{bilateral}
+H348310 [occlusion] {tributary branch} {bilateral or right} `eye` & [macular edema]
+H348311 [occlusion] {tributary branch} {right} & [retinal neovascularization]
+H348312 [occlusion] {tributary branch} {stable} {right}
+H348320 [occlusion] {tributary branch} {left} & [macular edema]
+H348321 [occlusion] {tributary branch} {left} & [retinal neovascularization]
+H348322 [occlusion] {tributary branch} {stable} {left}
+H348330 [occlusion] {tributary branch} `bilateral` & [macular edema]
+H348331 [occlusion] {tributary branch} `bilateral` & [retinal neovascularization]
+H348332 [occlusion] {tributary branch} `bilateral`
+H348390 [occlusion] {tributary branch} & [macular edema] !{left} !{right} !{bilateral}
+H348391 [occlusion] {tributary branch} & [retinal neovascularization] !{left} !{right} !{bilateral}
+H348392 [occlusion] {tributary branch} !{left} !{right} !{bilateral}
+H349    [occlusion] `retinal vascular`
+H3500   [background retinopathy]
+H35011  [changes in appearance] `retinal vascular` {right}
+H35012  [changes in appearance] `retinal vascular` {left}
+H35013  [changes in appearance] `retinal vascular` {bilateral}
+H35019  [changes in appearance] `retinal vascular` !{left} !{right} !{bilateral}
+H35021  [retinopathy] {exudative} {right}
+H35022  [retinopathy] {exudative} {left}
+H35023  [retinopathy] {exudative} {bilateral}
+H35029  [retinopathy] {exudative} !{left} !{right} !{bilateral}
+H35031  [retinopathy] {hypertensive} {right}
+H35032  [retinopathy] {hypertensive} {left}
+H35033  [retinopathy] {hypertensive} {bilateral}
+H35039  [retinopathy] {hypertensive} !{left} !{right} !{bilateral}
+H35041  [micro aneurysms] `retina` {right}
+H35042  [micro aneurysms] `retina` {left}
+H35043  [micro aneurysms] `retina` {bilateral}
+H35049  [micro aneurysms] `retina` !{left} !{right} !{bilateral}
+H35051  [neovascularization] `retina` {right}
+H35052  [neovascularization] `retina` {left}
+H35053  [neovascularization] `retina` {bilateral}
+H35059  [neovascularization] `retina` !{left} !{right} !{bilateral}
+H35061  [vasculitis] `retina` {right}
+H35062  [vasculitis] `retina` {left}
+H35063  [vasculitis] `retina` {bilateral}
+H35069  [vasculitis] `retina` !{left} !{right} !{bilateral}
+H35071  [telangiectasis] `retina` {right}
+H35072  [telangiectasis] `retina` {left}
+H35073  [telangiectasis] `retina` {bilateral}
+H35079  [telangiectasis] `retina` !{left} !{right} !{bilateral}
+H3509*  other intraretinal microvascular abnormalities
+H35101  [retinopathy of prematurity] {right}
+H35102  [retinopathy of prematurity] {left}
+H35103  [retinopathy of prematurity] {bilateral}
+H35109  [retinopathy of prematurity]  !{left} !{right} !{bilateral}
+H35111  [retinopathy of prematurity] {stage 0} {right}
+H35112  [retinopathy of prematurity] {stage 0} {left}
+H35113  [retinopathy of prematurity] {stage 0} {bilateral}
+H35119  [retinopathy of prematurity] {stage 0} !{left} !{right} !{bilateral}
+H35121  [retinopathy of prematurity] {stage 1} {right}
+H35122  [retinopathy of prematurity] {stage 1} {left}
+H35123  [retinopathy of prematurity] {stage 1} {bilateral}
+H35129  [retinopathy of prematurity] {stage 1} !{left} !{right} !{bilateral}
+H35131  [retinopathy of prematurity] {stage 2} {right}
+H35132  [retinopathy of prematurity] {stage 2} {left}
+H35133  [retinopathy of prematurity] {stage 2} {bilateral}
+H35139  [retinopathy of prematurity] {stage 2} !{left} !{right} !{bilateral}
+H35141  [retinopathy of prematurity] {stage 3} {right}
+H35142  [retinopathy of prematurity] {stage 3} {left}
+H35143  [retinopathy of prematurity] {stage 3} {bilateral}
+H35149  [retinopathy of prematurity] {stage 3} !{left} !{right} !{bilateral}
+H35151  [retinopathy of prematurity] {stage 4} {right}
+H35152  [retinopathy of prematurity] {stage 4} {left}
+H35153  [retinopathy of prematurity] {stage 4} {bilateral}
+H35159  [retinopathy of prematurity] {stage 4} !{left} !{right} !{bilateral}
+H35161  [retinopathy of prematurity] {stage 5} {right}
+H35162  [retinopathy of prematurity] {stage 5} {left}
+H35163  [retinopathy of prematurity] {stage 5} {bilateral}
+H35169  [retinopathy of prematurity] {stage 5} !{left} !{right} !{bilateral}
+H35171  [retrolental fibroplasia] {right}
+H35172  [retrolental fibroplasia] {left}
+H35173  [retrolental fibroplasia] {bilateral}
+H35179  [retrolental fibroplasia]  !{left} !{right} !{bilateral}
+H3520*  other non diabetic proliferative retinopathy, !{left} !{right} !{bilateral}
+H3521*  other non diabetic proliferative retinopathy, {left}
+H3522*  other non diabetic proliferative retinopathy, {left}
+H3523*  other non diabetic proliferative retinopathy, {bilateral}
+H3530   [macular degeneration] !{exudative} !{left} !{right} !{bilateral}
+H353110 [macular degeneration] {age related} {right} & ![exudative] 
+H353111 [macular degeneration] {age related} {right} {early dry stage} & ![exudative]
+H353112 [macular degeneration] {age related} {right} {intermediate dry stage} & ![exudative]
+H353113 [macular degeneration] {age related} {right} {advanced atrophic with subfoveal involvement} & ![exudative]
+H353114 [macular degeneration] {age related} {right} {advanced atrophic with subfoveal involvement} & ![exudative]
+H353120 [macular degeneration] {age related} {left} & ![exudative] 
+H353121 [macular degeneration] {age related} {left} {early dry stage} & ![exudative]
+H353122 [macular degeneration] {age related} {left} {intermediate dry stage} & ![exudative]
+H353123 [macular degeneration] {age related} {left} {advanced atrophic with subfoveal involvement} & ![exudative]
+H353124 [macular degeneration] {age related} {left} {advanced atrophic with subfoveal involvement} & ![exudative]
+H353130 [macular degeneration] {age related} {bilateral} & ![exudative] 
+H353131 [macular degeneration] {age related} {bilateral} {early dry stage} & ![exudative]
+H353132 [macular degeneration] {age related} {bilateral} {intermediate dry stage} & ![exudative]
+H353133 [macular degeneration] {age related} {bilateral} {advanced atrophic with subfoveal involvement} & ![exudative]
+H353134 [macular degeneration] {age related} {bilateral} {advanced atrophic with subfoveal involvement} & ![exudative]
+H353190 [macular degeneration] {age related} !{right} !{left} !{bilateral} & ![exudative]
+H353191 [macular degeneration] {age related} !{right} !{left} !{bilateral} {early dry stage} & ![exudative]
+H353192 [macular degeneration] {age related} !{right} !{left} !{bilateral} {intermediate dry stage} & ![exudative]
+H353193 [macular degeneration] {age related} !{right} !{left} !{bilateral} {advanced atrophic with subfoveal involvement} & ![exudative]
+H353194 [macular degeneration] {age related} !{right} !{left} !{bilateral} {advanced atrophic with subfoveal involvement} & ![exudative]
+H353210 [macular degeneration] {exudative} {age related} {righ}
+H353211 [macular degeneration] {exudative} {age related} {right} {active choroidal neovascularization}
+H353212 [macular degeneration] {exudative} {age related} {right} {inactive choroidal neovascularization}
+H353213 [macular degeneration] {exudative} {age related} {right} {inactive scar}
+H353220 [macular degeneration] {exudative} {age related} {left}
+H353221 [macular degeneration] {exudative} {age related} {left} {active choroidal neovascularization}
+H353222 [macular degeneration] {exudative} {age related} {left} {inactive choroidal neovascularization}
+H353223 [macular degeneration] {exudative} {age related} {left} {inactive scar}
+H353230 [macular degeneration] {exudative} {age related} `bilateral`
+H353231 [macular degeneration] {exudative} {age related} `bilateral` {active choroidal neovascularization}
+H353232 [macular degeneration] {exudative} {age related} `bilateral` {inactive choroidal neovascularization}
+H353233 [macular degeneration] {exudative} {age related} `bilateral` {inactive scar}
+H353290 [macular degeneration] {exudative}  !{left} !{right} !{bilateral}
+H353291 [macular degeneration] {exudative} {age related} {active choroidal neovascularization}
+H353292 [macular degeneration] {exudative} {age related} {inactive choroidal neovascularization}
+H353293 [macular degeneration] {exudative} {age related} {inactive scar}
+H3533   [angioid streaks] `macula`
+H35341  [cyst] {macular} {right}
+        [hole] {macular} {right}
+        [pseudohole] {macular} {right}
+H35342  [cyst] {macular} {left}
+        [hole] {macular} {left}
+        [pseudohole] {macular} {left}
+H35343  [cyst] {macular} {bilateral}
+        [hole] {macular} {bilateral}
+        [pseudohole] {macular} {bilateral}
+H35349  [cyst] {macular} !{left} !{right} !{bilateral}
+        [hole] {macular} !{left} !{right} !{bilateral}
+        [pseudohole] {macular} !{left} !{right} !{bilateral}
+H35351  [degeneration] {macular} {cystoid} {right}
+H35352  [degeneration] {macular} {cystoid} {left}
+H35353  [degeneration] {macular} {cystoid} {bilateral}
+H35359  [degeneration] {macular} {cystoid} !{left} !{right} !{bilateral}
+H35361  [drusen] `macula` {right}
+H35362  [drusen] `macula` {left}
+H35363  [drusen] `macula` {bilateral}
+H35369  [drusen] `macula of eye` !{left} !{right} !{bilateral}
+H35371  [macular pucker] {right}
+H35372  [macular pucker] {left}
+H35373  [macular pucker]  {bilateral}
+H35379  [puckering] `macula of eye` !{left} !{right} !{bilateral}
+H35381  [toxic maculopathy] {right}
+H35382  [toxic maculopathy] {left}
+H35383  [toxic maculopathy] {bilateral}
+H35389  [toxic maculopathy] !{left} !{right} !{bilateral}
+H3540   [degeneration] {peripheral} `retina`
+H35411  [degeneration] {lattice} `retina` {right}
+H35412  [degeneration] {lattice} `retina` {left}
+H35413  [degeneration] {lattice} `retina` {bilateral}
+H35419  [degeneration] {lattice} `retina of eye` !{left} !{right} !{bilateral}
+H35421  [degeneration] {microcystoid} `retina` {right}
+H35422  [degeneration] {microcystoid} `retina` {left}
+H35423  [degeneration] {microcystoid} `retina` {bilateral}
+H35429  [degeneration] {microcystoid} `retina of eye` !{left} !{right} !{bilateral}
+H35431  [degeneration] {paving stone} `retina` {right}
+H35432  [degeneration] {paving stone} `retina` {left}
+H35433  [degeneration] {paving stone} `retina` {bilateral}
+H35439  [degeneration] {paving stone} `retina of eye` !{left} !{right} !{bilateral}
+H35441  [degeneration] {age related} `retina` {right}
+H35442  [degeneration] {age related} `retina` {left}
+H35443  [degeneration] {age related} `retina` {bilateral}
+H35449  [degeneration] {age related} `retina of eye` !{left} !{right} !{bilateral}
+H35451  [degeneration] {secondary} `pigmentary` {right}
+H35452  [degeneration] {secondary} `pigmentary` {left}
+H35453  [degeneration] {secondary} `pigmentary` {bilateral}
+H35459  [degeneration] {secondary} `pigmentary` !{left} !{right} !{bilateral}
+H35461  [degeneration] {secondary} `vitreoretinal` {right}
+H35462  [degeneration] {secondary} `vitreoretinal` {left}
+H35463  [degeneration] {secondary} `vitreoretinal` {bilateral}
+H35469  [degeneration] {secondary} `vitreoretinal` !{left} !{right} !{bilateral}
+H3550   [dystrophy] {hereditary} `retina`
+H3551   [dystrophy] `vitreoretinal`
+H3552   [dystrophy] `pigmentary` `retina`
+H3553*  other dystrophies primarily involving the sensory retina
+H3554   [dystrophy] {retinal} `retinal pigment epithelium`
+H3560   [retinal hemorrhage] !{left} !{right} !{bilateral} & ![right] & ![left] & ![vitreous]
+H3561   [retinal hemorrhage] !{left} !{right} !{bilateral} {right} & ![vitreous]
+H3562   [retinal hemorrhage] !{left} !{right} !{bilateral} {left} & ![vitreous]
+H3563   [retinal hemorrhage] !{left} !{right} !{bilateral} {bilateral} & ![vitreous]
+H3570   [separation] `retinal layer`
+H35711  [chorioretinopathy] {central} {serous} {right}
+H35712  [chorioretinopathy] {central} {serous} {left}
+H35713  [chorioretinopathy] {central} {serous} {bilateral}
+H35719  [chorioretinopathy] {central} {serous} !{left} !{right} !{bilateral}
+H35721  [detachment] {serous} `retinal pigment epithelium` {right}
+H35722  [detachment] {serous} `retinal pigment epithelium` {left}
+H35723  [detachment] {serous} `retinal pigment epithelium` {bilateral}
+H35729  [detachment] {serous} `retinal pigment epithelium of eye` !{left} !{right} !{bilateral}
+H35731  [hemorrhagic detachment] `retinal pigment epithelium` {right}
+H35732  [hemorrhagic detachment] `retinal pigment epithelium` {left}
+H35733  [hemorrhagic detachment] `retinal pigment epithelium` {bilateral}
+H35739  [hemorrhagic detachment] `retinal pigment epithelium of eye` !{left} !{right} !{bilateral}
+H3581   [edema] `retina`
+H3582   [ischemia] `retina`
+H3589*  other specified disorders `retina`
+H359    [disorder] `retina`
+H36*    `retina` disorders in diseases classified elsewhere
+H40001  [preglaucoma] {right}
+H40002  [preglaucoma] {left}
+H40003  [preglaucoma] {bilateral}
+H40009  [preglaucoma] !{left} !{right} !{bilateral}
+H40011  [open angle] & [borderline findings] {low risk} {right}
+H40012  [open angle] & [borderline findings] {low risk} {left}
+H40013  [open angle] & [borderline findings] {low risk} {bilateral}
+H40019  [open angle] & [borderline findings] {low risk} !{left} !{right} !{bilateral}
+H40021  [open angle] & [borderline findings] {high risk} {right}
+H40022  [open angle] & [borderline findings] {high risk} {left}
+H40023  [open angle] & [borderline findings] {high risk} {bilateral}
+H40029  [open angle] & [borderline findings] {high risk} !{left} !{right} !{bilateral}
+H40031  [anatomical narrow angle] {bilateral or right} `eye`
+H40032  [anatomical narrow angle] {bilateral or left} `eye`
+H40033  [anatomical narrow angle] {bilateral} `eye`
+H40039  [anatomical narrow angle] `eye` !{left} !{right} !{bilateral}
+H40041  [steroid responder] {bilateral or right} `eye`
+H40042  [steroid responder] {bilateral or left} `eye`
+H40043  [steroid responder] {bilateral} `eye`
+H40049  [steroid responder] `eye` !{left} !{right} !{bilateral}
+H40051  [hypertension] {bilateral or right} `ocular`
+H40052  [hypertension] {bilateral or left} `ocular`
+H40053  [hypertension] {bilateral} `ocular`
+H40059  [hypertension] `ocular` !{left} !{right} !{bilateral}
+H40061  [primary angle closure] & ![glaucoma damage] {bilateral or right} `eye`
+H40062  [primary angle closure] & ![glaucoma damage] {bilateral or left} `eye`
+H40063  [primary angle closure] & ![glaucoma damage] {bilateral} `eye`
+H40069  [primary angle closure] & ![glaucoma damage] `eye` !{left} !{right} !{bilateral}
+H4010X0 [glaucoma] {open angle} !{primary} !{mild} !{moderate} !{severe} !{indeterminate} `eye` !{left} !{right} !{bilateral}
+H4010X1 [glaucoma] {open angle} !{primary} {mild} `eye` !{left} !{right} !{bilateral}
+H4010X2 [glaucoma] {open angle} !{primary} {moderate} `eye` !{left} !{right} !{bilateral}
+H4010X3 [glaucoma] {open angle} !{primary} {severe} `eye` !{left} !{right} !{bilateral}
+H4010X4 [glaucoma] {open angle} !{primary} {indeterminate stage} `eye` !{left} !{right} !{bilateral}
+H401111 [primary open angle glaucoma] {mild} & [right] `eye`
+H401112 [primary open angle glaucoma] {moderate} & [right] `eye`
+H401113 [primary open angle glaucoma] {severe} & [right] `eye`
+H401114 [primary open angle glaucoma] {indeterminate} & [right] `eye`
+H401120 [primary open angle glaucoma] !{mild} !{moderate} !{severe} !{indeterminate} & [left] `eye`
+H401121 [primary open angle glaucoma] {mild} & [left] `eye`
+H401122 [primary open angle glaucoma] {moderate} & [left] `eye`
+H401123 [primary open angle glaucoma] {left} {severe}
+H401124 [primary open angle glaucoma] {left} {indeterminate}
+H401130 [primary open angle glaucoma] `eyes` !{stage}
+H401131 [primary open angle glaucoma] `eyes` {mild}
+H401132 [primary open angle glaucoma] `eyes` {moderate}
+H401133 [primary open angle glaucoma] `eyes` {severe}
+H401134 [primary open angle glaucoma] `eyes` {indeterminate}
+H4011__ [primary open angle glaucoma] !{mild} !{moderate} !{severe} !{indeterminate} !{specified stage} & ![right] `eye` & ![left] `eye` "Partial Coding"
+H401190 [primary open angle glaucoma] !{stage} `eye` !{left} !{right} !{bilateral}
+H401191 [primary open angle glaucoma] {mild} `eye` !{left} !{right} !{bilateral}
+H401192 [primary open angle glaucoma] {moderate} `eye` !{left} !{right} !{bilateral}
+H401193 [primary open angle glaucoma] {severe} `eye` !{left} !{right} !{bilateral}
+H401194 [primary open angle glaucoma] {indeterminate} `eye` !{left} !{right} !{bilateral}
+H4011X0 [glaucoma] {primary} {open angle} 
+H4011X1 [glaucoma] {primary} {open angle} {mild}
+H4011X2 [glaucoma] {primary} {open angle} {moderate}
+H4011X3 [glaucoma] {primary} {open angle} {severe}
+H4011X4 [glaucoma] {primary} {open angle} {indeterminate stage}
+H401210 [glaucoma] {low tension} {right}
+H401211 [glaucoma] {low tension} {mild} {right}
+H401212 [glaucoma] {low tension} {moderate} {right}
+H401213 [glaucoma] {low tension} {severe} {right}
+H401214 [glaucoma] {low tension} {indeterminate stage} {right}
+H401220 [glaucoma] {low tension} {left}
+H401221 [glaucoma] {low tension} {mild} {left}
+H401222 [glaucoma] {low tension} {moderate} {left}
+H401223 [glaucoma] {low tension} {severe} {left}
+H401224 [glaucoma] {low tension} {indeterminate stage} {left}
+H401230 [glaucoma] {low tension} {bilateral}
+H401231 [glaucoma] {low tension} {mild} {bilateral}
+H401232 [glaucoma] {low tension} {moderate} {bilateral}
+H401233 [glaucoma] {low tension} {severe} {bilateral}
+H401234 [glaucoma] {low tension} {indeterminate stage} {bilateral}
+H401290 [glaucoma] {low tension} !{left} !{right} !{bilateral}
+H401291 [glaucoma] {low tension} {mild} !{left} !{right} !{bilateral}
+H401292 [glaucoma] {low tension} {moderate} !{left} !{right} !{bilateral}
+H401293 [glaucoma] {low tension} {severe} !{left} !{right} !{bilateral}
+H401294 [glaucoma] {low tension} {indeterminate stage} !{left} !{right} !{bilateral}
+H401310 [glaucoma] {pigmentary} {right}
+H401311 [glaucoma] {pigmentary} {mild} {right}
+H401312 [glaucoma] {pigmentary} {moderate} {right}
+H401313 [glaucoma] {pigmentary} {severe} {right}
+H401314 [glaucoma] {pigmentary} {indeterminate stage} {right}
+H401320 [glaucoma] {pigmentary} {left}
+H401321 [glaucoma] {pigmentary} {mild} {left}
+H401322 [glaucoma] {pigmentary} {moderate} {left}
+H401323 [glaucoma] {pigmentary} {severe} {left}
+H401324 [glaucoma] {pigmentary} {indeterminate stage} {left}
+H401330 [glaucoma] {pigmentary} {bilateral}
+H401331 [glaucoma] {pigmentary} {mild} {bilateral}
+H401332 [glaucoma] {pigmentary} {moderate} {bilateral}
+H401333 [glaucoma] {pigmentary} {severe} {bilateral}
+H401334 [glaucoma] {pigmentary} {indeterminate stage} {bilateral}
+H401390 [glaucoma] {pigmentary} !{left} !{right} !{bilateral}
+H401391 [glaucoma] {pigmentary} {mild} !{left} !{right} !{bilateral}
+H401392 [glaucoma] {pigmentary} {moderate} !{left} !{right} !{bilateral}
+H401393 [glaucoma] {pigmentary} {severe} !{left} !{right} !{bilateral}
+H401394 [glaucoma] {pigmentary} {indeterminate stage} !{left} !{right} !{bilateral}
+H401410 [glaucoma] {capsular} & [pseudoexfoliation] `lens` {right}
+H401411 [glaucoma] {capsular} & [pseudoexfoliation] {mild} `lens` {right}
+H401412 [glaucoma] {capsular} & [pseudoexfoliation] {moderate} `lens` {right}
+H401413 [glaucoma] {capsular} & [pseudoexfoliation] {severe} `lens` {right}
+H401414 [glaucoma] {capsular} & [pseudoexfoliation] {indeterminate stage} `lens` {right}
+H401420 [glaucoma] {capsular} & [pseudoexfoliation] `lens` {left}
+H401421 [glaucoma] {capsular} & [pseudoexfoliation] {mild} `lens` {left}
+H401422 [glaucoma] {capsular} & [pseudoexfoliation] {moderate} `lens` {left}
+H401423 [glaucoma] {capsular} & [pseudoexfoliation] {severe} `lens` {left}
+H401424 [glaucoma] {capsular} & [pseudoexfoliation] {indeterminate stage} `lens` {left}
+H401430 [glaucoma] {capsular} & [pseudoexfoliation] `lens` {bilateral}
+H401431 [glaucoma] {capsular} & [pseudoexfoliation] {mild} `lens` {bilateral}
+H401432 [glaucoma] {capsular} & [pseudoexfoliation] {moderate} `lens` {bilateral}
+H401433 [glaucoma] {capsular} & [pseudoexfoliation] {severe} `lens` {bilateral}
+H401434 [glaucoma] {capsular} & [pseudoexfoliation] {indeterminate stage} `lens` {bilateral}
+H401490 [glaucoma] {capsular} & [pseudoexfoliation] `lens of eye` !{left} !{right} !{bilateral}
+H401491 [glaucoma] {capsular} & [pseudoexfoliation] {mild} `lens of eye` !{left} !{right} !{bilateral}
+H401492 [glaucoma] {capsular} & [pseudoexfoliation] {moderate} `lens of eye` !{left} !{right} !{bilateral}
+H401493 [glaucoma] {capsular} & [pseudoexfoliation] {severe} `lens of eye` !{left} !{right} !{bilateral}
+H401494 [glaucoma] {capsular} & [pseudoexfoliation] {indeterminate stage} `lens of eye` !{left} !{right} !{bilateral}
+H40151  [glaucoma] {residual stage} {open angle} {right}
+H40152  [glaucoma] {residual stage} {open angle} {left}
+H40153  [glaucoma] {residual stage} {open angle} {bilateral}
+H40159  [glaucoma] {residual stage} {open angle} !{left} !{right} !{bilateral}
+H4020X0 [angle closure glaucoma] {primary}
+H4020X1 [angle closure glaucoma] {primary} {mild}
+H4020X2 [angle closure glaucoma] {primary} {moderate}
+H4020X3 [angle closure glaucoma] {severe}
+H4020X4 [angle closure glaucoma] {primary} {indeterminate stage}
+H40211  [angle closure glaucoma] {acute} {right}
+H40212  [angle closure glaucoma] {acute} {left}
+H40213  [angle closure glaucoma] {acute} {bilateral}
+H40219  [angle closure glaucoma] {acute} !{left} !{right} !{bilateral}
+H402210 [angle closure glaucoma] {chronic} {right}
+H402211 [angle closure glaucoma] {chronic} {mild} {right}
+H402212 [angle closure glaucoma] {chronic} {moderate} {right}
+H402213 [angle closure glaucoma] {chronic} {severe} {right}
+H402214 [angle closure glaucoma] {chronic} {indeterminate stage} {right}
+H402220 [angle closure glaucoma] {chronic} {left}
+H402221 [angle closure glaucoma] {chronic} {mild} {left}
+H402222 [angle closure glaucoma] {chronic} {moderate} {left}
+H402223 [angle closure glaucoma] {chronic} {severe} {left}
+H402224 [angle closure glaucoma] {chronic} {indeterminate stage} {left}
+H402230 [angle closure glaucoma] {chronic} {bilateral}
+H402231 [angle closure glaucoma] {chronic} {mild} {bilateral}
+H402232 [angle closure glaucoma] {chronic} {moderate} {bilateral}
+H402233 [angle closure glaucoma] {chronic} {severe} {bilateral}
+H402234 [angle closure glaucoma] {chronic} {indeterminate stage} {bilateral}
+H402290 [angle closure glaucoma] {chronic} !{left} !{right} !{bilateral}
+H402291 [angle closure glaucoma] {chronic} {mild} !{left} !{right} !{bilateral}
+H402292 [angle closure glaucoma] {chronic} {moderate} !{left} !{right} !{bilateral}
+H402293 [angle closure glaucoma] {chronic} {severe} !{left} !{right} !{bilateral}
+H402294 [angle closure glaucoma] {chronic} {indeterminate stage}
+H40231  [angle closure glaucoma] {intermittent} {right}
+H40232  [angle closure glaucoma] {intermittent} {left}
+H40233  [angle closure glaucoma] {intermittent} {bilateral}
+H40239  [angle closure glaucoma] {intermittent} !{left} !{right} !{bilateral}
+H40241  [angle closure glaucoma] {residual stage} {right}
+H40242  [angle closure glaucoma] {residual stage} {left}
+H40243  [angle closure glaucoma] {residual stage} {bilateral}
+H40249  [angle closure glaucoma] {residual stage} !{left} !{right} !{bilateral}
+H4030X0 [glaucoma] & [trauma] `eye` !{left} !{right} !{bilateral}
+H4030X1 [glaucoma] & [trauma] {mild} `eye` !{left} !{right} !{bilateral}
+H4030X2 [glaucoma] & [trauma] {moderate} `eye` !{left} !{right} !{bilateral}
+H4030X3 [glaucoma] & [trauma] {severe} `eye` !{left} !{right} !{bilateral}
+H4030X4 [glaucoma] & [trauma] {indeterminate stage} `eye` !{left} !{right} !{bilateral}
+H4031X0 [glaucoma] & [trauma] {bilateral or right} `eye`
+H4031X1 [glaucoma] & [trauma] {mild} {bilateral or right} `eye`
+H4031X2 [glaucoma] & [trauma] {moderate} {bilateral or right} `eye`
+H4031X3 [glaucoma] & [trauma] {severe} {bilateral or right} `eye`
+H4031X4 [glaucoma] & [trauma] {indeterminate stage} {bilateral or right} `eye`
+H4032X0 [glaucoma] & [trauma] {bilateral or left} `eye`
+H4032X1 [glaucoma] & [trauma] {mild} {bilateral or left} `eye`
+H4032X2 [glaucoma] & [trauma] {moderate} {bilateral or left} `eye`
+H4032X3 [glaucoma] & [trauma] {severe} {bilateral or left} `eye`
+H4032X4 [glaucoma] & [trauma] {indeterminate stage} {bilateral or left} `eye`
+H4033X0 [glaucoma] & [trauma] {bilateral} `eye`
+H4033X1 [glaucoma] & [trauma] {mild} {bilateral} `eye`
+H4033X2 [glaucoma] & [trauma] {moderate} {bilateral} `eye`
+H4033X3 [glaucoma] & [trauma] {severe} {bilateral} `eye`
+H4033X4 [glaucoma] & [trauma] {indeterminate stage} {bilateral} `eye`
+H4040X0 [glaucoma] & [inflammation] `eye` !{left} !{right} !{bilateral}
+H4040X1 [glaucoma] & [inflammation] {mild} `eye` !{left} !{right} !{bilateral}
+H4040X2 [glaucoma] & [inflammation] {moderate} `eye` !{left} !{right} !{bilateral}
+H4040X3 [glaucoma] & [inflammation] {severe} `eye` !{left} !{right} !{bilateral}
+H4040X4 [glaucoma] & [inflammation] {indeterminate stage} `eye` !{left} !{right} !{bilateral}
+H4041X0 [glaucoma] & [inflammation] {bilateral or right} `eye`
+H4041X1 [glaucoma] & [inflammation] {mild} {bilateral or right} `eye`
+H4041X2 [glaucoma] & [inflammation] {moderate} {bilateral or right} `eye`
+H4041X3 [glaucoma] & [inflammation] {severe} {bilateral or right} `eye`
+H4041X4 [glaucoma] & [inflammation] {indeterminate stage} {bilateral or right} `eye`
+H4042X0 [glaucoma] & [inflammation] {bilateral or left} `eye`
+H4042X1 [glaucoma] & [inflammation] {mild} {bilateral or left} `eye`
+H4042X2 [glaucoma] & [inflammation] {moderate} {bilateral or left} `eye`
+H4042X3 [glaucoma] & [inflammation] {severe} {bilateral or left} `eye`
+H4042X4 [glaucoma] & [inflammation] {indeterminate stage} {bilateral or left} `eye`
+H4043X0 [glaucoma] & [inflammation] {bilateral} `eye`
+H4043X1 [glaucoma] & [inflammation] {mild} {bilateral} `eye`
+H4043X2 [glaucoma] & [inflammation] {moderate} {bilateral} `eye`
+H4043X3 [glaucoma] & [inflammation] {severe} {bilateral} `eye`
+H4043X4 [glaucoma] & [inflammation] {indeterminate stage} {bilateral} `eye`
+H4050X0 [glaucoma] & [disorder] `eye` !{left} !{right} !{bilateral}
+H4050X1 [glaucoma] & [disorder] {mild} `eye` !{left} !{right} !{bilateral}
+H4050X2 [glaucoma] & [disorder] {moderate} `eye` !{left} !{right} !{bilateral}
+H4050X3 [glaucoma] & [disorder] {severe} `eye` !{left} !{right} !{bilateral}
+H4050X4 [glaucoma] & [disorder] {indeterminate stage} `eye` !{left} !{right} !{bilateral}
+H4051X0 [glaucoma] & [disorder] {bilateral or right} `eye`
+H4051X1 [glaucoma] & [disorder] {mild} {bilateral or right} `eye`
+H4051X2 [glaucoma] & [disorder] {moderate} {bilateral or right} `eye`
+H4051X3 [glaucoma] & [disorder] {severe} {bilateral or right} `eye`
+H4051X4 [glaucoma] & [disorder] {indeterminate stage} {bilateral or right} `eye`
+H4052X0 [glaucoma] & [disorder] {bilateral or left} `eye`
+H4052X1 [glaucoma] & [disorder] {mild} {bilateral or left} `eye`
+H4052X2 [glaucoma] & [disorder] {moderate} {bilateral or left} `eye`
+H4052X3 [glaucoma] & [disorder] {severe} {bilateral or left} `eye`
+H4052X4 [glaucoma] & [disorder] {indeterminate stage} {bilateral or left} `eye`
+H4053X0 [glaucoma] & [disorder] {bilateral} `eye`
+H4053X1 [glaucoma] & [disorder] {mild} {bilateral} `eye`
+H4053X2 [glaucoma] & [disorder] {moderate} {bilateral} `eye`
+H4053X3 [glaucoma] & [disorder] {severe} {bilateral} `eye`
+H4053X4 [glaucoma] & [disorder] {indeterminate stage} {bilateral} `eye`
+H4060X0 [glaucoma] & [drugs] `eye` !{left} !{right} !{bilateral}
+H4060X1 [glaucoma] & [drugs] {mild} `eye` !{left} !{right} !{bilateral}
+H4060X2 [glaucoma] & [drugs] {moderate} `eye` !{left} !{right} !{bilateral}
+H4060X3 [glaucoma] & [drugs] {severe} `eye` !{left} !{right} !{bilateral}
+H4060X4 [glaucoma] & [drugs] {indeterminate stage} `eye` !{left} !{right} !{bilateral}
+H4061X0 [glaucoma] & [drugs] {bilateral or right} `eye`
+H4061X1 [glaucoma] & [drugs] {mild} {bilateral or right} `eye`
+H4061X2 [glaucoma] & [drugs] {moderate} {bilateral or right} `eye`
+H4061X3 [glaucoma] & [drugs] {severe} {bilateral or right} `eye`
+H4061X4 [glaucoma] & [drugs] {indeterminate stage} {bilateral or right} `eye`
+H4062X0 [glaucoma] & [drugs] {bilateral or left} `eye`
+H4062X1 [glaucoma] & [drugs] {mild} {bilateral or left} `eye`
+H4062X2 [glaucoma] & [drugs] {moderate} {bilateral or left} `eye`
+H4062X3 [glaucoma] & [drugs] {severe} {bilateral or left} `eye`
+H4062X4 [glaucoma] & [drugs] {indeterminate stage} {bilateral or left} `eye`
+H4063X0 [glaucoma] & [drugs] {bilateral} `eye`
+H4063X1 [glaucoma] & [drugs] {mild} {bilateral} `eye`
+H4063X2 [glaucoma] & [drugs] {moderate} {bilateral} `eye`
+H4063X3 [glaucoma] & [drugs] {severe} {bilateral} `eye`
+H4063X4 [glaucoma] & [drugs] {indeterminate stage} {bilateral} `eye`
+H40811  [glaucoma] & [increased episcleral venous pressure] {bilateral or right} `eye`
+H40812  [glaucoma] & [increased episcleral venous pressure] {bilateral or left} `eye`
+H40813  [glaucoma] & [increased episcleral venous pressure] {bilateral} `eye`
+H40819  [glaucoma] & [increased episcleral venous pressure] `eye` !{left} !{right} !{bilateral}
+H40821  [glaucoma] {hypersecretion} {right} `eye`
+H40822  [glaucoma] {hypersecretion} {left} `eye`
+H40823  [glaucoma] {hypersecretion} {bilateral} `eye`
+H40829  [glaucoma] {hypersecretion} `eye` !{left} !{right} !{bilateral}
+H40831  [aqueous misdirection] {right} `eye`
+H40832  [aqueous misdirection] {left} `eye`
+H40833  [aqueous misdirection] {bilateral} `eye`
+H40839  [aqueous misdirection] `eye` !{left} !{right} !{bilateral}
+H4089*  other specified glaucoma
+H409    [glaucoma] !{angle} !{hypertensive} !{hypersecretion} !{aqueous} !{increase} !{left} !{right}
+H42*    glaucoma in diseases classified elsewhere
+H4300   [prolapse] `eye` !{left} !{right} !{bilateral} `vitreous`
+H4301   [prolapse] {right} `eye` `vitreous`
+H4302   [prolapse] {left} `eye` `vitreous`
+H4303   [prolapse] {bilateral} `eye` `vitreous`
+H4310   [hemorrhage] {vitreous} `eye` !{left} !{right} !{bilateral}
+H4311   [hemorrhage] {vitreous} {right} `eye`
+H4312   [hemorrhage] {vitreous} `eye` {left}
+H4313   [hemorrhage] {vitreous} {bilateral} `eye`
+H4320   [crystalline deposits] `vitreous body of eye` !{left} !{right} !{bilateral}
+H4321   [crystalline deposits] `vitreous body` {right}
+H4322   [crystalline deposits] `vitreous body` {left}
+H4323   [crystalline deposits] `vitreous body` {bilateral}
+H43311  [membranes] {right} `eye` `vitreous`
+H43311  [strands] {right} `eye` `vitreous`
+H43312  [membranes] {left} `eye` `vitreous`
+H43312  [strands] {left} `eye` `vitreous`
+H43313  [membranes] {bilateral} `eye` `vitreous`
+H43313  [strands] {bilateral} `eye` `vitreous`
+H43319  [membranes] `eye` !{left} !{right} !{bilateral} `vitreous`
+H43319  [strands] `eye` !{left} !{right} !{bilateral} `vitreous`
+H43391* other vitreous opacities, {bilateral or left} `eye`
+H43392* other vitreous opacities, {bilateral or left} `eye`
+H43393* other vitreous opacities, {bilateral} `eye`
+H43399* other vitreous opacities, `eye`
+H43811  [vitreous] {posterior} {detachment} {right} `eye`
+H43812  [vitreous] {posterior} {detachment} {left} `eye`
+H43813  [vitreous] {posterior} {detachment} {bilateral eyes}
+H43819  [vitreous] {posterior} {detachment} `eye` !{left} !{right} !{bilateral}
+H43821  [adhesion] `vitreomacular` {right} `eye`
+        [vitreomacular traction] {right} `eye`
+H43822  [adhesion] `vitreomacular` {left} `eye`
+        [vitreomacular traction] {left} `eye` 
+H43823  [adhesion] `vitreomacular` {bilateral} `eye`
+        [vitreomacular traction] {bilateral} `eye` 
+H43829  [adhesion] `eye` !{left} !{right} !{bilateral} 
+H4389*  other disorders of `vitreous body`
+H439    [disorder] `vitreous body`
+H44001  [purulent endophthalmitis] {bilateral or right} `eye`
+H44002  [purulent endophthalmitis] {bilateral or left} `eye`
+H44003  [purulent endophthalmitis] {bilateral} `eye`
+H44009  [purulent endophthalmitis] `eye` !{left} !{right} !{bilateral}
+H44011  [panophthalmitis] {bilateral or right} `eye`
+H44012  [panophthalmitis] {bilateral or left} `eye`
+H44013  [panophthalmitis] {bilateral} `eye`
+H44019  [panophthalmitis] `eye` !{left} !{right} !{bilateral}
+H44021  [abscess] {bilateral or right} `eye` `vitreous`
+H44022  [abscess] {bilateral or left} `eye` `vitreous`
+H44023  [abscess] {bilateral} `eye` `vitreous`
+H44029  [abscess] `eye` !{left} !{right} !{bilateral} `vitreous`
+H44111  [panuveitis] {bilateral or right} `eye`
+H44112  [panuveitis] {bilateral or left} `eye`
+H44113  [panuveitis] {bilateral} `eye`
+H44119  [panuveitis] `eye` !{left} !{right} !{bilateral}
+H44121  [endophthalmitis] {parasitic} {bilateral or right} `eye`
+H44122  [endophthalmitis] {parasitic} {bilateral or left} `eye`
+H44123  [endophthalmitis] {parasitic} {bilateral} `eye`
+H44129  [endophthalmitis] {parasitic} `eye` !{left} !{right} !{bilateral}
+H44131  [uveitis] {sympathetic} {bilateral or right} `eye`
+H44132  [uveitis] {sympathetic} {bilateral or left} `eye`
+H44133  [uveitis] {sympathetic} {bilateral} `eye`
+H44139  [uveitis] {sympathetic} `eye` !{left} !{right} !{bilateral}
+H4419*  other endophthalmitis
+H442A1  [degenerative myopia] `choroidal neovascularization` {right}
+H442A2  [degenerative myopia] `choroidal neovascularization` {left}
+H442A3  [degenerative myopia] `choroidal neovascularization` {bilateral}
+H442A9  [degenerative myopia] `choroidal neovascularization` !{left} !{right} !{bilateral}
+H442B1  [degenerative myopia] `macular hole` {right}
+H442B2  [degenerative myopia] `macular hole` {left}
+H442B3  [degenerative myopia] `macular hole` {bilateral}
+H442B9  [degenerative myopia] `macular hole` !{left} !{right} !{bilateral}
+H442C1  [degenerative myopia] `retinal detachment` {right}
+H442C2  [degenerative myopia] `retinal detachment` {left}
+H442C3  [degenerative myopia] `retinal detachment` {bilateral}
+H442C9  [degenerative myopia] `retinal detachment` !{left} !{right} !{bilateral}
+H442D1  [degenerative myopia] `foveoschisis` {right}
+H442D2  [degenerative myopia] `foveoschisis` {left}
+H442D3  [degenerative myopia] `foveoschisis` {bilateral}
+H442D9  [degenerative myopia] `foveoschisis` !{left} !{right} !{bilateral}
+H442E1  [degenerative myopia] `other maculopathy` {right}
+H442E2  [degenerative myopia] `other maculopathy` {left}
+H442E3  [degenerative myopia] `other maculopathy` {bilateral}
+H442E9  [degenerative myopia] `other maculopathy` !{left} !{right} !{bilateral}
+H4420   [myopia] {degenerative} `eye` !{left} !{right} !{bilateral}
+H4421   [myopia] {degenerative} {bilateral or right} `eye`
+H4422   [myopia] {degenerative} {bilateral or left} `eye`
+H4423   [myopia] {degenerative} {bilateral} `eye`
+H4430   [disorder] {degenerative} `globe`
+H44311  [chalcosis] {bilateral or right} `eye`
+H44312  [chalcosis] {bilateral or left} `eye`
+H44313  [chalcosis] {bilateral} `eye`
+H44319  [chalcosis] `eye` !{left} !{right} !{bilateral}
+H44321  [siderosis] {bilateral or right} `eye`
+H44322  [siderosis] {bilateral or left} `eye`
+H44323  [siderosis] {bilateral} `eye`
+H44329  [siderosis] `eye` !{left} !{right} !{bilateral}
+H44391* other [degenerative disorders] `globe` {right}
+H44392* other [degenerative disorders] `globe` {left}
+H44393* other [degenerative disorders] `globe` {bilateral}
+H44399* other [degenerative disorders] `globe of eye`
+H4440   [hypotony] `eye` !{left} !{right} !{bilateral}
+H44411  [hypotony] {bilateral or right} `eye` `flat anterior chamber`
+H44412  [hypotony] {bilateral or left} `eye` `flat anterior chamber`
+H44413  [hypotony] {bilateral} `eye` `flat anterior chamber`
+H44419  [hypotony] `eye` !{left} !{right} !{bilateral} `flat anterior chamber`
+H44421  [hypotony] {bilateral or right} `eye` & [fistula] `ocular`
+H44422  [hypotony] {bilateral or left} `eye` & [fistula] `ocular`
+H44423  [hypotony] `eye` !{left} !{right} !{bilateral} & [fistula] `ocular` {bilateral} `eye`
+H44429  [hypotony] `eye` !{left} !{right} !{bilateral} & [fistula] `ocular` !{bilateral}
+H44431  [hypotony] `eye` !{left} !{right} !{bilateral} & [disorder] `ocular` {bilateral or right} `eye`
+H44432  [hypotony] `eye` !{left} !{right} !{bilateral} & [disorder] `ocular` {bilateral or left} `eye`
+H44433  [hypotony] `eye` !{left} !{right} !{bilateral} & [disorder] `ocular` {bilateral} `eye`
+H44439  [hypotony] `eye` !{left} !{right} !{bilateral} & [disorder] `ocular` `eye` !{bilateral}
+H44441  [hypotony] {primary} {bilateral or right} `eye`
+H44442  [hypotony] {primary} {bilateral or left} `eye`
+H44443  [hypotony] {primary} {bilateral} `eye`
+H44449  [hypotony] {primary} `eye` !{left} !{right} !{bilateral}
+H4450   [degenerated condition] `globe`
+H44511  [glaucoma] {absolute} {bilateral or right} `eye`
+H44512  [glaucoma] {absolute} {bilateral or left} `eye`
+H44513  [glaucoma] {absolute} {bilateral} `eye`
+H44519  [glaucoma] {absolute} `eye` !{left} !{right} !{bilateral}
+H44521  [atrophy] `globe` {right}
+H44522  [atrophy] `globe` {left}
+H44523  [atrophy] `globe` {bilateral}
+H44529  [atrophy] `globe of eye` !{left} !{right} !{bilateral}
+H44531  [leucocoria] {bilateral or right} `eye`
+H44532  [leucocoria] {bilateral or left} `eye`
+H44533  [leucocoria] {bilateral} `eye`
+H44539  [leucocoria] `eye` !{left} !{right} !{bilateral}
+H44601  [foreign body] {magnetic} {retained} {bilateral or right} `eye`
+H44602  [foreign body] {magnetic} {retained} {bilateral or left} `eye`
+H44603  [foreign body] {magnetic} {retained} {bilateral} `eye`
+H44609  [foreign body] {magnetic} {retained} `eye` !{left} !{right} !{bilateral}
+H44611  [foreign body] {retained} {magnetic} `anterior chamber` {right}
+H44612  [foreign body] {retained} {magnetic} `anterior chamber` {left}
+H44613  [foreign body] {retained} {magnetic} `anterior chamber` {bilateral}
+H44619  [foreign body] {retained} {magnetic} `anterior chamber of eye` !{left} !{right} !{bilateral}
+H44621  [foreign body] {retained} {magnetic} `iris` {right}
+H44622  [foreign body] {retained} {magnetic} `iris` {left}
+H44623  [foreign body] {retained} {magnetic} `iris` {bilateral}
+H44629  [foreign body] {retained} {magnetic} `iris of eye` !{left} !{right} !{bilateral}
+H44631  [foreign body] {retained} {magnetic} `lens` {right}
+H44632  [foreign body] {retained} {magnetic} `lens` {left}
+H44633  [foreign body] {retained} {magnetic} `lens` {bilateral}
+H44639  [foreign body] {retained} {magnetic} `lens of eye` !{left} !{right} !{bilateral}
+H44641  [foreign body] {retained} {magnetic} `posterior wall of globe` {right}
+H44642  [foreign body] {retained} {magnetic} `posterior wall of globe` {left}
+H44643  [foreign body] {retained} {magnetic} `posterior wall of globe` {bilateral}
+H44649  [foreign body] {retained} {magnetic} `posterior wall of globe of eye` !{left} !{right} !{bilateral}
+H44651  [foreign body] {retained} {magnetic} `vitreous body` {right}
+H44652  [foreign body] {retained} {magnetic} `vitreous body` {left}
+H44653  [foreign body] {retained} {magnetic} `vitreous body` {bilateral}
+H44659  [foreign body] {retained} {magnetic} `vitreous body of eye` !{left} !{right} !{bilateral}
+H44691* {retained} `intraocular` [foreign body] {magnetic}, in other or multiple sites, {bilateral or left} `eye`
+H44692* {retained} `intraocular` [foreign body] {magnetic}, in other or multiple sites, {bilateral or left} `eye`
+H44693* {retained} `intraocular` [foreign body] {magnetic}, in other or multiple sites, {bilateral} `eye`
+H44699* {retained} `intraocular` [foreign body] {magnetic}, in other or multiple sites, `eye`
+H44701  [foreign body] {nonmagnetic} {retained} {bilateral or right} `eye`
+H44702  [foreign body] {nonmagnetic} {retained} {bilateral or left} `eye`
+H44703  [foreign body] {nonmagnetic} {retained} {bilateral} `eye`
+H44709  [foreign body] {nonmagnetic} {retained} `eye` !{left} !{right} !{bilateral}
+H44711  [foreign body] {retained} `anterior chamber` {right}
+H44712  [foreign body] {retained} `anterior chamber` {left}
+H44713  [foreign body] {retained} `anterior chamber` {bilateral}
+H44719  [foreign body] {retained} `anterior chamber of eye` !{left} !{right} !{bilateral}
+H44721  [foreign body] {retained} `iris` {right}
+H44722  [foreign body] {retained} `iris` {left}
+H44723  [foreign body] {retained} `iris` {bilateral}
+H44729  [foreign body] {retained} `iris of eye` !{left} !{right} !{bilateral}
+H44731  [foreign body] {retained} `lens` {right}
+H44732  [foreign body] {retained} `lens` {left}
+H44733  [foreign body] {retained} `lens` {bilateral}
+H44739  [foreign body] {retained} `lens of eye` !{left} !{right} !{bilateral}
+H44741  [foreign body] {retained} `posterior wall of globe` {right}
+H44742  [foreign body] {retained} `posterior wall of globe` {left}
+H44743  [foreign body] {retained} `posterior wall of globe` {bilateral}
+H44749  [foreign body] {retained} `posterior wall of globe of eye` !{left} !{right} !{bilateral}
+H44751  [foreign body] {retained} `vitreous body` {right}
+H44752  [foreign body] {retained} `vitreous body` {left}
+H44753  [foreign body] {retained} `vitreous body` {bilateral}
+H44759  [foreign body] {retained} `vitreous body of eye` !{left} !{right} !{bilateral}
+H44791* {retained} `intraocular` [foreign body] {nonmagnetic}, in other or multiple sites, {bilateral or left} `eye`
+H44792* {retained} `intraocular` [foreign body] {nonmagnetic}, in other or multiple sites, {bilateral or left} `eye`
+H44793* {retained} `intraocular` [foreign body] {nonmagnetic}, in other or multiple sites, {bilateral} `eye`
+H44799* {retained} `intraocular` [foreign body] {nonmagnetic}, in other or multiple sites, `eye`
+H44811  [hemophthalmos] {bilateral or right} `eye`
+H44812  [hemophthalmos] {bilateral or left} `eye`
+H44813  [hemophthalmos] {bilateral} `eye`
+H44819  [hemophthalmos] `eye` !{left} !{right} !{bilateral}
+H44821  [luxation] `globe` {right}
+H44822  [luxation] `globe` {left}
+H44823  [luxation] `globe` {bilateral}
+H44829  [luxation] `globe of eye` !{left} !{right} !{bilateral}
+H4489*  other disorders of globe
+H449    [disorder] `globe`
+H4600   [papillitis] `eye` !{left} !{right} !{bilateral}
+H4601   [papillitis] {bilateral or right} `eye`
+H4602   [papillitis] {bilateral or left} `eye`
+H4603   [papillitis] {bilateral} `eye`
+H4610   [neuritis] `retrobulbar` `eye` !{left} !{right} !{bilateral}
+H4611   [neuritis] `retrobulbar` {bilateral or right} `eye`
+H4612   [neuritis] `retrobulbar` {bilateral or left} `eye`
+H4613   [neuritis] `retrobulbar` {bilateral} `eye`
+H462    [neuropathy] {nutritional} `optic`
+H463    [neuropathy] {toxic} `optic`
+H468*   other optic neuritis
+H469    [neuritis] `optic`
+H47011  [neuropathy] {ischemic} {bilateral or right} `eye`
+H47012  [neuropathy] {ischemic} {bilateral or left} `eye`
+H47013  [neuropathy] {ischemic} {bilateral} `eye`
+H47019  [neuropathy] {ischemic} `eye` !{left} !{right} !{bilateral}
+H47021  [hemorrhage] `optic nerve sheath` {right}
+H47022  [hemorrhage] `optic nerve sheath` {left}
+H47023  [hemorrhage] `optic nerve sheath` {bilateral}
+H47029  [hemorrhage] `optic nerve sheath of eye` !{left} !{right} !{bilateral}
+H47031  [hypoplasia] {bilateral or right} `optic nerve`
+H47032  [hypoplasia] {bilateral or left} `optic nerve`
+H47033  [hypoplasia] {bilateral} `optic nerve`
+H47039  [hypoplasia] `eye` !{left} !{right} !{bilateral} `optic nerve`
+H47091* other disorders of optic nerve, not elsewhere classified, {bilateral or right} `eye`
+H47092* other disorders of optic nerve, not elsewhere classified, {bilateral or left} `eye`
+H47093* other disorders of optic nerve, not elsewhere classified, {bilateral} `eye`
+H47099* other disorders of optic nerve, not elsewhere classified, `eye` !{left} !{right} !{bilateral}
+H4710   [papilledema]
+H4711   [papilledema] & [increased intracranial pressure]
+H4712   [papilledema] & [decreased ocular pressure]
+H4713   [papilledema] & [disorder] `retina`
+H47141  [foster kennedy syndrome] {bilateral or left} `eye`
+H47142  [foster kennedy syndrome] {bilateral or left} `eye`
+H47143  [foster kennedy syndrome] {bilateral} `eye`
+H47149  [foster kennedy syndrome] `eye` !{left} !{right} !{bilateral}
+H4720   [atrophy] `optic`
+H47211  [atrophy] {primary} {bilateral or right} `eye`
+H47212  [atrophy] {primary} {bilateral or left} `eye`
+H47213  [atrophy] {primary} {bilateral} `eye`
+H47219  [atrophy] {primary} `eye` !{left} !{right} !{bilateral}
+H4722   [atrophy] {hereditary} `optic`
+H47231  [atrophy] {glaucomatous} {bilateral or right} `eye`
+H47232  [atrophy] {glaucomatous} {bilateral or left} `eye`
+H47233  [atrophy] {glaucomatous} {bilateral} `eye`
+H47239  [atrophy] {glaucomatous} `eye` !{left} !{right} !{bilateral}
+H47291* other `optic` [atrophy] {bilateral or right} `eye`
+H47292* other `optic` [atrophy] {bilateral or left} `eye`
+H47293* other `optic` [atrophy] {bilateral} `eye`
+H47299* other `optic` [atrophy] `eye` !{left} !{right} !{bilateral}
+H47311  [coloboma] `optic disc` {right}
+H47312  [coloboma] `optic disc` {left}
+H47313  [coloboma] `optic disc` {bilateral}
+H47319  [coloboma] `optic disc of eye` !{left} !{right} !{bilateral}
+H47321  [drusen] `optic disc` {right}
+H47322  [drusen] `optic disc` {left}
+H47323  [drusen] `optic disc` {bilateral}
+H47329  [drusen] `optic disc of eye` !{left} !{right} !{bilateral}
+H47331  [pseudopapilledema] `optic disc` {right}
+H47332  [pseudopapilledema] `optic disc` {left}
+H47333  [pseudopapilledema] `optic disc` {bilateral}
+H47339  [pseudopapilledema] `optic disc of eye` !{left} !{right} !{bilateral}
+H47391* other disorders of optic disc, {bilateral or left} `eye`
+H47392* other disorders of optic disc, {bilateral or left} `eye`
+H47393* other disorders of optic disc, {bilateral} `eye`
+H47399* other disorders of optic disc, `eye` !{left} !{right} !{bilateral}
+H4741   [disorder] `optic chiasm` & [inflammatory disorder]
+H4742   [disorder] `optic chiasm` & [neoplasm malignant]
+H4743   [disorder] `optic chiasm` & [disorder] `vascular`
+H4749   [disorder] `optic chiasm` & [disorder]
+H47511  [disorder] {bilateral or right} `visual pathways` & [inflammatory disorder]
+H47512  [disorder] {bilateral or left} `visual pathways` & [inflammatory disorder]
+H47519  [disorder] `visual pathways` & [inflammatory disorder]
+H47521  [disorder] {bilateral or right} `visual pathways` & [neoplasm malignant]
+H47522  [disorder] {bilateral or left} `visual pathways` & [neoplasm malignant]
+H47529  [disorder] `visual pathways` & [neoplasm malignant]
+H47531  [disorder] {bilateral or right} `visual pathways` & [disorder] `vascular`
+H47532  [disorder] {bilateral or left} `visual pathways` & [disorder] `vascular`
+H47539  [disorder] `visual pathways` & [disorder] `vascular`
+H47611  [cortical blindness] {bilateral or right} `side of brain`
+H47612  [cortical blindness] {bilateral or left} `side of brain`
+H47619  [cortical blindness] `side of brain`
+H47621  [disorder] {bilateral or right} `visual cortex` & [inflammatory disorder]
+H47622  [disorder] {bilateral or left} `visual cortex` & [inflammatory disorder]
+H47629  [disorder] `visual cortex` & [inflammatory disorder]
+H47631  [disorder] {bilateral or right} `visual cortex` & [neoplasm malignant]
+H47632  [disorder] {bilateral or left} `visual cortex` & [neoplasm malignant]
+H47639  [disorder] `visual cortex` & [neoplasm malignant]
+H47641  [disorder] {bilateral or right} `visual cortex` & [disorder] `vascular`
+H47642  [disorder] {bilateral or left} `visual cortex` & [disorder] `vascular`
+H47649  [disorder] `visual cortex` & [disorder] `vascular`
+H479    [disorder] `visual pathways`
+H4900   [third nerve palsy] !{congenital} `eye` !{left} !{right} !{bilateral}
+H4901   [third nerve palsy] !{congenital} {right}
+H4902   [third nerve palsy] !{congenital} {left}
+H4903   [third nerve palsy] !{congenital} {bilateral} `eye`
+H4910   [palsy] `fourth trochlear nerve` `eye` !{left} !{right} !{bilateral}
+H4911   [palsy] `fourth trochlear nerve` {bilateral or right} `eye`
+        [fourth nerve palsy] !{congenital} {right} `eye`
+H4912   [fourth nerve palsy] !{congenital} {left} `eye`
+H4913   [palsy] `fourth trochlear nerve` {bilateral} `eye`
+H4920   [palsy] `sixth abducent nerve` `eye` !{left} !{right} !{bilateral}
+H4921   [palsy] `sixth abducent nerve` {right} `eye`
+H4922   [palsy] `sixth abducent nerve` {left} `eye`
+H4923   [palsy] `sixth abducent nerve` {bilateral} `eye`
+H4930   [ophthalmoplegia] {total} `eye` !{left} !{right} !{bilateral}
+H4931   [ophthalmoplegia] {total} {right} `eye`
+H4932   [ophthalmoplegia] {total} {left} `eye`
+H4933   [ophthalmoplegia] {total} {bilateral} `eye`
+H4940   [ophthalmoplegia] {progressive} {external} `eye` !{left} !{right} !{bilateral}
+H4941   [ophthalmoplegia] {progressive} {external} {right} `eye`
+H4942   [ophthalmoplegia] {progressive} {external} {left} `eye`
+H4943   [ophthalmoplegia] {progressive} {external} {bilateral} `eye`
+H49811  [kearns sayre syndrome] {right} `eye`
+H49812  [kearns sayre syndrome] {left} `eye`
+H49813  [kearns sayre syndrome] {bilateral} `eye`
+H49819  [kearns sayre syndrome] `eye` !{left} !{right} !{bilateral}
+H49881* other paralytic strabismus, {bilateral or right} `eye`
+H49882* other paralytic strabismus, {bilateral or left} `eye`
+H49883* other paralytic strabismus, {bilateral} `eye`
+H49889* other paralytic strabismus, `eye` !{left} !{right} !{bilateral}
+H499    [paralytic strabismus]
+H5000   [esotropia] {unspecified}
+H50011  [esotropia] {monocular} {bilateral or right} `eye`
+H50012  [esotropia] {monocular} {bilateral or left} `eye`
+H50021  [esotropia] {monocular} {a pattern} {bilateral or right} `eye`
+H50022  [esotropia] {monocular} {a pattern} {bilateral or left} `eye`
+H50031  [esotropia] {monocular} {v pattern} {bilateral or right} `eye`
+H50032  [esotropia] {monocular} {v pattern} {bilateral or left} `eye`
+H50041  [esotropia] {monocular} {noncomitancies} {bilateral or right} `eye`
+H50042  [esotropia] {monocular} {noncomitancies} {bilateral or left} `eye`
+H5005   [esotropia] {alternating} !{a pattern} !{v pattern}
+H5006   [esotropia] {alternating} {a pattern}
+H5007   [esotropia] {alternating} {v pattern}
+H5008*  {alternating} [esotropia] with other [noncomitancies]
+H5010   [exotropia] !{monocular} !{left} !{right} !{bilateral}
+H50111  [exotropia] {monocular} {bilateral or right} `eye`
+H50112  [exotropia] {monocular} {bilateral or left} `eye`
+H50121  [exotropia] {monocular} {a pattern} {bilateral or right} `eye`
+H50122  [exotropia] {monocular} {a pattern} {bilateral or left} `eye`
+H50131  [exotropia] {monocular} {v pattern} {bilateral or right} `eye`
+H50132  [exotropia] {monocular} {v pattern} {bilateral or left} `eye`
+H50141  [exotropia] {monocular} {noncomitancies} {bilateral or right} `eye`
+H50142  [exotropia] {monocular} {noncomitancies} {bilateral or left} `eye`
+H5015   [exotropia] {alternating} !{a pattern} !{v pattern}
+H5016   [exotropia] {alternating} {a pattern}
+H5017   [exotropia] {alternating} {v pattern}
+H5018*  {alternating} [exotropia] with other [noncomitancies]
+H5021   [hypertropia] {bilateral or right} `eye`
+H5022   [hypertropia] {bilateral or left} `eye`
+H5030   [heterotropia] {intermittent}
+H50311  [esotropia] {intermittent} {monocular} {bilateral or left} `eye`
+H50312  [esotropia] {intermittent} {monocular} {bilateral or left} `eye`
+H5032   [esotropia] {intermittent} {alternating}
+H50331  [exotropia] {intermittent} {monocular} {bilateral or left} `eye`
+H50332  [exotropia] {intermittent} {monocular} {bilateral or left} `eye`
+H5034   [exotropia] {intermittent} {alternating}
+H5040   [heterotropia]
+H50411  [cyclotropia] {bilateral or right} `eye`
+H50412  [cyclotropia] {bilateral or left} `eye`
+H5042   [monofixation syndrome]
+H5043   [accommodative component] & [esotropia]
+H5050   [heterophoria]
+H5051   [esophoria]
+H5052   [exophoria]
+H5053   [vertical heterophoria]
+H5054   [cyclophoria]
+H5055   [heterophoria] {alternating}
+H5060   [strabismus] {mechanical}
+H50611  [browns sheath syndrome] {bilateral or right} `eye`
+H50612  [browns sheath syndrome] {bilateral or left} `eye`
+H5069*  other {mechanical} [strabismus]
+H50811  [duanes syndrome] {bilateral or right} `eye`
+H50812  [duanes syndrome] {bilateral or left} `eye`
+H5089*  other specified [strabismus]
+H509    [strabismus] & ![hypertropia]
+H510    [palsy] `conjugate gaze`
+H5111   [convergence insufficiency]
+H5112   [convergence excess]
+H5120   [ophthalmoplegia] `eye` !{left} !{right} !{bilateral} `internuclear`
+H5121   [ophthalmoplegia] {right} `eye` `internuclear`
+H5122   [ophthalmoplegia] {left} `eye` `internuclear`
+H5123   [ophthalmoplegia] {bilateral} `eye` `internuclear`
+H518*   other specified disorders of binocular movement
+H519    [binocular movement disorder]
+H5200   [hypermetropia] `eye` !{left} !{right} !{bilateral}
+H5201   [hypermetropia] {right} `eye`
+H5202   [hypermetropia] {left} `eye`
+H5203   [hypermetropia] {bilateral} `eye`
+H5210   [myopia] `eye` !{left} !{right} !{bilateral}
+H5211   [myopia] {right} `eye`
+H5212   [myopia] {left} `eye`
+H5213   [myopia] {bilateral} `eye`
+H52201  [astigmatism] {right} `eye`
+H52202  [astigmatism] {left} `eye`
+H52203  [astigmatism] {bilateral} `eye`
+H52209  [astigmatism] `eye` !{left} !{right} !{bilateral}
+H52211  [astigmatism] {irregular} {right} `eye`
+H52212  [astigmatism] {irregular} {left} `eye`
+H52213  [astigmatism] {irregular} {bilateral} `eye`
+H52219  [astigmatism] {irregular} `eye` !{left} !{right} !{bilateral}
+H52221  [astigmatism] {regular} {right} `eye`
+H52222  [astigmatism] {regular} {left} `eye`
+H52223  [astigmatism] {regular} {bilateral} `eye`
+H52229  [astigmatism] {regular} `eye` !{left} !{right} !{bilateral}
+H5231   [anisometropia]
+H5232   [aniseikonia]
+H524    [presbyopia]
+H52511  [ophthalmoplegia] {regular} {right} `eye`
+H52512  [ophthalmoplegia] {regular} {left} `eye`
+H52513  [ophthalmoplegia] {regular} {bilateral} `eye`
+H52519  [ophthalmoplegia] {regular} `eye` !{left} !{right} !{bilateral}
+H52521  [paresis of accommodation] {right} `eye`
+H52522  [paresis of accommodation] {left} `eye`
+H52523  [paresis of accommodation] {bilateral} `eye`
+H52529  [paresis of accommodation] `eye` !{left} !{right} !{bilateral}
+H52531  [spasm of accommodation] {right} `eye`
+H52532  [spasm of accommodation] {left} `eye`
+H52533  [spasm of accommodation] {bilateral} `eye`
+H52539  [spasm of accommodation] `eye` !{left} !{right} !{bilateral}
+H526*   other disorders of refraction
+H527    [disorder of refraction]
+H53001  [amblyopia] {right}
+H53002  [amblyopia] {left}
+H53003  [amblyopia] {bilateral}
+H53009  [amblyopia] !{left} !{right} !{bilateral}
+H53011  [amblyopia] {deprivation} {right}
+H53012  [amblyopia] {deprivation} {left}
+H53013  [amblyopia] {deprivation} {bilateral}
+H53019  [amblyopia] {deprivation} !{left} !{right} !{bilateral}
+H53021  [amblyopia] {refractive} {right}
+H53022  [amblyopia] {refractive} {left}
+H53023  [amblyopia] {refractive} {bilateral}
+H53029  [amblyopia] {refractive} !{left} !{right} !{bilateral}
+H53031  [amblyopia] {strabismic} {right}
+H53032  [amblyopia] {strabismic} {left}
+H53033  [amblyopia] {strabismic} {bilateral}
+H53039  [amblyopia] {strabismic} !{left} !{right} !{bilateral}
+H5310   [subjective visual disturbances]
+H5311   [day blindness]
+H53121  [visual loss] {transient} {right}
+H53122  [visual loss] {transient} {left}
+H53123  [visual loss] {transient} {bilateral}
+H53129  [visual loss] {transient} !{left} !{right} !{bilateral}
+H53131  [visual loss] {sudden} {right}
+H53132  [visual loss] {sudden} {left}
+H53133  [visual loss] {sudden} {bilateral}
+H53139  [visual loss] {sudden} !{left} !{right} !{bilateral}
+H53141  [visual discomfort] {right}
+H53142  [visual discomfort] {left}
+H53143  [visual discomfort] {bilateral}
+H53149  [visual discomfort] !{left} !{right} !{bilateral}
+H5315   [visual distortions of shape and size]
+H5316   [visual disturbances] {psychophysical}
+H5319*  other {subjective} [visual disturbances]
+H532    [diplopia]
+H5330   [disorder] {binocular vision}
+H5331   [abnormal correspondence] `retina`
+H5332   [fusion] & [defective stereopsis]
+H5333   [simultaneous visual perception] & ![fusion]
+H5334   [suppression of binocular vision]
+H5340   [visual field defects]
+H53411  [scotoma] `central area` {right}
+H53412  [scotoma] `central area` {left}
+H53413  [scotoma] `central area` {bilateral}
+H53419  [scotoma] `central area` !{left} !{right} !{bilateral}
+H53421  [scotoma] `blind spot` {right}
+H53422  [scotoma] `blind spot` {left}
+H53423  [scotoma] `blind spot` {bilateral}
+H53429  [scotoma] `blind spot` !{left} !{right} !{bilateral}
+H53431  [sector defects] {right}
+H53432  [sector defects] {left}
+H53433  [sector defects] {bilateral}
+H53439  [sector defects] !{left} !{right} !{bilateral}
+H53451  [other localized visual field defect] {right}
+H53452  [other localized visual field defect] {left}
+H53453  [other localized visual field defect] {bilateral}
+H53459  [other localized visual field defect] !{left} !{right} !{bilateral}
+H53461  [right homonymous field defects] {bilateral}
+H53462  [left homonymous field defects] {bilateral}
+H53469  [homonymous field defects] {bilateral}
+H5347   [heteronymous field defects] {bilateral}
+H53481  [generalized contraction of visual field] {right}
+H53482  [generalized contraction of visual field] {left}
+H53483  [generalized contraction of visual field] {bilateral}
+H53489  [generalized contraction of visual field] !{left} !{right} !{bilateral}
+H5350   [color vision deficiencies]
+H5351   [achromatopsia]
+H5352   [color vision deficiency] {acquired}
+H5353   [deuteranomaly]
+H5354   [protanomaly]
+H5355   [tritanomaly]
+H5359*  other color vision deficiencies
+H5360   [night blindness]
+H5361   [abnormal dark adaptation curve]
+H5362   [night blindness] {acquired}
+H5363   [night blindness]
+H5369*  other [night blindness]
+H5371   [glare sensitivity]
+H5372   [impaired contrast sensitivity]
+H538    [other visual disturbances]
+H539    [visual disturbance]
+H540X33 [blindness] {right} {category 3} & [blindness] {left} {category 3}
+H540X34 [blindness] {right} {category 3} & [blindness] {left} {category 4}
+H540X35 [blindness] {right} {category 3} & [blindness] {left} {category 5}
+H540X43 [blindness] {right} {category 4} & [blindness] {left} {category 3}
+H540X44 [blindness] {right} {category 4} & [blindness] {left} {category 4}
+H540X45 [blindness] {right} {category 4} & [blindness] {left} {category 5}
+H540X53 [blindness] {right} {category 5} & [blindness] {left} {category 3}
+H540X54 [blindness] {right} {category 5} & [blindness] {left} {category 4}
+H540X55 [blindness] {right} {category 5} & [blindness] {left} {category 5}
+H5410   [blindness] & [low vision]
+H5411   [blindness] {right} & [low vision] {left}
+H541131 [blindness] {right} {category 3} & [low vision] {left} {category 1}
+H541132 [blindness] {right} {category 3} & [low vision] {left} {category 2}
+H541141 [blindness] {right} {category 4} & [low vision] {left} {category 1}
+H541142 [blindness] {right} {category 4} & [low vision] {left} {category 2}
+H541151 [blindness] {right} {category 5} & [low vision] {left} {category 1}
+H541152 [blindness] {right} {category 5} & [low vision] {left} {category 2}
+H541213 [low vision] {right} {category 1} & [blindness] {left} {category 3}
+H541214 [low vision] {right} {category 1} & [blindness] {left} {category 4}
+H541215 [low vision] {right} {category 1} & [blindness] {left} {category 5}
+H541223 [low vision] {right} {category 2} & [blindness] {left} {category 3}
+H541224 [low vision] {right} {category 2} & [blindness] {left} {category 4}
+H541225 [low vision] {right} {category 2} & [blindness] {left} {category 5}
+H542X11 [low vision] {right} {category 1} & [low vision] {left} {category 1}
+H542X12 [low vision] {right} {category 1} & [low vision] {left} {category 2}
+H542X21 [low vision] {right} {category 2} & [low vision] {left} {category 1}
+H542X22 [low vision] {right} {category 2} & [low vision] {left} {category 2}
+H543    [visual loss] {bilateral}
+H5440   [blindness] `one eye`
+H54413A [blindness] {right} {category 3} & [normal vision] {left}
+H54414A [blindness] {right} {category 4} & [normal vision] {left}
+H54415A [blindness] {right} {category 5} & [normal vision] {left}
+H5442A3 [blindness] {left} {category 3} & [normal vision] {right}
+H5442A4 [blindness] {left} {category 4} & [normal vision] {right}
+H5442A5 [blindness] {left} {category 5} & [normal vision] {right}
+H5450   [low vision] `one eye`
+H5451   [low vision] {right} & [normal vision] {left}
+H54511A [low vision] {right} {category 1} & [normal vision] {left}
+H54512A [low vision] {right} {category 2} & [normal vision] {left}
+H5452A1 [low vision] {left} {category 1} & [normal vision] {right}
+H5452A2 [low vision] {left} {category 2} & [normal vision] {right}
+H5460   [visual loss] `one eye`
+H5461   [visual loss] {right} & [normal vision] {left}
+H5462   [visual loss] {left} & [normal vision] {right}
+H547    [visual loss]
+H548*   [legal blindness] as defined in usa
+H5500   [nystagmus]
+H5501   [nystagmus] {congenital}
+H5502   [nystagmus] {latent}
+H5503   [nystagmus] {visual deprivation}
+H5504   [nystagmus] {dissociated}
+H5509*  other forms of nystagmus
+H5581   [saccadic eye movements] !{deficient}
+H5582	[smooth pursuit eye movements] {deficient} 
+H5589*  other [irregular eye movements]
+H5700   [anomaly of pupillary function]
+H5701   [argyll robertson pupil] {atypical}
+H5702   [anisocoria]
+H5703   [miosis]
+H5704   [mydriasis]
+H57051  [tonic pupil] {right} `eye`
+H57052  [tonic pupil] {left} `eye`
+H57053  [tonic pupil] {bilateral} `eye`
+H57059  [tonic pupil] `eye` !{left} !{right} !{bilateral}
+H5709*  other anomalies of pupillary function
+H5710   [pain] `eye` !{left} !{right} !{bilateral}
+H5711   [pain] `eye` {right eye}
+H5712   [pain] `eye`{left eye}
+H5713   [pain] {bilateral} `eye`
+H5789   [other specified disorders of eye and adnexa]
+H579    [disorder] `eye` !{left} !{right} !{bilateral} & [adnexa]
+H59011  [keratopathy] & [cataract surgery] {right} `eye`
+H59012  [keratopathy] & [cataract surgery] {left} `eye`
+H59013  [keratopathy] & [cataract surgery] {bilateral} `eye`
+H59019  [keratopathy] & [cataract surgery] `eye` !{left} !{right} !{bilateral}
+H59021  [cataract fragments] & [cataract surgery] {right} `eye`
+H59022  [cataract fragments] & [cataract surgery] {left} `eye`
+H59023  [cataract fragments] & [cataract surgery] {bilateral} `eye`
+H59029  [cataract fragments] & [cataract surgery] `eye` !{left} !{right} !{bilateral}
+H59031  [cystoid macular edema] & [cataract surgery] {right} `eye`
+H59032  [cystoid macular edema] & [cataract surgery] {left} `eye`
+H59033  [cystoid macular edema] & [cataract surgery] {bilateral} `eye`
+H59039  [cystoid macular edema] & [cataract surgery] `eye` !{left} !{right} !{bilateral}
+H59091* other disorders of the {right} following [cataract surgery]
+H59092* other disorders of the  {left} following [cataract surgery]
+H59093* other disorders of the eye following [cataract surgery] {bilateral} `eye`
+H59099* other disorders of `eye` following [cataract surgery]
+H59111  [hemorrhage] {intraoperative} {right} `eye` & [adnexa] & [ophthalmic procedure]
+        [hematoma] {intraoperative} {right} `eye` & [adnexa] & [ophthalmic procedure]
+H59112  [hemorrhage] {intraoperative} {left} `eye` & [adnexa] & [ophthalmic procedure]
+        [hematoma] {intraoperative} {left} `eye` & [adnexa] & [ophthalmic procedure]
+H59113  [hemorrhage] {intraoperative} `eye` & [adnexa] & [ophthalmic procedure] {bilateral} `eye`
+        [hematoma] {intraoperative} `eye` & [adnexa] & [ophthalmic procedure] {bilateral} `eye`
+H59119  [hemorrhage] {intraoperative} `eye` !{left} !{right} !{bilateral} & [adnexa] & [ophthalmic procedure]
+        [hematoma] {intraoperative} `eye` !{left} !{right} !{bilateral} & [adnexa] & [ophthalmic procedure]
+H59121  [hemorrhage] {intraoperative} {right} `eye` & [adnexa] & [procedure]
+        [hematoma] {intraoperative} {right} `eye` & [adnexa] & [procedure]
+H59122  [hemorrhage] {intraoperative} {left} `eye` & [adnexa] & [procedure]
+        [hematoma] {intraoperative} {left} `eye` & [adnexa] & [procedure]
+H59123  [hemorrhage] {intraoperative} `eye` & [adnexa] & [procedure] {bilateral} `eye`
+        [hematoma] {intraoperative} `eye` & [adnexa] & [procedure] {bilateral} `eye`
+H59129  [hemorrhage] {intraoperative} `eye` !{left} !{right} !{bilateral} & [adnexa] & [procedure]
+        [hematoma] {intraoperative} `eye` !{left} !{right} !{bilateral} & [adnexa] & [procedure]
+H59211  [puncture] {accidental} {right} `eye` & [adnexa] & [ophthalmic procedure]
+        [laceration] {accidental} {right} `eye` & [adnexa] & [ophthalmic procedure]
+H59212  [puncture] {accidental} {left} `eye` & [adnexa] & [ophthalmic procedure]
+        [laceration] {accidental} {left} `eye` & [adnexa] & [ophthalmic procedure]
+H59213  [puncture] {accidental} `eye` & [adnexa] & [ophthalmic procedure] {bilateral} `eye`
+        [laceration] {accidental} `eye` & [adnexa] & [ophthalmic procedure] {bilateral} `eye`
+H59219  [puncture] {accidental} `eye` !{left} !{right} !{bilateral} & [adnexa] & [ophthalmic procedure]
+        [laceration] {accidental} `eye` !{left} !{right} !{bilateral} & [adnexa] & [ophthalmic procedure]
+H59221  [puncture] {accidental} {right} `eye` & [adnexa] & [procedure]
+        [laceration] {accidental} {right} `eye` & [adnexa] & [procedure]
+H59222  [puncture] {accidental} {left} `eye` & [adnexa] & [procedure]
+        [laceration] {accidental} {left} `eye` & [adnexa] & [procedure]
+H59223  [puncture] {accidental} `eye` & [adnexa] & [procedure] {bilateral} `eye`
+        [laceration] {accidental} `eye` & [adnexa] & [procedure] {bilateral} `eye`
+H59229  [puncture] {accidental} `eye` !{left} !{right} !{bilateral} & [adnexa] & [procedure]
+        [laceration] {accidental} `eye`!{left} !{right} !{bilateral} & [adnexa] & [procedure]
+H59311  [hemorrhage] {postprocedural} {right} `eye` & [adnexa] & [ophthalmic procedure]
+        [hematoma] {postprocedural} {right} `eye` & [adnexa] & [ophthalmic procedure]
+H59312  [hemorrhage] {postprocedural} {left} `eye` & [adnexa] & [ophthalmic procedure]
+        [hematoma] {postprocedural} {bilateral or left} `eye` & [adnexa] & [ophthalmic procedure]
+H59313  [hemorrhage] {postprocedural} `eye` & [adnexa] & [ophthalmic procedure] {bilateral} `eye`
+        [hematoma] {postprocedural} `eye` & [adnexa] & [ophthalmic procedure] {bilateral} `eye`
+H59319  [hemorrhage] {postprocedural} `eye` !{left} !{right} !{bilateral} & [adnexa] & [ophthalmic procedure]
+        [hematoma] {postprocedural} `eye` !{left} !{right} !{bilateral} & [adnexa] & [ophthalmic procedure]
+H59321  [hemorrhage] {postprocedural} {bilateral or right} `eye` & [adnexa] & [procedure]
+        [hematoma] {postprocedural} {bilateral or right} `eye` & [adnexa] & [procedure]
+H59322  [hemorrhage] {postprocedural} {bilateral or left} `eye` & [adnexa] & [procedure]
+        [hematoma] {postprocedural} {bilateral or left} `eye` & [adnexa] & [procedure]
+H59323  [hemorrhage] {postprocedural} `eye` & [adnexa] & [procedure] {bilateral} `eye`
+        [hematoma] {postprocedural} `eye` & [adnexa] & [procedure] {bilateral} `eye`
+H59329  [hemorrhage] {postprocedural} `eye` !{left} !{right} !{bilateral} & [adnexa] & [procedure]
+        [hematoma] {postprocedural} `eye` !{left} !{right} !{bilateral} & [adnexa] & [procedure]
+H5940   [inflammation of postprocedural bleb]
+H5941   [inflammation of postprocedural bleb] {stage 1}
+H5942   [inflammation of postprocedural bleb] {stage 2}
+H5943   [inflammation of postprocedural bleb] {stage 3}
+H59811  [scars] & [surgery for detachment] {right} `eye` `chorioretinal`
+H59812  [scars] & [surgery for detachment] {left} `eye` `chorioretinal`
+H59813  [scars] & [surgery for detachment] {bilateral} `eye` `chorioretinal`
+H59819  [scars] & [surgery for detachment] `eye` !{left} !{right} !{bilateral} `chorioretinal`
+H5988*  other intraoperative complications of eye & [adnexa] not elsewhere classified
+H5989*  other postprocedural complications and disorders of eye & [adnexa] not elsewhere classified

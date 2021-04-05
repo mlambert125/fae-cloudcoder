@@ -1,0 +1,354 @@
+J00     [acute rhinitis]
+J0100   [sinusitis] {acute} & [maxilla]
+J0101   [sinusitis] {acute} {recurrent} & [maxilla]
+J0110   [sinusitis] {acute} & [frontal]
+J0111   [sinusitis] {acute} {recurrent} & [frontal]
+J0120   [sinusitis] {acute} `ethmoid`
+J0121   [sinusitis] {acute} {recurrent} `ethmoid`
+J0130   [sinusitis] {acute} `sphenoid`
+J0131   [sinusitis] {acute} {recurrent} `sphenoid`
+J0140   [pansinusitis] {acute}
+J0141   [pansinusitis] {acute} {recurrent}
+J0180*  other {acute} [sinusitis] 
+J0181*  other {acute} {recurrent} [sinusitis]
+J0190   [sinusitis] {acute} !{specified}
+J0191   [sinusitis] {acute} {recurrent} !{specified}
+J020    [acute pharyngitis] {streptococcal} !{past status}
+J028    [acute pharyngitis] !{past status} !{streptococcal} & [other specified organism]
+J029    [acute pharyngitis] !{streptococcal} !{past status}
+J0300   [tonsillitis] {acute} {streptococcal}
+J0301   [tonsillitis] {acute} & [recurrent] {streptococcal}
+        [tonsillitis] {streptococcal} {recurrent} 
+J0380*  acute tonsillitis due to other specified organisms
+J0381*  acute recurrent tonsillitis due to other specified organisms
+J0390   [tonsillitis] !{recurrent} !{chronic}
+J0391   [tonsillitis] {acute} {recurrent} !{streptococcal}
+J040    [laryngitis] {acute}
+J0410   [tracheitis] & ![obstruction]
+J0411   [tracheitis] & [obstruction]
+J042    [laryngotracheitis] {acute}
+J0430   [supraglottitis] & ![obstruction]
+J0431   [supraglottitis] & [obstruction]
+J050    [laryngitis] {acute} {obstructive}
+        [croup]
+J0510   [epiglottitis] {acute} & ![obstruction]
+J0511   [epiglottitis] {acute} & [obstruction]
+J060    [laryngopharyngitis]
+J069    [upper respiratory infection] !{negative} !{viral}
+J09X1   [novel influenza a] !{negative} & [pneumonia]
+J09X2   [novel influenza a] !{negative} & [other respiratory manifestation]
+J09X3   [novel influenza a] !{negative} & [gastrointestinal manifestation]
+J09X9   [novel influenza a] !{negative} & [other manifestation]
+J1000*  [influenza identified] & [pneumonia] !{influenza virus}
+J1001*  [influenza identified] & [pneumonia] {influenza virus}
+J1008*  [influenza identified] with other specified [pneumonia]
+J101    [influenza identified] !{negative} & [other respiratory manifestation]
+J102    [influenza identified] !{negative} & [gastrointestinal manifestation]
+J1081   [influenza identified] !{negative} & [encephalopathy]
+J1082   [influenza identified] !{negative} & [myocarditis]
+J1083   [influenza identified] !{negative} & [otitis media]
+J1089*  [influenza identified] & [other manifestation] !{negative}
+J1100   [influenza] !{negative} !{a or b} & [pneumonia]
+J1108*  [influenza] !{negative} & [specified pneumonia]
+J111    [influenza] !{negative} !{a or b} !{vaccine} & ![pneumonia]
+J112*   [influenza] !{negative} & [gastrointestinal manifestation] 
+J1181*  [influenza] !{negative} & [encephalopathy]
+J1182*  [influenza] !{negative} & [myocarditis]
+J1183*  [influenza] !{negative} & [otitis media]
+J1189*  [influenza] !{negative} & [manifestation]
+J120    [pneumonia] {syncytial virus} `respiratory` & ![other specified organisms] {positive}
+J122    [pneumonia] {parainfluenza virus} & ![other specified organisms] {positive}
+J123    [pneumonia] {human metapneumovirus} & ![other specified organisms] {positive}
+J1281   [pneumonia] & [other specified organisms] {sars associated}
+J1282   [pneumonia] & [other specified organisms] !{test negative outcome or description} NEW AS OF JANUARY 2021
+J1289   [pneumonia] & [other specified organisms] !{test negative outcome or description}
+J129    [pneumonia] {viral} & ![other specified organisms] {positive}
+J13     [pneumonia] & [pneumoniae] {streptococcus} & ![other specified organisms] {positive}
+J14     [pneumonia] & [influenzae] {hemophilus} & ![other specified organisms] {positive}
+J150    [pneumonia] {klebsiella} & ![other specified organisms] {positive}
+J151    [pneumonia] {pseudomonas} !{recent} & ![other specified organisms] {positive}
+J1520   [pneumonia] & [staphylococcus] & ![other specified organisms] {positive}
+J15211  [pneumonia] & [staphylococcus aureus] {methicillin susceptible} & ![other specified organisms] {positive}
+J15212  [pneumonia] & [staphylococcus aureus] {methicillin resistant} & ![other specified organisms] {positive}
+J1529*  pneumonia due to other staphylococcus & ![other specified organisms] {positive}
+J153    [pneumonia] & [streptococcus, group b] & ![other specified organisms] {positive}
+J154    [pneumonia] & [streptococci] & ![other specified organisms] {positive}
+J155    [pneumonia] & [escherichia coli] & ![other specified organisms] {positive}
+J156    [pneumonia] & [aerobic gram negative bacteria] & ![other specified organisms]
+J157    [pneumonia] {mycloplasma} & ![other specified organisms] {positive}
+J158*   pneumonia due to other specified bacteria & ![other specified organisms] {positive}
+J159    [pneumonia] {bacterial} & ![other specified organisms] {positive}
+J160    [pneumonia] {chlamydial} & ![other specified organisms] {positive}
+J168*   pneumonia due to other specified infectious organisms & ![other specified organisms] {positive}
+J17*    pneumonia in diseases classified elsewhere & ![other specified organisms] {positive}
+J180    [bronchopneumonia] & ![other specified organisms] {positive}
+J181    [pneumonia] `lobe` & ![other specified organisms] {positive}
+J182    [pneumonia] {hypostatic} & ![other specified organisms] {positive}
+J188*   other pneumonia, unspecified organism
+J189    [pneumonia] !{local} !{aspiration} !{history} !{bacterial} !{abscess} !{without} & ![other specified organisms] 
+J200    [bronchitis] & [pneumoniae] {mycoplasma} & ![other specified organisms] {positive}
+J201    [bronchitis] & [influenzae] {hemophilus} & ![other specified organisms] {positive}
+J202    [bronchitis] & [streptococcus] & ![other specified organisms] {positive}
+J203    [bronchitis] & [coxsackievirus] & ![other specified organisms] {positive}
+J204    [bronchitis] & [parainfluenza] & ![other specified organisms] {positive}
+J205    [bronchitis] & [syncytial virus] {respiratory} & ![other specified organisms] {positive}
+        [bronchitis] & [rsv] & ![other specified organisms] {positive}
+J206    [bronchitis] & [rhinovirus] & ![other specified organisms] {positive}
+J207    [bronchitis] & [echovirus] & ![other specified organisms] {positive}
+J208    [bronchitis] & [other specified organisms] {positive}
+J209    [bronchitis] {acute} !{copd} & ![other specified organisms] {positive}
+J210    [bronchiolitis] {acute} & [respiratory syncytial virus infection] & ![other specified organisms] {positive}
+J211    [bronchiolitis] {acute} & [human metapneumovirus] & ![other specified organisms] {positive}
+J218*   acute bronchiolitis due to other specified organisms & ![other specified organisms] {positive}
+J219    [bronchiolitis] {acute}
+J22     [infection] `lower respiratory` !{chronic}
+J300    [rhinitis] {vasomotor}
+J301    [rhinitis] {allergic} {pollen}
+J302    [rhinitis] {seasonal} {allergic} {other} !{hayfever}
+        [seasonal allergies]
+J305    [rhinitis] {allergic} {food}
+J3081   [rhinitis] {allergic} {animal dander}
+J3089   [rhinitis] {allergic} {other}
+J309    [rhinitis] {allergic} !{other}
+J310    [chronic rhinitis] !{allergic} !{normal} !{rhythm}
+J311    [nasopharyngitis] {chronic}
+J312    [pharyngitis] {chronic}
+J320    [sinusitis] `maxilla` {chronic}
+J321    [sinusitis] {frontal}
+J322    [sinusitis] `ethmoid`
+J323    [sinusitis] `sphenoid`
+J324    [pansinusitis]
+J328*   other {chronic} [sinusitis]
+J329    [sinusitis] !{acute}
+J330    [polyp] `nasal cavity`
+J331    [degeneration] `polypoid sinus`
+J338*   other [polyp] `sinus`
+J339    [polyp] `nasal`
+J340    [abscess] `nose`
+J341    [cyst] `nose`
+J342    [deviated nasal septum]
+J343    [hypertrophy] `nasal turbinates`
+J3481   [mucositis] `nasal`
+J3489   [other specified disorder of nose and nasal sinuses]
+J349    [disorder] `nose` !{obstruction} !{hypertrophy} !{deviated} !{cyst} !{mucositis}
+J3501   [tonsillitis] {chronic}
+J3502   [adenoiditis] {chronic}
+J3503   [tonsillitis] {chronic} & [adenoiditis]
+J351    [hypertrophy] `tonsil` & ![adenoid] {hypertrophy}
+J352    [hypertrophy] `adenoid` & ![tonsillar] {hypertrophy}
+J353    [hypertrophy] `tonsil` & [hypertrophy] `adenoid`
+        [hypertrophy]  `adenotonsillar`
+J358*   other {chronic} diseases of tonsils and adenoids
+J359    [disease] {chronic} `tonsil`
+J36     [peritonsillitis]
+J370    [laryngitis] {chronic}
+J371    [laryngotracheitis] {chronic}
+J3800   [paralysis] `vocal cord` !{left} !{right} !{unilateral} !{bilateral}
+J3801   [paralysis] `vocal cord` !{bilateral}
+J3802   [paralysis] `vocal cord` {bilateral} 
+J381    [polyp] `vocal cord`
+J382    [nodules] `vocal cord`
+J383    [other disease] `vocal cord`
+J384    [edema] `larynx`
+J385    [laryngeal spasm]
+J386    [stenosis] `larynx`
+J387    [disease of larynx]
+J390    [abscess] `retropharyngeal`
+J391    [abscess] `pharynx`
+J392    [diseases] `pharynx`
+J393    [hypersensitivity reaction] `upper respiratory tract`
+J398    [other specified diseases of upper respiratory tract]
+J399    [disease] `upper respiratory tract`
+J40     [bronchitis] !{acute} !{chronic}
+J410    [simple chronic bronchitis] !{mucopurulent}
+J411    [mucopurulent chronic bronchitis]
+J418    [mixed simple and mucopurulent chronic bronchitis]
+J42     [unspecified chronic bronchitis] & ![chronic obstructive pulmonary disease]
+J430    [emphysema] {unilateral} `pulmonary`
+        [macleods syndrome]
+J431    [emphysema] `panlobular`
+J432    [emphysema] `centrilobular`
+J438*   [emphysema] 
+J439    [emphysema]
+J440    [chronic obstructive pulmonary disease] !{exacerbation} & [acute lower respiratory infection]
+J441    [chronic obstructive pulmonary disease] {exacerbation} !{without}
+J449    [chronic obstructive pulmonary disease] !{exacerbation} & ![acute lower respiratory infection]
+        [chronic obstructive pulmonary disease] {exacerbation} {without} & ![acute lower respiratory infection]
+J4520   [asthma] {intermittent} !{exacerbation}
+J4521   [asthma] {intermittent} {exacerbation}
+J4522   [asthma] {intermittent} & [status asthmaticus]
+J4530   [asthma] {mild} {persistent} !{exacerbation}
+J4531   [asthma] {mild} {persistent} {exacerbation}
+J4532   [asthma] {mild} {persistent} & [status asthmaticus]
+J4540   [asthma] {moderate} {persistent} !{exacerbation}
+J4541   [asthma] {moderate} {persistent} {exacerbation}
+J4542   [asthma] {moderate} {persistent} & [status asthmaticus]
+J4550   [asthma] {severe} {persistent} !{exacerbation}
+J4551   [asthma] {severe} {persistent} {exacerbation}
+J4552   [asthma] {severe} {persistent} & [status asthmaticus]
+J45901  [asthma] {exacerbation} !{chronic} 
+J45902  [asthma] {status asthmaticus}
+J45909  [asthma] !{exacerbation} !{exercise induced} !{mild} !{intermittent} !{moderate} !{severe} !{persistent}
+J45990  [exercise induced bronchospasm]
+J45991  [cough variant asthma]
+J45998  [other asthma]
+J470    [bronchiectasis] & [infection] {acute} `lower respiratory`
+J471    [bronchiectasis] & [exacerbation]
+J479    [bronchiectasis]
+J60     [coalworkers pneumoconiosis]
+J61     [pneumoconiosis] & [asbestos]
+        [pneumoconiosis] & [mineral fibers]
+J620    [pneumoconiosis] & [talc dust]
+J628    [pneumoconiosis due to other dust containing silica]
+J630    [aluminosis] `lung`
+J631    [bauxite fibrosis] `lung`
+J632    [berylliosis]
+J633    [graphite fibrosis] `lung`
+J634    [siderosis]
+J635    [stannosis]
+J636    [pneumoconiosis] & [inorganic dusts]
+J64     [pneumoconiosis]
+J65     [pneumoconiosis] & [tuberculosis]
+J660    [byssinosis]
+J661    [flax dressers disease]
+J662    [cannabinosis]
+J668*   airway disease due to other specific organic dusts
+J670    [farmers lung]
+J671    [bagassosis]
+J672    [bird fanciers lung]
+J673    [suberosis]
+J674    [maltworkers lung]
+J675    [mushroom workers lung]
+J676    [maple bark strippers lung]
+J677    [air conditioner and humidifier lung]
+J678*   hypersensitivity pneumonitis due to other organic dusts 
+J679    [hypersensitivity pneumonitis] {organic dust}
+J680    [bronchitis] {chemicals}
+J681    [edema] {chemicals} `pulmonary`
+J682    [inflammation] {chemicals} `upper respiratory`
+J683    [condition] {chemicals} {acute} `respiratory`
+J684    [condition] {chemicals} {chronic} `respiratory`
+J688*   other `respiratory` conditions due to chemicals, gases, fumes and vapors
+J689    [condition] {chemicals} `respiratory`
+J690    [pneumonitis] & [inhalation of food]
+J691    [pneumonitis] & [inhalation of oils]
+J698*   pneumonitis due to inhalation of other solids and liquids
+J700    [manifestation] {acute} {radiation} `pulmonary`
+J701    [manifestation] {chronic} {radiation} `pulmonary`
+J702    [disorder] {acute} {drug induced} `interstitial lung`
+J703    [disorder] {chronic} {drug induced} `interstitial lung`
+J704    [disorder] {drug induced} `interstitial lung`
+J705    [condition] `respiratory` & [smoke inhalation]
+J708*   `respiratory` conditions due to other specified external agents
+J709    [condition] `respiratory` {external agent}
+J80     [acute respiratory distress syndrome] !"newborn"
+J810    [edema] `pulmonary`
+J811    [edema] {chronic} `pulmonary`
+J82*    [eosinophilia] `pulmonary` "Deleted ICD10 FY2021"
+J8281	[chronic eosinophilic pneumonia] 
+J8282	[acute eosinophilic pneumonia] 
+J8283	[eosinophilic asthma] 
+J8289	[other pulmonary eosinophilia not elsewhere classified] 
+J8401   [proteinosis] `alveolar`
+J8402   [microlithiasis] `pulmonary alveolar`
+J8403   [hemosiderosis] {idiopathic} `pulmonary`
+J8409   [condition] `alveolar`
+J8410   [fibrosis] `pulmonary`
+J84111  [pneumonia] {idiopathic} `interstitial`
+J84112  [fibrosis] {idiopathic} `pulmonary`
+J84113  [pneumonitis] {idiopathic} {non specific} `interstitial`
+J84114  [pneumonitis] {acute} `interstitial`
+J84115  [respiratory bronchiolitis interstitial lung disease]
+J84116  [pneumonia] {cryptogenic} {organizing}
+J84117  [pneumonia] {desquamative} {interstitial}
+J8417*  [other interstitial pulmonary diseases with fibrosis in diseases classified elsewhere] "Deleted ICD10 FY2021"
+J84170	[interstitial lung disease with progressive fibrotic phenotype in diseases classified elsewhere] 
+J84178	[other interstitial pulmonary diseases with fibrosis in diseases classified elsewhere] 
+J842    [pneumonia] `lymphoid interstitial`
+J8481   [lymphangioleiomyomatosis]
+J8482   [langerhans cell histiocytosis] `pulmonary`
+J8483   [surfactant mutations] `lung`
+J84841  [hyperplasia] `neuroendocrine cell` 
+J84842  [glycogenosis] `pulmonary interstitial`
+J84843  [dysplasia] `alveolar capillary` & [vein misalignment]
+J84848* other interstitial  lung diseases of childhood
+J8489*  other specified interstitial pulmonary diseases
+J849    [disease] `interstitial pulmonary`
+J850    [gangrene] `lung`
+J851    [abscess] `lung` & [pneumonia]
+J852    [abscess] `lung` & ![pneumonia]
+J853    [abscess] `mediastinum`
+J860    [pyothorax] & [fistula]
+J869    [pyothorax] & ![fistula]
+J90     [effusion] `pleura` !{malignant}
+J910    [effusion] {malignant} `pleura`
+J918*   pleural effusion in other conditions classified elsewhere
+J920    [plaque] `pleura` & [asbestos]
+J929    [plaque] `pleura` & ![asbestos]
+J930    [pneumothorax] & [spontaneous tension]
+J9311   [pneumothorax] {primary} {spontaneous}
+J9312   [pneumothorax] {secondary} {spontaneous}
+J9381   [pneumothorax] {chronic}
+J9382   [air leak] !{test}
+J9383   [other pneumothorax] !{postprocedural} 
+J939    [pneumothorax] !{postprocedural} !{spontaneous} !{tension} !{without} & ![trauma]
+J9383   [other pneumothorax] !{postprocedural}
+J939    [pneumothorax] !{postprocedural} !{spontaneous} !{primary} !{secondary}
+J940    [effusion] `chylous`
+J941    [fibrothorax]
+J942    [hemothorax]
+J948    [other specified pleural conditions]
+J949    [condition] `pleura`
+J9500   [complication] `tracheostomy`
+J9501   [hemorrhage] `tracheostomy stoma`
+J9502   [infection] `tracheostomy stoma`
+J9503   [tracheostomy malfunction]
+J9504   [fistula] `tracheo esophageal` & [tracheostomy]
+J9509   [tracheostomy complication]
+J951    [insufficiency] {acute} `pulmonary` & [surgery] `thoracic`
+J952    [insufficiency] {acute} `pulmonary` & [surgery] !`thoracic`
+J953    [insufficiency] {chronic} `pulmonary` & [surgery]
+J954    [chemical pneumonitis] {anesthesia}
+J955    [stenosis] {postprocedural} `subglottis`
+J9561   [hemorrhage] {intraoperative} `respiratory system organ` & [other procedure]
+J9562   [hemorrhage] {intraoperative} `respiratory system organ` & [other procedure]
+J9571   [puncture] {accidental} `respiratory system organ` & [other procedure]
+J9572   [puncture] {accidental} `respiratory system organ` & [other procedure]
+J95811  [pneumothorax] {postprocedural}
+J95812  [air leak] {postprocedural} !{test}
+J95821  [postprocedural respiratory failure] {acute}
+J95822  [respiratory failure] {postprocedural}
+J95830  [hemorrhage] {postprocedural} `respiratory system organ or structure` & [other procedure]
+J95831  [hemorrhage] {postprocedural} `respiratory system organ or structure` & [other procedure]
+J9584   [transfusion related acute lung injury]
+J95850  [mechanical complication] `respirator`
+J95851  [ventilator dependent respiratory failure]
+J95859  [complication] `respirator`
+J9588   [intraoperative complications of respiratory system, not elsewhere classified]
+J9589   [complication] {postprocedural} `respiratory system`
+J9600   [respiratory failure] !{post surgical} {acute} !{chronic} & ![hypoxic]
+J9601   [respiratory failure] !{post surgical} {acute} {hypoxic} !{chronic}
+J9602   [respiratory failure] !{post surgical} {acute} {hypercapnic} {hypoxic} !{chronic}
+J9610   [chronic respiratory failure] !{hypoxia} !{acute}
+J9611   [chronic respiratory failure] {hypoxia} !{acute}
+J9612   [chronic respiratory failure] {hypercapnic} !{acute}
+J9620   [respiratory failure] {acute} {chronic} & ![hypoxic] & ![hypercapnic]
+J9621   [respiratory failure] {acute} {chronic} {hypoxic}
+J9622   [respiratory failure] {acute} {chronic} {hypercapnic}
+J9690   [respiratory failure] !{post surgical} !{acute} !{chronic} & ![hypoxic] & ![hypercapnic]
+J9691   [respiratory failure] !{post surgical} !{acute} !{chronic} {hypoxic}
+J9692   [respiratory failure] !{post surgical} !{acute} !{chronic} {hypercapnic}
+J9801   [bronchospasm] {acute}
+J9809   [disease] `bronchus`
+J9811   [atelectasis]
+J9819   [collapse] `pulmonary`
+J982    [emphysema] {interstitial}
+        [pneumomediastinum]
+J983    [emphysema] {compensatory}
+J984    [lung disorder]
+J985    [disease] `mediastinum`
+J9851   [mediastinitis]
+J986    [diaphragmitis]
+J988    [other specified respiratory disorders]
+J989    [disorder respiratory]
+J99     [respiratory disorders in diseases classified elsewhere]

@@ -1,0 +1,858 @@
+Q000    [anencephaly]
+Q001    [craniorachischisis]
+Q002    [iniencephaly]
+Q010    [encephalocele] {frontal}
+Q011    [encephalocele] `nasofrontal`
+Q012    [encephalocele] `occipital`
+Q018    [encephalocele of other sites]
+Q019    [encephalocele] {congenital} 
+Q02     [microcephaly] 
+Q030    [malformations of aqueduct of sylvius]
+Q031    [atresia of foramina of magendie and luschka]
+Q038    [other congenital hydrocephalus]
+Q039    [hydrocephalus] {congenital} 
+Q040    [agenesis] `corpus callosum`
+Q041    [arhinencephaly]
+Q042    [holoprosencephaly]
+Q043    [other reduction deformities of brain]
+Q044    [septo-optic dysplasia of brain]
+Q045    [megalencephaly]
+Q046    [congenital cerebral cysts]
+Q048    [other specified congenital malformations of brain]
+Q049    [congenital malformation of brain unspecified]
+Q050    [spina bifida] `cervical` & [hydrocephalus] 
+Q051    [spina bifida] `thoracic` & [hydrocephalus] 
+Q052    [spina bifida] `lumbar` & [hydrocephalus]
+Q053    [spina bifida] `sacral` & [hydrocephalus] 
+Q054    [spina bifida] !`cervical` !`thoracic`  !`lumbar` !`sacral` & [hydrocephalus]
+Q055    [spina bifida] `cervical` & ![hydrocephalus] 
+Q056    [spina bifida] `thoracic` & ![hydrocephalus] 
+Q057    [spina bifida] `lumbar` & ![hydrocephalus] 
+Q058    [spina bifida] `sacral` & ![hydrocephalus]
+Q059    [spina bifida] !`cervical` !`thoracic`  !`lumbar` !`sacral` & ![hydrocephalus]
+Q060    [amyelia] {congenital} 
+Q061    [hypoplasia and dysplasia of spinal cord]
+Q062    [diastematomyelia]
+Q063    [other congenital cauda equina malformations]
+Q064    [hydromyelia]
+Q068    [other specified congenital malformations of spinal cord]
+Q069    [congenital malformation of spinal cord]
+Q0700   [arnold-chiari syndrome] & ![spina bifida] & ![hydrocephalus] 
+Q0701   [arnold chiari syndrome type ii] & [spina bifida]
+        [chiari malformation type ii] & ![hydrocephalus]
+Q0702   [arnold chiari syndrome type ii] & [hydrocephalus] 
+Q0703   [arnold chiari syndrome type ii] & [spina bifida] & [hydrocephalus]  
+Q078    [other specified congenital malformations of nervous system]
+Q079    [congenital malformation of nervous system unspecified]
+Q100    [ptosis] {congenital} 
+Q101    [ectropion] {congenital} 
+Q102    [entropion] {congenital} 
+Q103    [other congenital malformations of eyelid]
+Q104    [absence] {congenital} `lacrimal apparatus`
+Q105    [stenosis and stricture] {congenital} `lacrimal duct`
+        [congenital nasolacrimal duct obstruction]
+Q106    [other congenital malformations of lacrimal apparatus]
+Q107    [malformation congenital] `orbit`
+Q110    [cystic eyeball] {congenital} 
+Q111    [other anophthalmos]
+Q112    [microphthalmos]
+Q113    [macrophthalmos]!{glaucoma}
+Q120    [congenital cataract] 
+Q121    [displaced lens] {congenital} 
+Q122    [coloboma] `lens`
+Q123    [aphakia] {congenital} 
+Q124    [spherophakia]
+Q128    [other congenital lens malformations]
+Q129    [malformation congenital] `lens`
+Q130    [coloboma]
+Q131    [absence of iris]
+Q132    [other congenital malformations of iris]
+Q133    [corneal opacity] {congenital} 
+Q134    [other congenital corneal malformations]
+Q135    [blue sclera]
+Q1381   [riegers anomaly] {congenital} 
+Q1389   [other congenital malformations of anterior segment of eye]
+Q139    [malformation congenital] `anterior segment of eye`
+Q140    [congenital vitreous opacity]
+Q141    [malformation congenital] `retina`
+Q142    [malformation congenital] `optic disc`
+Q143    [malformation congenital] `choroid`
+Q148    [other congenital malformations of posterior segment of eye]
+Q149    [malformation congenital] `posterior segment of eye`
+Q150    [congenital glaucoma]
+Q158    [other specified congenital malformations of eye]
+Q159    [unspecified malformation congenital] `eye`
+Q160    [absence] {congenital} `ear auricle`
+Q161    [absence] {congenital} `external auditory canal` & [atresia and stricture] {congenital} `external auditory canal`
+Q162    [absence] {congenital} `eustachian tube`
+Q163    [malformation congenital] `ear ossicles`
+Q164    [other congenital malformations of middle ear] 
+Q165    [malformation congenital] `inner ear`
+Q169    [malformation congenital] `ear` & [impairment of hearing]
+Q170    [accessory auricle]
+Q171    [macrotia]
+Q172    [microtia]
+Q173    [other misshapen ear]
+Q174    [misplaced ear]
+Q175    [prominent ear]
+Q178    [other specified congenital malformations of ear]
+Q179    [malformation congenital] `ear`
+Q180    [branchial vestige]
+Q181    [preauricular sinus and cyst]
+Q182    [other branchial cleft malformations]
+Q183    [webbing of neck]
+Q184    [macrostomia]
+Q185    [microstomia]
+Q186    [macrocheilia]
+Q187    [microcheilia]
+Q188    [other specified congenital malformations of face and neck]
+Q189    [malformation congenital] `face or neck`
+Q200    [common arterial trunk]
+Q201    [double outlet right ventricle]
+Q202    [double outlet left ventricle]
+Q203    [discordant ventriculoarterial connection]
+Q204    [double inlet ventricle]
+Q205    [discordant atrioventricular connection] 
+Q206    [isomerism of atrial appendages] 
+Q208    [other congenital malformations of cardiac chambers and connections]
+Q209    [malformation congenital] `cardiac chambers and connections`
+Q210    [malformation of cardiac septa] !{corrected}
+Q211    [atrial septal defect] !{corrected}
+Q212    [atrioventricular septal defect] !{corrected}
+Q213    [tetralogy of fallot] 
+Q214    [septal defect] `aortopulmonary`
+Q218    [other congenital malformations of cardiac septa]
+Q219    [malformation congenital] `cardiac septum`
+Q220    [pulmonary valve atresia]
+Q221    [congenital pulmonary valve stenosis]
+Q222    [congenital pulmonary valve insufficiency]
+Q223    [other congenital malformations of pulmonary valve]
+Q224    [stenosis] {congenital} `tricuspid`
+Q225    [ebsteins anomaly]
+Q226    [hypoplastic right heart syndrome]
+Q228    [other congenital malformations of tricuspid valve]
+Q229    [malformation congenital] `tricuspid valve`
+Q230    [stenosis] {congenital} `aortic valve`
+Q231    [bicuspid aortic valve]
+Q232    [stenosis] {congenital} `mitral valve`
+Q233    [insufficiency] {congenital} `mitral valve`
+Q234    [hypoplastic left heart syndrome]
+Q238    [other congenital malformations of aortic and mitral valves]
+Q239    [malformation congenital] `aortic valve and mitral valve`
+Q240    [dextrocardia] 
+Q241    [levocardia] 
+Q242    [cor triatriatum]
+Q243    [pulmonary infundibular stenosis]
+Q244    [stenosis] {congenital} `subaortic`
+Q245    [anomalous coronary artery] `coronary vessels`
+Q246    [heart block] {congenital}
+Q248    [other specified congenital malformations of heart]
+Q249    [malformation congenital] `heart`
+Q250    [patent ductus arteriosus]
+Q251    [coarctation] `aorta`
+Q2521   [atresia] `aortic arch` 
+Q2529   [atresia] `aorta` !`arch`
+Q253    [stenosis] {congenital} {supravalvular} `aorta`
+Q2540*  [congenital malformation of aorta]
+Q2541   [absence and aplasia of aorta]
+Q2542   [hypoplasia of aorta]
+Q2543   [congenital aneurysm of aorta]
+Q2544   [congenital dilation of aorta]
+Q2545   [double aortic arch]
+Q2546   [tortuous aortic arch]
+Q2547   [right aortic arch]
+Q2548   [anomalous origin of subclavian artery]
+Q2549   [other congenital malformations of aorta]
+Q255    [atresia] `pulmonary`
+Q256    [stenosis] `pulmonary artery`
+        [supravalvular pulmonary stenosis]
+Q2571   [coarctation] {congenital} `pulmonary artery`
+Q2572   [arteriovenous malformation] `pulmonary`
+Q2579   [other congenital malformations of pulmonary artery]
+Q258    [malformation congenital] `of other great artery`
+Q259    [malformation congenital] `great artery`
+Q260    [stenosis] {congenital} `vena cava`
+Q261    [persistent left superior vena cava] {congenital} 
+Q262    [total anomalous pulmonary venous return] !{partial}
+Q263    [partial anomalous pulmonary venous return]
+Q264    [anomalous pulmonary venous connection] {congenital} 
+Q265    [anomalous portal venous connection] {congenital} !{total} !{partial}
+Q266    [fistula] {congenital} `portal vein`
+Q268    [other congenital malformations of great veins]
+Q269    [malformation congenital] `great vein`
+Q270    [absence] {congenital} `umbilical artery`
+Q271    [stenosis] {congenital} `renal artery`
+Q272    [other congenital malformations of renal artery]
+Q2730   [malformation congenital] `arteriovenous` !`vessel of upper limb` !`vessel of lower limb` !`digestive system vessel` !`renal vessel`
+Q2731   [malformation congenital] `arteriovenous` `vessel of upper limb`
+Q2732   [malformation congenital] `arteriovenous` `vessel of lower limb`
+Q2733   [malformation congenital] `arteriovenous` `digestive system vessel`
+Q2734   [malformation congenital] `arteriovenous` `renal vessel`
+Q2739   [malformation congenital] `arteriovenous` {other}
+Q274    [phlebectasia] {congenital} 
+Q278    [other specified congenital malformations of peripheral vascular system]
+Q279    [malformation congenital] `peripheral vascular system`
+Q280    [malformation congenital] `arteriovenous` `precerebral vessels`
+Q281    [other malformations of precerebral vessels]
+Q282    [malformation congenital] `arteriovenous` `cerebral vessels`
+Q283*   other [malformations] {congenital} `cerebral vessels`
+Q288*   other specified [malformation congenital] `circulatory system`
+Q289    [malformation congenital] `circulatory system`
+Q300    [choanal atresia]
+Q301    [agenesis and underdevelopment of nose]
+        [underdevelopment] {congenital} `nose`
+Q302    [fissured nose] {congenital} 
+        [notched nose] {congenital} 
+        [cleft nose]
+Q303    [perforated nasal septum] {congenital} 
+Q308*   other [malformation congenital] `nose`
+Q309    [malformation congenital] `nose`
+Q310    [web of larynx]
+Q311    [stenosis] {congenital} `subglottis`
+Q312    [hypoplasia] `laryngeal`
+Q313    [laryngocele] {congenital} 
+Q315    [laryngomalacia]
+        [laryngotracheomalacia]
+Q318    [other congenital malformations of larynx]
+Q319*   [malformation congenital] `larynx`
+Q320    [tracheomalacia] 
+Q321*   other [malformation congenital] `trachea`
+Q322    [bronchomalacia] 
+Q323    [stenosis] {congenital} `bronchus`
+Q324*   other [malformation congenital] `bronchus`
+Q330    [cystic lung] {congenital} 
+Q331    [accessory lobe of lung]
+Q332    [sequestration of lung] 
+Q333    [agenesis] {congenital} `lung`
+Q334    [bronchiectasis] {congenital} 
+Q335    [ectopic tissue] `lung`
+Q336    [pulmonary hypoplasia]
+        [dysplasia] {congenital} `lung`
+Q338*   other [malformation congenital] of lung
+Q339    [malformation congenital] `lung`
+Q340    [anomaly] `pleura`
+Q341    [cyst] {congenital} `mediastinum`
+Q348*   other specified [malformation congenital] of respiratory system
+Q349    [malformation congenital] `respiratory system`
+Q351    [cleft hard palate] & ![cleft lip]
+Q353    [cleft soft palate] & ![cleft lip]
+Q355    [cleft hard palate] & [cleft palate] {soft} & ![cleft lip]
+Q357    [cleft uvula] 
+Q359    [cleft palate] !{soft} !{hard} !{cleft lip}
+Q360    [cleft lip] {bilateral} & ![cleft palate]
+Q361    [cleft lip] {median} & ![cleft palate]
+Q369    [cleft lip] {unilateral} & ![cleft palate]
+Q370    [cleft hard palate] & [cleft lip] {bilateral}
+Q371    [cleft hard palate] & [cleft lip] {unilateral}
+Q372    [cleft soft palate] & [cleft lip] {bilateral}
+Q373    [cleft soft palate] & [cleft lip] {unilateral}
+Q374    [cleft hard and soft palate] & [cleft lip] {bilateral}
+        [cleft lip] {bilateral} & [cleft palate] {soft} & [cleft palate] {hard}
+Q375    [cleft hard and soft palate] & [cleft lip] {unilateral}
+        [cleft lip] {unilateral} & [cleft palate] {hard} & [cleft palate] {soft}
+Q378    [unspecified cleft palate with bilateral cleft lip] & [hard cleft palate] & ![soft cleft palate]
+Q379    [cleft palate] !{specified} & [cleft lip] !{specified}
+Q380*   [malformation congenital] `lip`
+Q381    [ankyloglossia]
+Q382    [macroglossia]
+Q383*   other [malformation congenital] `tongue`
+Q384    [malformation congenital] `salivary glands and ducts`
+Q385    [malformation congenital] `palate`
+Q386*   other [malformation congenital] `mouth`
+Q387    [pharyngeal pouch] {congenital} 
+Q388*   other [malformation congenital] of pharynx
+Q390    [esophageal atresia] & ![fistula] !{acquired} 
+Q391    [esophageal atresia] & [tracheoesophageal fistula]
+Q392    [fistula] {congenital} `tracheo esophageal` & ![atresia] 
+Q393    [stenosis and stricture] {congenital} `esophagus`
+Q394    [esophageal web] {congenital} 
+Q395    [dilatation] {congenital} `esophagus`
+Q396    [diverticulum] {congenital} `esophagus`
+Q398*   other [malformation congenital] of esophagus
+Q399    [malformation congenital] `esophagus`
+Q400    [stenosis] {congenital} {hypertrophic} {pyloric}
+Q401    [hiatus hernia] {congenital} 
+Q402*   other specified [malformation congenital] `stomach`
+Q403    [malformation congenital] `stomach`
+Q408*   other specified [malformation congenital] of upper alimentary tract
+Q409    [malformation] `upper alimentary tract`
+Q410    [atresia of small intestine] `duodenum`
+Q411    [atresia of small intestine] {congenital} `jejunum`
+Q412    [atresia of small intestine] {congenital} `ileum`
+Q418*   [absence atresia and stenosis] {congenital} of other specified parts of small intestine
+Q419    [atresia of small intestine] {congenital} `small intestine`
+Q420    [absence atresia and stenosis] {congenital} `rectum` & [fistula] {congenital} 
+Q421    [absence atresia and stenosis] {congenital} `rectum` & ![fistula] {congenital} 
+Q422    [imperforate anus] {fistula} 
+Q423    [imperforate anus] !{fistula}
+Q428*   [absence atresia and stenosis] {congenital} of other parts of large intestine
+Q429    [congenital malformation of large intestine]
+Q430    [meckels diverticulum]
+Q431    [hirschsprungs disease]
+Q432*   other {functional} [disorders] {congenital} of [colon] {congenital} 
+Q433    [malformation congenital] `intestinal fixation`
+Q434    [duplication] {congenital} `intestine`
+Q435    [ectopic anus] 
+Q436    [fistula] {congenital} `rectum and anus`
+Q437    [persistent cloaca] {congenital} 
+Q438    [other specified congenital malformations of intestine]
+Q439    [other congenital malformation of small intestine]
+Q440    [agenesis] `gallbladder`
+        [aplasia] `gallbladder`
+        [hypoplasia] `gallbladder`
+Q441*   other [malformation congenital] `gallbladder`
+Q442    [atresia] `bile duct`
+Q443    [stenosis and stricture] {congenital} `bile duct`
+Q444    [cyst] {congenital} `choledochal`
+Q445*   other [malformation congenital] `bile duct`
+Q446    [disease] {congenital} {cystic} `liver`
+Q447    [other congenital malformation of liver]
+Q450    [agenesis] {congenital} `pancreas`
+        [aplasia] `pancreas`
+        [hypoplasia] `pancreas`
+Q451    [annular pancreas] {congenital} 
+Q452    [cyst] {congenital} `pancreas`
+Q453*   other [malformation congenital] of pancreas and pancreatic duct
+Q458*   other specified [malformation congenital] `digestive system`
+Q459    [malformation congenital] `digestive system`
+Q5001   [absence] {congenital} {unilateral} `ovary`
+Q5002   [absence] {congenital} {bilateral} `ovary`
+Q501    [cyst] {congenital} {developmental} `ovary` "female"
+Q502    [torsion] {congenital} `ovary` "female"
+Q5031   [accessory ovary] "female" 
+Q5032   [ovarian streak] {congenital} "female" 
+Q5039*  other [malformation congenital] `ovary` "female"
+Q504    [cyst] {congenital} {embryonic} `fallopian tube` "female"
+Q505    [cyst] {congenital} {embryonic} `broad ligament` "female"
+Q506*   other [malformation congenital] `fallopian tube` and `broad ligament` "female"
+Q510    [agenesis] `uterus` "female"
+        [aplasia] `uterus` "female"
+Q5110   [doubling of uterus] & [doubling of cervix] & [doubling of vagina] & ![obstruction] "female"
+Q5111   [doubling of uterus] & [doubling of cervix] & [doubling of vagina] & [obstruction] "female"
+Q5120*  [other doubling of uterus] {congenital}  "female" "Deleted ICD FY2021"
+Q5121	[complete doubling] `uterus`
+Q5122	[partial doubling] `uterus`
+Q518	[other and unspecified doubling] `uterus`
+Q513    [bicornate uterus] "female" 
+Q514    [unicornate uterus] "female"
+Q515    [agenesis] `cervix` "female"
+        [aplasia] `cervix` "female"
+Q516    [cyst] {embryonic} `cervix` "female"
+Q517    [fistulae] {congenital} `uterus` `digestive tract` `urinary tract` "female"
+Q51810  [arcuate] `uterus` "female"
+Q51811  [hypoplasia] `uterus` "female"
+Q51818* other [malformation congenital] of uterus "female"
+Q51820  [cervical duplication] "female"
+Q51821  [hypoplasia] `cervix` "female"
+Q51828* other [malformation congenital] of cervix "female"
+Q519    [anomaly] `uterus and cervix` "female"
+Q520    [absence] {congenital} `vagina` "female"
+Q5210   [doubling of vagina] "female" 
+Q5211   [vaginal septum] {congenital} {transverse} "female"
+Q5212   [vaginal septum] {congenital} {longitudinal} "female"
+Q522    [fistula] {congenital} `rectovaginal` "female"
+Q523    [imperforate hymen] {congenital}  "female"
+Q524    [other congenital malformations of vagina]
+Q525    [fusion of labia] "female"
+Q526    [malformation congenital] `clitoris` "female"
+Q5270   [malformation congenital] `vulva` "female"
+Q5271   [absence] {congenital} `vulva` "female"
+Q5279*  other [malformation congenital] `vulva` "female"
+Q528*   other specified [malformation congenital] of female genitalia "female"
+Q529    [malformation congenital] `genital` "female"
+Q5300   [ectopic testis]
+Q5301   [ectopic testis] {unilateral}
+Q5302   [ectopic testes] {bilateral}
+Q5310   [undescended testicle] {unilateral}
+Q53111  [intra abdominal testicle] !{bilateral}
+Q53112  [undescended inguinal testicle]
+Q5312   [perineal ectopic testis] !{bilateral}
+Q5320   [undescended testicle] {bilateral}
+Q53211  [intra abdominal testis] {bilateral}
+Q5322   [perineal ectopic testis] {bilateral}
+Q539    [undescended testicle]
+Q540    [hypospadias] `balanic` 
+Q541    [hypospadias] `penile` 
+Q542    [hypospadias] `penoscrotal`
+Q543    [hypospadias] `perineal` 
+Q544    [chordee] `penile` 
+Q548*   other [hypospadias] "male" 
+Q549    [hypospadias] !{glanular} !`penile` !`penoscrotal` !`balanic` !`perineal`
+Q550    [absence] `testis`
+        [aplasia] `testis`
+Q551    [hypoplasia] `testis and scrotum` 
+Q5520   [malformation congenital] `testis and scrotum`
+Q5521   [polyorchism]
+Q5522   [retractile testis]
+Q5523   [scrotal transposition] {congenital} "male"
+Q5529   [other congenital malformations of testis and scrotum]   "male"
+Q553    [atresia] `vas deferens` "male"
+Q554    [other congenital malformation of vas deferens] "male"
+Q555    [absence] `penis`
+        [aplasia] `penis`
+Q5561   [curvature of penis] 
+Q5562   [hypoplasia] `penis`
+Q5563   [torsion] `penile` !{acquired}
+Q5564   [hidden penis] !{acquired}
+Q5569*  other [malformation congenital] `penis` "male"
+Q557    [fistula] {congenital} `vasocutaneous` "male"
+Q558*   other specified [malformation congenital] of male genital organs "male"
+Q559    [other congenital malformation of testis]
+Q560    [hermaphroditism] "male" 
+Q561    [pseudohermaphroditism] "male"
+Q562    [pseudohermaphroditism] "female"
+Q563    [pseudohermaphroditism] 
+Q564    [indeterminate sex] 
+Q600    [unilateral agenesis kidney]
+Q601    [agenesis] {congenital} {bilateral} `renal`
+Q602    [agenesis] {congenital} `renal`
+Q603    [hypoplasia] {unilateral} `renal`
+Q604    [hypoplasia] {bilateral} `renal`
+Q605    [hypoplasia] `renal`
+Q606    [potters syndrome] {congenital} 
+Q6100   [cyst] {congenital} `renal`
+Q6101   [cyst] {congenital} {single} `renal`
+Q6102   [cyst] {congenital} {multiple} `renal`
+Q6111   [cystic dilatation] {congenital} `collecting ducts`
+Q6119*  other [polycystic kidney] {congenital} "infantile" type
+Q612    [polycystic kidney] & [autosomal dominant]
+Q613    [polycystic kidney] {disease} 
+Q614    [renal dysplasia]
+        [multicystic dysplastic kidney]
+Q615    [cystic kidney] {congenital} {medullary}
+Q618*   other cystic kidney diseases
+Q619    [cystic kidney disease] {congenital} 
+Q620    [hydronephrosis] {congenital}
+Q6210   [occlusion] {congenital} `ureter`
+Q6211   [occlusion] {congenital} `ureteropelvic junction`
+Q6212   [occlusion] {congenital} `ureterovesical orifice`
+Q622    [megaureter] {congenital} 
+Q6231   [ureterocele] {congenital} {orthotopic}
+Q6232   [cecoureterocele] {congenital} 
+Q6239*  other [obstructive defects] {congenital} `renal pelvis` and `ureter`
+Q624    [agenesis] {congenital} `ureter`
+Q625    [duplication] `ureter` & [accessary kidney]
+Q6260   [malposition] {congenital} `ureter`
+Q6261   [deviation] {congenital} `ureter`
+Q6262   [displacement] {congenital} `ureter`
+Q6263   [anomalous implantation] `ureter`
+Q6269*  other malposition `ureter`
+Q627    [congenital vesicoureteric reflux]
+Q628*   other [malformation congenital] `ureter`
+Q630    [accessory kidney]
+Q631    [lobulated kidney] {congenital} 
+        [fused kidney] {congenital} 
+        [horseshoe kidney]
+Q632    [ectopic kidney]
+Q633    [hyperplastic kidney] {congenital} 
+        [giant kidney] {congenital} 
+Q638*   other specified [malformation congenital] of kidney
+Q639    [malformation congenital] `kidney`
+Q640    [epispadias] {congenital} 
+Q6410   [exstrophy] `bladder`
+        [oeis]
+Q6411   [fissure] {congenital} {supravesical} `urinary bladder`
+Q6412   [exstrophy] `cloacal`
+Q6419*  other [exstrophy] {congenital} of urinary bladder
+Q642    [posterior urethral valves] {congenital} 
+Q6431   [obstruction] {congenital} `bladder neck`
+Q6432   [stricture] {congenital} `urethra`
+Q6433   [stricture] {congenital} `urinary meatus`
+Q6439*  other [atresia] & [stenosis] {congenital} `urethra` and `bladder neck`
+Q644    [urachal remnant]
+Q645    [absence] {congenital} `bladder and urethra`
+Q646    [diverticulum] {congenital} `bladder`
+Q6470   [malformation congenital] `bladder and urethra`
+Q6471   [prolapse] {congenital} `urethra`
+Q6472   [prolapse] {congenital} `urinary meatus`
+Q6473   [fistula] {congenital} `urethrorectal`
+Q6474   [double urethra] {congenital} 
+Q6475   [double urinary meatus] {congenital} 
+Q6479*  other [malformation congenital] `bladder` and `urethra`
+Q648*   other specified [malformation congenital] `urinary system`
+Q649    [malformation congenital] `urinary system`
+Q6500   [congenital dislocation]  !{left} !{right}
+Q6501   [dysplasia] & [dislocation] {right} `hip`
+Q6502   [dysplasia] & [dislocation] {left} `hip`
+Q651    [congenital dislocation] & [dislocation] {bilateral} `hip`
+Q652    [congenital dislocation] & [dislocation] !{left} !{right} `hip`
+Q6530   [congenital dislocation] & [partial] {dislocation} {unilateral} `hip`
+Q6531   [congenital dislocation] & [partial] {dislocation} {unilateral} & [hip] {right}
+Q6532   [congenital dislocation] & [partial] {dislocation} {unilateral} & [hip] {left}
+Q654    [congenital dislocation] & [partial] {dislocation} & [hip] {bilateral}
+Q655    [congenital dislocation] & [partial] {dislocation} `hip`
+Q656    [congenital unstable hip]
+Q6581   [coxa valga]
+Q6582   [coxa vara]
+Q6589   [other specified anomalies of hip] Had to remove the translation that was just dysplasia was causing issues at many sites -HG
+Q659    [other specified congenital deformities of hip]
+Q6600	[congenital] `talipes equinovarus` !{right} !{left} 
+Q6601	[congenital] `talipes equinovarus` {right} `foot` 
+Q6602	[congenital] `talipes equinovarus` {left} `foot` 
+Q6610	[congenital] `talipes calcaneovarus` !{right} !{left} 
+Q6611	[congenital] `talipes calcaneovarus` {right} `foot` 
+Q6612	[congenital] `talipes calcaneovarus` {left} `foot` 
+Q66211	[metatarsus primus varus] {right}
+Q66212	[metatarsus primus varus] {left}
+Q66219	[metatarsus primus varus] !{right} !{left} 
+Q66221	[metatarsus adductus] {right} 
+Q66222	[metatarsus adductus] {left} 
+Q66229	[metatarsus adductus] !{right} !{left} 
+Q6630	[other congenital varus deformity] !{right} !{left} 
+Q6631	[other congenital] `varus deformities of feet` {right} `foot` 
+Q6632	[other congenital] `varus deformities of feet` {left} `foot` 
+Q6640	[congenital] `talipes calcaneovalgus` !{right} !{left} 
+Q6641	[congenital] `talipes calcaneovalgus` {right} `foot` 
+Q6642	[congenital] `talipes calcaneovalgus` {left} `foot` 
+Q6650   [pes planus] {congenital} `foot` !{left} !{right}
+Q6651   [pes planus] {right} `foot`
+Q6652   [pes planus] {left} `foot`
+Q666*   [other valgus [deformities] {congenital} of feet{congenital}]
+Q6670	[congenital] `pes cavus` !{right} !{left} 
+Q6671	[congenital] `pes cavus` {right} `foot` 
+Q6672	[congenital] `pes cavus` {left} `foot` 
+Q6680   [vertical talus] !{right} !{left} `foot`
+Q6681   [congenital] `vertical talus` {right} `foot`
+Q6682   [congenital] `vertical talus` {left} `foot`
+Q6689   [other congenital deformities of feet]
+Q6690	[congenital] {deformity} `feet` !{right} !{left} 
+Q6691	[congenital] {deformity} {right} `foot` 
+Q6692	[congenital] {deformity} {left} `foot` 
+Q670    [facial asymmetry] {congenital}
+Q671    [compression facies] {congenital}
+Q672    [dolichocephaly] 
+Q673    [plagiocephaly]
+Q674    [other congenital deformities of skull face and jaw]
+Q675    [congenital scoliosis]
+Q676    [pectus excavatum] 
+Q677    [pectus carinatum]
+Q678*   other [deformities] {congenital} of chest {congenital}
+Q680    [deformity] {congenital} `sternocleidomastoid muscle`
+Q681    [camptodactyly] `finger`
+Q682    [congenital genu recurvatum] `knee`
+Q683    [bowing] {congenital} `femur`
+Q684    [bowing] {congenital} `tibia and fibula`
+        [bowing] {congenital} `tibia and fibula`
+Q685    [bowing] {congenital} `long bones of leg`
+Q686    [discoid meniscus] {congenital} 
+Q688*   other specified musculoskeletal [deformities] {congenital}
+Q690    [polydactyly] `finger`
+Q691    [accessory thumb]
+Q692    [accessory toe] 
+Q699    [polydactyly]
+Q7000   [complicated syndactyly] !{left} !{right} `hand or finger`
+Q7001   [complicated syndactyly] {right} `hand or finger` 
+Q7002   [complicated syndactyly] {left} `hand or finger`
+Q7003   [complicated syndactyly] {bilateral} `hand or finger`
+Q7010   [webbed fingers] !{left} !{right}`hand or finger`
+Q7011   [webbed fingers] {right} `hand or finger`
+Q7012   [webbed fingers] {left} `hand or finger`
+Q7013   [webbed fingers] {bilateral} `hand or finger`
+Q7020   [complicated syndactyly] !{left} !{right} `toe or foot`
+Q7021   [complicated syndactyly] {right} `toe or foot`
+Q7022   [complicated syndactyly] {left} `toe or foot`
+Q7023   [complicated syndactyly] {bilateral}
+Q7030   [webbed toes] !{left} !{right} `toe or foot`
+Q7031   [webbed toes] {right} `toe or foot`
+Q7032   [webbed toes] {left} `toe or foot`
+Q7033   [webbed toes] {bilateral}
+Q704    [polysyndactyly]
+Q709    [syndactyly] !{complex} !{complicated}
+Q7100   [absence] {congenital} {complete} `upper limb`
+Q7101   [absence] {congenital} {complete} {right} `upper limb`
+Q7102   [absence] {congenital} {complete} {left} `upper limb`
+Q7103   [absence] {congenital} {complete} `bilateral upper limb`
+Q7110   [absence] {congenital} `upper arm and forearm` & [hand absent] {congenital} 
+Q7111   [absence] {congenital} {right} `upper arm and forearm` & [hand absent] {congenital} 
+Q7112   [absence] {congenital} {left} `upper arm and forearm` & [hand absent] {congenital} 
+Q7113   [absence] {congenital} `bilateral upper arm and forearm` & [hand absent] {congenital} 
+Q7120   [absence] {congenital} `both forearm and hand` `upper limb`
+Q7121   [absence] {congenital} `both forearm and hand` {right} `upper limb`
+Q7122   [absence] {congenital} `both forearm and hand` {left} `upper limb`
+Q7123   [absence] {congenital} `bilateral both forearm and hand`
+Q7130   [absence] {congenital} `hand and finger`
+Q7131   [absence] {congenital} {right} `hand and finger`
+Q7132   [absence] {congenital} {left} `hand and finger`
+Q7133   [absence] {congenital} `hand and finger bilateral`
+Q7140   [reduction defect] {congenital} {longitudinal} `radius`
+Q7141   [reduction defect] {congenital} {longitudinal} {right} `radius`
+Q7142   [reduction defect] {congenital} {longitudinal} {left} `radius`
+Q7143   [reduction defect] {congenital} {longitudinal} `bilateral radius`
+Q7150   [reduction defect] {congenital} {longitudinal} `ulna`
+Q7151   [reduction defect] {congenital} {longitudinal} {right} `ulna`
+Q7152   [reduction defect] {congenital} {longitudinal} {left} `ulna`
+Q7153   [reduction defect] {congenital} {longitudinal} `bilateral ulna`
+Q7160   [lobster claw hand] {congenital} `hand`
+Q7161   [lobster claw hand] {congenital} {right} `hand`
+Q7162   [lobster claw hand] {congenital} {left} `hand`
+Q7163   [lobster claw hand] {congenital} `both hands`
+Q71811  [shortening] {congenital} {right} `upper limb`
+Q71812  [shortening] {congenital} {left} `upper limb`
+Q71813  [shortening] {congenital} `both upper limbs`
+Q71819  [shortening] {congenital} `upper limb`
+Q71891  [other reduction defects] {right} `upper limb`
+Q71892* other [reduction defects] {congenital} of left upper limb
+Q71893* other [reduction defects] {congenital} of upper limb {bilateral}
+Q71899* other [reduction defects] {congenital} of unspecified upper limb
+Q7190   [reduction defect] {congenital} `upper limb`
+Q7191   [reduction defect] {congenital} {right} `upper limb`
+Q7192   [reduction defect] {congenital} {left} `upper limb`
+Q7193   [reduction defect] {congenital} `both upper limbs`
+Q7200   [absence] {congenital} `lower limb`
+Q7201   [absence] {congenital} {right} `lower limb`
+Q7202   [absence] {congenital} {left} `lower limb`
+Q7203   [absence] {congenital} `both lower limbs`
+Q7210   [absence] {congenital} `thigh and lower leg` & [foot absent] {congenital} 
+Q7211   [absence] {congenital} {right} `thigh and lower leg` & [foot absent] {congenital} 
+Q7212   [absence] {congenital} {left} `thigh and lower leg` & [foot absent] {congenital} 
+Q7213   [absence] {congenital} `thigh and lower leg` & [foot absent] {congenital} {bilateral}
+Q7220   [absence] {congenital} `both lower leg and foot` `lower limb`
+Q7221   [absence] {congenital} `both lower leg and foot` {right} `lower limb`
+Q7222   [absence] {congenital} `both lower leg and foot` {left} `lower limb`
+Q7223   [absence] {congenital} `both lower leg and foot` `both lower limbs`
+Q7230   [absence] {congenital} `foot and toe`
+Q7231   [absence] {congenital} {right} `foot and toe`
+Q7232   [absence] {congenital} {left} `foot and toe`
+Q7233   [absence] {congenital} `both feet and toes`
+Q7240   [reduction defect] {congenital} {longitudinal} `femur`
+Q7241   [reduction defect] {congenital} {longitudinal} {right} `femur`
+Q7242   [reduction defect] {congenital} {longitudinal} {left} `femur`
+Q7243   [reduction defect] {congenital} {longitudinal} `both femurs`
+Q7250   [reduction defect] {congenital} {longitudinal} `tibia`
+Q7251   [reduction defect] {congenital} {longitudinal} {right} `tibia`
+Q7252   [reduction defect] {congenital} {longitudinal} {left} `tibia`
+Q7253   [reduction defect] {congenital} {longitudinal} `both tibia`
+Q7260   [reduction defect] {congenital} {longitudinal} `fibula`
+Q7261   [reduction defect] {congenital} {longitudinal} {right} `fibula`
+Q7262   [reduction defect] {congenital} {longitudinal} {left} `fibula`
+Q7263   [reduction defect] {congenital} {longitudinal} `both fibula`
+Q7270   [split foot] {congenital} `lower limb`
+Q7271   [split foot] {congenital} {right} `lower limb`
+Q7272   [split foot] {congenital} {left} `lower limb`
+Q7273   [split foot] {congenital} {bilateral}
+Q72811  [shortening] {congenital} {right} `lower limb`
+Q72812  [shortening] {congenital} {left} `lower limb`
+Q72813  [shortening] {congenital} `both lower limbs`
+Q72819  [shortening] {congenital} `lower limb`
+Q72891* other [reduction defects] {congenital} of right lower limb
+Q72892* other [reduction defects] {congenital} of left lower limb
+Q72893* other [reduction defects] {congenital} of lower limb {bilateral}
+Q72899* other [reduction defects] {congenital} of unspecified lower limb
+Q7290   [reduction defect] {congenital} `lower limb`
+Q7291   [reduction defect] {congenital} {right} `lower limb`
+Q7292   [reduction defect] {congenital} {left} `lower limb`
+Q7293   [reduction defect] {congenital} `both lower limbs`
+Q730    [absence] {congenital} `limb`
+Q731    [phocomelia] {congenital} `limb`
+Q738*   other [reduction defects] {congenital} of unspecified limb(s)
+Q740    [other congenital malformation of upper limb or limbs including shoulder girdle]
+Q741    [malformation congenital] `knee`
+Q742*   other [malformation congenital] of lower limb(s) including pelvic girdle
+Q743    [arthrogryposis multiplex congenita]
+Q748*   other specified [malformation congenital] of limb(s)
+Q749    [malformation congenital] `limb`
+Q750    [craniosynostosis] 
+Q751    [dysostosis]  `craniofacial`
+Q752    [hypertelorism] 
+Q753    [macrocephaly]
+Q754    [dysostosis]  `mandibulofacial`
+Q755    [dysostosis] `oculomandibular`
+Q758*   other specified [malformation congenital] of skull and face bones
+Q759    [malformation congenital] `skull and face bones`
+Q760    [spina bifida] {occulta}
+Q761    [klippel feil syndrome] {congenital} 
+Q762    [spondylolisthesis] {congenital} 
+Q763    [scoliosis] {congenital} & [malformation congenital] {bony}
+Q76411  [kyphosis] {congenital} `occipitoatlantoaxial`
+Q76412  [kyphosis] {congenital} `cervical`
+Q76413  [kyphosis] {congenital} `cervicothoracic`
+Q76414  [kyphosis] {congenital} `thoracic`
+Q76415  [kyphosis] {congenital} `thoracic` `lumbar`
+Q76419  [kyphosis] {congenital} 
+Q76425  [lordosis] {congenital} `thoracolumbar`
+Q76426  [lordosis] {congenital} `lumbar`
+Q76427  [lordosis] {congenital} `lumbosacral`
+Q76428* [lordosis] {congenital} sacral and sacrococcygeal region
+Q76429  [lordosis] {congenital} 
+Q7649*  other [malformation congenital] of spine not associated with scoliosis
+Q765    [cervical rib] {congenital} 
+Q766*   other [malformation congenital] of ribs
+Q767    [malformation congenital] `sternum`
+Q768*   other [malformation congenital] of bony thorax
+Q769    [malformation congenital] `bony thorax`
+Q770    [osteochondrodysplasia with defects of growth of tubular bones and spine] {achondrogenesis}
+Q771    [osteochondrodysplasia with defects of growth of tubular bones and spine] {thanatophoric short stature}
+Q772    [osteochondrodysplasia with defects of growth of tubular bones and spine] {jeune}
+Q773    [osteochondrodysplasia with defects of growth of tubular bones and spine] {chondrodysplasia punctata}
+Q774    [achondroplasia] 
+Q775*    [dysplasia] {congenital} {diastrophic}
+Q776*    [dysplasia] {congenital} {chondroectodermal}
+Q777*    [dysplasia] {congenital} {spondyloepiphyseal}
+Q778*   other osteochondrodysplasia with defects of growth of tubular bones and spine
+Q779    [osteochondrodysplasia] {congenital} & [defects of growth] {congenital} `tubular bones and spine`
+Q780    [osteogenesis imperfecta] {congenital} 
+Q781    [dysplasia] {congenital} {polyostotic} {fibrous}
+Q782    [osteopetrosis] {congenital} 
+Q783    [dysplasia] {congenital} {progressive} {diaphyseal}
+Q784    [enchondromatosis] {congenital} 
+Q785    [dysplasia] {congenital} {metaphyseal}
+Q786    [exostoses] {congenital} {multiple}
+Q788*   other specified osteochondrodysplasias
+Q789    [osteochondrodysplasia] {congenital} 
+Q790    [congenital diaphragmatic hernia]
+Q791*   other [malformation congenital] of diaphragm
+Q792    [omphalocele]
+Q793    [gastroschisis] {congenital} 
+Q794    [prune belly syndrome] {congenital} 
+Q7951   [hernia] {congenital} `bladder`
+Q7959*  other [malformation congenital] of abdominal wall
+Q796*   [ehlers danlos syndrome] 
+Q7960	[ehlers-danlos syndrome] 
+Q7961	[classical ehlers-danlos syndrome] 
+Q7962	[hypermobile ehlers-danlos syndrome] 
+Q7963	[vascular ehlers-danlos syndrome] 
+Q7969	[other ehlers-danlos syndromes] 
+Q798    [other malformation of musculoskeletal system]
+Q799    [malformation congenital] `musculoskeletal system`
+Q800    [ichthyosis] {congenital} {vulgaris}
+Q801    [ichthyosis] {congenital} {x linked}
+Q802    [ichthyosis] {congenital} {lamellar}
+Q803    [erythroderma] {congenital} {bullous} {ichthyosiform}
+Q804    [harlequin fetus] {congenital} 
+Q808*   other [ichthyosis] {congenital} 
+Q809    [ichthyosis] {congenital} 
+Q810    [epidermolysis bullosa] {congenital} {simplex}
+Q811    [epidermolysis bullosa] {congenital} {letalis}
+Q812    [epidermolysis bullosa] {congenital} {dystrophica}
+Q818*   other [epidermolysis bullosa] {congenital} 
+Q819    [epidermolysis bullosa] {congenital} 
+Q820    [lymphedema] {congenital} {hereditary}
+Q821    [xeroderma pigmentosum] {congenital} 
+Q822    [mastocytosis] {congenital} 
+Q823    [incontinentia pigmenti] {congenital} 
+Q824    [ectodermal dysplasia]
+Q825    [congenital nonneoplastic nevus]
+Q826    [sacral dimple]
+Q828    [other specified congenital malformations of skin] 
+Q829    [malformation congenital] `skin` !`hymen`
+Q830    [absence] {congenital} `breast` & [absent nipple] {congenital} 
+Q831    [accessory breast]
+Q832    [absent nipple] {congenital} 
+Q833    [accessory nipple] 
+Q838*   other [malformation congenital] of breast
+Q839    [malformation] & [congenital] `breast`
+Q840    [alopecia] {congenital} 
+Q841    [morphological disturbances] {congenital} `hair`
+Q842*   other [malformation congenital] of hair 
+Q843    [anonychia] {congenital} 
+Q844    [leukonychia] {congenital} 
+Q845    [enlarged nails] {congenital} 
+        [hypertrophic nails] {congenital} 
+Q846*   other [malformation congenital] `nail`
+Q848*   other specified [malformation congenital] of integument
+Q849    [malformation congenital] `integument`
+Q8500   [neurofibromatosis] !{type 1} !{type 2} !{von recklinghausens}
+Q8501   [von recklinghausen]
+        [neurofibromatosis type i]
+        [nf1]
+Q8502   [neurofibromatosis] {type 2}
+Q8503   [schwannomatosis] {congenital} 
+Q8509*  other neurofibromatosis
+Q851    [sclerosis] {tuberous}
+Q858*   other phakomatoses
+Q859    [phakomatosis] {congenital} 
+Q860    [fetal alcohol syndrome] {congenital} 
+Q861    [fetal hydantoin syndrome] {congenital} 
+Q862    [dysmorphism] {congenital} {warfarin}
+Q868*   other [malformation congenital] syndromes due to known exogenous causes
+Q870    [malformation syndrome predominantly affecting facial appearance]
+Q871*   [malformation syndrome predominantly associated with short stature]
+Q8711	[prader-willi syndrome] 
+Q8719	[other congen malform synd predom assoc with short stature] 
+Q872    [malformation syndrome predominantly involving limbs]
+Q873    [congenital malformation syndromes involving early overgrowth]
+Q8740   [marfans syndrome] 
+Q87410  [marfans syndrome] & [aortic dilation] {congenital} 
+Q87418* [marfans syndrome] & [with other cardiovascular manifestations]
+Q8742   [marfans syndrome] `ocular`
+Q8743   [marfans syndrome] `skeleton`
+Q875*   other [malformation congenital] syndromes with other skeletal changes
+Q8781   [alport syndrome] 
+Q8789   [other specified malformation syndromes affecting mutiple systems]
+Q8901   [asplenia] & ![isomerism of atrial appendages with asplenia or polysplenia] & ![acquired]
+Q8909   [other congenital malformations of spleen]
+Q891    [malformation congenital] `adrenal gland`
+Q892    [malformation congenital] `endocrine glands`
+        [thyroglossal cyst]
+Q893    [situs inversus] {congenital} 
+Q894    [conjoined twins]
+Q897*   [multiple unspecified anomalies]
+Q898    [other specified congenital malformations] 
+Q899*   [malformation congenital] 
+Q900    [trisomy 21] {nonmosaicism} !{mosaicism}
+Q901    [trisomy 21] {mosaicism}
+Q902    [trisomy 21] {translocation}
+Q909    [down syndrome] !{risk} !{mosaicism} !{nonmosaicism}
+Q910    [trisomy 18] {nonmosaicism} !{mosaicism} 
+Q911    [trisomy 18] {mosaicism} 
+Q912    [trisomy 18] {translocation}
+Q913    [trisomy 18] !{nonmosaicism} !{mosaicism}
+Q914    [trisomy 13] {nonmosaicism} !{mosaicism} 
+Q915    [trisomy 13] {mosaicism} 
+Q916    [trisomy 13] {translocation}
+Q917    [trisomy 13] !{nonmosaicism} !{mosaicism}
+Q920    [trisomy] {congenital} {whole chromosome} {nonmosaicism} !{mosaicism} 
+Q921    [trisomy] {congenital} {whole chromosome} {mosaicism} 
+Q922    [trisomy] {congenital} {partial}
+Q925    [duplications with other complex rearrangements]
+Q9261   [extra marker chromosomes] {de novo} & ![congenital]
+Q9262   [extra marker chromosomes] {congenital} {abnormal individual}
+Q927    [triploidy and polyploidy] {congenital} 
+Q928    [other specified trisomies and partial trisomies of autosomes]
+Q929    [trisomy] {congenital} {autosomes}
+Q930    [monosomy] {congenital} {whole chromosome} & ![mosaic] 
+Q931    [monosomy] {congenital} {whole chromosome} & [mosaic] 
+Q932    [chromosome replaced with ring] {congenital} 
+Q933    [wolff hirschhorn syndrome]
+Q934    [deletion of short arm of chromosome 5]
+Q9359   [other deletions of part of chromosome]
+Q937    [deletion] {congenital} & [complex rearrangements] {congenital}
+Q9381   [velocardiofacial syndrome]
+Q9382   [williams syndrome]
+Q9388   [other microdeletions]
+Q9389   [other deletions from the autosomes]
+Q939    [deletion] {congenital} {autosomes}
+Q950    [insertion] {congenital} {normal individual} {translocation} {congenital} {balanced}
+Q951    [chromosome inversion] {congenital} {normal individual}
+Q952    [rearrangement] {congenital} {balanced} {autosomal} & [abnormal individual] {congenital} 
+Q953    [rearrangement] {congenital} {balanced} {autosomal} & [abnormal individual] {congenital} 
+Q955    [autosomal fragile site] {congenital} 
+Q958    [other balanced rearrangements and structural markers]
+Q959    [rearrangement] {congenital} {balanced} & [structural marker] {congenital} 
+Q960    [karyotype 45 x]
+Q961    [karyotype 46 x iso xq]
+Q962    [karyotype 46 x with abnormal sex chromosome except iso xq]
+Q963    [mosaicism 45 x/46 xx or xy]
+Q964    [mosaicism 45 x/other cell line(s) with abnormal sex chromosome]
+Q968    [other variants of turners syndrome]
+Q969    [turners syndrome]
+Q970    [karyotype 47 xxx]
+Q971    [female with more than three x chromosomes]
+Q972    [mosaicism lines with various numbers of x chromosomes]
+Q973    [female with 46 xy karyotype]
+Q978    [other specified sex chromosome abnormalities female phenotype]
+Q979    [sex chromosome abnormality female phenotype]
+Q980    [klinefelter syndrome karyotype 47 xxy]
+Q981    [klinefelter syndrome male with more than two x chromosomes]
+Q983    [other male with 46 xx karyotype]
+Q984    [klinefelter syndrome]
+Q985    [triple x syndrome]
+Q986    [male with structurally abnormal sex chromosome]
+Q987    [male with sex chromosome mosaicism]
+Q988    [other specified sex chromosome abnormalities male phenotype]
+Q989    [sex chromosome abnormality male phenotype]
+Q990    [chimera 46 xx/46 xy]
+Q991    [46 xx true hermaphrodite]
+Q992    [fragile x chromosome]
+Q998    [other specified chromosome abnormalities]
+Q999    [chromosomal abnormality] {congenital}

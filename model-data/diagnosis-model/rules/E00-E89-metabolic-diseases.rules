@@ -1,0 +1,990 @@
+E000    [iodine deficiency syndrome] {neurological}
+E001    [iodine deficiency syndrome] {myxedematous}
+E002    [iodine deficiency syndrome] {mixed type}
+E009    [iodine deficiency syndrome]
+E010    [iodine deficiency related goiter] {diffuse}
+E011    [iodine deficiency related goiter] {multinodular}
+E012    [iodine deficiency related goiter]
+E018    [other iodine deficiency] & [related thyroid disorder and allied conditions]
+E02     [subclinical iodine deficiency hypothyroidism]
+E030    [congenital hypothyroidism] & [goiter]
+E031    [congenital hypothyroidism] & ![goiter]
+E032    [iatrogenic hypothyroidism] {medicaments and other exogenous substances}
+E033    [hypothyroidism] {postinfectious}
+E034    [atrophy] `thyroid`
+E035    [myxedema coma]
+E038    [other specified hypothyroidism]
+E039    [hypothyroidism] & ![currently pregnant]
+E040    [nontoxic diffuse goiter]
+E041    [nontoxic single thyroid nodule]
+E042    [multinodular goiter] & ![neoplasm malignant] `thyroid`
+E048    [other specified nontoxic goiter]
+E049    [goiter] !{toxic}
+E0500   [thyrotoxicosis] & [diffuse goiter] & ![thyrotoxic crisis]
+        [thyrotoxicosis diffuse goiter]
+E0501   [thyrotoxicosis] & [diffuse goiter] & [thyrotoxic crisis]
+        [thyrotoxicosis] & [diffuse goiter]
+E0510   [thyrotoxicosis] & [toxic single thyroid nodule] & ![thyrotoxic crisis]
+E0511   [thyrotoxicosis] & [toxic single thyroid nodule] & [thyrotoxic crisis]
+        [thyrotoxicosis] & [toxic single thyroid nodule]
+E0520   [thyrotoxicosis] & [toxic multinodular goiter] & ![thyrotoxic crisis]
+E0521   [thyrotoxicosis] & [toxic multinodular goiter] & [thyrotoxic crisis]
+        [thyrotoxicosis] & [toxic multinodular goiter]
+E0530   [thyrotoxicosis] & [ectopic thyroid tissue] & ![thyrotoxic crisis]
+E0531   [thyrotoxicosis] & [ectopic thyroid tissue] & [thyrotoxic crisis]
+        [thyrotoxicosis] & [ectopic thyroid tissue]
+E0540   [thyrotoxicosis factitia] & ![thyrotoxic crisis]
+        [thyrotoxicosis factitia]
+E0541   [thyrotoxicosis factitia] & [thyrotoxic crisis]
+        [thyrotoxicosis factitia]
+E0580*  other thyrotoxicosis without thyrotoxic crisis or storm
+E0581*  other thyrotoxicosis with thyrotoxic crisis or storm
+E0590   [hyperthyroidism] !{borderline} !{thyrotoxic crisis} !{storm}
+E0591   [thyrotoxicosis]
+E060    [thyroiditis] {acute}
+E061    [thyroiditis] {subacute}
+E062    [thyroiditis] {chronic} & [transient thyrotoxicosis]
+E063    [autoimmune thyroiditis]
+E064    [thyroiditis] {drug induced}
+E065    [thyroiditis] {chronic}
+E069    [thyroiditis] !{specified} !{hashimoto}
+E070    [hypersecretion of calcitonin]
+E071    [dyshormogenetic goiter]
+E0781   [sick euthyroid syndrome]
+E0789*  other specified disorders of thyroid
+E079    [thyroid disease]
+E0800   [type 2 diabetes] {due to} & [hyperosmolarity] & ![nonketotic hyperglycemic hyperosmolar coma] !"pregnancy" !{lab or test or history}
+E0801   [type 2 diabetes] {due to} & [hyperosmolarity] & [coma] !"pregnancy" !{lab or test or history}
+E0810   [type 2 diabetes] {due to} & [ketoacidosis] & ![coma] !"pregnancy" !{lab or test or history}
+E0811   [type 2 diabetes] {due to} & [ketoacidosis] & [coma] !"pregnancy" !{lab or test or history}
+E0821   [type 2 diabetes] {due to} & [nephropathy] !"pregnancy" !{lab or test or history}
+E0822   [type 2 diabetes] {due to} & [chronic kidney disease] !"pregnancy" !{lab or test or history}
+E0829   [type 2 diabetes] {due to} & [kidney complication] !"pregnancy" !{lab or test or history}
+E08311  [type 2 diabetes] {due to} & [retinopathy] & [macular edema] !"pregnancy" !{lab or test or history}
+E08319  [type 2 diabetes] {due to} & [retinopathy] & ![macular edema] !"pregnancy" !{lab or test or history}
+E08321  [type 2 diabetes] {due to} & [nonproliferative retinopathy] & [macular edema] !"pregnancy" !{lab or test or history}
+        [type 2 diabetes] {due to} & [nonproliferative retinopathy] & [macular edema] !"pregnancy" !{lab or test or history}
+E083211 [type 2 diabetes] {due to} & [nonproliferative retinopathy] & [macular edema] {right} !"pregnancy" !{lab or test or history}
+E083212 [type 2 diabetes] {due to} & [nonproliferative retinopathy] & [macular edema] {left} !"pregnancy" !{lab or test or history}
+E083213 [type 2 diabetes] {due to} & [nonproliferative retinopathy] & [macular edema] `bilateral` !"pregnancy" !{lab or test or history}
+E083219 [type 2 diabetes] {due to} & [nonproliferative retinopathy] & [macular edema] !{left} !{right} !"pregnancy" !{lab or test or history}
+E08329  [type 2 diabetes] {due to} & [nonproliferative retinopathy] & ![macular edema] !"pregnancy" !{lab or test or history}
+E083291 [type 2 diabetes] {due to} & [nonproliferative retinopathy] & ![macular edema] {right} !"pregnancy" !{lab or test or history}
+E083292 [type 2 diabetes] {due to} & [nonproliferative retinopathy] & ![macular edema] {left} !"pregnancy" !{lab or test or history}
+E083293 [type 2 diabetes] {due to} & [nonproliferative retinopathy] & ![macular edema] `bilateral` !"pregnancy" !{lab or test or history}
+E083299 [type 2 diabetes] {due to} & [nonproliferative retinopathy] & ![macular edema] !{left} !{right} !"pregnancy" !{lab or test or history}
+E08331  [type 2 diabetes] {due to} & [nonproliferative retinopathy] {moderate} & [macular edema] !"pregnancy" !{lab or test or history}
+E083311 [type 2 diabetes] {moderate} {due to} & [nonproliferative retinopathy] & [macular edema] {right} !"pregnancy" !{lab or test or history}
+E083312 [type 2 diabetes] {moderate} {due to} & [nonproliferative retinopathy] & [macular edema] {left} !"pregnancy" !{lab or test or history}
+E083313 [type 2 diabetes] {moderate} {due to} & [nonproliferative retinopathy] & [macular edema] `bilateral` !"pregnancy" !{lab or test or history}
+E083319 [type 2 diabetes] {moderate} {due to} & [nonproliferative retinopathy] & [macular edema] !{left} !{right} !"pregnancy" !{lab or test or history}
+E08339  [type 2 diabetes] {due to} & [nonproliferative retinopathy] {moderate} & ![macular edema] !"pregnancy" !{lab or test or history}
+E083391 [type 2 diabetes] {moderate} {due to} & [nonproliferative retinopathy] & ![macular edema] {right} !"pregnancy" !{lab or test or history}
+E083392 [type 2 diabetes] {moderate} {due to} & [nonproliferative retinopathy] & ![macular edema] {left} !"pregnancy" !{lab or test or history}
+E083393 [type 2 diabetes] {moderate} {due to} & [nonproliferative retinopathy] & ![macular edema] `bilateral` !"pregnancy" !{lab or test or history}
+E083399 [type 2 diabetes] {moderate} {due to} & [nonproliferative retinopathy] & ![macular edema] !{left} !{right} !"pregnancy" !{lab or test or history}
+E08341  [type 2 diabetes] {due to} & [nonproliferative retinopathy] {severe} & [macular edema] !"pregnancy" !{lab or test or history}
+E083411 [type 2 diabetes] {severe} {due to} & [nonproliferative retinopathy] & [macular edema] {right} !"pregnancy" !{lab or test or history}
+E083412 [type 2 diabetes] {severe} & [nonproliferative retinopathy] & [macular edema] {left} !"pregnancy" !{lab or test or history}
+E083413 [type 2 diabetes] {severe} {due to} & [nonproliferative retinopathy] & [macular edema] `bilateral` !"pregnancy" !{lab or test or history}
+E083419 [type 2 diabetes] {severe} {due to} & [nonproliferative retinopathy] & [macular edema] !"pregnancy" !{lab or test or history}
+E08349  [type 2 diabetes] {due to} & [nonproliferative retinopathy] {severe} & ![macular edema] !"pregnancy" !{lab or test or history}
+E083491 [type 2 diabetes] {severe} {due to} & [nonproliferative retinopathy] & ![macular edema] {right} !"pregnancy" !{lab or test or history}
+E083492 [type 2 diabetes] {severe} {due to} & [nonproliferative retinopathy] & ![macular edema] {left} !"pregnancy" !{lab or test or history}
+E083493 [type 2 diabetes] {severe} {due to} & [nonproliferative retinopathy] & ![macular edema] `bilateral` !"pregnancy" !{lab or test or history}
+E083499 [type 2 diabetes] {severe} {due to} & [nonproliferative retinopathy] & ![macular edema] !"pregnancy" !{lab or test or history}
+E08351  [type 2 diabetes] {due to} & [proliferative retinopathy] & [macular edema] !"pregnancy" !{lab or test or history}
+E083511 [type 2 diabetes] {due to} & [proliferative retinopathy] & [macular edema] {right} !"pregnancy" !{lab or test or history}
+E083512 [type 2 diabetes] {due to} & [proliferative retinopathy] & [macular edema] {left} !"pregnancy" !{lab or test or history}
+E083513 [type 2 diabetes] {due to} & [proliferative retinopathy] & [macular edema] `bilateral` !"pregnancy" !{lab or test or history}
+E083519 [type 2 diabetes] {due to} & [proliferative retinopathy] & [macular edema] !"pregnancy" !{lab or test or history}
+E083521 [type 2 diabetes] {due to} & [proliferative retinopathy] & [traction retinal detachment involving the macula] {right} !"pregnancy" !{lab or test or history}
+E083522 [type 2 diabetes] {due to} & [proliferative retinopathy] & [traction retinal detachment involving the macula] {left} !"pregnancy" !{lab or test or history}
+E083523 [type 2 diabetes] {due to} & [proliferative retinopathy] & [traction retinal detachment involving the macula] `bilateral` !"pregnancy" !{lab or test or history}
+E083529 [type 2 diabetes] {due to} & [proliferative retinopathy] & [traction retinal detachment involving the macula] !"pregnancy" !{lab or test or history}
+E08359  [type 2 diabetes] {due to} & [proliferative retinopathy] & ![macular edema] !"pregnancy" !{lab or test or history}
+E0836*  [type 2 diabetes] {due to} & [cataract] !"pregnancy" !{lab or test or history}
+E0839   [type 2 diabetes] {due to} & [ophthalmic complication] !"pregnancy" !{lab or test or history}
+E0840   [diabetes mellitus due to underlying condition with diabetic neuropathy] !"pregnancy" !{lab or test or history}
+E0841   [type 2 diabetes] {due to} & [mononeuropathy] !"pregnancy" !{lab or test or history}
+E0842   [type 2 diabetes] {due to} & [polyneuropathy] !"pregnancy" !{lab or test or history}
+E0843   [type 2 diabetes] {due to} & [autonomic neuropathy] !"pregnancy" !{lab or test or history}
+        [type 2 diabetes] {due to} & [autonomic polyneuropathy] !"pregnancy" !{lab or test or history}
+E0844   [type 2 diabetes] {due to} & [amyotrophy] !"pregnancy" !{lab or test or history}
+E0849   [type 2 diabetes] {due to} & [neurological complication] !"pregnancy" !{lab or test or history}
+E0851   [type 2 diabetes] {due to} & [peripheral angiopathy] !{fat} & ![gangrene] !"pregnancy" !{lab or test or history}
+E0852   [type 2 diabetes] {due to} & [peripheral angiopathy] !{fat} & [gangrene] !"pregnancy" !{lab or test or history}
+E0859   [type 2 diabetes] {due to} & [circulatory complication] !"pregnancy" !{lab or test or history}
+E08610  [type 2 diabetes] {due to} & [neuropathic arthropathy] !"pregnancy" !{lab or test or history}
+E08618* [type 2 diabetes] {due to} & [arthropathy] !"pregnancy" !{lab or test or history}
+E08620  [type 2 diabetes] {due to} & [dermatitis] !"pregnancy" !{lab or test or history}
+E08621  [type 2 diabetes] {due to} & [ulcer] `foot` & ![pressure ulcer] & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+E08622  [type 2 diabetes] {due to} & [ulcer] `skin` & ![pressure ulcer] !"pregnancy" !{lab or test or history}
+E08628* [type 2 diabetes] {due to} & [skin complication] !"pregnancy" !{lab or test or history}
+E08630  [type 2 diabetes] {due to} & [periodontal disease] !"pregnancy" !{lab or test or history}
+E08638* [type 2 diabetes] {due to} & [oral complication] !"pregnancy" !{lab or test or history}
+E08641  [type 2 diabetes] {due to} & [hypoglycemia] & [coma] !"pregnancy" !{lab or test or history}
+E08649  [type 2 diabetes] {due to} & [hypoglycemia] & ![coma] !"pregnancy" !{lab or test or history}
+E0865   [type 2 diabetes] {due to} & [hyperglycemia] !"pregnancy" !{lab or test or history}
+E0869*  [type 2 diabetes] {due to} & [complication] !"pregnancy" !{lab or test or history}
+E088*   [type 2 diabetes] {due to} & [complication] !"pregnancy" !{lab or test or history}
+E089*   [type 2 diabetes] {due to} & ![complication] !"pregnancy" !{lab or test or history}
+E0900   [type 2 diabetes] !{type 1} {drug induced} & [hyperosmolarity] & ![nonketotic hyperglycemic hyperosmolar coma] !"pregnancy" !{lab or test or history}
+E0901   [type 2 diabetes] !{type 1} {drug induced} & [hyperosmolarity] & [coma] !"pregnancy" !{lab or test or history}
+E0910   [type 2 diabetes] !{type 1} {drug induced} & [ketoacidosis] & ![coma] !"pregnancy" !{lab or test or history}
+E0911   [type 2 diabetes] !{type 1} {drug induced} & [ketoacidosis] & [coma] !"pregnancy" !{lab or test or history}
+E0921   [type 2 diabetes] !{type 1} {drug induced} & [nephropathy] !"pregnancy" !{lab or test or history}
+E0922   [type 2 diabetes] !{type 1} {drug induced} & [chronic kidney disease] !"pregnancy" !{lab or test or history}
+E0929   [type 2 diabetes] !{type 1} {drug induced} & [kidney complication] !"pregnancy" !{lab or test or history}
+E09311  [type 2 diabetes] !{type 1} {drug induced} & [retinopathy] & [macular edema] !"pregnancy" !{lab or test or history}
+E09319  [type 2 diabetes] !{type 1} {drug induced} & [retinopathy] & ![macular edema] !"pregnancy" !{lab or test or history}
+E09321  [type 2 diabetes] !{type 1} {drug induced} & [nonproliferative retinopathy] & [macular edema] !"pregnancy" !{lab or test or history}
+E09329  [type 2 diabetes] !{type 1} {drug induced} & [nonproliferative retinopathy] & ![macular edema] !"pregnancy" !{lab or test or history}
+E09331  [type 2 diabetes] !{type 1} {drug induced} & [nonproliferative retinopathy] {moderate} & [macular edema] !"pregnancy" !{lab or test or history}
+E09339  [type 2 diabetes] !{type 1} {drug induced} & [nonproliferative retinopathy] {moderate} & ![macular edema] !"pregnancy" !{lab or test or history}
+E09341  [type 2 diabetes] !{type 1} {drug induced} & [nonproliferative retinopathy] {severe} & [macular edema] !"pregnancy" !{lab or test or history}
+E09349  [type 2 diabetes] !{type 1} {drug induced} & [nonproliferative retinopathy] {severe} & ![macular edema] !"pregnancy" !{lab or test or history}
+E09351  [type 2 diabetes] !{type 1} {drug induced} & [proliferative retinopathy] & [macular edema] !"pregnancy" !{lab or test or history}
+E09359  [type 2 diabetes] !{type 1} {drug induced} & [proliferative retinopathy] & ![macular edema] !"pregnancy" !{lab or test or history}
+E0936   [type 2 diabetes] !{type 1} {drug induced} & [cataract] !"pregnancy" !{lab or test or history}
+E0939   [type 2 diabetes] !{type 1} {drug induced} & [ophthalmic complication] !"pregnancy" !{lab or test or history}
+E0940   [type 2 diabetes] !{type 1} {drug induced} & [neurological complication] & [neuropathy] !"pregnancy" !{lab or test or history}
+E0941   [type 2 diabetes] !{type 1} {drug induced} & [neurological complication] & [mononeuropathy] !"pregnancy" !{lab or test or history}
+E0942   [type 2 diabetes] !{type 1} {drug induced} & [neurological complication] & [polyneuropathy] !"pregnancy" !{lab or test or history}
+E0943   [type 2 diabetes] !{type 1} {drug induced} & [neurological complication] & [autonomic neuropathy] !"pregnancy" !{lab or test or history}
+E0944   [type 2 diabetes] !{type 1} {drug induced} & [neurological complication] & [amyotrophy] !"pregnancy" !{lab or test or history}
+E0949   [type 2 diabetes] !{type 1} {drug induced} & [neurological complication] & [neurological complication] !"pregnancy" !{lab or test or history}
+E0951   [type 2 diabetes] !{type 1} {drug induced} & [peripheral angiopathy] !{fat} & ![gangrene] !"pregnancy" !{lab or test or history}
+E0952   [type 2 diabetes] !{type 1} {drug induced} & [peripheral angiopathy] !{fat} & [gangrene] !"pregnancy" !{lab or test or history}
+E0959   [type 2 diabetes] !{type 1} {drug induced} & [circulatory complication] !"pregnancy" !{lab or test or history}
+E09610  [type 2 diabetes] !{type 1} {drug induced} & [neuropathic arthropathy] !"pregnancy" !{lab or test or history}
+E09618* [type 2 diabetes] !{type 1} {drug induced} & [arthropathy] !"pregnancy" !{lab or test or history}
+E09620  [type 2 diabetes] !{type 1} {drug induced} & [dermatitis] !"pregnancy" !{lab or test or history}
+E09621  [type 2 diabetes] !{type 1} {drug induced} & [ulcer] `foot` & ![pressure ulcer] !"pregnancy" !{lab or test or history}
+E09622  [type 2 diabetes] !{type 1} {drug induced} & [ulcer] `skin` & ![pressure ulcer] !"pregnancy" !{lab or test or history}
+E09628* [type 2 diabetes] !{type 1} {drug induced} & [skin complication] !"pregnancy" !{lab or test or history}
+E09630  [type 2 diabetes] !{type 1} {drug induced} & [periodontal disease] !"pregnancy" !{lab or test or history}
+E09638* [type 2 diabetes] !{type 1} {drug induced} & [oral complication] !"pregnancy" !{lab or test or history}
+E09641  [type 2 diabetes] !{type 1} {drug induced} & [hypoglycemia] & [coma] !"pregnancy" !{lab or test or history}
+E09649  [type 2 diabetes] !{type 1} {drug induced} & [hypoglycemia] & ![coma] !"pregnancy" !{lab or test or history}
+E0965   [type 2 diabetes] {chemical induced} & [hyperglycemia] !"pregnancy" !{lab or test or history}
+E0969*  [type 2 diabetes] !{type 1} {drug induced} & [complication] !"pregnancy" !{lab or test or history}
+E098*   [type 2 diabetes] !{type 1} {drug induced} & [complication] !"pregnancy" !{lab or test or history}
+E099    [type 2 diabetes] !{type 1} {drug induced} & ![complication] !"pregnancy" !{lab or test or history}
+E1010   [type 1 diabetes] & [ketoacidosis] !{coma} !"pregnancy" !{lab or test or history}
+        [type 1 diabetes] & [dka] !{coma} !"pregnancy" !{lab or test or history}
+E1011   [type 1 diabetes] & [ketoacidosis] & [coma] !"pregnancy" !{lab or test or history}
+E1021   [type 1 diabetes] & [nephropathy] !"pregnancy" !{lab or test or history}
+E1022   [type 1 diabetes] & [chronic kidney disease] !"pregnancy" !{lab or test or history}
+E1029   [type 1 diabetes] & [kidney complication] !"pregnancy" !{lab or test or history}
+E10311  [type 1 diabetes] & [retinopathy] & [macular edema] !"pregnancy" !{lab or test or history}
+E10319  [type 1 diabetes] & [retinopathy] & ![macular edema] !"pregnancy" !{lab or test or history}
+E10321  [type 1 diabetes] & [nonproliferative retinopathy] & [macular edema] !"pregnancy" !{lab or test or history}
+E10329  [type 1 diabetes] & [nonproliferative retinopathy] & ![macular edema] !"pregnancy" !{lab or test or history}
+E10331  [type 1 diabetes] & [nonproliferative retinopathy] {moderate} & [macular edema] !"pregnancy" !{lab or test or history}
+E10339  [type 1 diabetes] & [nonproliferative retinopathy] {moderate} & ![macular edema] !"pregnancy" !{lab or test or history}
+E10341  [type 1 diabetes] & [nonproliferative retinopathy] {severe} & [macular edema] !"pregnancy" !{lab or test or history}
+E10349  [type 1 diabetes] & [nonproliferative retinopathy] {severe} & ![macular edema] !"pregnancy" !{lab or test or history}
+E10351  [type 1 diabetes] & [proliferative retinopathy] & [macular edema] !"pregnancy" !{lab or test or history}
+E103521 [type 1 diabetes] & [proliferative retinopathy] & [tractional retinal detachment] & [macula involvement] {right} !"pregnancy" !{lab or test or history}
+E103522 [type 1 diabetes] & [proliferative retinopathy] & [tractional retinal detachment] & [macula involvement] {left} !"pregnancy" !{lab or test or history}   
+E10359  [type 1 diabetes] & [proliferative retinopathy] & ![macular edema] !"pregnancy" !{lab or test or history}
+E1036   [type 1 diabetes] & [cataract] !"pregnancy" !{lab or test or history}
+E1039   [type 1 diabetes] & [ophthalmic complication] !"pregnancy" !{lab or test or history}
+E1040   [type 1 diabetes] & [neuropathy] !"pregnancy" !{lab or test or history}
+        [diabetes mellitus type 1 with diabetic neuropathy] !"pregnancy" !{lab or test or history}
+E1041   [type 1 diabetes] & [mononeuropathy] !"pregnancy" !{lab or test or history}
+E1042   [type 1 diabetes] & [polyneuropathy] !"pregnancy" !{lab or test or history}
+E1043   [type 1 diabetes] & [autonomic neuropathy] !"pregnancy" !{lab or test or history}
+        [type 1 diabetes] & [autonomic polyneuropathy] !"pregnancy" !{lab or test or history}
+E1044   [type 1 diabetes] & [amyotrophy] !"pregnancy" !{lab or test or history}
+E1049   [type 1 diabetes] & [neurological complication] !"pregnancy" !{lab or test or history}
+E1051   [type 1 diabetes] & [peripheral angiopathy] !{fat} & ![gangrene] !"pregnancy" !{lab or test or history}
+E1052   [type 1 diabetes] & [peripheral angiopathy] !{fat} & [gangrene] !"pregnancy" !{lab or test or history}
+E1059   [type 1 diabetes] & [circulatory complication] !"pregnancy" !{lab or test or history}
+E10610  [type 1 diabetes] & [neuropathic arthropathy] !"pregnancy" !{lab or test or history}
+E10618* [type 1 diabetes] & [arthropathy] !"pregnancy" !{lab or test or history}
+E10620  [type 1 diabetes] & [dermatitis] !"pregnancy" !{lab or test or history}
+E10621  [type 1 diabetes] & [ulcer] `foot` & ![pressure ulcer] !"pregnancy" !{history}
+E10622  [type 1 diabetes] & [ulcer] `skin` & ![pressure ulcer] !"pregnancy" !{history}
+E10628* [type 1 diabetes] & [skin complication] !"pregnancy" !{lab or test or history}
+E10630  [type 1 diabetes] & [periodontal disease] !"pregnancy" !{lab or test or history}
+E10638* [type 1 diabetes] & [oral complication] !"pregnancy" !{lab or test or history}
+E10641  [type 1 diabetes] & [hypoglycemia] & [coma] !"pregnancy" !{lab or test or history}
+E10649  [type 1 diabetes] & [hypoglycemia] & ![coma] !"pregnancy" !{lab or test or history}
+E1065   [type 1 diabetes] & [hyperglycemia]  
+E1069*  [type 1 diabetes] & [complication] !"pregnancy" !{lab or test or history}
+E108*   [type 1 diabetes] & [complication] !"pregnancy" !{lab or test or history}
+E109    [type 1 diabetes] !{borderline} !{family history} !{screening} & ![ketoacidosis] & ![hypoglycemia] & ![chronic kidney disease] & ![ulcer] !"pregnancy" !{lab or test or history}
+E1100   [type 2 diabetes] & [hyperosmolarity] & ![nonketotic hyperglycemic hyperosmolar coma] & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+E1101   [type 2 diabetes] & [hyperosmolarity] & [coma] & ![type 1 diabetes] 
+        [type 2 diabetes] & [hyperglycemic hyperosmolar nonketotic coma] & ![type 1 diabetes]
+E1110   [type 2 diabetes] & [ketoacidosis] !{coma} & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+        [dka] !{coma} & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+E1111   [type 2 diabetes] & [ketoacidosis] {coma} & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+E1121   [type 2 diabetes] & [nephropathy] & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+E1122   [type 2 diabetes] & [chronic kidney disease] & ![type 1 diabetes] 
+        [type 2 diabetes] & [end stage renal disease] & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+E1129   [type 2 diabetes] & [kidney complication] & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+E11311  [type 2 diabetes] & [retinopathy] & [macular edema] & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+E11319  [type 2 diabetes] & [retinopathy] & ![macular edema] & ![type 1 diabetes] 
+E11321  [type 2 diabetes] & [nonproliferative retinopathy] {mild} & [macular edema] & ![type 1 diabetes] !"pregnancy" !{lab or test or history} 
+E11329  [type 2 diabetes] & [nonproliferative retinopathy] !{mild} !{moderate} !{severe} & ![macular edema] & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+E11331  [type 2 diabetes] & [nonproliferative retinopathy] {moderate} & [macular edema] & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+E11339  [type 2 diabetes] & [nonproliferative retinopathy] {moderate} & ![macular edema] & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+E11341  [type 2 diabetes] & [nonproliferative retinopathy] {severe} & [macular edema] & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+E11349  [type 2 diabetes] & [nonproliferative retinopathy]  {severe} & ![macular edema] & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+E1136*  [type 2 diabetes] & [cataract] & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+E1139   [type 2 diabetes] & [ophthalmic complication] & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+E1140   [type 2 diabetes] & [neuropathy] !{polyneuropathy} !{mononeuropathy} & ![type 1 diabetes] 
+E1141   [type 2 diabetes] & [mononeuropathy] & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+E1142   [type 2 diabetes] & [polyneuropathy] & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+E1143   [type 2 diabetes] & [autonomic neuropathy] & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+        [type 2 diabetes] & [autonomic polyneuropathy] & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+E1144   [type 2 diabetes] & [amyotrophy] & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+E1149   [diabetes with neurological manifestations] !"pregnancy" !{lab or test or history}
+E1151   [type 2 diabetes] & [peripheral angiopathy] !{fat} & ![gangrene] & ![type 1 diabetes] !"pregnancy"
+E1152   [type 2 diabetes] & [gangrene] & [peripheral angiopathy] !{fat} & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+E1159   [type 2 diabetes] & [circulatory complication] & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+E11610  [type 2 diabetes] & [neuropathic arthropathy] & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+E11618* [type 2 diabetes] & [arthropathy] & ![type 1 diabetes] !"pregnancy" !{lab or test or history} 
+E11620  [type 2 diabetes] & [necrobiosis lipoidica] & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+E11621  [type 2 diabetes] & [foot ulcer] & ![type 1 diabetes] & ![pressure ulcer] !"pregnancy" !{lab or test or history}
+        [diabetic foot ulcer] & ![type 1 diabetes] & ![pressure ulcer] !"pregnancy" !{lab or test or history}
+E11622  [type 2 diabetes] & [skin ulcer] !"pregnancy" !{lab or test or history}
+E11628  [type 2 diabetes] & [skin complication] {diabetic} & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+E11630  [type 2 diabetes] & [periodontal disease] & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+E11638  [type 2 diabetes] & [oral complication] & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+E11641  [type 2 diabetes] & [hypoglycemia] & [coma] & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+E11649  [type 2 diabetes] & [hypoglycemia] & ![coma] & ![type 1 diabetes] !"pregnancy" !{lab or test}
+        [type 2 diabetes] & [hypoglycemia] !{coma}  & ![type 1 diabetes] !"pregnancy" !{lab or test}
+E1165   [type 2 diabetes] !{gestational} & [hyperglycemia] & ![type 1 diabetes] !"pregnancy"
+        [type 2 diabetes] !{gestational} {poorly controlled} & [hyperglycemia] & ![type 1 diabetes] !"pregnancy"
+E1169   [type 2 diabetes] & [other specific complication] {diabetic} & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+        [type 2 diabetes] & [osteomyelitis] & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+E118*   [type 2 diabetes] & [complication] !"pregnancy" !{lab or test or history} 
+E119    [type 2 diabetes] !{borderline} !{family history} !{screening} & ![hyperglycemia] & ![chronic kidney disease] & ![type 1] & ![ulcer] & ![gestational] 
+E1300   [other specified diabetes mellitus] {with} & [hyperosmolarity] & ![nonketotic hyperglycemic hyperosmolar coma] !"pregnancy" !{lab or test or history}
+E1301   [other specified diabetes mellitus] {with} & [hyperosmolarity] & [coma] !"pregnancy" !{lab or test or history}
+E1310   [other specified diabetes mellitus] {with} & [ketoacidosis] & ![coma] !"pregnancy" !{lab or test or history}
+E1311   [other specified diabetes mellitus] {with} & [ketoacidosis] & [coma] !"pregnancy" !{lab or test or history}
+E1321   [other specified diabetes mellitus] {with} & [diabetic nephropathy] !"pregnancy" !{lab or test or history}
+E1322   [other specified diabetes mellitus] {with} & [diabetic chronic kidney disease] !"pregnancy" !{lab or test or history}
+E1329   [other specified diabetes mellitus] {with} & [other diabetic kidney complication] !"pregnancy" !{lab or test or history}
+E13311  [other specified diabetes mellitus] {with} & [unspecified retinopathy] & [macular edema] !"pregnancy" !{lab or test or history}
+E13319  [other specified diabetes mellitus] {with} & [unspecified retinopathy] & ![macular edema] !"pregnancy" !{lab or test or history}
+E13321  [other specified diabetes mellitus] {with} & [nonproliferative retinopathy] & [macular edema] !"pregnancy" !{lab or test or history}
+E13329  [other specified diabetes mellitus] {with} & [nonproliferative retinopathy] & ![macular edema] !"pregnancy" !{lab or test or history}
+E13331  [other specified diabetes mellitus] {with} & [nonproliferative retinopathy] {moderate}& [macular edema] !"pregnancy" !{lab or test or history}
+E13339  [other specified diabetes mellitus] {with} & [nonproliferative retinopathy] {moderate} & ![macular edema] !"pregnancy" !{lab or test or history}
+E13341  [other specified diabetes mellitus] {with} & [nonproliferative retinopathy] {severe} & [macular edema] !"pregnancy" !{lab or test or history}
+E13349  [other specified diabetes mellitus] {with} & [nonproliferative retinopathy] {severe}& ![macular edema] !"pregnancy" !{lab or test or history}
+E13351  [other specified diabetes mellitus] {with} & [proliferative retinopathy] & [macular edema] !"pregnancy" !{lab or test or history}
+E13359  [other specified diabetes mellitus] {with} & [proliferative retinopathy] & ![macular edema] !"pregnancy" !{lab or test or history}
+E1336   [other specified diabetes mellitus] {with} & [diabetic cataract] !"pregnancy" !{lab or test or history}
+E1339   [other specified diabetes mellitus] {with} & [other diabetic ophthalmic complication] !"pregnancy" !{lab or test or history}
+E1340   [other specified diabetes mellitus] {with} & [diabetic neuropathy] !"pregnancy" !{lab or test or history}
+E1341   [other specified diabetes mellitus] {with} & [diabetic mononeuropathy] !"pregnancy" !{lab or test or history}
+E1342   [other specified diabetes mellitus] {with} & [diabetic polyneuropathy] !"pregnancy" !{lab or test or history}
+E1343   [other specified diabetes mellitus] {with} & [diabetic autonomic neuropathy] !"pregnancy" !{lab or test or history}
+E1344   [other specified diabetes mellitus] {with} & [diabetic amyotrophy] !"pregnancy" !{lab or test or history}
+E1349   [other specified diabetes mellitus] {with} & [other diabetic neurological complication] !"pregnancy" !{lab or test or history}
+E1351   [other specified diabetes mellitus] {with} & [diabetic peripheral angiopathy] & ![gangrene] !"pregnancy" !{lab or test or history}
+E1352   [other specified diabetes mellitus] {with} & [diabetic peripheral angiopathy] & [gangrene] !"pregnancy" !{lab or test or history}
+E1359   [other specified diabetes mellitus] {with} & [other circulatory complication] !"pregnancy" !{lab or test or history}
+E13610  [other specified diabetes mellitus] {with} & [diabetic neuropathic arthropathy] !"pregnancy" !{lab or test or history}
+E13618  [other specified diabetes mellitus] {with} & [other diabetic arthropathy] !"pregnancy" !{lab or test or history}
+E13620  [other specified diabetes mellitus] {with} & [diabetic dermatitis] !"pregnancy" !{lab or test or history}
+E13621  [other specified diabetes mellitus] {with} & [foot ulcer] & ![pressure ulcer] !"pregnancy" !{lab or test or history}
+E13622  [other specified diabetes mellitus] {with} & [other skin ulcer] & ![pressure ulcer] !"pregnancy" !{lab or test or history}
+E13628  [other specified diabetes mellitus] {with} & [other skin complication] !"pregnancy" !{lab or test or history}
+E13630  [other specified diabetes mellitus] {with} & [periodontal disease] !"pregnancy" !{lab or test or history}
+E13638  [other specified diabetes mellitus] {with} & [other oral complication] !"pregnancy" !{lab or test or history}
+E13641  [other specified diabetes mellitus] {with} & [hypoglycemia] & [coma] !"pregnancy" !{lab or test or history}
+E13649  [other specified diabetes mellitus] {with} & [hypoglycemia] & ![coma] !"pregnancy" !{lab or test or history}
+E1365   [other specified diabetes mellitus] {with} & [hyperglycemia] !"pregnancy" !{lab or test or history}
+E1369   [other specified diabetes mellitus] {with} & [other specified complication] !"pregnancy" !{lab or test or history}
+E138*   [other specified diabetes mellitus] {with} & [unspecified complication] !"pregnancy" !{lab or test or history}
+E139*   [other specified diabetes mellitus] !{complication} !"pregnancy" !{lab or test or history}
+E15     [hypoglycemic coma] {nondiabetic} !"pregnancy" !{lab or test or history}
+E160    [hypoglycemia] {drug induced} & ![coma] !"pregnancy" !{lab or test or history}
+E161    [other hypoglycemia]
+E162    [hypoglycemia] !{neonatal} !{diabetes}
+E163    [increased secretion of glucagon]
+E164    [increased secretion of gastrin]
+E168    [other specified disorders of pancreatic internal secretion]
+E169    [disorder of pancreatic internal secretion]
+E200    [hypoparathyroidism] {idiopathic}
+E201    [pseudohypoparathyroidism]
+E208    [other hypoparathyroidism]
+E209    [hypoparathyroidism]
+E210    [hyperparathyroidism] {primary}
+E211    [hyperparathyroidism] {secondary} & ![chronic kidney disease]
+        [hyperparathyroidism] {secondary} !{renal origin}
+E212    [other hyperparathyroidism]
+E213    [hyperparathyroidism] & ![hyperparathyroidism] `renal` !{primary} !{secondary}
+E214    [other specified disorders of parathyroid gland]
+E215    [disorder of parathyroid gland]
+E220    [acromegaly]
+        [pituitary gigantism]
+E221    [hyperprolactinemia]
+E222    [syndrome of inappropriate secretion of antidiuretic hormone]
+E228    [other hyperfunction of pituitary gland]
+E229    [hyperfunction of pituitary gland]
+E230    [hypopituitarism]
+E231    [hypopituitarism] {drug induced}
+E232    [diabetes insipidus]
+E233    [hypothalamic dysfunction]
+E236    [other disorders of pituitary gland]
+E237    [disorder of pituitary gland]
+E240    [pituitary dependent cushings disease]
+E241    [nelsons syndrome]
+E242    [cushings syndrome] {iatrogenic}
+E243    [ectopic acth syndrome]
+E244    [pseudo cushing s syndrome] {alcohol induced}
+E248    [other cushings syndrome]
+E249    [cushing syndrome]
+E250    [adrenogenital disorder] & [enzyme deficiency]
+E258    [other adrenogenital disorders]
+E259    [adrenogenital disorder]
+E2601   [conns syndrome]
+E2602   [glucocorticoid remediable aldosteronism]
+E2609   [hyperaldosteronism] {primary}
+E261    [hyperaldosteronism] {secondary}
+E2681   [bartters syndrome]
+E2689   [other hyperaldosteronism]
+E269    [hyperaldosteronism]
+E270    [adrenocortical overactivity]
+E271    [addisons disease]
+E272    [addisonian crisis]
+E273    [iatrogenic adrenal insufficiency]
+E2740   [adrenal insufficiency] !{iatrogenic} !{drug induced}
+E2749   [other adrenocortical insufficiency]
+E275    [adrenomedullary hyperfunction]
+E278    [other specified disorders of adrenal gland]
+E279    [disorder of adrenal gland]
+E280    [estrogen excess]
+E281    [androgen excess]
+E282    [polycystic ovarian syndrome]
+E28310  [premature menopause] {symptomatic}
+E28319  [premature menopause] {asymptomatic}
+E2839   [ovarian failure] {primary}
+E288    [other ovarian dysfunction]
+E289    [ovarian dysfunction]
+E290    [testicular hyperfunction]
+E291    [testicular hypofunction]
+E298    [other testicular dysfunction]
+E299    [testicular dysfunction]
+E300    [delayed puberty]
+E301    [precocious puberty] "pediatric"
+E308    [other disorders of puberty] "pediatric"
+E309    [disorder of puberty]
+E310    [autoimmune polyglandular failure]
+E311    [polyglandular hyperfunction]
+E3120   [multiple endocrine neoplasia syndrome]
+E3121   [multiple endocrine neoplasia type i]
+E3122   [multiple endocrine neoplasia type iia]
+E3123   [multiple endocrine neoplasia type iib]
+E318    [other polyglandular dysfunction]
+E319    [polyglandular dysfunction]
+E320    [persistent hyperplasia] `thymus`
+E321    [abscess] `thymus`
+E328    [other diseases thymus]
+E329    [disease] `thymus`
+E340    [carcinoid syndrome]
+E341    [other hypersecretion of intestinal hormones]
+E342    [ectopic hormone secretion]
+E343    [short stature] & [endocrine disorder]
+E344    [constitutional tall stature]
+E3450   [androgen insensitivity syndrome]
+E3451   [complete androgen insensitivity syndrome]
+E3452   [partial androgen insensitivity syndrome]
+E348    [other specified endocrine disorders]
+E349    [endocrine disorder]
+E35     [disorders of endocrine glands in diseases classified elsewhere]
+E3601   [intraoperative hemorrhage] `endocrine system`  & [complication of a procedure] `endocrine system`
+        [intraoperative hematoma] `endocrine system`  & [complication of a procedure] `endocrine system`
+E3602   [intraoperative hemorrhage] `endocrine system` & [complication of a procedure]
+        [intraoperative hematoma] `endocrine system` & [complication of a procedure]
+E3611   [puncture] {accidental} `endocrine system` & [procedure] `endocrine system`
+        [laceration] {accidental} `endocrine system` & [procedure] `endocrine system`
+E3612   [puncture] {accidental} `endocrine system` & [procedure]
+        [laceration] {accidental} `endocrine system` & [procedure]
+E368    [other intraoperative complications of endocrine system]
+E40     [kwashiorkor]
+E41     [nutritional marasmus]
+E42     [marasmic kwashiorkor]
+E43     [severe protein-calorie malnutrition]
+E440    [protein calorie malnutrition] {moderate}
+E441    [protein calorie malnutrition] {mild} !{severe}
+E45     [retarded development] & [protein calorie malnutrition]
+E46     [protein calorie malnutrition] & ![severe] & ![moderate] & ![mild]
+E500    [vitamin a deficiency] & [conjunctival xerosis]
+E501    [vitamin a deficiency] & [bitots spot] & [conjunctival xerosis]
+E502    [vitamin a deficiency] & [corneal xerosis]
+E503    [vitamin a deficiency] & [corneal ulceration] & [xerosis]
+E504    [vitamin a deficiency] & [keratomalacia]
+E505    [vitamin a deficiency] & [night blindness]
+E506    [vitamin a deficiency] & [xerophthalmic scars] `cornea`
+E507    [vitamin a deficiency] `ocular`
+E508    [other manifestations of vitamin a deficiency]
+E509    [vitamin a deficiency]
+E5111   [dry beriberi]
+E5112   [wet beriberi]
+E512    [wernickes encephalopathy]
+E518    [other manifestations of thiamine deficiency]
+E519    [thiamine deficiency]
+E52     [niacin deficiency] & [pellagra]
+E530    [riboflavin deficiency]
+E531    [pyridoxine deficiency]
+E538    [deficiency of other specified b group vitamins]
+E539    [vitamin b deficiency]
+E54     [ascorbic acid deficiency]
+E550    [rickets] {active}
+E559    [vitamin d deficiency]
+E560    [vitamin e deficiency]
+E561    [vitamin k deficiency]
+E568    [deficiency of other vitamin deficiency]
+E569    [vitamin deficiency] !{vitamin d} !{vitamin e} !{vitamin k}
+E58     [dietary calcium deficiency]
+E59     [dietary selenium deficiency]
+E60     [dietary zinc deficiency]
+E610    [copper deficiency]
+E611    [iron deficiency] & ![anemia]
+E612    [magnesium deficiency]
+E613    [manganese deficiency]
+E614    [chromium deficiency]
+E615    [molybdenum deficiency]
+E616    [vanadium deficiency]
+E617    [deficiency] {multiple} {nutrient element}
+E618*   deficiency of other specified nutrient elements
+E619    [nutrient element deficiency]
+E630    [essential fatty acid deficiency]
+E631    [imbalance of constituents of food intake]
+E638    [other specified nutritional deficiencies]
+E639    [nutritional deficiency]
+E640*   sequela of protein calorie malnutrition
+E641*   sequela of vitamin a deficiency
+E642*   sequela of vitamin c deficiency
+E643*   sequela of rickets
+E648*   sequela of other nutritional deficiencies
+E649*   sequela of unspecified nutritional deficiency
+E65     [adiposity] {localized}
+E6601   [obesity] {morbid} !"pregnancy"
+E6609   [obesity] & [excess calories] !"pregnancy"
+        [obesity] {nutritional} !"pregnancy"
+        [obesity] {exogenous} !"pregnancy"
+E661    [obesity] {drug induced} !"pregnancy"
+E662    [obesity] {morbid} & [hypoventilation syndrome] !"pregnancy"
+        [obesity] & [hypoventilation syndrome] !"pregnancy"
+E663    [overweight] !"pregnancy"
+E668    [other obesity] !"pregnancy"
+E669    [obesity] !{morbid} !{severe} !{nutritional} !{hypoventilation syndrome} !`abdomen` !"pregnancy"
+E670    [hypervitaminosis a]
+E671    [hypercarotenemia]
+E672    [megavitamin b6 syndrome]
+E673    [hypervitaminosis d]
+E678    [other specified hyperalimentation]
+E68*    sequela of hyperalimentation
+E700    [phenylketonuria] {classical}
+E701    [hyperphenylalaninemias]
+E7020   [disorder] {tyrosine metabolism}
+E7021   [tyrosinemia]
+E7029*  other disorders of tyrosine metabolism
+E7030   [albinism]
+E70310  [x linked ocular albinism]
+E70311  [autosomal recessive ocular albinism]
+E70318* other ocular albinism
+E70319  [ocular albinism]
+E70320  [tyrosinase negative oculocutaneous albinism]
+E70321  [tyrosinase positive oculocutaneous albinism]
+E70328* other oculocutaneous albinism
+E70329  [oculocutaneous albinism]
+E70330  [chediak higashi syndrome]
+E70331  [hermansky pudlak syndrome]
+E70338* other albinism with hematologic abnormality
+E70339  [albinism] & [hematologic abnormality]
+E7039   [albinism]
+E7040   [disorder] {histidine metabolism}
+E7041   [histidinemia]
+E7049   [disorder] {histidine metabolism}
+E705    [tryptophan metabolism disorder]
+E708*   [other aromatic amino acid metabolism disorder] "Deleted ICD10 FY2021"
+E7081	[aromatic l-amino acid decarboxylase deficiency] 
+E7089	[other disorders of aromatic amino-acid metabolism] 
+E709    [aromatic amino acid metabolism disorder]
+E710    [maple syrup urine disease]
+E71110  [isovaleric acidemia]
+E71111  [3 methylglutaconic aciduria]
+E71118* other branched chain organic acidurias
+E71120  [methylmalonic acidemia]
+E71121  [propionic acidemia]
+E71128* other [propionate metabolism disorder]
+E7119*  [branched chain amino acid metabolism disorder]
+E712    [disorder] {branched chain amino acid metabolism}
+E7130   [disorder] {fatty acid metabolism}
+E71310  [long chain/very long chain acyl coa dehydrogenase deficiency]
+E71311  [medium chain acyl coa dehydrogenase deficiency]
+E71312  [short chain acyl coa dehydrogenase deficiency]
+E71313  [glutaric aciduria] {type ll}
+E71314  [muscle carnitine palmitoyltransferase deficiency]
+E71318* other disorder of [fatty acid oxidation disorder]
+E7132   [ketone metabolism disorder]
+E7139   [fatty acid metabolism disorder]
+E7140   [carnitine metabolism disorder]
+E7141   [carnitine deficiency] {primary}
+E7142   [carnitine deficiency] & [inborn errors of metabolism]
+E7143   [iatrogenic carnitine deficiency]
+E71440  [ruvalcaba myhre smith syndrome]
+E71448* other {secondary} [carnitine deficiency]
+E7150   [peroxisomal disorder]
+E71510  [zellweger syndrome]
+E71511  [adrenoleukodystrophy]
+E71518* [peroxisome biogenesis disorder]
+E71520  [x linked adrenoleukodystrophy] `cerebral`
+E71521  [x linked adrenoleukodystrophy] "pediatric"
+E71522  [adrenomyeloneuropathy]
+E71528* other x linked adrenoleukodystrophy
+E71529  [x linked adrenoleukodystrophy]
+E7153   [group 2 peroxisomal disorder]
+E71540  [rhizomelic chondrodysplasia punctata]
+E71541  [zellweger like syndrome]
+E71542  [group 3 peroxisomal disorder]
+E71548* other [peroxisomal disorder]
+E7200   [amino acid transport disorder]
+E7201   [cystinuria]
+E7202   [hartnups disease]
+E7203   [lowes syndrome]
+E7204   [cystinosis]
+E7209   [amino acid transport disorder]
+E7210   [sulfur bearing amino acid metabolism disorder]
+E7211   [homocystinuria]
+E7212   [methylenetetrahydrofolate reductase deficiency]
+E7219   [other sulfur bearing amino acid metabolism disorder]
+E7220   [disorder of urea cycle metabolism]
+E7221   [argininemia]
+E7222   [arginosuccinic aciduria]
+E7223   [citrullinemia]
+E7229   [other urea cycle metabolism disorder]
+E723    [lysine metabolism disorder]
+E724    [ornithine metabolism disorder]
+E7250   [glycine metabolism disorder]
+E7251   [non ketotic hyperglycinemia]
+E7252   [trimethylaminuria]
+E7253   [orimary hyperoxaluria]
+E7259   [glycine metabolism disorder]
+E7281*  disorders of gamma aminobutyric acid metabolism
+E7289*  other specified disorders of amino-acid metabolism
+E729    [amino acid metabolism disorder]
+E730    [lactase deficiency]
+E731    [lactase deficiency] {secondary}
+E738    [other lactose intolerance]
+E739    [lactose intolerance]
+E7400   [glycogen storage disease]
+E7401   [von gierke disease]
+E7402   [pompe disease]
+E7403   [cori disease]
+E7404   [mcardle disease]
+E7409   [glycogen storage disease]
+E7410   [fructose metabolism disorder]
+E7411   [fructosuria] {essential}
+E7412   [fructose intolerance] {hereditary}
+E7419   [fructose metabolism disorder]
+E7420   [galactose metabolism disorder]
+E7421   [galactosemia]
+E7429   [galactose metabolism disorder]
+E7431   [sucrase isomaltase deficiency]
+E7439   [intestinal carbohydrate absorption disorder]
+E744    [pyruvate metabolism and gluconeogenesis disorder] 
+E748*   [other specified disorders of carbohydrate metabolism disorder] "Deleted ICD10 FY2021"
+E74810	[glucose transporter protein type 1 deficiency]	
+E74818	[other disorders of glucose transport] 
+E74819	[disorders of glucose transport] 
+E7489	[other specified disorders of carbohydrate metabolism] 
+E749    [carbohydrate metabolism disorder]
+E7500   [gm2 gangliosidosis]
+E7501   [sandhoff disease]
+E7502   [tay sachs disease]
+E7509   [gm2 gangliosidosis]
+E7510   [gangliosidosis]
+E7511   [mucolipidosis iv]
+E7519   [gangliosidosis]
+E7521   [fabry disease]
+E7522   [gaucher disease]
+E7523   [krabbe disease]
+E75240  [niemann pick disease type a]
+E75241  [niemann pick disease type b]
+E75242  [niemann pick disease type c]
+E75243  [niemann pick disease type d]
+E75248  [other niemann pick disease]
+E75249  [niemann pick disease]
+E7525   [metachromatic leukodystrophy]
+E7526   [sulfatase deficiency]
+E7529  [other sphingolipidosis]
+E753    [sphingolipidosis]
+E754    [neuronal ceroid lipofuscinosis]
+E755    [other lipid storage disorders]
+E756    [lipid storage disorder]
+E7601   [hurlers syndrome]
+E7602   [hurler scheie syndrome]
+E7603   [scheies syndrome]
+E761    [type ll mucopolysaccharidosis]
+E76210  [morquio a mucopolysaccharidoses]
+E76211  [morquio b mucopolysaccharidoses]
+E76219  [morquio mucopolysaccharidoses]
+E7622   [sanfilippo mucopolysaccharidoses]
+E7629*  other mucopolysaccharidoses
+E763    [mucopolysaccharidosis]
+E768    [other disorders of glucosaminoglycan metabolism disorder]
+E769    [glucosaminoglycan metabolism disorder]
+E770    [post translational modification of lysosomal enzymes defect]
+E771    [glycoprotein degradation defect]
+E778    [other disorders of glycoprotein metabolism]
+E779    [glycoprotein metabolism disorder]
+E7800   [hypercholesterolemia]
+E7801   [familial hypercholesterolemia]
+E781    [pure hyperglyceridemia]
+E782    [mixed hyperlipidemia]
+E783    [hyperchylomicronemia]
+E7841   [elevated lipoproteina]
+E7849   [other hyperlipidemia]
+E785    [hyperlipidemia] !{mixed}
+E786    [lipoprotein deficiency]
+E7870   [bile acid disorder]
+        [cholesterol metabolism disorder]
+E7871   [barth syndrome]
+E7872   [smith lemli opitz syndrome]
+E7879   [disorder] {bile acid}
+        [disorder] {cholesterol metabolism}
+E7881   [lipoid dermatoarthritis]
+E7889*  other {lipoprotein metabolism} [disorder]
+E789    [lipoprotein metabolism disorder]
+E790    [hyperuricemia] & ![inflammatory arthritis] & ![tophaceous disease]
+E791    [lesch nyhan syndrome]
+E792    [myoadenylate deaminase deficiency]
+E798    [other disorders of purine and pyrimidine metabolism]
+E799    [pyrimidine metabolism disorder]
+        [purine metabolism disorder]
+E800    [erythropoietic porphyria] {hereditary}
+E801    [porphyria cutanea tarda]
+E8020   [porphyria]
+E8021   [porphyria] {acute} {intermittent}
+E8029   [porphyria]
+E803    [catalase defect]
+        [peroxidase defect]
+E804    [gilbert syndrome]
+E805    [crigler najjar syndrome]
+E806    [other bilirubin metabolism disorder] !"newborn"
+E807*   [bilirubin metabolism disorder] !"newborn"
+E8300   [copper metabolism disorder]
+E8301   [wilsons disease]
+E8309   [copper metabolism disorder]
+E8310   [disorder of iron metabolism]
+E83110  [hereditary hemochromatosis]
+E83111  [hemochromatosis] & [red blood cell transfusion]
+E83118* other hemochromatosis
+E83119  [hemochromatosis]
+E8319   [iron metabolism disorder]
+E832    [zinc metabolism disorder]
+E8330   [phosphorus metabolism disorder]
+E8331   [hypophosphatemia] {familial}
+E8332   [vitamin d dependent rickets] {hereditary}
+E8339   [other phosphorus metabolism disorder] !{familial}
+E8340   [magnesium metabolism disorder]
+E8341   [hypermagnesemia]
+E8342   [hypomagnesemia]
+E8349   [magnesium metabolism disorder]
+E8350   [calcium metabolism disorder]
+E8351   [hypocalcemia]
+E8352   [hypercalcemia]
+E8359   [calcium metabolism disorder]
+E8381   [hungry bone syndrome]
+E8389   [mineral metabolism disorder]
+E839    [mineral metabolism disorder]
+E840    [cystic fibrosis of lung]
+E8411   [meconium ileus] & [cystic fibrosis]
+E8419   [cystic fibrosis] `intestine`
+E848*   cystic fibrosis with other manifestations
+E849    [cystic fibrosis]
+E850    [amyloidosis] {non neuropathic} {heredofamilial}
+E851    [amyloidosis] {neuropathic} {heredofamilial}
+E852    [amyloidosis] {heredofamilial}
+E853    [amyloidosis] {secondary} {systemic}
+E854    [amyloid heart]
+E8581   [amyloidosis] {light chain}
+E8582   [attr]
+E8589*  other amyloidosis
+E859    [amyloidosis]
+E860    [dehydration]
+E861    [hypovolemia]
+E869    [volume depletion]
+E870    [hyperosmolality] !{due to decreased oral intake}
+E871    [hyponatremia]
+E872    [acidosis]
+E873    [metabolic alkalosis]
+E874    [acid base balance disorder] {mixed}
+E875    [hyperkalemia]
+E876    [hypokalemia]
+E8770   [fluid overload]
+E8771   [transfusion associated circulatory overload]
+E8779   [fluid overload]
+E878    [electrolyte and fluid balance disorder]
+E8801   [alpha l antitrypsin deficiency]
+E8802   [plasminogen deficiency]
+E8809   [plasma protein metabolism disorder]
+E881    [lipodystrophy]
+E882    [lipomatosis]
+E883    [tumor lysis syndrome]
+E8840   [mitochondrial metabolism disorder]
+E8841   [melas syndrome]
+E8842   [merrf syndrome]
+E8849   [other mitochondrial metabolism disorder]
+E8881   [metabolic syndrome]
+E8889   [disorder] {metabolic}
+E889    [metabolic disorder]
+E890    [hypothyroidism] {postprocedural}
+E891    [hypoinsulinemia] {postprocedural}
+E892    [hypoparathyroidism] {postprocedural}
+E893    [hypopituitarism] {postprocedural}
+E8940   [ovarian failure] {asymptomatic} {postprocedural}
+E8941   [ovarian failure] {symptomatic} {postprocedural}
+E895    [testicular hypofunction] {postprocedural}
+E896    [adrenocortical hypofunction] {postprocedural}
+E8981   [post] & [tonsillectomy] & [bleeding]
+E89811* postprocedural hemorrhage and hematoma of an endocrine system organ or structure following other procedure
+E8989*  other postprocedural endocrine and metabolic complications and disorders
+E083531 [type 2 diabetes] {due to} & [proliferative retinopathy] {right} & [traction retinal detachment] & ![macula]
+E083532 [type 2 diabetes] {due to} & [proliferative retinopathy] & [traction retinal detachment] {left} & ![macula]
+E083533 [type 2 diabetes] {due to} & [proliferative retinopathy] & [traction retinal detachment] `bilateral` & ![macula]
+E083539 [type 2 diabetes] {due to} & [proliferative retinopathy] & [traction retinal detachment] & ![macula] 
+E083541 [type 2 diabetes] {due to} & [proliferative retinopathy] & [combined traction retinal detachment] & [rhegmatogenous retinal detachment] {right}
+E083542 [type 2 diabetes] {due to} & [proliferative retinopathy] & [combined traction retinal detachment] & [rhegmatogenous retinal detachment] {left}
+E083543 [type 2 diabetes] {due to} & [proliferative retinopathy] & [combined traction retinal detachment] & [rhegmatogenous retinal detachment] `bilateral`
+E083549 [type 2 diabetes] {due to} & [proliferative retinopathy] & [combined traction retinal detachment] & [rhegmatogenous retinal detachment]
+E083551 [type 2 diabetes] {due to} & [proliferative retinopathy] {right}
+E083552 [type 2 diabetes] {due to} & [proliferative retinopathy] {left}
+E083553 [type 2 diabetes] {due to} & [proliferative retinopathy] `bilateral`
+E083559 [type 2 diabetes] {due to} & [proliferative retinopathy]
+E083591 [type 2 diabetes] {due to} & [proliferative retinopathy] {right} & ![macular edema]
+E083592 [type 2 diabetes] {due to} & [proliferative retinopathy] {left} & ![macular edema]
+E083593 [type 2 diabetes] {due to} & [proliferative retinopathy] `bilateral` & ![macular edema]
+E083599 [type 2 diabetes] {due to} & [proliferative retinopathy] & ![macular edema]
+E0837X1 [type 2 diabetes] {due to} & [macular edema] {resolved} {right}
+E0837X2 [type 2 diabetes] {due to} & [macular edema] {resolved} {left}
+E0837X3 [type 2 diabetes] {due to} & [macular edema] {resolved} `bilateral`
+E0837X9 [type 2 diabetes] {due to} & [macular edema] {resolved}
+E093211 [drug induced diabetes] & [nonproliferative retinopathy] & [macular edema] {right}
+E093212 [drug induced diabetes] & [nonproliferative retinopathy] & [macular edema] {left}
+E093213 [drug induced diabetes] & [nonproliferative retinopathy] & [macular edema] `bilateral`
+E093219 [drug induced diabetes] & [nonproliferative retinopathy] & [macular edema]
+E093291 [drug induced diabetes] & [nonproliferative retinopathy] {right} & ![macular edema]
+E093292 [drug induced diabetes] & [nonproliferative retinopathy] {left} & ![macular edema]
+E093293 [drug induced diabetes] & [nonproliferative retinopathy] `bilateral` & ![macular edema]
+E093299 [drug induced diabetes] & [nonproliferative retinopathy] & [without macular edema]
+E093311 [drug induced diabetes] {moderate} & [nonproliferative retinopathy] & [macular edema] {right}
+E093312 [drug induced diabetes] {moderate} & [nonproliferative retinopathy] & [macular edema] {left}
+E093313 [drug induced diabetes] {moderate} & [nonproliferative retinopathy] & [macular edema] `bilateral`
+E093319 [drug induced diabetes] {moderate} & [nonproliferative retinopathy] & [macular edema]
+E093391 [drug induced diabetes] {moderate} & [nonproliferative retinopathy] {right} & ![macular edema]
+E093392 [drug induced diabetes] {moderate} & [nonproliferative retinopathy] {left} & ![macular edema]
+E093393 [drug induced diabetes] {moderate} & [nonproliferative retinopathy] {bilateral} & ![macular edema]
+E093399 [drug induced diabetes] {moderate} & [nonproliferative retinopathy] & ![macular edema]
+E093411 [drug induced diabetes] {severe} & [nonproliferative retinopathy] & [macular edema] {right}
+E093412 [drug induced diabetes] {severe} & [nonproliferative retinopathy] & [macular edema] {left}
+E093413 [drug induced diabetes] {severe} & [nonproliferative retinopathy] & [macular edema] `bilateral`
+E093419 [drug induced diabetes] {severe} & [nonproliferative retinopathy] & [macular edema]
+E093491 [drug induced diabetes] {severe} & [nonproliferative retinopathy] {right} & ![macular edema]
+E093492 [drug induced diabetes] {severe} & [nonproliferative retinopathy] {left} & ![macular edema]
+E093493 [drug induced diabetes] {severe} & [nonproliferative retinopathy] {bilateral} & ![macular edema]
+E093499 [drug induced diabetes] {severe} & [nonproliferative retinopathy] & ![macular edema]
+E093511 [drug induced diabetes] & [proliferative retinopathy] & [macular edema] {right}
+E093512 [drug induced diabetes] & [proliferative retinopathy] & [macular edema] {left}
+E093513 [drug induced diabetes] & [proliferative retinopathy] & [macular edema] `bilateral`
+E093519 [drug induced diabetes] & [proliferative retinopathy] & [macular edema]
+E093521 [drug induced diabetes] & [proliferative retinopathy] & [traction retinal detachment involving the macula] {right}
+E093522 [drug induced diabetes] & [proliferative retinopathy] & [traction retinal detachment involving the macula] {left}
+E093523 [drug induced diabetes] & [proliferative retinopathy] & [traction retinal detachment involving the macula] `bilateral`
+E093529 [drug induced diabetes] & [proliferative retinopathy] & [traction retinal detachment involving the macula]
+E093531 [drug induced diabetes] & [proliferative retinopathy] & [traction retinal detachment] & ![macula] {right}
+E093532 [drug induced diabetes] & [proliferative retinopathy] & [traction retinal detachment] & ![macula] {left}
+E093533 [drug induced diabetes] & [proliferative retinopathy] & [traction retinal detachment] & ![macula] `bilateral`
+E093539 [drug induced diabetes] & [proliferative retinopathy] & [traction retinal detachment] & ![macula]
+E093541 [drug induced diabetes] & [proliferative retinopathy] & [combined traction retinal detachment] & [rhegmatogenous retinal detachment] {right}
+E093542 [drug induced diabetes] & [proliferative retinopathy] & [combined traction retinal detachment] & [rhegmatogenous retinal detachment] {left}
+E093543 [drug induced diabetes] & [proliferative retinopathy] & [combined traction retinal detachment] & [rhegmatogenous retinal detachment] `bilateral`
+E093549 [drug induced diabetes] & [proliferative retinopathy] & [combined traction retinal detachment] & [rhegmatogenous retinal detachment]
+E093551 [drug induced diabetes] & [proliferative retinopathy] {right}
+E093552 [drug induced diabetes] & [proliferative retinopathy] {left}
+E093553 [drug induced diabetes] & [proliferative retinopathy] `bilateral`
+E093559 [drug induced diabetes] & [proliferative retinopathy]
+E093591 [drug induced diabetes] & [proliferative retinopathy] {right} & ![macular edema]
+E093592 [drug induced diabetes] & [proliferative retinopathy] {left} & ![macular edema]
+E093593 [drug induced diabetes] & [proliferative retinopathy] {bilateral} & ![macular edema]
+E093599 [drug induced diabetes] & [proliferative retinopathy] & ![without macular edema]
+E0937X1 [drug induced diabetes] & [macular edema] {resolved} {right}
+E0937X2 [drug induced diabetes] & [macular edema] {resolved} {left}
+E0937X3 [drug induced diabetes] & [macular edema] {resolved} `bilateral`
+E0937X9 [drug induced diabetes] & [macular edema] {resolved following treatment}
+E103211 [type 1 diabetes] & [nonproliferative retinopathy] & [macular edema] {right}
+E103212 [type 1 diabetes] & [nonproliferative retinopathy] & [macular edema] {left}
+E103213 [type 1 diabetes] & [nonproliferative retinopathy] & [macular edema] `bilateral`
+E103219 [type 1 diabetes] & [nonproliferative retinopathy] & [macular edema]
+E103291 [type 1 diabetes] & [nonproliferative retinopathy] & ![macular edema] {right}
+E103292 [type 1 diabetes] & [nonproliferative retinopathy] & ![macular edema] {left}
+E103293 [type 1 diabetes] & [nonproliferative retinopathy] & ![macular edema] `bilateral`
+E103299 [type 1 diabetes] & [nonproliferative retinopathy] & ![macular edema]
+E103311 [type 1 diabetes] {moderate} & [nonproliferative retinopathy] & [macular edema] {right}
+E103312 [type 1 diabetes] {moderate} & [nonproliferative retinopathy] & [macular edema] {left}
+E103313 [type 1 diabetes] {moderate} & [nonproliferative retinopathy] & [macular edema] `bilateral`
+E103319 [type 1 diabetes] {moderate} & [nonproliferative retinopathy] & [macular edema]
+E103391 [type 1 diabetes] {moderate} & [nonproliferative retinopathy] & ![macular edema] {right}
+E103392 [type 1 diabetes] {moderate} & [nonproliferative retinopathy] & ![macular edema] {left}
+E103393 [type 1 diabetes] {moderate} & [nonproliferative retinopathy] & ![macular edema] `bilateral`
+E103399 [type 1 diabetes] {moderate} & [nonproliferative retinopathy] & ![macular edema]
+E103411 [type 1 diabetes] {severe} & [nonproliferative retinopathy] & [macular edema] {right}
+E103412 [type 1 diabetes] {severe} & [nonproliferative retinopathy] & [macular edema] {left}
+E103413 [type 1 diabetes] {severe} & [nonproliferative retinopathy] & [macular edema] `bilateral`
+E103419 [type 1 diabetes] {severe} & [nonproliferative retinopathy] & [macular edema]
+E103491 [type 1 diabetes] {severe} & [nonproliferative retinopathy] & ![macular edema] {right}
+E103492 [type 1 diabetes] {severe} & [nonproliferative retinopathy] & ![macular edema] {left}
+E103493 [type 1 diabetes] {severe} & [nonproliferative retinopathy] & ![macular edema] `bilateral`
+E103499 [type 1 diabetes] {severe} & [nonproliferative retinopathy] & ![macular edema]
+E103511 [type 1 diabetes] & [proliferative retinopathy] & [macular edema] {right}
+E103512 [type 1 diabetes] & [proliferative retinopathy] & [macular edema] {left}
+E103513 [type 1 diabetes] & [proliferative retinopathy] & [macular edema] `bilateral`
+E103519 [type 1 diabetes] & [proliferative retinopathy] & [macular edema]
+E103521 [type 1 diabetes] & [proliferative retinopathy] & [traction retinal detachment involving the macula] {right}
+E103522 [type 1 diabetes] & [proliferative retinopathy] & [traction retinal detachment involving the macula] {left}
+E103523 [type 1 diabetes] & [proliferative retinopathy] & [traction retinal detachment involving the macula] `bilateral`
+E103529 [type 1 diabetes] & [proliferative retinopathy] & [traction retinal detachment involving the macula]
+E103531 [type 1 diabetes] & [proliferative retinopathy] & [traction retinal detachment] & ![macula] {right}
+E103532 [type 1 diabetes] & [proliferative retinopathy] & [traction retinal detachment] & ![macula] {left}
+E103533 [type 1 diabetes] & [proliferative retinopathy] & [traction retinal detachment] & ![macula] `bilateral`
+E103539 [type 1 diabetes] & [proliferative retinopathy] & [traction retinal detachment] & ![macula]
+E103541 [type 1 diabetes] & [proliferative retinopathy] & [combined traction retinal detachment] & [rhegmatogenous retinal detachment] {right}
+E103542 [type 1 diabetes] & [proliferative retinopathy] & [combined traction retinal detachment] & [rhegmatogenous retinal detachment] {left}
+E103543 [type 1 diabetes] & [proliferative retinopathy] & [combined traction retinal detachment] & [rhegmatogenous retinal detachment] `bilateral`
+E103549 [type 1 diabetes] & [proliferative retinopathy] & [combined traction retinal detachment] & [rhegmatogenous retinal detachment]
+E103551 [type 1 diabetes] & [proliferative retinopathy] {right}
+E103552 [type 1 diabetes] & [proliferative retinopathy] {left}
+E103553 [type 1 diabetes] & [proliferative retinopathy] `bilateral`
+E103559 [type 1 diabetes] & [proliferative retinopathy]
+E103591 [type 1 diabetes] & [proliferative retinopathy] & ![macular edema] {right}
+E103592 [type 1 diabetes] & [proliferative retinopathy] & ![macular edema] {left}
+E103593 [type 1 diabetes] & [proliferative retinopathy] & ![macular edema] `bilateral`
+E103599 [type 1 diabetes] & [proliferative retinopathy] & ![macular edema]
+E1037X1 [type 1 diabetes] & [macular edema] {resolved} {right}
+E1037X2 [type 1 diabetes] & [macular edema] {resolved} {left}
+E1037X3 [type 1 diabetes] & [macular edema] {resolved} `bilateral`
+E1037X9 [type 1 diabetes] & [macular edema resolved following treatment]
+E113211 [type 2 diabetes] {due to} & [nonproliferative retinopathy] & [macular edema] {right} & ![type 1 diabetes]
+E113212 [type 2 diabetes] {due to} & [nonproliferative retinopathy] & [macular edema] {left} & ![type 1 diabetes]
+E113213 [type 2 diabetes] {due to} & [nonproliferative retinopathy] & [macular edema] `bilateral` & ![type 1 diabetes]
+E113219 [type 2 diabetes] {due to} & [nonproliferative retinopathy] & [macular edema] & ![type 1 diabetes]
+E113291 [type 2 diabetes] {due to} & [nonproliferative retinopathy] & ![macular edema] {right} & ![type 1 diabetes]
+E113292 [type 2 diabetes] {due to} & [nonproliferative retinopathy] & ![macular edema] {left} & ![type 1 diabetes]
+E113293 [type 2 diabetes] {due to} & [nonproliferative retinopathy] & ![macular edema] `bilateral` & ![type 1 diabetes]
+E113299 [type 2 diabetes] {due to} & [nonproliferative retinopathy] & ![macular edema] & ![type 1 diabetes]
+E113311 [type 2 diabetes] {moderate} & [nonproliferative retinopathy] & [macular edema] {right} & ![type 1 diabetes]
+E113312 [type 2 diabetes] {moderate} & [nonproliferative retinopathy] & [macular edema] {left} & ![type 1 diabetes]
+E113313 [type 2 diabetes] {moderate} & [nonproliferative retinopathy] & [macular edema] `bilateral` & ![type 1 diabetes]
+E113319 [type 2 diabetes] {moderate} & [nonproliferative retinopathy] & [macular edema] & ![type 1 diabetes]
+E113391 [type 2 diabetes] {moderate} & [nonproliferative retinopathy] & ![macular edema] {right} & ![type 1 diabetes]
+E113392 [type 2 diabetes] {moderate} & [nonproliferative retinopathy] & ![macular edema] {left} & ![type 1 diabetes]
+E113393 [type 2 diabetes] {moderate} & [nonproliferative retinopathy] & ![macular edema] `bilateral` & ![type 1 diabetes]
+E113399 [type 2 diabetes] {moderate} & [nonproliferative retinopathy] & ![macular edema] & ![type 1 diabetes]
+E113411 [type 2 diabetes] {severe} & [nonproliferative retinopathy] & [macular edema] {right} & ![type 1 diabetes]
+E113412 [type 2 diabetes] {severe} & [nonproliferative retinopathy] & [macular edema] {left} & ![type 1 diabetes]
+E113413 [type 2 diabetes] {severe} & [nonproliferative retinopathy] & [macular edema] `bilateral` & ![type 1 diabetes]
+E113419 [type 2 diabetes] {severe} & [nonproliferative retinopathy] & [macular edema] & ![type 1 diabetes]
+E113491 [type 2 diabetes] {severe} & [nonproliferative retinopathy] & ![macular edema] {right} & ![type 1 diabetes]
+E113492 [type 2 diabetes] {severe} & [nonproliferative retinopathy] & ![macular edema] {left} & ![type 1 diabetes]
+E113493 [type 2 diabetes] {severe} & [nonproliferative retinopathy] & ![macular edema] `bilateral` & ![type 1 diabetes]
+E113499 [type 2 diabetes] {severe} & [nonproliferative retinopathy] & ![macular edema] & ![type 1 diabetes]
+E113511 [type 2 diabetes] {due to} & [proliferative retinopathy] & [macular edema] {right} & ![type 1 diabetes]
+E113512 [type 2 diabetes] {due to} & [proliferative retinopathy] & [macular edema] {left} & ![type 1 diabetes]
+E113513 [type 2 diabetes] {due to} & [proliferative retinopathy] & [macular edema] `bilateral` & ![type 1 diabetes]
+E113519 [type 2 diabetes] {due to} & [proliferative retinopathy] & [macular edema] & ![type 1 diabetes]
+E113521 [type 2 diabetes] {due to} & [proliferative retinopathy] & [traction retinal detachment involving the macula] {right}
+E113522 [type 2 diabetes] {due to} & [proliferative retinopathy] & [traction retinal detachment involving the macula] {left}
+E113523 [type 2 diabetes] {due to} & [proliferative retinopathy] & [traction retinal detachment involving the macula] `bilateral`
+E113529 [type 2 diabetes] {due to} & [proliferative retinopathy] & [traction retinal detachment involving the macula]
+E113531 [type 2 diabetes] {due to} & [proliferative retinopathy] & [traction retinal detachment] & ![macula] {right}
+E113532 [type 2 diabetes] {due to} & [proliferative retinopathy] & [traction retinal detachment] & ![macula] {left}
+E113533 [type 2 diabetes] {due to} & [proliferative retinopathy] & [traction retinal detachment] & ![macula] `bilateral`
+E113539 [type 2 diabetes] {due to} & [proliferative retinopathy] & [traction retinal detachment] & ![macula]
+E113541 [type 2 diabetes] & [proliferative retinopathy] & [rhegmatogenous retinal detachment] {combined traction} {right}
+        [proliferative diabetic retinopathy] & [rhegmatogenous retinal detachment] {combined traction} {right} & ![type 1 diabetes]
+E113542 [type 2 diabetes] & [proliferative retinopathy] & [rhegmatogenous retinal detachment] {combined traction} {left}
+        [proliferative diabetic retinopathy] & [rhegmatogenous retinal detachment] {combined traction} {left} & ![type 1 diabetes]
+E113543 [type 2 diabetes] {due to} & [proliferative retinopathy] & [combined traction retinal detachment] & [rhegmatogenous retinal detachment] `bilateral`
+E113549 [type 2 diabetes] {due to} & [proliferative retinopathy] & [combined traction retinal detachment] & [rhegmatogenous retinal detachment]
+E113551 [type 2 diabetes] {due to} & [proliferative retinopathy] {stable} {right}
+E113552 [type 2 diabetes] {due to} & [proliferative retinopathy] {stable} {left}
+E113553 [type 2 diabetes] {due to} & [proliferative retinopathy] {stable} `bilateral`
+E113559 [type 2 diabetes] {due to} & [proliferative retinopathy] {stable} !{left} !{right} !{bilateral}
+E113591 [type 2 diabetes] {due to} & [proliferative retinopathy] & ![macular edema] {right}
+E113592 [type 2 diabetes] {due to} & [proliferative retinopathy] & ![macular edema] {left}
+E113593 [type 2 diabetes] {due to} & [proliferative retinopathy] & ![macular edema] `bilateral`
+E113599 [type 2 diabetes] {due to} & [proliferative retinopathy] & ![macular edema] !"pregnancy" !{lab or test or history}
+        [type 2 diabetes] & [proliferative retinopathy] & ![macular edema] & ![type 1 diabetes] !"pregnancy" !{lab or test or history}
+E1137X1 [type 2 diabetes] {due to} & [macular edema] {resolved} {right}
+E1137X2 [type 2 diabetes] {due to} & [macular edema] {resolved} {left}
+E1137X3 [type 2 diabetes] {due to} & [macular edema] {resolved} `bilateral`
+E1137X9*[type 2 diabetes] {due to} & [macular edema] {resolved following treatment}
+E133211*  other specified [type 2 diabetes] {due to} & [nonproliferative retinopathy] & [macular edema] {right}
+E133212*  other specified [type 2 diabetes] {due to} & [nonproliferative retinopathy] & [macular edema] {left}
+E133213*  other specified [type 2 diabetes] {due to} & [nonproliferative retinopathy] & [macular edema] `bilateral`
+E133219*  other specified [type 2 diabetes] {due to} & [nonproliferative retinopathy] & [macular edema]
+E133291*  other specified [type 2 diabetes] {due to} & [nonproliferative retinopathy] & ![macular edema] {right}
+E133292*  other specified [type 2 diabetes] {due to} & [nonproliferative retinopathy] & ![macular edema] {left}
+E133293*  other specified [type 2 diabetes] {due to} & [nonproliferative retinopathy] & ![macular edema] `bilateral`
+E133299*  other specified [type 2 diabetes] {due to} & [nonproliferative retinopathy] & ![macular edema]
+E133311*  other specified [diabetes mellitus {moderate} & [nonproliferative retinopathy] & [macular edema] {right}
+E133312*  other specified [diabetes mellitus {moderate} & [nonproliferative retinopathy] & [macular edema] {left}
+E133313*  other specified [diabetes mellitus {moderate} & [nonproliferative retinopathy] & [macular edema] `bilateral`
+E133319*  other specified [diabetes mellitus {moderate} & [nonproliferative retinopathy] & [macular edema]
+E133391*  other specified [diabetes mellitus {moderate} & [nonproliferative retinopathy] ![macular edema] {right}
+E133392*  other specified [diabetes mellitus {moderate} & [nonproliferative retinopathy] ![macular edema] {left}
+E133393*  other specified [diabetes mellitus {moderate} & [nonproliferative retinopathy] ![macular edema] `bilateral`
+E133399*  other specified [diabetes mellitus {moderate} & [nonproliferative retinopathy] & ![macular edema]
+E133411*  other specified [type 2 diabetes] {severe} & [nonproliferative retinopathy] & [macular edema] {right}
+E133412*  other specified [type 2 diabetes] {severe} & [nonproliferative retinopathy] & [macular edema] {left}
+E133413*  other specified [type 2 diabetes] {severe} & [nonproliferative retinopathy] & [macular edema] `bilateral`
+E133419*  other specified [type 2 diabetes] {severe} & [nonproliferative retinopathy] & [macular edema]
+E133491*  other specified [type 2 diabetes] {severe} & [nonproliferative retinopathy] ![macular edema] {right}
+E133492*  other specified [type 2 diabetes] {severe} & [nonproliferative retinopathy] ![macular edema] {left}
+E133493*  other specified [type 2 diabetes] {severe} & [nonproliferative retinopathy] ![macular edema] `bilateral`
+E133499*  other specified [type 2 diabetes] {severe} & [nonproliferative retinopathy] & ![macular edema]
+E133511*  other specified [type 2 diabetes] {due to} & [proliferative retinopathy] & [macular edema] {right}
+E133512*  other specified [type 2 diabetes] {due to} & [proliferative retinopathy] & [macular edema] {left}
+E133513*  other specified [type 2 diabetes] {due to} & [proliferative retinopathy] & [macular edema] `bilateral`
+E133519*  other specified [type 2 diabetes] {due to} & [proliferative retinopathy] & [macular edema]
+E133521*  other specified [type 2 diabetes] {due to} & [proliferative retinopathy] & [traction retinal detachment involving the macula] {right}
+E133522*  other specified [type 2 diabetes] {due to} & [proliferative retinopathy] & [traction retinal detachment involving the macula] {left}
+E133523*  other specified [type 2 diabetes] {due to} & [proliferative retinopathy] & [traction retinal detachment involving the macula] `bilateral`
+E133529*  other specified [type 2 diabetes] {due to} & [proliferative retinopathy] & [traction retinal detachment involving the macula]
+E133531*  other specified [type 2 diabetes] {due to} & [proliferative retinopathy] & [traction retinal detachment ![macula] {right}
+E133532*  other specified [type 2 diabetes] {due to} & [proliferative retinopathy] & [traction retinal detachment ![macula] {left}
+E133533*  other specified [type 2 diabetes] {due to} & [proliferative retinopathy] & [traction retinal detachment ![macula] `bilateral`
+E133539*  other specified [type 2 diabetes] {due to} & [proliferative retinopathy] & [traction retinal detachment] ![macula]
+E133541*  other specified [type 2 diabetes] {due to} & [proliferative retinopathy] & [combined traction retinal detachment] & [rhegmatogenous retinal detachment] {right}
+E133542*  other specified [type 2 diabetes] {due to} & [proliferative retinopathy] & [combined traction retinal detachment] & [rhegmatogenous retinal detachment] {left}
+E133543*  other specified [type 2 diabetes] {due to} & [proliferative retinopathy] & [combined traction retinal detachment] & [rhegmatogenous retinal detachment] `bilateral`
+E133549*  other specified [type 2 diabetes] {due to} & [proliferative retinopathy] & [combined traction retinal detachment] & [rhegmatogenous retinal detachment]
+E133551*  other specified [type 2 diabetes] {due to} & [proliferative retinopathy] {right}
+E133552*  other specified [type 2 diabetes] {due to} & [proliferative retinopathy] {left}
+E133553*  other specified [type 2 diabetes] {due to} & [proliferative retinopathy] `bilateral`
+E133559*  other specified [type 2 diabetes] {due to} & [proliferative retinopathy]
+E133591*  other specified [type 2 diabetes] {due to} & [proliferative retinopathy] ![macular edema] {right}
+E133592*  other specified [type 2 diabetes] {due to} & [proliferative retinopathy] ![macular edema] {left}
+E133593*  other specified [type 2 diabetes] {due to} & [proliferative retinopathy] ![macular edema] `bilateral`
+E133599*  other specified [type 2 diabetes] {due to} & [proliferative retinopathy] & ![macular edema]
+E1337X1*  other specified [type 2 diabetes] {due to} & [macular edema] {resolved} {right}
+E1337X2*  other specified [type 2 diabetes] {due to} & [macular edema] {resolved} {left}
+E1337X3*  other specified [type 2 diabetes] {due to} & [macular edema] {resolved} `bilateral`
+E1337X9*  other specified [type 2 diabetes] {due to} & [macular edema] {resolved}
+E89820* [postprocedural hematoma] of an endocrine system organ or structure following an endocrine system procedure
+E89821* [postprocedural hematoma] of an endocrine system organ or structure following other procedure
+E89822* postprocedural seroma of an endocrine system organ or structure following an endocrine system procedure
+E89823* postprocedural seroma of an endocrine system organ or structure following other procedure

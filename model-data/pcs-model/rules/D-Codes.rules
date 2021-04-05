@@ -1,0 +1,297 @@
+DF11BB1	[brachytherapy] {low dose} `gallbladder` & [palladium 103]
+D010BB1	[brachytherapy] {low dose} `brain` & [palladium 103]	
+D011BB1	[brachytherapy] {low dose} `brain stem` & [palladium 103]	
+D016BB1	[brachytherapy] {low dose} `spinal cord` & [palladium 103]	
+D017BB1	[brachytherapy] {low dose} `peripheral nerve` & [palladium 103]	
+D710BB1	[brachytherapy] {low dose} `bone marrow` & [palladium 103]	
+D711BB1	[brachytherapy] {low dose} `thymus` & [palladium 103]	
+D712BB1	[brachytherapy] {low dose} `spleen` & [palladium 103]	
+D713BB1	[brachytherapy] {low dose} `neck lymphatics` & [palladium 103]	
+D714BB1	[brachytherapy] {low dose} `axillary lymphatics` & [palladium 103]	
+D715BB1	[brachytherapy] {low dose} `thorax lymphatics` & [palladium 103]	
+D716BB1	[brachytherapy] {low dose} `abdomen lymphatics` & [palladium 103]	
+D717BB1	[brachytherapy] {low dose} `pelvis lymphatics` & [palladium 103]	
+D718BB1	[brachytherapy] {low dose} `inguinal lymphatics` & [palladium 103]	
+D810BB1	[brachytherapy] {low dose} `eye` & [palladium 103]	
+D910BB1	[brachytherapy] {low dose} `ear` & [palladium 103]	
+D911BB1	[brachytherapy] {low dose} `nose` & [palladium 103]	
+D913BB1	[brachytherapy] {low dose} `hypopharynx` & [palladium 103]	
+D914BB1	[brachytherapy] {low dose} `mouth` & [palladium 103]	
+D915BB1	[brachytherapy] {low dose} `tongue` & [palladium 103]	
+D916BB1	[brachytherapy] {low dose} `salivary glands` & [palladium 103]	
+D917BB1	[brachytherapy] {low dose} `sinuses` & [palladium 103]	
+D918BB1	[brachytherapy] {low dose} `hard palate` & [palladium 103]	
+D919BB1	[brachytherapy] {low dose} `soft palate` & [palladium 103]	
+D91BBB1	[brachytherapy] {low dose} `larynx` & [palladium 103]	
+D91DBB1	[brachytherapy] {low dose} `nasopharynx` & [palladium 103]	
+D91FBB1	[brachytherapy] {low dose} `oropharynx` & [palladium 103]	
+DB10BB1	[brachytherapy] {low dose} `trachea` & [palladium 103]	
+DB11BB1	[brachytherapy] {low dose} `bronchus` & [palladium 103]	
+DB12BB1	[brachytherapy] {low dose} `lung` & [palladium 103]	
+DB15BB1	[brachytherapy] {low dose} `pleura` & [palladium 103]	
+DB16BB1	[brachytherapy] {low dose} `mediastinum` & [palladium 103]	
+DB17BB1	[brachytherapy] {low dose} `chest wall` & [palladium 103]	
+DB18BB1	[brachytherapy] {low dose} `diaphragm` & [palladium 103]	
+DD10BB1	[brachytherapy] {low dose} `esophagus` & [palladium 103]	
+DD11BB1	[brachytherapy] {low dose} `stomach` & [palladium 103]	
+DD12BB1	[brachytherapy] {low dose} `duodenum` & [palladium 103]	
+DD13BB1	[brachytherapy] {low dose} `jejunum` & [palladium 103]	
+DD14BB1	[brachytherapy] {low dose} `ileum` & [palladium 103]	
+DD15BB1	[brachytherapy] {low dose} `colon` & [palladium 103]	
+DD17BB1	[brachytherapy] {low dose} `rectum` & [palladium 103]	
+DF10BB1	[brachytherapy] {low dose} `liver` & [palladium 103]	
+DF11BB1	[brachytherapy] {low dose} `gallbladder` & [palladium 103]	
+DF12BB1	[brachytherapy] {low dose} `bile ducts` & [palladium 103]	
+DF13BB1	[brachytherapy] {low dose} `pancreas` & [palladium 103]	
+DG10BB1	[brachytherapy] {low dose} `pituitary gland` & [palladium 103]	
+DG11BB1	[brachytherapy] {low dose} `pineal body` & [palladium 103]	
+DG12BB1	[brachytherapy] {low dose} `adrenal glands` & [palladium 103]	
+DG14BB1	[brachytherapy] {low dose} `parathyroid glands` & [palladium 103]	
+DG15BB1	[brachytherapy] {low dose} `thyroid` & [palladium 103]	
+DM10BB1	[brachytherapy] {low dose} `left breast` & [palladium 103]	
+DM11BB1	[brachytherapy] {low dose} `right breast` & [palladium 103]	
+DT10BB1	[brachytherapy] {low dose} `kidney` & [palladium 103]	
+DT11BB1	[brachytherapy] {low dose} `ureter` & [palladium 103]	
+DT12BB1	[brachytherapy] {low dose} `bladder` & [palladium 103]	
+DT13BB1	[brachytherapy] {low dose} `urethra` & [palladium 103]	
+DU10BB1	[brachytherapy] {low dose} `ovary` & [palladium 103]	
+DU11BB1	[brachytherapy] {low dose} `cervix` & [palladium 103]	
+DU12BB1	[brachytherapy] {low dose} `uterus` & [palladium 103]
+D010B6Z	[brachytherapy] {low dose} `brain` & [cesium 131] 
+D011B6Z	[brachytherapy] {low dose} `brain stem` & [cesium 131] 
+D016B6Z	[brachytherapy] {low dose} `spinal cord` & [cesium 131] 
+D017B6Z	[brachytherapy] {low dose} `peripheral nerve` & [cesium 131] 
+D0Y0CZZ	[radiation therapy] {intraoperative} `brain` 
+D0Y1CZZ	[radiation therapy] {intraoperative} `brain stem` 
+D0Y6CZZ	[radiation therapy] {intraoperative} `spinal cord` 
+D0Y7CZZ	[radiation therapy] {intraoperative} `peripheral nerve` 
+D710B6Z	[brachytherapy] {low dose} `bone marrow` & [cesium 131] 
+D711B6Z	[brachytherapy] {low dose} `thymus` & [cesium 131] 
+D712B6Z	[brachytherapy] {low dose} `spleen` & [cesium 131] 
+D713B6Z	[brachytherapy] {low dose} `neck lymphatics` & [cesium 131] 
+D714B6Z	[brachytherapy] {low dose} `axillary lymphatics` & [cesium 131] 
+D715B6Z	[brachytherapy] {low dose} `thorax lymphatics` & [cesium 131] 
+D716B6Z	[brachytherapy] {low dose} `abdomen lymphatics` & [cesium 131] 
+D717B6Z	[brachytherapy] {low dose} `pelvis lymphatics` & [cesium 131] 
+D718B6Z	[brachytherapy] {low dose} `inguinal lymphatics` & [cesium 131] 
+D810B6Z	[brachytherapy] {low dose} `eye` & [cesium]	
+D910B6Z	[brachytherapy] {low dose} `ear` & [cesium]	
+D911B6Z	[brachytherapy] {low dose} `nose` & [cesium 131] 
+D913B6Z	[brachytherapy] {low dose} `hypopharynx` & [cesium 131] 
+D914B6Z	[brachytherapy] {low dose} `mouth` & [cesium 131] 
+D915B6Z	[brachytherapy] {low dose} `tongue` & [cesium 131] 
+D916B6Z	[brachytherapy] {low dose} `salivary glands` & [cesium 131] 
+D917B6Z	[brachytherapy] {low dose} `sinuses` & [cesium 131] 
+D918B6Z	[brachytherapy] {low dose} `hard palate` & [cesium 131]	
+D919B6Z	[brachytherapy] {low dose} `soft Pplate` & [cesium 131] 
+D91BB6Z	[brachytherapy] {low dose} `larynx` & [cesium 131] 
+D91DB6Z	[brachytherapy] {low dose} `nasopharynx` & [cesium 131] 
+D91FB6Z	[brachytherapy] {low dose} `oropharynx` & [cesium 131] 
+DB10B6Z	[brachytherapy] {low dose} `trachea` & [cesium 131] 
+DB11B6Z	[brachytherapy] {low dose} `bronchus` & [cesium 131] 
+DB12B6Z	[brachytherapy] {low dose} `pleura` & [cesium 131] 
+DB16B6Z	[brachytherapy] {low dose} `mediastinum` & [cesium 131] 
+DB17B6Z	[brachytherapy] {low dose} `chest wall` & [cesium 131] 
+DB18B6Z	[brachytherapy] {low dose} `diaphragm` & [cesium 131] 
+DD10B6Z	[brachytherapy] {low dose} `esophagus` & [cesium 131] 
+DD11B6Z	[brachytherapy] {low dose} `stomach` & [cesium 131] 
+DD12B6Z	[brachytherapy] {low dose} `duodenum` & [cesium 131] 
+DD13B6Z	[brachytherapy] {low dose} `jejunum` & [cesium 131] 
+DD14B6Z	[brachytherapy] {low dose} `ileum` & [cesium 131] 
+DD15B6Z	[brachytherapy] {low dose} `colon` & [cesium 131] 
+DD17B6Z	[brachytherapy] {low dose} `rectum` & [cesium F131] 
+DF10B6Z	[brachytherapy] {low dose} `liver` & [cesium 131] 
+DF11B6Z	[brachytherapy] {low dose} `gallbladder` & [cesium 131] 
+DF12B6Z	[brachytherapy] {low dose} `bile ducts` & [cesium 131] 
+DF13B6Z	[brachytherapy] {low dose} `pancreas` & [cesium 131] 
+DG10B6Z	[brachytherapy] {low dose} `ptuitary gland` & [cesium 131] 
+DG11B6Z	[brachytherapy] {low dose} `pineal body` & [cesium 131] 
+DG12B6Z	[brachytherapy] {low dose} `adrenal glands` & [cesium 131] 
+DG14B6Z	[brachytherapy] {low dose} `parathyroid glands` & [cesium 131] 
+DG15B6Z	[brachytherapy] {low dose} `thyroid` & [cesium 131] 
+DM10B6Z	[brachytherapy] {low dose} `left breast` & [cesium 131] 
+DM11B6Z	[brachytherapy] {low dose} `right breast` & [cesium 131] 
+DT10B6Z	[brachytherapy] {low dose} `kidney` & [cesium 131] 
+DT11B6Z	[brachytherapy] {low dose} `ureter` & [cesium 131] 
+DT12B6Z	[brachytherapy] {low dose} `bladder` & [cesium 131] 
+DT13B6Z	[brachytherapy] {low dose} `urethra` & [cesium 131] 
+DU10B6Z	[brachytherapy] {low dose} `ovary` & [cesium 131] 
+DU11B6Z	[brachytherapy] {low dose} `cervix` & [cesium 131] 
+DU12B6Z	[brachytherapy] {low dose} `uterus` & [cesium 131] 
+DV10B6Z	[brachytherapy] {low dose} `prostate` & [cesium 131] 
+DV11B6Z	[brachytherapy] {low dose} `testis` & [cesium 131] 
+DW11B6Z	[brachytherapy] {low dose} `head and neck` & [cesium 131] 
+DW12B6Z	[brachytherapy] {low dose} `chest` & [cesium 131]
+DW13B6Z	[brachytherapy] {low dose} `abdomen` & [cesium 131] 
+DW16B6Z	[brachytherapy] {low dose} `pelvic region` & [cesium 131] 
+DV10BB1	[brachytherapy] {low dose} `prostate` & [palladium 103]	
+DV11BB1	[brachytherapy] {low dose} `testis` & [palladium 103]	
+DW10BB1	[brachytherapy] {low dose} `cranial cavity` & [palladium 103]	
+DW10BBZ	[brachytherapy] {low dose} `cranial cavity` & [palladium 103]
+DW11BB1	[brachytherapy] {low dose} `head and neck` & [palladium 103]	
+DW12BB1	[brachytherapy] {low dose} `chest` & [palladium 103]	
+DW13BB1	[brachytherapy] {low dose} `abdomen` & [palladium 103]	
+DW16BB1	[brachytherapy] {low dose} `pelvic region` & [palladium 103]	
+DW1KBB1	[brachytherapy] {low dose} `upper back` & [palladium 103]	
+DW1KBBZ	[brachytherapy] {low dose} `upper back` & [palladium 103]
+DW1LBB1	[brachytherapy] {low dose} `lower back` & [palladium 103]	
+DW1LBBZ	[brachytherapy] {low dose} `lower back` & [palladium 103]
+DW1PBB1	[brachytherapy] {low dose} `gastrointestinal tract` & [palladium 103]	
+DW1PBBZ	[brachytherapy] {low dose} `gastrointestinal tract` & [palladium 103]
+DW1QBB1	[brachytherapy] {low dose} `respiratory tract` & [palladium 103]	
+DW1QBBZ	[brachytherapy] {low dose} `respiratory tract` & [palladium 103]
+DW1RBB1	[brachytherapy] {low dose} `genitourinary tract` & [palladium 103]	
+DW1RBBZ	[brachytherapy] {low dose} `genitourinary tract` & [palladium 103]
+DW1XBB1	[brachytherapy] {low dose} `upper extremity` & [palladium 103]	
+DW1XBBZ	[brachytherapy] {low dose} `upper extremity` & [palladium 103]
+DW1YBB1	[brachytherapy] {low dose} `lower extremity` & [palladium 103]	
+DW1YBBZ	[brachytherapy] {low dose} `lower extremity` & [palladium 103]
+DF11BB1	[brachytherapy] {low dose}  `gallbladder` & [palladium 103]
+D010BB1	[brachytherapy] {low dose}  `brain` & [palladium 103]	
+D011BB1	[brachytherapy] {low dose}  `brain stem` & [palladium 103]	
+D016BB1	[brachytherapy] {low dose}  `spinal cord` & [palladium 103]	
+D017BB1	[brachytherapy] {low dose}  `peripheral nerve` & [palladium 103]	
+D710BB1	[brachytherapy] {low dose}  `bone marrow` & [palladium 103]	
+D711BB1	[brachytherapy] {low dose}  `thymus` & [palladium 103]	
+D712BB1	[brachytherapy] {low dose}  `spleen` & [palladium 103]	
+D713BB1	[brachytherapy] {low dose}  `neck lymphatics` & [palladium 103]	
+D714BB1	[brachytherapy] {low dose}  `axillary lymphatics` & [palladium 103]	
+D715BB1	[brachytherapy] {low dose}  `thorax lymphatics` & [palladium 103]	
+D716BB1	[brachytherapy] {low dose}  `abdomen lymphatics` & [palladium 103]	
+D717BB1	[brachytherapy] {low dose}  `pelvis lymphatics` & [palladium 103]	
+D718BB1	[brachytherapy] {low dose}  `inguinal lymphatics` & [palladium 103]	
+D810BB1	[brachytherapy] {low dose}  `eye` & [palladium 103]	
+D910BB1	[brachytherapy] {low dose}  `ear` & [palladium 103]	
+D911BB1	[brachytherapy] {low dose}  `nose` & [palladium 103]	
+D913BB1	[brachytherapy] {low dose}  `hypopharynx` & [palladium 103]	
+D914BB1	[brachytherapy] {low dose}  `mouth` & [palladium 103]	
+D915BB1	[brachytherapy] {low dose}  `tongue` & [palladium 103]	
+D916BB1	[brachytherapy] {low dose}  `salivary glands` & [palladium 103]	
+D917BB1	[brachytherapy] {low dose}  `sinuses` & [palladium 103]	
+D918BB1	[brachytherapy] {low dose}  `hard palate` & [palladium 103]	
+D919BB1	[brachytherapy] {low dose}  `soft palate` & [palladium 103]	
+D91BBB1	[brachytherapy] {low dose}  `larynx` & [palladium 103]	
+D91DBB1	[brachytherapy] {low dose}  `nasopharynx` & [palladium 103]	
+D91FBB1	[brachytherapy] {low dose}  `oropharynx` & [palladium 103]	
+DB10BB1	[brachytherapy] {low dose}  `trachea` & [palladium 103]	
+DB11BB1	[brachytherapy] {low dose}  `bronchus` & [palladium 103]	
+DB12BB1	[brachytherapy] {low dose}  `lung` & [palladium 103]	
+DB15BB1	[brachytherapy] {low dose}  `pleura` & [palladium 103]	
+DB16BB1	[brachytherapy] {low dose}  `mediastinum` & [palladium 103]	
+DB17BB1	[brachytherapy] {low dose}  `chest wall` & [palladium 103]	
+DB18BB1	[brachytherapy] {low dose}  `diaphragm` & [palladium 103]	
+DD10BB1	[brachytherapy] {low dose}  `esophagus` & [palladium 103]	
+DD11BB1	[brachytherapy] {low dose}  `stomach` & [palladium 103]	
+DD12BB1	[brachytherapy] {low dose}  `duodenum` & [palladium 103]	
+DD13BB1	[brachytherapy] {low dose}  `jejunum` & [palladium 103]	
+DD14BB1	[brachytherapy] {low dose}  `ileum` & [palladium 103]	
+DD15BB1	[brachytherapy] {low dose}  `colon` & [palladium 103]	
+DD17BB1	[brachytherapy] {low dose}  `rectum` & [palladium 103]	
+DF10BB1	[brachytherapy] {low dose}  `liver` & [palladium 103]	
+DF11BB1	[brachytherapy] {low dose}  `gallbladder` & [palladium 103]	
+DF12BB1	[brachytherapy] {low dose}  `bile ducts` & [palladium 103]	
+DF13BB1	[brachytherapy] {low dose}  `pancreas` & [palladium 103]	
+DG10BB1	[brachytherapy] {low dose}  `pituitary gland` & [palladium 103]	
+DG11BB1	[brachytherapy] {low dose}  `pineal body` & [palladium 103]	
+DG12BB1	[brachytherapy] {low dose}  `adrenal glands` & [palladium 103]	
+DG14BB1	[brachytherapy] {low dose}  `parathyroid glands` & [palladium 103]	
+DG15BB1	[brachytherapy] {low dose}  `thyroid` & [palladium 103]	
+DM10BB1	[brachytherapy] {low dose}  `left breast` & [palladium 103]	
+DM11BB1	[brachytherapy] {low dose}  `right breast` & [palladium 103]	
+DT10BB1	[brachytherapy] {low dose}  `kidney` & [palladium 103]	
+DT11BB1	[brachytherapy] {low dose}  `ureter` & [palladium 103]	
+DT12BB1	[brachytherapy] {low dose}  `bladder` & [palladium 103]	
+DT13BB1	[brachytherapy] {low dose}  `urethra` & [palladium 103]	
+DU10BB1	[brachytherapy] {low dose}  `ovary` & [palladium 103]	
+DU11BB1	[brachytherapy] {low dose}  `cervix` & [palladium 103]	
+DU12BB1	[brachytherapy] {low dose}  `uterus` & [palladium 103]
+D010B6Z*	[brachytherapy] {low dose} brain using cesium 131 (Cs-131)	
+D011B6Z*	[brachytherapy] {low dose} brain stem using cesium 131 (Cs-131)	
+D016B6Z*	[brachytherapy] {low dose} spinal cord using cesium 131 (Cs-131)	
+D017B6Z*	[brachytherapy] {low dose} peripheral nerve using cesium 131 (Cs-131)	
+D0Y0CZZ*	[radiation therapy] {intraoperative} `brain` 
+D0Y1CZZ*	[radiation therapy] {intraoperative} `brain stem`	
+D0Y6CZZ*	[radiation therapy] {intraoperative} `spinal cord` 
+D0Y7CZZ*	[radiation therapy] {intraoperative} `peripheral nerve` 
+D710B6Z*	[brachytherapy] {low dose} bone aarrow using cesium 131 (Cs-131)	
+D711B6Z*	[brachytherapy] {low dose} thymus using cesium 131 (Cs-131)	
+D712B6Z*	[brachytherapy] {low dose} spleen using cesium 131 (Cs-131)	
+D713B6Z*	[brachytherapy] {low dose} neck lymphatics using cesium 131 (Cs-131)	
+D714B6Z*	[brachytherapy] {low dose} axillary lymphatics using cesium 131 (Cs-131)	
+D715B6Z*	[brachytherapy] {low dose} thorax lymphatics using cesium 131 (Cs-131)	
+D716B6Z*	[brachytherapy] {low dose} abdomen lymphatics using cesium 131 (Cs-131)	
+D717B6Z*	[brachytherapy] {low dose} pelvis lymphatics using cesium 131 (Cs-131)	
+D718B6Z*	[brachytherapy] {low dose} inguinal lymphatics using cesium 131 (Cs-131)	
+D810B6Z*	[brachytherapy] {low dose} eye using cesium 131 (Cs-131)	
+D910B6Z*	[brachytherapy] {low dose} ear using cesium 131 (Cs-131)	
+D911B6Z*	[brachytherapy] {low dose} nose using cesium 131 (Cs-131)	
+D913B6Z*	[brachytherapy] {low dose} hypopharynx using cesium 131 (Cs-131)	
+D914B6Z*	[brachytherapy] {low dose} mouth using cesium 131 (Cs-131)	
+D915B6Z*	[brachytherapy] {low dose} tongue using cesium 131 (Cs-131)	
+D916B6Z*	[brachytherapy] {low dose} aalivary glands using cesium 131 (Cs-131)	
+D917B6Z*	[brachytherapy] {low dose} sinuses using cesium 131 (Cs-131)	
+D918B6Z*	[brachytherapy] {low dose} hard palate using cesium 131 (Cs-131)	
+D919B6Z*	[brachytherapy] {low dose} soft palate using cesium 131 (Cs-131)	
+D91BB6Z*	[brachytherapy] {low dose} larynx using cesium 131 (Cs-131)	
+D91DB6Z*	[brachytherapy] {low dose} nasopharynx using cesium 131 (Cs-131)	
+D91FB6Z*	[brachytherapy] {low dose} oropharynx using cesium 131 (Cs-131)	
+DB10B6Z*	[brachytherapy] {low dose} trachea using cesium 131 (Cs-131)	
+DB11B6Z*	[brachytherapy] {low dose} bronchus using cesium 131 (Cs-131)	
+DB12B6Z*	[brachytherapy] {low dose} lung using cesium 131 (Cs-131)	
+DB15B6Z*	[brachytherapy] {low dose} pleura using cesium 131 (Cs-131)	
+DB16B6Z*	[brachytherapy] {low dose} mediastinum using cesium 131 (Cs-131)	
+DB17B6Z*	[brachytherapy] {low dose} chest wall using cesium 131 (Cs-131)	
+DB18B6Z*	[brachytherapy] {low dose} diaphragm using cesium 131 (Cs-131)	
+DD10B6Z*	[brachytherapy] {low dose} esophagus using cesium 131 (Cs-131)	
+DD11B6Z*	[brachytherapy] {low dose} stomach using cesium 131 (Cs-131)	
+DD12B6Z*	[brachytherapy] {low dose} duodenum using cesium 131 (Cs-131)	
+DD13B6Z*	[brachytherapy] {low dose} jejunum using cesium 131 (Cs-131)	
+DD14B6Z*	[brachytherapy] {low dose} ileum using cesium 131 (Cs-131)	
+DD15B6Z*	[brachytherapy] {low dose} colon using cesium 131 (Cs-131)	
+DD17B6Z*	[brachytherapy] {low dose} rectum using cesium 131 (Cs-131)	
+DF10B6Z*	[brachytherapy] {low dose} liver using cesium 131 (Cs-131)	
+DF11B6Z*	[brachytherapy] {low dose} gallbladder using cesium 131 (Cs-131)	
+DF12B6Z*	[brachytherapy] {low dose} bile ducts using cesium 131 (Cs-131)	
+DF13B6Z*	[brachytherapy] {low dose} pancreas using cesium 131 (Cs-131)	
+DG10B6Z*	[brachytherapy] {low dose} pituitary gland using cesium 131 (Cs-131)	
+DG11B6Z*	[brachytherapy] {low dose} pineal body using cesium 131 (Cs-131)	
+DG12B6Z*	[brachytherapy] {low dose} adrenal glands using cesium 131 (Cs-131)	
+DG14B6Z*	[brachytherapy] {low dose} parathyroid glands using cesium 131 (Cs-131)	
+DG15B6Z*	[brachytherapy] {low dose} thyroid using cesium 131 (Cs-131)	
+DM10B6Z*	[brachytherapy] {low dose} left breast using cesium 131 (Cs-131)	
+DM11B6Z*	[brachytherapy] {low dose} right breast using cesium 131 (Cs-131)	
+DT10B6Z*	[brachytherapy] {low dose} kidney using cesium 131 (Cs-131)	
+DT11B6Z*	[brachytherapy] {low dose} ureter using cesium 131 (Cs-131)	
+DT12B6Z*	[brachytherapy] {low dose} bladder using cesium 131 (Cs-131)	
+DT13B6Z*	[brachytherapy] {low dose} urethra using cesium 131 (Cs-131)	
+DU10B6Z*	[brachytherapy] {low dose} ovary using cesium 131 (Cs-131)	
+DU11B6Z*	[brachytherapy] {low dose} cervix using cesium 131 (Cs-131)	
+DU12B6Z*	[brachytherapy] {low dose} uterus using cesium 131 (Cs-131)	
+DV10B6Z*	[brachytherapy] {low dose} prostate using cesium 131 (Cs-131)	
+DV11B6Z*	[brachytherapy] {low dose} testis using cesium 131 (Cs-131)	
+DW11B6Z*	[brachytherapy] {low dose} head and neck using cesium 131 (Cs-131)	
+DW12B6Z*	[brachytherapy] {low dose} chest using cesium 131 (Cs-131)	
+DW13B6Z*	[brachytherapy] {low dose} abdomen using cesium 131 (Cs-131)	
+DW16B6Z*	[brachytherapy] {low dose} pelvic Region using cesium 131 (Cs-131)	
+DV10BB1	[brachytherapy] {low dose}  `prostate` & [palladium 103]	
+DV11BB1	[brachytherapy] {low dose}  `testis` & [palladium 103]	
+DW10BB1	[brachytherapy] {low dose}  `cranial cavity` & [palladium 103]	
+DW10BBZ	[brachytherapy] {low dose}  `cranial cavity` & [palladium 103]
+DW11BB1	[brachytherapy] {low dose}  `head and neck` & [palladium 103]	
+DW12BB1	[brachytherapy] {low dose}  `chest` & [palladium 103]	
+DW13BB1	[brachytherapy] {low dose}  `abdomen` & [palladium 103]	
+DW16BB1	[brachytherapy] {low dose}  `pelvic region` & [palladium 103]	
+DW1KBB1	[brachytherapy] {low dose}  `upper back` & [palladium 103]	
+DW1KBBZ	[brachytherapy] {low dose}  `upper back` & [palladium 103]
+DW1LBB1	[brachytherapy] {low dose}  `lower back` & [palladium 103]	
+DW1LBBZ	[brachytherapy] {low dose}  `lower back` & [palladium 103]
+DW1PBB1	[brachytherapy] {low dose}  `gastrointestinal tract` & [palladium 103]	
+DW1PBBZ	[brachytherapy] {low dose}  `gastrointestinal tract` & [palladium 103]
+DW1QBB1	[brachytherapy] {low dose}  `respiratory tract` & [palladium 103]	
+DW1QBBZ	[brachytherapy] {low dose}  `respiratory tract` & [palladium 103]
+DW1RBB1	[brachytherapy] {low dose}  `genitourinary tract` & [palladium 103]	
+DW1RBBZ	[brachytherapy] {low dose}  `genitourinary tract` & [palladium 103]
+DW1XBB1	[brachytherapy] {low dose}  `upper extremity` & [palladium 103]	
+DW1XBBZ	[brachytherapy] {low dose}  `upper extremity` & [palladium 103]
+DW1YBB1	[brachytherapy] {low dose}  `lower extremity` & [palladium 103]	
+DW1YBBZ	[brachytherapy] {low dose}  `lower extremity` & [palladium 103]

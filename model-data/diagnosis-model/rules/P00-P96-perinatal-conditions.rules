@@ -1,0 +1,441 @@
+P000    [hypertension] {maternal} "newborn"
+P001    [disease] {maternal} `renal or urinary tract` "newborn"
+P002    [gbs positive] !{care} "newborn" !"pregnancy"
+P002    [newborn affected by maternal infec/parastc diseases]
+P003*   other {maternal} circulatory and respiratory diseases "newborn"
+P004    [nutritional disorder] "newborn" {maternal}
+P005    [injury] {maternal} "newborn"
+P006    [surgical procedure] {maternal} "newborn"
+P007*   other {maternal} [medical procedure], not elsewhere classified "newborn"
+P0081   [periodontal disease] {maternal} "newborn"
+P0089*    conditions "newborn"
+P0089   [newborn affected by other maternal conditions]
+P009    [maternal condition] "newborn"
+P010    [incompetent cervix] "newborn"
+P011    [premature rupture of membranes] {affected} "newborn"
+P012    [oligohydramnios] "newborn"
+P013    [polyhydramnios] "newborn"
+P014    [ectopic pregnancy] "newborn"
+P015    [multiple pregnancy] "newborn"
+P016    [maternal death] "newborn"
+P017    [malpresentation] {before labor} "newborn"
+P018*   other [maternal complications] of pregnancy "newborn"
+P019    [complication of pregnancy] {maternal} "newborn"
+P020    [placenta previa] "newborn"
+P021*   other forms of placental separation and hemorrhage "newborn"
+P0220   [abnormalities] "newborn" {morphological} `placenta`
+P0229*  other morphological and functional abnormalities of placenta "newborn"
+P023    [placental transfusion syndrome] "newborn"
+P024    [prolapsed cord] "newborn"
+P025*   other compression of umbilical cord "newborn"
+P0260   [condition] "newborn" `umbilical cord`
+P0269   [other conditions of umbilical cord] "newborn"
+P027    [chorioamnionitis] "newborn"
+P028*   other abnormalities of membranes "newborn"
+P029    [abnormality of membranes] "newborn"
+P030    [breech delivery and extraction] "newborn"
+P031*   other malpresentation, malposition and disproportion during labor and delivery "newborn"
+P032*   [forceps delivery] & ![newborn] "newborn"
+P033    [delivery by vacuum extractor] "newborn"
+P034    [cesarean delivery] {affected} "newborn"!{care}
+P035    [precipitate delivery] "newborn"
+P036    [abnormal uterine contractions] "newborn"
+P03810  [heart rate abnormality] "newborn" {in fetus} {before the onset of labor}
+P03811  [heart rate abnormality] "newborn" {in fetus} {during labor}
+P03819  [heart rate abnormality] "newborn" {in fetus}
+P0382   [meconium passage] {during delivery}
+P0389*  other specified complications of labor and delivery "newborn"
+P039    [complication of labor] "newborn"
+P040    [anesthesia and analgesia] "newborn" {maternal} {during pregnancy, labor and delivery}
+P0411*   other {maternal} medication "newborn"
+P0414   [newborn affected by maternal use] {opiate}
+P042    [use of tobacco] {maternal}  "newborn"
+P043    [use of alcohol] {maternal}  "newborn"
+P0441   [use of cocaine] {maternal}  "newborn"
+P0449   [intrauterine drug exposure] & [other drugs of addiction]  
+P045    [use of nutritional chemical substances] "newborn" {maternal}
+P046    [exposure to environmental chemical substances] "newborn" {maternal}
+P048*   other {maternal} noxious substances "newborn" 
+P049    [noxious substance] {maternal} "newborn"
+P0500   [light weight for gestational age] "newborn"
+P0501   [light weight for gestational age] "newborn" {less than 500 grams}
+P0502   [light weight for gestational age] "newborn" {500-749 grams}
+P0503   [light weight for gestational age] "newborn" {750-999 grams}
+P0504   [light weight for gestational age] "newborn" {1000-1249 grams}
+P0505   [light weight for gestational age] "newborn" {1250-1499 grams}
+P0506   [light weight for gestational age] "newborn" {1500-1749 grams}
+P0507   [light weight for gestational age] "newborn" {1750-1999 grams}
+P0508*  [light weight for gestational age] 2000-2499 grams "newborn"
+P0510   [small for gestational age] !{grams} "newborn"
+P0511   [small for gestational age] {less than 500 grams} "newborn"
+P0512   [small for gestational age] {500-749 grams} "newborn"
+P0513   [small for gestational age] {750-999 grams} "newborn"
+P0514   [small for gestational age] {1000-1249 grams} "newborn"
+P0515   [small for gestational age] {1250-1499 grams} "newborn"
+P0516   [small for gestational age] {1500-1749 grams} "newborn"
+P0517   [small for gestational age] {1750-1999 grams} "newborn"
+P0518   [small for gestational age] {2000-2499 grams} 
+P0519   [small for gestational age] {> 2500 grams}
+P052    [malnutrition] {fetal} & ![light for gestational age] & ![small for gestational age] "newborn"
+P059    [slow intrauterine growth] {affected} "newborn"
+P0700   [low birth weight] {extremely} !{grams} "newborn"
+P0701   [low birth weight] {extremely} {less than 500 grams} "newborn"
+P0702   [low birth weight] {extremely} {500-749 grams} "newborn"
+P0703   [low birth weight] {extremely} {750-999 grams} "newborn"
+P0710   [low birth weight] !{grams} "newborn"
+P0714   [low birth weight] {1000-1249 grams} "newborn"
+P0715   [low birth weight] {1250-1499 grams} "newborn"
+P0716   [low birth weight] {1500-1749 grams} "newborn"
+P0717   [low birth weight] {1750-1999 grams} "newborn" 
+P0717   [other low birth weight newborn] {1750-1999 grams} "newborn"
+P0718   [low birth weight] {2000-2499 grams} "newborn"
+P0718   [low birth weight newborn] {2000-2499 grams} "newborn"
+P0720*  [extreme immaturity] !{weeks} & ![previous delivery]
+P0721   [extreme immaturity] {less than 23 weeks} "newborn" "pediatric" 
+P0722   [extreme immaturity] {23 weeks} "newborn" "pediatric"
+P0723   [extreme immaturity] {24 weeks} "newborn" "pediatric"
+P0724   [extreme immaturity] {25 weeks} "newborn" "pediatric"
+        [preterm newborn] {25 wk premie} "newborn" "pediatric"
+P0725   [extreme immaturity] {26 weeks} "newborn" "pediatric"
+P0726   [extreme immaturity] {27 weeks} "newborn" "pediatric"
+P0730   [preterm newborn] !{weeks} "newborn"
+P0731   [preterm newborn] {28 weeks} "newborn"
+P0732   [preterm newborn] {29 weeks} "newborn"
+P0733   [preterm newborn] {30 weeks} "newborn"
+P0734   [preterm newborn] {31 weeks} "newborn"
+P0735   [preterm newborn] {32 weeks} "newborn"
+P0736   [preterm newborn] {33 weeks} "newborn"
+P0736   [preterm newborn] {33 weeks} "newborn"
+P0737   [preterm newborn] {34 weeks} "newborn"
+P0738   [preterm newborn] {35 weeks} "newborn"
+P0739   [preterm newborn] {36 weeks} "newborn"
+P080    [exceptionally large] "newborn"
+P081    [large for gestational age] "newborn"!{care}
+P0821   [post term newborn] & ![pregnancy] "newborn"
+P0822   [prolonged gestation] "newborn"
+P09     [abnormal findings on neonatal screening]
+P100    [hemorrhage] `subdural` & [birth injury]
+P101    [hemorrhage] `cerebral` & [birth injury]
+P102    [hemorrhage] `intraventricular` & [birth injury]
+P103    [hemorrhage] `subarachnoid` & [birth injury]
+P104    [tentorial tear] & [birth injury]
+P108*   other intracranial lacerations and hemorrhages & [birth injury]
+P109    [laceration and hemorrhage] `intracranial` & [birth injury]
+P110    [edema] `cerebral` & [birth injury]
+P111*   [brain damage] & [birth injury]
+P112    [brain damage] & [birth injury]
+P113    [birth injury] `facial nerve`
+P114    [birth injury] `cranial nerve`
+P115    [birth injury] `spine and spinal cord`
+P119    [birth injury] `central nervous system`
+P120    [cephalhematoma] !{birth injury}
+P120    [cephalhematoma due to birth injury]
+P121    [chignon] & [birth injury]
+P122    [hemorrhage] `epicranial` `subaponeurotic` & [birth injury]
+P123    [bruising] `scalp` & [birth injury]
+P123    [bruising of scalp due to birth injury]
+P124    [injury] {monitoring equipment} `scalp` "newborn"
+P1281   [caput succedaneum]
+P1289*  [birth injury] `scalp`
+P129    [birth injury] `scalp`
+P130    [fracture] `skull` & [birth injury]
+P131    [birth injury] `skull`
+P132    [birth injury] `femur`
+P133    [birth injury] `long bone`
+P134    [fracture] `clavicle` & [birth injury]
+P138*   birth injuries to other parts of skeleton
+P139    [birth injury] `skeleton`
+P140    [erbs paralysis] & [birth injury]
+P141    [klumpkes paralysis] & [birth injury]
+P142    [paralysis] `phrenic nerve` & [birth injury]
+P143    [birth injury] `brachial` `plexus`
+P148*   birth injuries to other parts of peripheral nervous system
+P149    [birth injury] `peripheral nervous system`
+P150    [birth injury] `liver`
+P151    [birth injury] `spleen`
+P152    [injury] `sternomastoid` & [birth injury]
+P153    [birth injury] `eye`
+P154    [birth injury] `face`
+P155    [birth injury] `external genitalia`
+P156    [necrosis] `subcutaneous fat` & [birth injury]
+P158    [other specified birth injuries]
+P159    [birth injury] !`birth injury body part`
+P190    [acidemia] {metabolic} {before onset of labor} "newborn"
+P191    [acidemia] {metabolic} {during labor} "newborn"
+P192    [acidemia] {metabolic} {during birth} "newborn"
+P199    [acidemia] {metabolic} !{during labor} !{before onset of labor} !{during birth} "newborn" 
+P220    [neonatal respiratory distress syndrome]
+        [respiratory distress syndrome] "newborn"!{care} !"adult" !"pediatric"
+P221    [tachypnea] {transient} "newborn" 
+P228*   other respiratory distress "newborn"
+P229    [respiratory distress] "newborn"!{care}
+P230    [pneumonia] {congenital} & [viral agent]
+P231    [pneumonia] {congenital} & [chlamydia]
+P232    [pneumonia] {congenital} & [staphylococcus]
+P233    [pneumonia] {congenital} & [streptococcus] {group b}
+P234    [pneumonia] {congenital} & [escherichia coli]
+P235    [pneumonia] {congenital} & [pseudomonas]
+P236    [pneumonia] {congenital} {bacterial agents}
+P238*   [pneumonia] {congenital} due to other organisms
+P239    [pneumonia] {congenital}  "newborn"
+P2400   [aspiration] {meconium}  "newborn"
+P2401   [aspiration] {meconium} `respiratory`
+P2410   [aspiration] "newborn" `amniotic fluid and mucus`
+P2411   [aspiration] "newborn" `amniotic fluid and mucus`
+P2420   [aspiration] "newborn" `blood`
+P2421   [aspiration] "newborn" `blood`
+P2430   [aspiration] "newborn" {milk}
+P2431   [aspiration] "newborn" {milk}
+P2480*  [aspiration] "newborn"
+P2481*  [aspiration] "newborn"
+P249    [aspiration] "newborn"
+P250    [emphysema] "newborn" {interstitial}
+P251    [pneumothorax] "newborn"
+P252    [pneumomediastinum] "newborn"
+P253    [pneumopericardium] "newborn"
+P258*   other conditions related to {interstitial} [emphysema] "newborn"
+P260    [hemorrhage] `tracheobronchial` "newborn"
+P261    [hemorrhage] {massive} `pulmonary` "newborn"
+P268*   other pulmonary [hemorrhage] originating in "newborn"
+P269    [hemorrhage] {newborn} `pulmonary`
+P270    [wilson mikity syndrome] "newborn"
+P271    [bronchopulmonary dysplasia] & [perinatal origin]
+P278*   other chronic respiratory diseases originating in "newborn"
+P279    [disease] "newborn" {chronic} `respiratory`
+P280    [atelectasis] "newborn" {primary}
+P2810   [atelectasis] "newborn"
+P2811   [atelectasis] "newborn" {resorption} & ![respiratory distress syndrome] "newborn"
+P2819   [atelectasis] "newborn"
+P282    [cyanotic attacks] "newborn"
+P283    [sleep apnea] {primary} "newborn" 
+P284    [apnea] "newborn"
+P285    [respiratory failure] "newborn"
+P2881   [respiratory arrest] "newborn"
+P2889   [respiratory condition] "newborn"
+P289    [respiratory condition] "newborn"
+P290    [cardiac failure] "newborn"
+P2911   [tachycardia] !{maternal} "newborn"
+P2912   [bradycardia] "newborn"
+P292    [hypertension] "newborn"!{care}
+P2930   [persistent fetal circulation] "newborn" 
+P294    [ischemia]{transient} `myocardial` "newborn"
+P2981   [cardiac arrest] "newborn"
+P2989   [cardiovascular disorder] "newborn"
+P299    [cardiovascular disorder] "newborn"
+P350    [congenital rubella syndrome] "newborn"
+P351    [infection] {cytomegalovirus} "newborn"
+P352    [herpes simplex infection] "newborn" {herpesviral}
+P353    [hepatitis] {viral} "newborn"
+P358*   other viral diseases
+P359    [disease] {viral} "newborn"
+P360    [sepsis] {newborn} & [streptococcus] {group b}
+P3610   [sepsis] {newborn} & [streptococci]
+P3619*  [sepsis] "newborn"!{care} & [streptococci]
+P362    [sepsis] "newborn"!{care} & [staphylococcus aureus]
+P3630   [sepsis] "newborn"!{care} & [staphylococci]
+P3639*  [sepsis] "newborn"!{care} & [staphylococci]
+P364    [sepsis] "newborn"!{care} & [escherichia coli]
+P365    [sepsis] "newborn"!{care} & [anaerobes]
+P368*   other bacterial [sepsis]  "newborn"!{care}
+P369    [sepsis] "newborn" !{care}
+        [sepsis] {neonatal}
+P370    [tuberculosis] "newborn"
+P371    [toxoplasmosis] "newborn"
+P372    [listeriosis] "newborn"
+P373    [malaria] {falciparum} "newborn"
+P374    [malaria] !{falciparum} "newborn"
+P375    [candidiasis] "newborn"
+P378*   other specified {infectious} and parasitic diseases "newborn"
+P379    [disease] {infectious} {congenital} "newborn"!{care}
+P381    [omphalitis] & [hemorrhage] {mild}
+P389    [omphalitis] & ![hemorrhage]
+P390    [mastitis] "newborn"!{care} {infective} !{low risk factors}
+P391    [conjunctivitis] "newborn"
+P392    [infection] `intra-amniotic` "newborn"!{care}
+P393    [infection] `urinary tract` "newborn"!{care} !"pregnancy"
+P394    [infection] `skin` "newborn"
+P398*   other specified infections specific to "newborn"
+P399    [infection] !{urinary tract} "newborn"
+P500    [blood loss] `intrauterine` & [vasa previa] "newborn" 
+P501    [blood loss of newborn] `intrauterine` & [ruptured cord]  "newborn"
+P502    [blood loss] {newborn}`intrauterine` `placenta` "newborn" !"adult" !"pediatric"
+P503    [hemorrhage] {newborn} {co-twin} "newborn" !"adult" !"pediatric"
+P504    [hemorrhage] {newborn} {maternal circulation} "newborn" !"adult" !"pediatric"
+P505    [blood loss] `intrauterine` {cut end of co-twins cord} "newborn" !"adult" !"pediatric"
+P508*   other intrauterine (fetal) blood loss "newborn"
+P509    [blood loss] {newborn} `intrauterine` "newborn" !"adult" !"pediatric"
+P510    [hemorrhage] {newborn} `umbilicus` "newborn" !"adult" !"pediatric"
+P518*   other umbilical [hemorrhage] {newborn}
+P519    [hemorrhage] `umbilicus` "newborn"!{care}
+P520    [hemorrhage] {grade 1} `intraventricular` "newborn"!{care} !"adult" !"pediatric"
+P521    [hemorrhage] {grade 2} `intraventricular` "newborn"!{care} !"adult" !"pediatric"
+P5221   [hemorrhage] {grade 3} `intraventricular` "newborn"!{care} !"adult" !"pediatric"
+P5222   [hemorrhage] {grade 4} `intraventricular` "newborn"!{care} !"adult" !"pediatric"
+P523    [hemorrhage] `intraventricular` "newborn"!{care} !"adult" !"pediatric"
+P524    [hemorrhage] `intracerebral` "newborn"!{care} !"adult" !"pediatric"
+P525    [hemorrhage] `subarachnoid` "newborn"!{care} !"adult" !"pediatric"
+P526    [hemorrhage] `cerebellum` "newborn"!{care} !"adult" !"pediatric"
+P528    [other intracranial hemorrhage] "newborn" 
+P529    [hemorrhage] {newborn} `intracranial` "newborn" !"adult" !"pediatric"
+P53     [disease] "newborn" {hemorrhagic} "newborn" !"adult" !"pediatric"
+P540    [hematemesis] "newborn" !"adult" !"pediatric"
+P541    [melena] "newborn" !"adult" !"pediatric"
+P542    [hemorrhage] {newborn} `rectum`
+P543    [hemorrhage] {newborn} `gastrointestinal`
+P544    [hemorrhage] {newborn} `adrenal gland`
+P545    [hemorrhage] {newborn} `cutaneous`
+P545    [infant with bruising]
+P545    [neonatal cutaneous hemorrhage]
+P546    [hemorrhage] {newborn} `vagina`
+P548    [other specified neonatal hemorrhage]
+P549    [hemorrhage] !{type} "newborn"!{care} !"pregnancy"
+P550    [rh isoimmunization] "newborn"
+P551    [abo isoimmunization] "newborn"
+P558*   other hemolytic diseases "newborn" 
+P559    [disease] {hemolytic} "newborn"
+P560    [hydrops fetalis] & [isoimmunization]
+P5690   [hydrops fetalis] & [disease] {hemolytic}
+P5699*  [hydrops fetalis] due to other {hemolytic} [disease]
+P570    [kernicterus] & [isoimmunization]
+P578*   other specified [kernicterus]
+P579    [kernicterus]
+P580    [jaundice] & [bruising] "newborn"
+P581    [jaundice] & [hemorrhage] "newborn"
+P582    [jaundice] & [infection] "newborn"
+P583    [jaundice] & [polycythemia] "newborn"
+P5841   [jaundice] & [drugs] {mother} "newborn"
+        [jaundice] & [toxins] {mother} "newborn"
+P5842   [jaundice] & [drugs] "newborn"
+        [jaundice] & [toxins] "newborn"
+P585    [jaundice] & [swallowed maternal blood] "newborn"
+P588    [jaundice other specified excessive hemolysis] "newborn" 
+P589    [jaundice] & [hemolysis] {excessive} "newborn"
+P590    [jaundice] & [preterm delivery] "newborn"
+P591    [inspissated bile syndrome] 
+P5920   [jaundice] & [hepatocellular damage] "newborn"
+P5929   [jaundice] & [hepatocellular damage] "newborn"
+P593    [jaundice] {breast milk inhibitor} "newborn"
+P598    [jaundice from other specified causes] "newborn"
+P599    [jaundice] "newborn" !"adult"
+        [neonatal jaundice]
+P60     [intravascular coagulation] "newborn" {disseminated}
+P610    [transient neonatal thrombocytopenia] "newborn" 
+P611    [polycythemia neonatorum] "newborn"
+P612    [anemia] {prematurity} "newborn"
+P613    [anemia] {congenital} & [blood loss] {fetal} "newborn"
+P614    [anemia] {congenital} "newborn"
+P615    [neutropenia] {transient} "newborn"
+P616    [disorder] {transient} {coagulation} "newborn"
+P618*   other specified perinatal hematological disorders
+P619    [disorder] {perinatal} {hematological}
+P700    [syndrome of infant of mother with gestational diabetes]
+P701    [syndrome of infant of a diabetic mother]
+P702    [type 2 diabetes mellitus] "newborn"
+P703    [hypoglycemia] {iatrogenic} "newborn"
+P704    [hypoglycemia] {neonatal}
+P708*   other transitory disorders of carbohydrate metabolism "newborn"  
+P709    [transitory disorder] {carbohydrate metabolism} "newborn"
+P710    [cows milk hypocalcemia] "newborn"
+P711    [hypocalcemia] "newborn"
+P712    [hypomagnesemia] "newborn"
+P713    [tetany] & ![calcium deficiency] & ![magnesium deficiency] "newborn"
+P714    [hypoparathyroidism] {transitory} "newborn"
+P718    [other transitory  disorders of calcium and magnesium metabolism] "newborn"
+P719    [metabolism disorder] {transitory} {calcium} {magnesium} "newborn"
+P720    [goiter] "newborn"
+P721    [hyperthyroidism] {transitory} "newborn"
+P722    [thyroid function disorder] {transitory} "newborn"
+P728    [other specified transitory endocrine disorder] "newborn"
+P729    [endocrine disorder]  {transitory} "newborn"
+P740    [acidosis] {late} {metabolic} "newborn"
+P741    [dehydration] "newborn"
+P7421   [disturbance] {sodium balance} "newborn"
+P743    [disturbance] {potassium balance} "newborn"
+P7431   [hyperkalemia] "newborn"
+P7431   [hypokalemia] "newborn"
+P744    [disturbance] {transitory} {electrolyte} "newborn"
+P745    [tyrosinemia] {transitory} "newborn" 
+P746    [hyperammonemia] {transitory} "newborn" 
+P748*   {other {transitory} {metabolic} disturbances "newborn"
+P749    [disturbance] {transitory} {metabolic} "newborn"
+P760    [meconium plug syndrome]
+P761    [ileus]  {transitory} "newborn"
+P762    [intestinal obstruction] & [inspissated milk]
+P768*   other specified [intestinal obstruction] "newborn"
+P769    [intestinal obstruction] "newborn"
+P771    [enterocolitis] {stage 1} {necrotizing} "newborn"
+P772    [enterocolitis] {stage 2} {necrotizing} "newborn"
+P773    [enterocolitis] {stage 3} {necrotizing} "newborn"
+P779    [enterocolitis] !{stage} {necrotizing} "newborn"
+P780    [perforation] {perinatal} `intestine`
+P781    [peritonitis] "newborn" 
+P782    [hematemesis] & [melena] & [swallowed maternal blood] "newborn"
+P783    [neonatal diarrhea] & ![infective] 
+P7881   [cirrhosis] {congenital} "newborn"
+P7882   [ulcer] `peptic` "newborn"
+P7883   [esophageal reflux] "newborn"
+P7889*  other specified {perinatal} `digestive system` "newborn" 
+P789    [disorder] {perinatal} `digestive system` "newborn" 
+P800    [cold injury syndrome] "newborn" 
+P808*   other hypothermia "newborn"
+P809    [hypothermia] "newborn"
+P810    [hyperthermia] {environmental} "newborn"
+P818    [other specified disturbances of temperature regulation newborn]
+P819    [disturbance of temperature regulation] "newborn"
+P830    [sclerema neonatorum]
+P831    [neonatal erythema toxicum]
+P832    [hydrops fetalis] & [disease] !{hemolytic}
+P8330   [edema] "newborn"
+P8339*  other edema specific to "newborn"
+P834    [breast engorgement] "newborn"
+P835    [hydrocele] "pediatric"
+        [congenital hydrocele]
+P836    [polyp] `umbilicus` "newborn"
+P838    [other specified conditions of integument specific to newborn]
+P839    [condition] `integument` "newborn"
+P84     [other problems with newborn] "newborn"!{care}
+P90     [convulsions] "newborn"
+P910    [ischemia] `cerebral` "newborn"
+P911    [cysts] {acquired} `periventricular` "newborn"
+P912    [periventrical leukomalacia]
+P913    [irritability] `cerebral` "newborn"
+P914    [depression] `cerebral` "newborn"
+P915    [coma] "newborn"
+P9160   [hypoxic ischemic encephalopathy]
+P9161   [hypoxic ischemic encephalopathy] {mild}
+P9162   [hypoxic ischemic encephalopathy] {moderate}
+P9163   [hypoxic ischemic encephalopathy] {severe}
+P918*   other specified disturbances of `cerebral` status "newborn"
+P91821	[neonatal cerebral infarction] {right} 
+P91822	[neonatal cerebral infarction] {left} 
+P91823	[neonatal cerebral infarction] {bilateral} 
+P91829	[neonatal cerebral infarction] !{bilateral} !{left} !{right} 
+P919*   [disturbance] `cerebral` status "newborn"
+P9201   [vomiting] {bilious} "newborn"
+P9209   [vomiting] !{bilious} "newborn"!{care} !"pregnancy"
+P921    [regurgitation] & [rumination] "newborn"
+P922    [slow feeding of newborn]
+P923    [underfeeding] "newborn"
+P924    [overfeeding] "newborn"
+P925    [difficulty in feeding at breast] "newborn"
+P926    [failure to thrive] "newborn"
+P928    [specified feeding problem in newborn] "newborn"
+P929    [feeding problem] "newborn"
+P930    [grey baby syndrome] "newborn"
+P938*   other reactions and intoxications due to drugs administered to newborn
+P940    [myasthenia gravis] "newborn" {transient}
+P941    [hypertonia] {congenital}
+P942    [hypotonia] {congenital}
+P948*   other disorders of muscle tone "newborn"
+P949    [disorder] "newborn" `muscle tone`
+P95     [stillbirth] "newborn"
+P960    [renal failure] {congenital}
+P961    [withdrawal symptoms] & [drug abuse] {maternal} "newborn"
+P962    [withdrawal symptoms] & [drugs] {therapeutic} "newborn"
+P963    [wide cranial sutures] "newborn"
+P965    [complication] & [intrauterine procedure] "newborn"
+P9681   [exposure to tobacco smoke] "newborn"
+P9682   [delayed separation of umbilical cord]
+P9683   [meconium staining] "newborn"!{care}
+P9689   [oth conditions originating in the perinatal period] "newborn"
+P969*   [condition] "newborn"

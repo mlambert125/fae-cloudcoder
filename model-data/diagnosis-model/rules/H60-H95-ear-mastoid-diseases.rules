@@ -1,0 +1,683 @@
+H6000   [abscess] `external ear` !{right} !{left} !{bilateral}
+H6001   [abscess] {right} `external ear` !{bilateral}
+H6002   [abscess] {left} `external ear` !{bilateral}
+H6003   [abscess] `bilateral external ear`
+H6010   [cellulitis] `external ear` !{bilateral} !{right} !{left}
+H6011   [cellulitis] {right} `external ear` !{bilateral}
+H6012   [cellulitis] {left} `external ear` !{bilateral}
+H6013   [cellulitis] `bilateral external ear`
+H6020   [otitis externa] {malignant} !{bilateral} !{right} !{left} 
+H6021   [otitis externa] {malignant} {right}  !{bilateral}
+H6022   [otitis externa] {malignant} {left}  !{bilateral}
+H6023   [otitis externa] {malignant} {bilateral}
+H60311  [otitis externa] {diffuse} {right}  !{bilateral}
+H60312  [otitis externa] {diffuse} {left}  !{bilateral}
+H60313  [otitis externa] {diffuse} {bilateral}
+H60319  [otitis externa] {diffuse}  !{bilateral} !{right} !{left}
+H60321  [otitis externa] {hemorrhagic} {right}  !{bilateral}
+H60322  [otitis externa] {hemorrhagic} {left}  !{bilateral}
+H60323  [otitis externa] {hemorrhagic} {bilateral}
+H60329  [otitis externa] {hemorrhagic} !{bilateral} !{right} !{left}
+H60331  [swimmers ear] {right} !{bilateral}
+H60332  [swimmers ear] {left} !{bilateral} 
+H60333  [swimmers ear] {bilateral}
+H60339  [swimmers ear]  !{bilateral} !{right} !{left}
+H60391  [otitis externa] {infective} {right} !{bilateral}
+H60392  [otitis externa] {infective} {left} !{bilateral} 
+H60393  [otitis externa] {infective} {bilateral}
+H60399  [otitis externa] {infective} !{bilateral} !{right} !{left} 
+H6040   [cholesteatoma] `external ear` !{bilateral} !{right} !{left}
+H6041   [cholesteatoma] {right} `external ear` !{bilateral}
+H6042   [cholesteatoma] {left} `external ear` !{bilateral}
+H6043   [cholesteatoma] `bilateral external ear`
+H60501  [otitis externa] {acute} {right} !{bilateral}
+H60502  [otitis externa] {acute} {left} !{bilateral} 
+H60503  [otitis externa] {acute} {bilateral}
+H60509  [otitis externa] {acute}  !{left} !{right} !{bilateral}
+H60511  [otitis externa] {actinic} {right} !{bilateral} 
+H60512  [otitis externa] {actinic} {left} !{bilateral}
+H60513  [otitis externa] {actinic} {bilateral}
+H60519  [otitis externa] {actinic}  !{bilateral} !{right} !{left}
+H60521  [otitis externa] {chemical} {right} !{bilateral} 
+H60522  [otitis externa] {chemical} {left} !{bilateral}
+H60523  [otitis externa] {chemical} {bilateral}
+H60529  [otitis externa] {chemical}  !{bilateral} !{right} !{left}
+H60531  [otitis externa] {contact} {right} !{bilateral} 
+H60532  [otitis externa] {contact} {left} !{bilateral} 
+H60533  [otitis externa] {contact} {bilateral}
+H60539  [otitis externa] {contact}  !{bilateral} !{right} !{left}
+H60541  [otitis externa] {eczematoid} {right} !{bilateral}
+H60542  [otitis externa] {eczematoid} {left} !{bilateral} 
+H60543  [otitis externa] {eczematoid} {bilateral}
+H60549  [otitis externa] {eczematoid} !{bilateral} !{right} !{left} 
+H60551  [otitis externa] {reactive} {right} !{bilateral}
+H60552  [otitis externa] {reactive} {left} !{bilateral} 
+H60553  [otitis externa] {reactive} {bilateral}
+H60559  [otitis externa] {reactive}  !{bilateral} !{right} !{left}
+H60591  [otitis externa] {noninfective} {right} !{bilateral}
+H60592  [otitis externa] {noninfective} {left} !{bilateral}
+H60593  [otitis externa] {noninfective} {bilateral}
+H60599  [otitis externa] {noninfective} !{bilateral} !{right} !{left} 
+H6060   [otitis externa] {chronic}  !{bilateral} !{right} !{left}
+H6061   [otitis externa] {chronic} {right} !{bilateral} 
+H6062   [otitis externa] {chronic} {left} !{bilateral} 
+H6063   [otitis externa] {chronic} {bilateral}
+H608X1  [otitis externa] {right} !{bilateral} & [specified type]
+H608X2  [otitis externa] {left} !{bilateral} & [specified type]
+H608X3  [otitis externa] {bilateral} & [specified type]
+H608X9  [otitis externa] !{bilateral} !{right} !{left}  & [specified type]
+H6090   [otitis externa] !{left} !{right} !{bilateral}
+H6091   [otitis externa] {right} !{bilateral}
+H6092   [otitis externa] {left} !{bilateral}
+H6093   [otitis externa] {bilateral}
+H61001  [perichondritis] {right} !{bilateral}`external ear`
+H61002  [perichondritis] {left} !{bilateral} `external ear`
+H61003  [perichondritis] `bilateral external ear`
+H61009  [perichondritis] `external ear` !{bilateral} !{right} !{left}
+H61011  [perichondritis] {right} !{bilateral} `external ear`
+H61012  [perichondritis] {left} !{bilateral} `external ear`
+H61013  [perichondritis] `bilateral external ear`
+H61019  [perichondritis] `external ear` !{bilateral} !{right} !{left}
+H61021  [perichondritis] {chronic} {right} !{bilateral} `external ear`
+H61022  [perichondritis] {chronic} {left} !{bilateral} `external ear`
+H61023  [perichondritis] {chronic} `bilateral external ear`
+H61029  [perichondritis] {chronic} `external ear` !{bilateral} !{right} !{left}
+H61031  [chondritis] {right} !{bilateral} `external ear`
+H61032  [chondritis] {left} !{bilateral} `external ear`
+H61033  [chondritis] `bilateral external ear`
+H61039  [chondritis] `external ear` !{bilateral} !{right} !{left}
+H61101  [disorder] {noninfective} `pinna` {right} !{bilateral} 
+H61102  [disorder] {noninfective} `pinna` {left} !{bilateral} 
+H61103  [disorder] {noninfective} `pinna` {bilateral}
+H61109  [disorder] {noninfective} `pinna` !{bilateral} !{right} !{left}
+H61111  [deformity] {acquired} `pinna` {right} !{bilateral}
+H61112  [deformity] {acquired} `pinna` {left} !{bilateral} 
+H61113  [deformity] {acquired} `pinna` {bilateral}
+H61119  [deformity] {acquired} `pinna` !{bilateral} !{right} !{left}
+H61121  [hematoma] `pinna` {right} !{bilateral}
+H61122  [hematoma] `pinna` {left} !{bilateral} 
+H61123  [hematoma] `pinna` {bilateral}
+H61129  [hematoma] `pinna` !{bilateral} !{right} !{left}
+H61191  [disorder] {noninfective} `pinna` {right} !{bilateral} 
+H61192  [disorder] {noninfective} `pinna` {left} !{bilateral} 
+H61193  [disorder] {noninfective} `pinna` {bilateral}
+H61199  [disorder] {noninfective} `pinna` !{bilateral} !{right} !{left}
+H6120   [impacted cerumen] !{left} !{right} !{bilateral}
+H6123   [impacted cerumen] `bilateral`
+        [impacted cerumen] {right} & [impacted cerumen] {left}
+H6121   [impacted cerumen] {right} !{bilateral} !{left} !`bilateral`
+        [impacted serumen] `right ear`!{bilateral}
+H6122   [impacted cerumen] {left} !{right} !{bilateral}
+        [impacted cerumen] `left ear` !`right ear` !{bilateral}
+H61301  [stenosis] {acquired} {right} !{bilateral} `external ear canal`
+H61302  [stenosis] {acquired} {left} !{bilateral} `external ear canal`
+H61303  [stenosis] {acquired} `external ear canal of bilateral ears`
+H61309  [stenosis] {acquired} `external ear canal` !{bilateral} !{right} !{left}
+H61311  [stenosis] {acquired} {right} !{bilateral} `external ear canal` & [trauma]
+H61312  [stenosis] {acquired} {left} !{bilateral} `external ear canal` & [trauma]
+H61313  [stenosis] {acquired} `external ear canal` & [trauma] {bilateral}
+H61319  [stenosis] {acquired} `external ear canal` & [trauma]  !{bilateral} !{right} !{left}
+H61321  [stenosis] {acquired} {right} !{bilateral} `external ear canal` & [inflammation] & [infection]
+H61322  [stenosis] {acquired} {left} !{bilateral} `external ear canal` & [inflammation] & [infection]
+H61323  [stenosis] {acquired} `external ear canal` & [inflammation] & [infection] {bilateral}
+H61329  [stenosis] {acquired} `external ear canal` !{bilateral} !{right} !{left} & [inflammation] & [infection] 
+H61391  [stenosis] {acquired} {right} !{bilateral} `external ear canal`
+H61392  [stenosis] {acquired} {left} !{bilateral} `external ear canal`
+H61393  [stenosis] {acquired} `external ear canal of bilateral ears`
+H61399  [stenosis] {acquired} `external ear canal` !{bilateral} !{right} !{left}
+H61811  [exostosis] {right} !{bilateral} `external canal`
+H61812  [exostosis] {left} !{bilateral} `external canal`
+H61813  [exostosis] `bilateral external canal`
+H61819  [exostosis] `external canal` !{bilateral} !{right} !{left}
+H61891* other specified disorders of {right} `external ear`
+H61892* other specified disorders of {left} `external ear`
+H61893* other specified disorders of `bilateral external ear`
+H61899* other specified disorders of `external ear` !{bilateral} !{left} !{right}
+H6190   [disorder] `external ear` !{bilateral} !{right} !{left}
+H6191   [disorder] {right} !{bilateral} `external ear`
+H6192   [disorder] {left} !{bilateral} `external ear`
+H6193   [disorder] `external ear of bilateral ears`
+H6240*  [otitis externa] in other diseases classified elsewhere  !{bilateral} !{right} !{left}
+H6241*  [otitis externa] in other diseases classified elsewhere {right} !{bilateral}
+H6242*  [otitis externa] in other diseases classified elsewhere {left} !{bilateral} 
+H6243*  [otitis externa] in other diseases classified elsewhere {bilateral}
+H628X1* other [disorder]s of {right} !{bilateral} `external ear` in diseases classified elsewhere
+H628X2* other [disorder]s of {left} !{bilateral} `external ear` in diseases classified elsewhere
+H628X3* other [disorder]s of `external ear` in diseases classified elsewhere {bilateral}
+H628X9* other [disorder]s of `external ear` in diseases classified elsewhere 
+H6500*  [otitis media] {serous} !{bilateral} !{left} !{right} 
+H6501   [otitis media] {acute or subacute} & [serous] {right} !{bilateral} 
+H6502   [otitis media] {acute or subacute} & [serous] {left} !{bilateral} 
+H6503   [otitis media] {acute or subacute} & [serous] {bilateral}
+H6504   [otitis media] {acute or subacute} & [serous] {recurrent} {right} !{bilateral} 
+H6505   [otitis media] {acute or subacute} & [serous] {recurrent} {left} !{bilateral} 
+H6506   [otitis media] {acute or subacute} & [serous] {recurrent} {bilateral}
+H6507   [otitis media] {acute or subacute} & [serous] {recurrent} !{right} !{left} !{bilateral}
+H65111  [otitis media] {allergic} {right}  !{bilateral}
+        [otitis media] {subacute} {allergic} {right} !{bilateral}
+H65112  [otitis media] {allergic} {left} !{bilateral} 
+        [otitis media] {subacute} {allergic} {left} !{bilateral}
+H65113  [otitis media] {allergic} {bilateral}
+        [otitis media] {subacute} {allergic} {bilateral}
+H65114  [otitis media] {allergic} {recurrent} {right} !{bilateral}
+        [otitis media] {subacute} {allergic} {recurrent} {right} !{bilateral} 
+H65115  [otitis media] {allergic} {recurrent} {left} !{bilateral}
+        [otitis media] {subacute} {allergic} {recurrent} {left} !{bilateral}
+H65116  [otitis media] {allergic} {recurrent} {bilateral}
+        [otitis media] {subacute} {allergic} {recurrent} {bilateral}
+H65117  [otitis media] {allergic} {recurrent}  !{bilateral} !{right} !{left}
+        [otitis media] {subacute} {allergic} {recurrent}  !{bilateral} !{right} !{left}
+H65119  [otitis media] {allergic}  !{bilateral} !{right} !{left}
+        [otitis media] {subacute} {allergic}  !{bilateral} !{right} !{left}
+H65191  [otitis media] {nonsuppurative} {right} !{bilateral} 
+H65192  [otitis media] {nonsuppurative} {left} !{bilateral} 
+H65193  [otitis media] {acute} {nonsuppurative} {bilateral}
+H65194  [otitis media] {acute} {recurrent} {right} !{bilateral} 
+H65195  [otitis media] {acute} {recurrent} {left} !{bilateral} 
+H65196  [otitis media] {acute} {recurrent} {bilateral}
+H65197  [otitis media] {acute} {recurrent} !{left} !{right} !{bilateral}
+H65199  [otitis media] {acute} {nonsuppurative} !{left} !{right} !{bilateral}
+H6520   [chronic serous otitis media] & ![left] & ![right] & ![bilateral]
+H6521   [chronic serous otitis media] {right} !{bilateral}
+        [otitis media] {chronic} {right} !{bilateral} & [serous]
+H6522   [otitis media] {chronic} {left} !{bilateral} & [serous]
+        [chronic serous otitis media] {left} !{bilateral}
+H6523   [otitis media] {chronic} {bilateral} & [serous]
+        [chronic serous otitis media] {bilateral}
+H6530   [chronic mucoid otitis media] & ![left] & ![right] & ![bilateral]
+H6531   [chronic mucoid otitis media] {right} !{bilateral}
+        [otitis media] {chronic} & [mucoid] {right} !{bilateral}
+H6532   [chronic mucoid otitis media] {left} !{bilateral}
+        [otitis media] {chronic} & [mucoid] {left} !{bilateral}
+H6533   [chronic mucoid otitis media] {bilateral}
+H65411  [chronic allergic otitis media] {right} !{bilateral}
+H65412  [chronic allergic otitis media] {left} !{bilateral}
+H65413  [chronic allergic otitis media] {bilateral}
+H65419  [chronic allergic otitis media] & ![left] & ![right] & ![bilateral] 
+H65491  [chronic otitis media with effusion] {right} !{bilateral} & [nonpurulent]
+H65492  [chronic otitis media with effusion] {left} !{bilateral}
+H65493  [chronic otitis media with effusion] {bilateral}
+H65499  [chronic otitis media with effusion] & ![left] & ![right] & ![bilateral]
+H6590   [otitis media with effusion] & ![left] & ![right] & ![bilateral]
+H6591   [otitis media with effusion] {right} !{bilateral}
+H6592   [otitis media with effusion] {left} !{bilateral}
+H6593   [otitis media with effusion] {bilateral}
+H66001  [otitis media] {acute} {suppurative} {right} !{bilateral} & ![perforation] 
+H66002  [otitis media] {suppurative} & ![rupture] {spontaneous} `ear drum` {left} !{bilateral} 
+H66003  [otitis media] {suppurative} & ![rupture] {spontaneous} `ear drum of bilateral ears`
+H66004  [otitis media] {suppurative} & ![rupture] {spontaneous} {recurrent} `ear drum` {right} !{bilateral} 
+H66005  [otitis media] {suppurative} & ![rupture] {spontaneous} {recurrent} `ear drum` {left} !{bilateral} 
+H66006  [otitis media] {suppurative} & ![rupture] {spontaneous} {recurrent} `ear drum of bilateral ears`
+H66007  [otitis media] {suppurative} & ![rupture] {spontaneous} {recurrent} `ear drum` !{bilateral} !{right} !{left}
+H66009  [otitis media] {suppurative} & ![rupture] {spontaneous} `ear drum` !{bilateral} !{right} !{left}
+H66011  [otitis media] {suppurative} & [rupture] {spontaneous} `ear drum` {right} !{bilateral}
+        [suppurative otitis media] {acute} {right} !{bilateral} & [perforation] 
+H66012  [otitis media] {suppurative} & [rupture] {spontaneous} `ear drum` {left} !{bilateral} 
+H66013  [otitis media] {suppurative} & [rupture] {spontaneous} `ear drum of bilateral ears`
+H66014  [otitis media] {suppurative} & [rupture] {spontaneous} {recurrent} `ear drum` {right} !{bilateral}
+H66015  [otitis media] {suppurative} & [rupture] {spontaneous} {recurrent} `ear drum` {left} !{bilateral} 
+H66016  [otitis media] {suppurative} & [rupture] {spontaneous} {recurrent} `ear drum of bilateral ears`
+H66017  [otitis media] {suppurative} & [rupture] {spontaneous} {recurrent} `ear drum` !{bilateral} !{right} !{left}
+H66019  [otitis media] {suppurative} & [rupture] {spontaneous} `ear drum` !{bilateral} !{right} !{left}
+H6610   [otitis media] {chronic} {tubotympanic} {suppurative} !{left} !{right} !{bilateral}
+H6611   [otitis media] {chronic} {tubotympanic} {suppurative} {right} !{bilateral} 
+H6612   [otitis media] {chronic} {tubotympanic} {suppurative} {left} !{bilateral} 
+H6613   [otitis media] {chronic} {tubotympanic} {suppurative} {bilateral}
+H6620   [otitis media] {atticoantral suppurative} !{bilateral} !{left} !{right}
+H6621   [otitis media] {chronic} {suppurative} {right} !{bilateral} & [perforation] `atticoantral tympanic membrane`
+        [chronic suppurative otitis media] {right} !{bilateral} & [perforation] `atticoantral tympanic membrane`
+H6622   [chronic suppurative otitis media] {left} !{bilateral} & [perforation] `atticoantral tympanic membrane`
+H6623   [chronic suppurative otitis media] {bilateral} & [perforation] `atticoantral tympanic membrane`
+H663X1  [otitis media] {chronic} {suppurative} {right} !{bilateral} 
+H663X2  [otitis media] {chronic} {suppurative} {left} !{bilateral} 
+H663X3  [otitis media] {chronic} {suppurative} {bilateral}
+H663X9  [otitis media] {chronic} {suppurative} !{left} !{right} !{bilateral} 
+H6640   [otitis media] {suppurative} !{chronic} !{left} !{right} !{bilateral}
+H6641   [otitis media] !{acute} {suppurative} !{chronic} {right} !{bilateral} 
+H6642   [otitis media] {suppurative} !{chronic} {left} !{bilateral} 
+H6643   [otitis media] {suppurative} {suppurative} !{chronic} {bilateral}
+H6690   [otitis media] !{serous} !{suppurative} !{bilateral} !{left} !{right}
+H6691   [otitis media] !{recurrent} {right} !{bilateral} !{suppurative}
+H6692   [otitis media] !{recurrent} {left} !{bilateral} !{suppurative}
+H6693   [otitis media] {bilateral} !{acute} !{chronic} !{mucoid} !{suppurative} & ![effusion]
+H671*   [otitis media] in diseases classified elsewhere {right} 
+H672*   [otitis media] in diseases classified elsewhere {left} 
+H673*   [otitis media] in diseases classified elsewhere {bilateral}
+H679*   [otitis media] in diseases classified elsewhere 
+H68001  [salpingitis] `eustachian tubeof right ear` !{bilateral}
+H68002  [salpingitis] `eustachian tube of left ear` !{bilateral}
+H68003  [salpingitis] `eustachian tube of bilateral ears`
+H68009  [salpingitis] `eustachian tube of ear` !{bilateral} !{right} !{left}
+H68011  [salpingitis] `eustachian tube of right ear` !{bilateral}
+H68012  [salpingitis] `eustachian tube of left ear` !{bilateral}
+H68013  [salpingitis] `eustachian tube of bilateral ears`
+H68019  [salpingitis] `eustachian tube of ear` !{bilateral} !{right} !{left}
+H68021  [salpingitis] {chronic} `eustachian tube of right ear`
+H68022  [salpingitis] {chronic} `eustachian tube of left ear`
+H68023  [salpingitis] {chronic} `eustachian tube of bilateral ears`
+H68029  [salpingitis] {chronic} `eustachian tube of ear` !{bilateral} !{right} !{left}
+H68101  [obstruction] `eustachian tube of right ear` !{bilateral}
+H68102  [obstruction] `eustachian tube of left ear` !{bilateral}
+H68103  [obstruction] `eustachian tube of bilateral ears`
+H68109  [obstruction] `eustachian tube of ear` !{bilateral} !{right} !{left}
+H68111  [osseous obstruction] `eustachian tube of right ear` !{bilateral}
+H68112  [osseous obstruction] `eustachian tube of left ear` !{bilateral}
+H68113  [osseous obstruction] `eustachian tube of bilateral ears`
+H68119  [osseous obstruction] `eustachian tube of ear` !{bilateral} !{right} !{left}
+H68121  [cartilagenous obstruction] {intrinsic} `eustachian tube of right ear` !{bilateral}
+H68122  [cartilagenous obstruction] {intrinsic} `eustachian tube of left ear` !{bilateral}
+H68123  [cartilagenous obstruction] {intrinsic} `eustachian tube of bilateral ears`
+H68129  [cartilagenous obstruction] {intrinsic} `eustachian tube of ear` !{bilateral} !{right} !{left}
+H68131  [cartilagenous obstruction] {extrinsic}  `eustachian tube of right ear` !{bilateral}
+H68132  [cartilagenous obstruction] {extrinsic}  `eustachian tube of left ear` !{bilateral}
+H68133  [cartilagenous obstruction] {extrinsic}  `eustachian tube of bilateral ears`
+H68139  [cartilagenous obstruction] {extrinsic}  `eustachian tube of ear` !{bilateral} !{right} !{left}
+H6900   [patulous eustachian tube] `ear` !{right} !{left} !{bilateral}
+H6901   [patulous eustachian tube] {right} `ear` !{bilateral}
+H6902   [patulous eustachian tube] {left} `ear` !{bilateral}
+H6903   [patulous eustachian tube] {bilateral} `ear`
+H6980   [other specified disorders of eustachian tube of ear] !{right} !{left} !{bilateral}
+H6981   [other specified disorders of eustachian tube of ear] {right} !{bilateral}
+H6982   [other specified disorders of eustachian tube of ear] {left} !{bilateral}
+H6983   [other specified disorders of eustachian tube of ear] `bilateral ears`
+H6990   [dysfunction] `eustachian tube`  !{bilateral} !{right} !{left}
+H6991   [disorder] `eustachian tube of right ear` !{bilateral}
+H6992   [disorder] `eustachian tube of left ear` !{bilateral}
+H6993   [disorder] `eustachian tube of bilateral ears`
+H70001  [mastoiditis] {acute} {right} !{bilateral} & ![complication]
+H70002  [mastoiditis] {acute} {left} !{bilateral} & ![complication] 
+H70003  [mastoiditis] & ![complication] {bilateral}
+H70009  [mastoiditis] & ![complication]  !{bilateral} !{right} !{left} !{bilateral}
+H70011  [mastoiditis] {acute} {right} !{bilateral} & [abscess] `subperiosteal` 
+H70012  [mastoiditis] {acute} {right} !{bilateral} & [abscess] `subperiosteal` {left} 
+H70013  [mastoiditis] {acute} {bilateral} & [abscess] `subperiosteal`
+H70019  [abscess] `subperiosteal` `mastoid` !{bilateral} !{right} !{left}
+H70091  [mastoiditis] & ![complication] {right} !{bilateral}
+H70092  [mastoiditis] & ![complication] {left} !{bilateral}
+H70093  [mastoiditis] & ![complication] {bilateral}
+H70099  [mastoiditis] & ![complication] !{bilateral} !{right} !{left}
+H7010   [mastoiditis] {chronic}  !{bilateral} !{right} !{left}
+H7011   [mastoiditis] {chronic} {right} !{bilateral}
+H7012   [mastoiditis] {chronic} {left} !{bilateral} 
+H7013   [mastoiditis] {chronic} {bilateral}
+H70201  [petrositis] {right} !{bilateral} 
+H70202  [petrositis] {left} !{bilateral} 
+H70203  [petrositis] {bilateral}
+H70209  [petrositis] !{bilateral} !{right} !{left}
+H70211  [petrositis] {acute} {right} !{bilateral} 
+H70212  [petrositis] {acute} {left} !{bilateral} 
+H70213  [petrositis] {acute} {bilateral}
+H70219  [petrositis] !{bilateral} !{right} !{left}
+H70221  [petrositis] {chronic} {right} !{bilateral} 
+H70222  [petrositis] {chronic} {left} !{bilateral} 
+H70223  [petrositis] {chronic} {bilateral}
+H70229  [petrositis] {chronic} !{bilateral} !{right} !{left}
+H70811  [fistula] {postauricular} {right} !{bilateral} 
+H70812  [fistula] {postauricular} {left} !{bilateral} 
+H70813  [fistula] {postauricular} {bilateral}
+H70819  [fistula] {postauricular}  !{left} !{right}
+H70891  [mastoiditis] {right} !{bilateral} 
+H70892  [mastoiditis] {left} !{bilateral} 
+H70893  [mastoiditis] {bilateral}
+H70899*  [mastoiditis]  !{left} !{right}
+H7090   [mastoiditis] !{chronic} !{acute} !{bilateral} !{right} !{left}
+H7091   [mastoiditis] !{chronic} !{acute} {right} !{bilateral}
+H7092   [mastoiditis] !{chronic} !{acute} {left} !{bilateral} 
+H7093   [mastoiditis] !{chronic} !{acute} {bilateral}
+H7100   [cholesteatoma] `attic`  !{bilateral} !{right} !{left}
+H7101   [cholesteatoma] `attic` {right} !{bilateral} 
+H7102   [cholesteatoma] `attic` {left} !{bilateral} 
+H7103   [cholesteatoma] `attic of bilateral ears`
+H7110   [cholesteatoma] `tympanum`  !{bilateral} !{right} !{left}
+H7111   [cholesteatoma] `tympanum` {right} !{bilateral} 
+H7112   [cholesteatoma] `tympanum` {left} !{bilateral} 
+H7113   [cholesteatoma] `tympanum of bilateral ears`
+H7120   [cholesteatoma] `mastoid` !{left} !{right} !{bilateral}
+H7121   [cholesteatoma] `mastoid` {right} !{bilateral} 
+H7122   [cholesteatoma] `mastoid` {left} !{bilateral} 
+H7123   [cholesteatoma] `mastoid of bilateral ears`
+H7130   [cholesteatosis] {diffuse} !{bilateral} !{right} !{left}
+H7131   [cholesteatosis] {diffuse} {right} !{bilateral}
+H7132   [cholesteatosis] {diffuse} {left} !{bilateral} 
+H7133   [cholesteatosis] {diffuse} {bilateral}
+H7190   [cholesteatoma] !{attic} !{tympanum} !{mastoid} !{bilateral} !{right} !{left}
+H7191   [cholesteatoma] !{attic} !{tympanum} !{mastoid} {right} !{bilateral} 
+H7192   [cholesteatoma] !{attic} !{tympanum} !{mastoid} {left} !{bilateral} 
+H7193   [cholesteatoma] !{attic} !{tympanum} !{mastoid} {bilateral}
+H7200   [central perforation] `tympanic membrane` !{bilateral} !{right} !{left}
+H7201   [central perforation] `tympanic membrane` {right} !{bilateral} 
+        [perforation] {chronic} `central tympanic membrane` {right} !{bilateral}
+H7202   [central perforation] `tympanic membrane` {left} !{bilateral}
+        [perforation] {chronic} `central tympanic membrane` {left} !{bilateral}
+H7203   [central perforation] `tympanic membrane of bilateral ears`
+H7210   [attic perforation] `tympanic membrane` !{bilateral} !{right} !{left}
+H7211   [attic perforation] `tympanic membrane` {right} !{bilateral} 
+H7212   [attic perforation] `tympanic membrane` {left} !{bilateral} 
+H7213   [attic perforation] `tympanic membrane of bilateral ears`
+H722X1  [marginal perforation] `tympanic membrane` {right} !{bilateral} 
+H722X2  [marginal perforation] `tympanic membrane` {left} !{bilateral} 
+H722X3  [marginal perforation] `tympanic membrane` {bilateral}
+H722X9  [marginal perforation] `tympanic membrane` !{bilateral} !{right} !{left}
+H72811* multiple perforations of `tympanic membrane` {right} 
+H72812* multiple perforations of `tympanic membrane` {left} 
+H72813* multiple perforations of `tympanic membrane of bilateral ears`
+H72819* multiple perforations of `tympanic membrane`
+H72821  [perforation] {total} `tympanic membrane` {right} !{bilateral} 
+H72822  [perforation] {total} `tympanic membrane` {left} !{bilateral} 
+H72823  [perforation] {total} `tympanic membrane` {bilateral}
+H72829  [perforation] {total} `tympanic membrane` !{bilateral} !{right} !{left}
+H7290   [perforation] !{central} !{attic} !{marginal} `tympanic membrane` !{left} !{right}
+H7291   [perforation] !{central} !{attic} !{marginal} `tympanic membrane` {right} !{bilateral}
+H7292   [perforation] !{central} !{attic} !{marginal} `tympanic membrane` {left} !{bilateral}
+H7293   [perforation] !{central} !{attic} !{marginal} `tympanic membrane of bilateral ears`
+H73001  [myringitis] {right} !{bilateral} 
+H73002  [myringitis] {left} !{bilateral} 
+H73003  [myringitis] {bilateral}
+H73009  [myringitis] !{bilateral} !{right} !{left}
+H73011  [myringitis] {bullous} {right} !{bilateral} 
+H73012  [myringitis] {bullous} {left}  !{bilateral}
+H73013  [myringitis] {bullous} {bilateral}
+H73019  [myringitis] {bullous} !{bilateral} !{right} !{left}
+H73091  [myringitis]  {right} !{bilateral} 
+H73092  [myringitis]  {left}  !{bilateral}
+H73093  [myringitis]  {bilateral}
+H73099*  [myringitis]  !{bilateral} !{right} !{left}
+H7310   [myringitis] {chronic}  !{left} !{right} !{bilateral}
+H7311   [myringitis] {chronic} {right} !{bilateral} 
+H7312   [myringitis] {chronic} {left} !{bilateral} 
+H7313   [myringitis] {chronic} {bilateral}
+H7320   [myringitis] !{bilateral} !{right} !{left}
+H7321   [myringitis] {right} !{bilateral} 
+H7322   [myringitis] {left} !{bilateral} 
+H7323   [myringitis] {bilateral}
+H73811  [atrophic tympanic membrane] {flaccid} {right} !{bilateral} 
+H73812  [atrophic tympanic membrane] {flaccid} {left} !{bilateral} 
+H73813  [atrophic tympanic membrane] {flaccid} {bilateral}
+H73819  [atrophic tympanic membrane] {flaccid} !{bilateral} !{right} !{left} 
+H73821  [atrophic tympanic membrane] {nonflaccid} {right} !{bilateral}
+H73822  [atrophic tympanic membrane] {nonflaccid} {left} !{bilateral} 
+H73823  [atrophic tympanic membrane] {nonflaccid} {bilateral}
+H73829  [atrophic tympanic membrane] {nonflaccid}  !{bilateral} !{right} !{left}
+H73891* other specified [disorder]s of `tympanic membrane` {right} !{bilateral}
+H73892* other specified [disorder]s of `tympanic membrane` {left} !{bilateral} 
+H73893* other specified [disorder]s of `tympanic membrane of bilateral ears`
+H73899* other specified [disorder]s of `tympanic membrane` !{bilateral} !{right} !{left}
+H7390   [disorder] `tympanic membrane` !{bilateral} !{right} !{left}
+H7391   [disorder] `tympanic membrane` {right} !{bilateral} 
+H7392   [disorder] `tympanic membrane` {left} !{bilateral}
+H7393   [disorder] `tympanic membrane of bilateral ears`
+H7401   [tympanosclerosis] {right} !{bilateral} 
+H7402   [tympanosclerosis] {left} !{bilateral} 
+H7403   [tympanosclerosis] {bilateral}
+H7409   [tympanosclerosis] !{bilateral} !{right} !{left}
+H7411   [disease] {adhesive} {right} !{bilateral} `middle ear`
+H7412   [disease] {adhesive} {left} !{bilateral} `middle ear`
+H7413   [disease] {adhesive} `middle ear of bilateral ears`
+H7419   [disease] {adhesive} `middle ear` !{bilateral} !{right} !{left}
+H7420   [discontinuity] `ear ossicles` !{bilateral} !{right} !{left}
+        [dislocation] `ear ossicles` !{bilateral} !{right} !{left}
+H7421   [discontinuity] {right} !{bilateral} `ear ossicles`
+        [dislocation] {right} !{bilateral} `ossicle`
+H7422   [discontinuity] {left} !{bilateral} `ossicle`
+        [dislocation] {left} !{bilateral} `ear ossicles`
+H7423   [discontinuity] `ear ossicles of bilateral ears`
+        [dislocation] `ear ossicles of bilateral ears`
+H74311  [ankylosis] `ear ossicles` {right} !{bilateral} 
+H74312  [ankylosis] `ear ossicles` {left} !{bilateral} 
+H74313  [ankylosis] `ear ossicles of bilateral ears`
+H74319  [ankylosis] `ear ossicles` !{bilateral} !{right} !{left}
+H74321  [partial loss] `ear ossicles` {right} !{bilateral} 
+H74322  [partial loss] `ear ossicles` {left} !{bilateral} 
+H74323  [partial loss] `ear ossicles of bilateral ears`
+H74329  [partial loss] `ear ossicles` !{bilateral} !{right} !{left}
+H74391  [abnormalities] {acquired} {right} !{bilateral} `ear ossicles`
+H74392  [abnormalities] {acquired} {left} !{bilateral} `ear ossicles`
+H74393  [abnormalities] {acquired} `ear ossicles of bilateral ears`
+H74399  [abnormalities] {acquired} `ear ossicles` !{bilateral} !{right} !{left}
+H7440   [polyp] `middle ear` !{bilateral} !{right} !{left}
+H7441   [polyp] {right} `middle ear` !{bilateral}
+H7442   [polyp] {left} `middle ear` !{bilateral}
+H7443   [polyp] `middle ear of bilateral ears`
+H748X1* other specified disorders of {right} `middle ear` and `mastoid`
+H748X2* other specified disorders of {left} `middle ear` and `mastoid`
+H748X3* other specified disorders of `middle ear` and `mastoid of bilateral ears`
+H748X9* other specified disorders of `middle ear` and `mastoid`
+H7490   [disorder] `middle ear`  `mastoid` !{bilateral} !{right} !{left}
+H7491   [disorder] {right} !{bilateral} `middle ear` `mastoid`
+H7492   [disorder] {left} !{bilateral} `middle ear` `mastoid`
+H7493   [disorder] `middle ear`  `mastoid of bilateral ears`
+H7500   [mastoiditis] & [infectious diseases] !{bilateral} !{right} !{left} 
+        [mastoiditis] & [parasitic diseases]  !{bilateral} !{right} !{left}
+H7501   [mastoiditis] & [infectious diseases] {right} !{bilateral} 
+        [mastoiditis] & [parasitic diseases] {right} !{bilateral} 
+H7502   [mastoiditis] & [infectious diseases] {left} !{bilateral} 
+        [mastoiditis] & [parasitic diseases] {left} !{bilateral} 
+H7503   [mastoiditis] & [infectious diseases] {bilateral}
+        [mastoiditis] & [parasitic diseases] {bilateral}
+H7580*  other specified disorders of `middle ear` and `mastoid` in diseases classified elsewhere 
+H7581*  other specified disorders of {right} `middle ear` and `mastoid` in diseases classified elsewhere
+H7582*  other specified disorders of {left} `middle ear` and `mastoid` in diseases classified elsewhere
+H7583*  other specified disorders of `middle ear` and `mastoid` in diseases classified elsewhere {bilateral}
+H8000   [otosclerosis] {nonobliterative} `oval window of ear` !{bilateral} !{right} !{left}
+H8001   [otosclerosis] {nonobliterative} `oval window of right ear` !{bilateral}
+H8002   [otosclerosis] {nonobliterative} `oval window of left ear` !{bilateral}
+H8003   [otosclerosis] {nonobliterative} `oval window of bilateral ears`
+H8010   [otosclerosis] {obliterative} `oval window of ear` !{bilateral} !{right} !{left}
+H8011   [otosclerosis] {obliterative} `oval window of right ear` !{bilateral}
+H8012   [otosclerosis] {obliterative} `oval window of left ear` !{bilateral}
+H8013   [otosclerosis] {obliterative} `oval window of bilateral ears`
+H8020   [otosclerosis] `cochlear`  !{bilateral} !{right} !{left}
+H8021   [otosclerosis] `cochlear` {right} !{bilateral} 
+H8022   [otosclerosis] `cochlear` {left}  !{bilateral}
+H8023   [otosclerosis] `cochlear` {bilateral}
+H8080   [otosclerosis]  !{bilateral} !{right} !{left}
+H8081   [otosclerosis] {right} !{bilateral} 
+H8082   [otosclerosis] {left}  !{bilateral}
+H8083   [otosclerosis] {bilateral}
+H8090   [otosclerosis]  !{bilateral} !{right} !{left}
+H8091   [otosclerosis] {right} !{bilateral} 
+H8092   [otosclerosis] {left} !{bilateral} 
+H8093   [otosclerosis] {bilateral}
+H8101   [menieres] {right} !{bilateral}
+H8102   [menieres] {left} !{bilateral} 
+H8103   [menieres] {bilateral}
+H8109   [menieres] !{bilateral} !{right} !{left}
+H8110   [benign paroxysmal vertigo] !{left} !{right} !{bilateral}
+H8111   [benign paroxysmal vertigo] & [right] `ear` !{bilateral}
+H8112   [benign paroxysmal vertigo] & [left] `ear` !{bilateral}
+H8113   [benign paroxysmal vertigo] {bilateral}
+H8120   [vestibular neuronitis]  !{left} !{right} !{bilateral}
+H8121   [vestibular neuronitis] {right} !{bilateral} 
+H8122   [vestibular neuronitis] {left} !{bilateral} 
+H8123   [vestibular neuronitis] {bilateral}
+H81311  [vertigo] {aural} {right} !{bilateral} 
+H81312  [vertigo] {aural} {left} !{bilateral}
+H81313  [vertigo] {aural} {bilateral}
+H81319  [vertigo] {aural}  !{left} !{right} !{bilateral}
+H81391  [peripheral vertigo] {right} !{bilateral}
+H81392  [peripheral vertigo] {left} !{bilateral} 
+H81393  [peripheral vertigo] {bilateral}
+H81399  [peripheral vertigo] !{left} !{right} !{bilateral}
+H814    [vertigo of central origin]
+H8141   [vertigo] {central origin} {right}  "Delete icd10 fy2020"
+H8142   [vertigo] {central origin} {left}  "Delete icd10 fy2020"
+H8143   [vertigo] {central origin} {bilateral} "Delete icd10 fy2020"
+H8149   [vertigo] {central origin}  "Delete icd10 fy2020"
+H818X1* other [disorder]s of {vestibular function} {right} 
+H818X2* other [disorder]s of {vestibular function} {left} 
+H818X3* other [disorder]s of {vestibular function} {bilateral}
+H818X9* other [disorder]s of {vestibular function} 
+H8190   [disorder] {vestibular function}  !{bilateral} !{right} !{left}
+H8191   [disorder] {vestibular function} {right} !{bilateral} 
+H8192   [disorder] {vestibular function} {left} !{bilateral} 
+H8193   [disorder] {vestibular function} {bilateral}
+H821*   [vertiginous syndrome]s in diseases classified elsewhere {right} 
+H822*   [vertiginous syndrome]s in diseases classified elsewhere {left} 
+H823*   [vertiginous syndrome]s in diseases classified elsewhere {bilateral}
+H829*   [vertiginous syndrome]s in diseases classified elsewhere 
+H8301   [labyrinthitis] {right} !{bilateral}
+H8302   [labyrinthitis] {left} !{bilateral} 
+H8303   [labyrinthitis] {bilateral}
+H8309   [labyrinthitis] !{bilateral} !{right} !{left} 
+H8311   [labyrinthine fistula] {right} !{bilateral} 
+H8312   [labyrinthine fistula] {left} !{bilateral} 
+H8313   [labyrinthine fistula] {bilateral}
+H8319   [labyrinthine fistula]  !{bilateral} !{right} !{left}
+H832X1  [labyrinthine dysfunction] {right} !{bilateral} 
+H832X2  [labyrinthine dysfunction] {left} !{bilateral} 
+H832X3  [labyrinthine dysfunction] {bilateral}
+H832X9  [labyrinthine dysfunction]  !{bilateral} !{right} !{left}
+H833X1  [noise effects] {right} !{bilateral} `inner ear`
+H833X2  [noise effects] {left} !{bilateral} `inner ear`
+H833X3  [noise effects] `inner ear of bilateral ears`
+H833X9  [noise effects] `inner ear` !{bilateral} !{right} !{left}
+H838X1* other specified [disease]s of {right} !{bilateral} `inner ear`
+H838X2* other specified [disease]s of {left} !{bilateral} `inner ear`
+H838X3* other specified [disease]s of `inner ear of bilateral ears`
+H838X9* other specified [disease]s of `inner ear`
+H8390   [disease] `inner ear` !{bilateral} !{right} !{left}
+H8391   [disease] {right} !{bilateral} `inner ear`
+H8392   [disease] {left} !{bilateral} `inner ear`
+H8393   [disease] `inner ear of bilateral ears`
+H900    [hearing loss] {conductive} {bilateral}
+H9011   [hearing loss] {conductive} {right} !{bilateral} 
+H9012   [hearing loss] {conductive} {left} !{bilateral} 
+H902    [hearing loss] {conductive} !{left} !{right} !{bilateral}
+H903    [hearing loss] {sensorineural} {bilateral}
+H9041   [hearing loss] {sensorineural} {right} !{bilateral} 
+H9042   [hearing loss] {sensorineural} {left} !{bilateral}
+H905    [hearing loss] {sensorineural} !{left} !{right} !{bilateral}
+H906    [hearing loss] {conductive} {sensorineural} {bilateral}
+H9071   [hearing loss] {conductive} {sensorineural} {right} !{bilateral}
+H9072   [hearing loss] {conductive} {sensorineural} {left} !{bilateral} 
+H908    [hearing loss] {conductive} {sensorineural} !{left} !{right} !{bilateral}
+H9101   [hearing loss] {ototoxic} {right} !{bilateral} 
+H9102   [hearing loss] {ototoxic} {left} !{bilateral}
+H9103   [hearing loss] {ototoxic} {bilateral}
+H9109   [hearing loss] {ototoxic} !{left} !{right} !{bilateral}
+H9110   [presbycusis] !{left} !{right} !{bilateral}
+H9111   [presbycusis] {right} !{bilateral} 
+H9112   [presbycusis] {left} !{bilateral} 
+H9113   [presbycusis] {bilateral}
+H9120   [hearing loss] {sudden} {idiopathic}  !{left} !{right} !{bilateral}
+H9121   [hearing loss] {sudden} {idiopathic} {right} !{bilateral} 
+H9122   [hearing loss] {sudden} {idiopathic} {left} !{bilateral} 
+H9123   [hearing loss] {sudden} {idiopathic} {bilateral}
+H913    [deaf nonspeaking]
+H918X1* other specified [hearing loss] {right} !{bilateral} 
+H918X2* other specified [hearing loss] {left} !{bilateral}
+H918X3* other specified [hearing loss] {bilateral}
+H918X9* other specified [hearing loss] !{bilateral} !{right} !{left}
+H9190   [hearing loss] !{left} !{right} !{bilateral} !{conductive} !{sensorineural}
+H9191   [hearing loss] {right} !{bilateral} !{conductive} !{sensorineural}
+H9192   [hearing loss] {left} !{bilateral} !{conductive} !{sensorineural}
+H9193   [hearing loss] {bilateral} !{conductive} !{sensorineural}
+H9201   [otalgia] {right} !{bilateral}
+        [earache] {right} !{bilateral}
+H9202   [otalgia] {left} !{bilateral}
+        [earache] {left} !{bilateral}
+H9203   [otalgia] {bilateral}
+        [earache] {bilateral}
+H9209   [otalgia] !{left} !{right} !{bilateral}
+H9210   [otorrhea] !{left} !{right} !{bilateral}
+H9211   [otorrhea] {right} !{bilateral}
+H9212   [otorrhea] {left} !{bilateral}
+H9213   [otorrhea] {bilateral}
+H9220   [otorrhagia] !{bilateral} !{left} !{right}
+H9221   [otorrhagia] {right} !{bilateral}
+H9222   [otorrhagia] {left} !{bilateral}
+H9223   [otorrhagia] {bilateral}
+H93A1   [pulsatile tinnitus] {right} !{bilateral}
+H93A2   [pulsatile tinnitus] {left} !{bilateral}
+H93A3   [pulsatile tinnitus] {bilateral}
+H93A9   [pulsatile tinnitus] !{bilateral} !{left} !{right}
+H93011  [deafness] {transient} {ischemic} {right}
+H93012  [deafness] {transient} {ischemic} {left}
+H93013  [deafness] {transient} {ischemic} {bilateral}
+H93019  [deafness] {transient} {ischemic} !{bilateral} !{right} !{left}
+H93091* [disorder] {degenerative} {vascular} {right}
+H93092* [disorder] {degenerative} {vascular} {left} 
+H93093* [disorder] {degenerative} {vascular} {bilateral}
+H93099* [disorder] {degenerative} {vascular} 
+H9311   [tinnitus] {right} !{bilateral} 
+H9312   [tinnitus] {left} !{bilateral} 
+H9313   [tinnitus] {bilateral}
+H9319   [tinnitus]  !{left} !{right} !{bilateral}
+H93211  [auditory recruitment] {right} 
+H93212  [auditory recruitment] {left} 
+H93213  [auditory recruitment] {bilateral}
+H93219  [auditory recruitment]  !{left} !{right} !{bilateral}
+H93221  [diplacusis] {right} !{bilateral} 
+H93222  [diplacusis] {left} !{bilateral} 
+H93223  [diplacusis] {bilateral}
+H93229  [diplacusis]  !{left} !{right} !{bilateral}
+H93231  [hyperacusis] {right} !{bilateral} 
+H93232  [hyperacusis] {left} !{bilateral} 
+H93233  [hyperacusis] {bilateral}
+H93239  [hyperacusis]  !{left} !{right} !{bilateral}
+H93241  [temporary auditory threshold shift] {right} 
+H93242  [temporary auditory threshold shift] {left} 
+H93243  [temporary auditory threshold shift] {bilateral}
+H93249  [temporary auditory threshold shift] !{left} !{right} !{bilateral} 
+H9325   [central auditory processing disorder]
+H93291  [abnormal auditory perceptions] {right} !{bilateral} 
+H93292  [abnormal auditory perceptions] {left} !{bilateral} 
+H93293  [abnormal auditory perceptions] {bilateral}
+        [abr newborn screening] {bilateral}
+H93299  [abnormal auditory perceptions]  !{left} !{right} !{bilateral}
+H933X1  [disorder] {right} !{bilateral} `acoustic nerve`
+H933X2  [disorder] {left} !{bilateral} `acoustic nerve`
+H933X3  [disorder] `bilateral acoustic nerves`
+H933X9  [disorder] `acoustic nerve` !{left} !{right} !{bilateral}
+H938X1* other specified [disorder]s of {right} !{bilateral} 
+H938X2* other specified [disorder]s of {left} !{bilateral} 
+H938X3* other specified [disorder]s of `ear of bilateral ears`
+H938X9* other specified [disorder]s of 
+H9390   [unspecified ear disorder] !{left} !{right} !{bilateral}
+H9391   [unspecified ear disorder] {right} !{bilateral} 
+H9392   [unspecified ear disorder] {left} !{bilateral}
+H9393   [unspecified ear disorder] {bilateral}
+H9400   [acoustic neuritis]  & [disease] {infectious} !{bilateral} !{right} !{left}
+        [acoustic neuritis]  & [disease] {parasitic} !{bilateral} !{right} !{left}
+H9401   [acoustic neuritis] {right} !{bilateral}  & [disease] {infectious}
+        [acoustic neuritis] {right} !{bilateral}  & [disease] {parasitic}
+H9402   [acoustic neuritis] {left} !{bilateral}  & [disease] {infectious}
+        [acoustic neuritis] {left} !{bilateral}  & [disease] {parasitic}
+H9403   [acoustic neuritis] {bilateral} & [disease] {infectious}
+        [acoustic neuritis] {bilateral} & [disease] {parasitic}
+H9480*  other specified disorders of  in diseases classified elsewhere 
+H9481*  other specified disorders of {right}  in diseases classified elsewhere
+H9482*  other specified disorders of {left}  in diseases classified elsewhere
+H9483*  other specified disorders of  in diseases classified elsewhere {bilateral}
+H9500   [cholesteatoma] {recurrent} `postmastoidectomy cavity` !{left} !{right} !{bilateral}
+H9501   [cholesteatoma] {recurrent} `postmastoidectomy cavity` {right} !{bilateral} 
+H9502   [cholesteatoma] {recurrent} `postmastoidectomy cavity` {left} !{bilateral} 
+H9503   [cholesteatoma] {recurrent} `postmastoidectomy cavity of bilateral ears`
+H95111  [inflammation] {chronic} `postmastoidectomy cavity` {right} !{bilateral} 
+H95112  [inflammation] {chronic} `postmastoidectomy cavity` {left} !{bilateral} 
+H95113  [inflammation] {chronic} `postmastoidectomy cavity of bilateral ears`
+H95119  [inflammation] {chronic} `postmastoidectomy cavity` !{left} !{right} !{bilateral}
+H95121  [granulation] `postmastoidectomy cavity` {right} !{bilateral} 
+H95122  [granulation] `postmastoidectomy cavity` {left} !{bilateral} 
+H95123  [granulation] `postmastoidectomy cavity of bilateral ears`
+H95129  [granulation] `postmastoidectomy cavity` !{left} !{right} !{bilateral}
+H95131  [mucosal cyst] `postmastoidectomy cavity` {right} !{bilateral} 
+H95132  [mucosal cyst] `postmastoidectomy cavity` {left} !{bilateral} 
+H95133  [mucosal cyst] `postmastoidectomy cavity of bilateral ears`
+H95139  [mucosal cyst] `postmastoidectomy cavity` !{left} !{right} !{bilateral}
+H95191* [disorder] & [mastoidectomy] {right} !{bilateral} 
+H95192* [disorder] & [mastoidectomy] {left} !{bilateral} 
+H95193* [disorder] & [mastoidectomy] {bilateral}
+H95199* [disorder] & [mastoidectomy] !{left} !{right} !{bilateral}
+H9521*  [intraoperative hemorrhage] and [hematoma]  and `mastoid` process complicating a [procedure] on the  and `mastoid` process
+H9522*  [intraoperative hemorrhage] and [hematoma]  and `mastoid` process complicating other [procedure]
+H9531*  accidental puncture and laceration of the  and `mastoid` process during a [procedure] on the  and `mastoid` process
+H9532*  accidental puncture and laceration of the  and `mastoid` process during other [procedure]
+H9541*  postprocedural hemorrhage and hematoma of  and `mastoid` process following a [procedure] on the  and `mastoid` process
+H9542*  postprocedural hemorrhage and hematoma of  and `mastoid` process following other [procedure]
+H95811* postprocedural stenosis of {right} !{bilateral} `external ear canal`
+H95812* postprocedural stenosis of {left} !{bilateral} `external ear canal`
+H95813* postprocedural stenosis of `external ear canal of bilateral ears`
+H95819* postprocedural stenosis of unspecified external ear canal
+H9588*  other intraoperative complications and disorders of the  and `mastoid` process, not elsewhere classified
+H9589*  other postprocedural complications and disorders of the  and `mastoid` process, not elsewhere classified

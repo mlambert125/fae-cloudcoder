@@ -1,0 +1,54 @@
+5A02110* [assistance] `cardiac` {balloon pump} {intermittent}
+5A02115* [assistance] `cardiac` {pulsatile compression} {intermittent}
+5A02116* [assistance] `cardiac` {other pump} {intermittent}
+5A0211D  [impella] !{biventricular}
+5A02210  [iabp]
+5A02215* [assistance] `cardiac` {pulsatile compression} {continuous}
+5A02216* [assistance] `cardiac` {other pump} 
+5A0221D  [impella] {biventricular}
+5A05121* [oxygenation] {extracorporeal} {hyperbaric} {intermittent}
+5A0512C* [oxygenation] {extracorporeal} {supersaturated} {intermittent}
+5A05221* [oxygenation] {extracorporeal} {hyperbaric} {continuous}
+5A0522C* [oxygenation] {extracorporeal} {supersaturated} {continuous}
+5A09___  [cpap] !{less than 24 hours} !{24-96 consecutive hours} !{greater than 96 consecutive hours} "Partial Coding"
+5A09357  [cpap] !{24-96 consecutive hours} !{greater than 96 consecutive hours} !{duration : none} !"Partial Coding"
+5A0935A	 [assistance] `respiratory` {ventilation} {less than 24 consecutive hours} {high hasal flow/velocity} 
+5A09358* [assistance] `respiratory` {ventilation} {less than 24 consecutive hours} {intermittent} {positive airway pressure}
+5A09359* [assistance] `respiratory` {ventilation} {less than 24 consecutive hours} {continuous} {negative airway pressure}
+5A0935B* [assistance] `respiratory` {ventilation} {less than 24 consecutive hours} {intermittent} {negative airway pressure}
+5A0935Z* [assistance] `respiratory` {ventilation} {less than 24 consecutive hours}
+5A09457  [cpap] {24-96 consecutive hours} 
+5A09458* [assistance] `respiratory` {ventilation} {24-96 consecutive hours} {intermittent} {positive airway pressure}
+5A09459* [assistance] `respiratory` {ventilation} {24-96 consecutive hours} {continuous} {negative airway pressure}
+5A0945A	 [assistance] `respiratory` {ventilation} {24-96 consecutive hours} {high hasal flow/velocity} 
+5A0945B* [assistance] `respiratory` {ventilation} {24-96 consecutive hours} {intermittent} {negative airway pressure}
+5A0945Z* [assistance] `respiratory` {ventilation} {24-96 consecutive hours}
+5A09557  [cpap] {greater than 96 consecutive hours} 
+5A09558* [assistance] `respiratory` {ventilation} {greater than 96 consecutive hours} {intermittent} {positive airway pressure}
+5A09559* [assistance] `respiratory` {ventilation} {greater than 96 consecutive hours} {continuous} {negative airway pressure}
+5A0955A	 [assistance] `respiratory` {ventilation} {greater than 96 consecutive hours} {high hasal flow/velocity} 
+5A0955B* [assistance] `respiratory` {ventilation} {greater than 96 consecutive hours} {intermittent} {negative airway pressure}
+5A0955Z* [assistance] `respiratory` {ventilation} {greater than 96 consecutive hours}
+5A12012  [cpr] !{full code} !{in route}
+5A1213Z  [temporary pacemaker] {intermittent}
+5A1221Z  [cardiopulmonary bypass] !{time}
+5A1223Z  [temporary pacemaker]
+5A1522_  [ecmo] !{continuous} !{central} "Partial Coding"
+5A15223  [ecmo] {continuous}
+5A1522F  [ecmo] {central}
+5A15A2F* [ecmo] {central} {intraoperative}	
+5A15A2G	 [ecmo] `peripheral veno arterial` {intraoperative}	
+5A15A2H	 [ecmo] `peripheral veno venous` {intraoperative}	
+5A19054* [ventilation] `respiratory` {nonmechanical}
+5A19___  [mechanical ventilation] !{less than 24 hours} !{24-96 consecutive hours} !{greater than 96 consecutive hours} & ![intraoperative] & ![other procedure] "Partial Coding" 
+5A1935Z  [mechanical ventilation] !{24-96 consecutive hours} !{greater than 96 consecutive hours} & ![other procedure] & ![intraoperative] !"Partial Coding"
+5A1945Z  [mechanical ventilation] {24-96 consecutive hours}
+5A1955Z  [mechanical ventilation] {greater than 96 consecutive hours}
+5A1C00Z* [filtration] {performance} `biliary`
+5A1C60Z* [filtration] {performance} `biliary` {multiple} 
+5A1D00Z* [filtration] {performance} `urinary` {single}
+5A1D60Z* [filtration] {performance} `urinary` {multiple} 
+5A1D70Z  [hemodialysis] !{needs or on} !{prolonged} !{continuous}
+5A1D80Z  [hemodialysis] {prolonged} !{needs or on}
+5A1D90Z  [hemodialysis] {continuous} !{needs or on}
+5A2204Z  [cardioversion] !{past status}

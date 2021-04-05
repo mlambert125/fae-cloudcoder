@@ -1,0 +1,894 @@
+K000    [anodontia]
+K001    [supernumerary teeth]
+K002    [abnormalities of size and form of teeth]
+K003    [mottled teeth]
+K004    [disturbances in tooth formation]
+K005    [hereditiary disturbances in tooth structure]
+K006    [disturbances in tooth eruption]
+K007    [teething syndrome]
+K008*   other disorders of tooth development
+K009    [disorder of tooth development]
+K010    [embedded teeth]
+K011    [impacted teeth]
+K023    [dental caries] {arrested}
+K0251   [dental caries] `pit surface` & [extending] {into} `enamel`
+        [dental caries] `fissure surface` & [extending] {into} `enamel`
+K0252   [dental caries] `pit surface` & [extending] {into} `dentin`
+        [dental caries] `fissure surface`& [extending] {into} `dentin`
+K0253   [dental caries] `pit surface` & [extending] {into} `pulp`
+        [dental caries] `fissure surface` & [extending] {into} `pulp`
+K0261   [dental caries] `smooth surface` & [extending] {into} `enamel`
+K0262   [dental caries] `smooth surface` & [extending] {into} `dentin`
+K0263   [dental caries] `smooth surface` & [extending] {into} `pulp`
+K027    [dental root caries] 
+K029    [dental caries]
+K030    [excessive attrition] `teeth`
+K031    [abrasion] `teeth`
+K032    [erosion] `teeth`
+K033    [pathological resorption of teeth]
+K034    [hypercementosis]
+K035    [ankylosis] `teeth`
+K036    [deposits on teeth]
+K037    [color changes] {posteruptive}`dental hard tissues`
+K0381   [cracked tooth]
+K0389*  other specified diseases of hard tissues of teeth
+K039    [disease] `hard tissues of teeth`
+K040    [pulpitis]
+K0401   [reversible pulpitis]
+K0402   [irreversible pulpitis]
+K041    [necrosis] `dental pulp`
+K042    [degeneration] `dental pulp`
+K043    [abnormal hard tissue formation] `dental pulp`
+K044    [periodontitis] {acute} {apical} `pulpal`
+K045    [periodontitis] {chronic} {apical}
+K046    [dental abscess] `sinus`
+K047    [dental abscess] !`sinus`
+K048*   radicular cyst
+K0490   [disease] `dental pulp and periapical tissue`
+K0499*  other diseases of pulp and periapical tissues
+K0500   [gingivitis] {acute}
+K0501   [gingivitis] {acute} !{plaque induced}
+K0510   [gingivitis]
+K0511   [gingivitis] !{plaque induced}
+K0520   [periodontitis] {aggressive}
+K05211  [aggressive periodontitis] {slight}
+K05212  [aggressive periodontitis] {moderate}
+K05213  [aggressive periodontitis] {severe}
+K05219  [aggressive periodontitis]
+K05221  [aggressive periodontitis] {generalized} {slight}
+K05222  [aggressive periodontitis] {generalized} {moderate}
+K05223  [aggressive periodontitis] {generalized} {severe}
+K05229  [aggressive periodontitis] {generalized}
+K05311  [chronic periodontitis] {localized} {slight}
+K05312  [chronic periodontitis] {localized} {moderate}
+K05313  [chronic periodontitis] {localized} {severe}
+K05319  [chronic periodontitis] {localized}
+K0530   [periodontitis] {chronic}
+K05321  [chronic periodontitis] {generalized} {slight}
+K05322  [chronic periodontitis] {generalized} {moderate}
+K05323  [chronic periodontitis] {generalized} {severe}
+K05329  [chronic periodontitis] {generalized}
+K054    [periodontosis]
+K055*   other periodontal diseases
+K056    [periodontal disease]
+K060    [recession] `gingiva`
+K06010  [localized gingival recession]
+K06011  [localized gingival recession] {minimal}
+K06012  [localized gingival recession] {moderate}
+K06013  [localized gingival recession] {severe}
+K06020  [generalized gingival recession]
+K06021  [generalized gingival recession] {minimal}
+K06022  [generalized gingival recession] {moderate}
+K06023  [generalized gingival recession] {severe}
+K061    [enlargement] `gingiva`
+K062    [lesion] `gingiva` & [trauma]
+K063    [bone loss] {horizontal alveolar}
+K068*   other specified disorders of gingiva and edentulous alveolar ridge
+K069    [disorder] `gingiva`
+K080    [exfoliation] {systemic causes} `teeth`
+K08101  [loss] {complete} {class i} `teeth`
+K08102  [loss] {complete} {class ii} `teeth`
+K08103  [loss] {complete} {class iii} `teeth`
+K08104  [loss] {complete} {class iv} `teeth`
+K08109  [loss] {complete} `teeth`
+K08111  [loss] {complete} `teeth` & [trauma] {class i}
+K08112  [loss] {complete} `teeth` & [trauma] {class ii}
+K08113  [loss] {complete} `teeth` & [trauma] {class iii}
+K08114  [loss] {complete} `teeth` & [trauma] {class iv}
+K08119  [loss] {complete} `teeth` & [trauma]
+K08121  [loss] {complete} `teeth` & [periodontal disease] {class i}
+K08122  [loss] {complete} `teeth` & [periodontal disease] {class ii}
+K08123  [loss] {complete} `teeth` & [periodontal disease] {class iii}
+K08124  [loss] {complete} `teeth` & [periodontal disease] {class iv}
+K08129  [loss] {complete} `teeth` & [periodontal disease]
+K08131  [loss] {complete} `teeth` & [caries] {class i}
+K08132  [loss] {complete} `teeth` & [caries] {class ii}
+K08133  [loss] {complete} `teeth` & [caries] {class iii}
+K08134  [loss] {complete} `teeth` & [caries] {class iv}
+K08139  [loss] {complete} `teeth` & [caries]
+K08191* complete loss of teeth due to other specified cause, class i
+K08192* complete loss of teeth due to other specified cause, class ii
+K08193* complete loss of teeth due to other specified cause, class iii
+K08194* complete loss of teeth due to other specified cause, class iv
+K08199* complete loss of teeth due to other specified cause class
+K0820   [atrophy] `edentulous alveolar ridge`
+K0821   [atrophy] {minimal} `mandible`
+K0822   [atrophy] {moderate} `mandible`
+K0823   [atrophy] {severe} `mandible`
+K0824   [atrophy] {minimal} `maxilla`
+K0825   [atrophy] {moderate} `maxilla`
+K0826   [atrophy] {severe} `maxilla`
+K083    [retained dental root]
+K08401  [loss] {partial} {class i} `teeth`
+K08402  [loss] {partial} {class ii} `teeth`
+K08403  [loss] {partial} {class iii} `teeth`
+K08404  [loss] {partial} {class iv} `teeth`
+K08409  [loss] {partial} `teeth`
+K08411  [loss] {partial} `teeth` & [trauma] {class i}
+K08412  [loss] {partial} `teeth` & [trauma] {class ii}
+K08413  [loss] {partial} `teeth` & [trauma] {class iii}
+K08414  [loss] {partial} `teeth` & [trauma] {class iv}
+K08419  [loss] {partial} `teeth` & [trauma]
+K08421  [loss] {partial} `teeth` & [periodontal disease] {class i}
+K08422  [loss] {partial} `teeth` & [periodontal disease] {class ii}
+K08423  [loss] {partial} `teeth` & [periodontal disease] {class iii}
+K08424  [loss] {partial} `teeth` & [periodontal disease] {class iv}
+K08429  [loss] {partial} `teeth` & [periodontal disease]
+K08431  [loss] {partial} `teeth` & [caries] {class i}
+K08432  [loss] {partial} `teeth` & [caries] {class ii}
+K08433  [loss] {partial} `teeth` & [caries] {class iii}
+K08434  [loss] {partial} `teeth` & [caries] {class iv}
+K08439  [loss] {partial} `teeth` & [caries]
+K08491* partial loss of teeth due to other specified cause, class i
+K08492* partial loss of teeth due to other specified cause, class ii
+K08493* partial loss of teeth due to other specified cause, class iii
+K08494* partial loss of teeth due to other specified cause, class iv
+K08499* partial loss of teeth due to other specified cause class
+K0850   [restoration] {unsatisfactory} `tooth`
+K0851   [restoration] {open} `margins of tooth`
+K0852   [unrepairable overhanging of dental restorative materials]
+K08530  [fractured dental restorative material] & ![loss of material]
+K08531  [fractured dental restorative material] & [loss of material]
+K08539  [fractured dental restorative material]
+K0854   [contour of existing restoration of tooth biologically incompatible with oral health]
+K0855   [allergy to existing dental restorative material]
+K0856   [poor aesthetic of existing restoration of tooth]
+K0859*  other unsatisfactory restoration of tooth
+K088*   other specified disorders of `teeth` and supporting structures
+K0881   [primary occlusal trauma]
+K0882   [secondary occlusal trauma]
+K0889   [toothache]
+K089    [disorder] `teeth`
+K090    [cysts] {developmental} `odontogenic`
+K091    [cysts] {developmental} !`odontogenic` `oral region`
+K098*   other cysts of oral region
+K099    [cyst] `oral region`
+K110    [atrophy] `salivary gland`
+K111    [hypertrophy] `salivary gland`
+K1120   [sialoadenitis]
+K1121   [sialoadenitis] {acute}
+K1122   [sialoadenitis] {acute} {recurrent}
+K1123   [sialoadenitis] {chronic}
+K113    [abscess] `salivary gland`
+K114    [fistula] `salivary gland`
+K115    [sialolithiasis]
+K116    [mucocele] `salivary gland`
+K117    [disturbance] `salivary secretion`
+K118*   other diseases of `salivary gland`
+K119    [disease] `salivary gland`
+K120    [aphthae] {recurrent} `oral`
+K121    [stomatitis]
+K122    [abscess] `mouth` !`tooth`
+        [cellulitis] `floor of mouth`
+K1230   [mucositis] !{gastrointestinal} !{vaginal}
+K1231   [mucositis] {antineoplastic therapy}
+K1232   [mucositis] {drugs}
+K1233   [mucositis] {radiation}
+K1239   [viral mucositis]
+K130    [other disease of lip]
+K131    [cheek biting]
+K1321   [leukoplakia] `oral mucosa`
+K1322   [keratinized residual ridge mucosa] !{excessive}
+K1323   [keratinized residual ridge mucosa] {excessive}
+K1324   [leukokeratosis nicotina palati]
+K1329   [disturbance] `oral epithelium`
+K133    [hairy leukoplakia]
+K134    [granuloma] `oral mucosa`
+K135    [fibrosis] `oral submucous`
+K136    [hyperplasia] {irritative} `oral mucosa`
+K1370   [lesion] `oral mucosa`
+K1379   [other lesions of oral mucosa]
+K140    [glossitis]
+K141    [geographic tongue]
+K142    [median rhomboid glossitis]
+K143    [hypertrophy] `tongue papillae`
+K144    [atrophy] `tongue papillae`
+K145    [plicated tongue]
+K146    [glossodynia]
+K148    [other diseases of tongue]
+K149    [disease] `tongue`
+K200    [esophagitis] {eosinophilic}
+K2080   [other esophagitis] !{bleeding} 
+K2081   [other esophagitis] {bleeding} 
+K2090	[esophagitis] !{bleeding} & ![gastro esophageal reflux disease]
+K2091	[esophagitis] {bleeding} & ![gastro esophageal reflux disease]
+K2100	[gastro esophageal reflux disease] {esophagitis} !{bleeding}
+        [reflux esophagitis] !{bleeding}
+K2101	[gastro esophageal reflux disease] {esophagitis} {bleeding} 
+K219    [gastro esophageal reflux disease] !{gastritis}
+K220    [achalasia] 
+K2210   [ulcer] `esophagus` & ![hemorrhage]
+K2211   [ulcer] `esophagus` & [hemorrhage]
+K222    [obstruction] !{bolus} `esophagus` 
+K223    [perforation] `esophagus`
+K224    [dyskinesia] `esophagus`
+K225    [diverticulum] `esophagus`
+K226    [gastro esophageal laceration hemorrhage syndrome]
+K2270   [barretts esophagus] & ![dysplasia]
+K22710  [barretts esophagus] & [dysplasia] {low grade}
+K22711  [barretts esophagus] & [dysplasia] {high grade}
+K22719  [barretts esophagus] & [dysplasia]
+K228    [other specified diseases of esophagus] 
+K229*    [disease] `esophagus`
+K23*     [disorder] `esophagus`
+K250    [ulcer] {acute} `gastric` & [bleeding]
+K251    [ulcer] {acute} `gastric` & [perforation]
+K252    [ulcer] {acute} `gastric` & [hemorrhage] !{loss} & [perforation]
+K253    [ulcer] {acute} `gastric` & ![hemorrhage] & ![perforation]
+K254    [gastrointestinal bleed] !{acute}
+K255    [ulcer] {chronic} `gastric` & [perforation]
+K256    [ulcer] {chronic} `gastric` & [hemorrhage] !{loss} & [perforation]
+K257    [ulcer] {chronic} `gastric` & ![hemorrhage] & ![perforation]
+K259    [ulcer] !{acute} !{chronic} `gastric` & ![hemorrhage] & ![perforation]
+K260    [ulcer] {acute} `duodenum` & [hemorrhage]
+K261    [ulcer] {acute} `duodenum` & [perforation]
+K262    [ulcer] {acute} `duodenum` & [hemorrhage] !{loss} & [perforation]
+K263    [ulcer] {acute} `duodenum` & ![hemorrhage] & ![perforation]
+K264    [ulcer] {chronic} `duodenum` & [hemorrhage]
+K265    [ulcer] {chronic} `duodenum` & [perforation]
+K266    [ulcer] {chronic} `duodenum` & [hemorrhage] !{loss} & [perforation]
+K267    [ulcer] {chronic} `duodenum` & ![hemorrhage] & ![perforation]
+K269    [ulcer] !{acute} !{chronic} `duodenum` & ![hemorrhage] & ![perforation]
+K270    [ulcer] {acute} `peptic` & [hemorrhage]
+K271    [ulcer] {acute} `peptic` & [perforation]
+K272    [ulcer] {acute} `peptic` & [hemorrhage] !{loss} & [perforation]
+K273    [ulcer] {acute} `peptic` & ![hemorrhage] & ![perforation]
+K274    [ulcer] {chronic} `peptic` & [hemorrhage]
+K275    [ulcer] {chronic} `peptic` & [perforation]
+K276    [ulcer] {chronic} `peptic` & [hemorrhage] !{loss} & [perforation]
+K277    [ulcer] {chronic} `peptic` & ![hemorrhage] & ![perforation]
+K279    [ulcer] `peptic` !{acute} !{chronic} !{history of}  & ![hemorrhage] & ![perforation]
+K280    [ulcer] {acute} `gastrojejunal` & [hemorrhage]
+K281    [ulcer] {acute} `gastrojejunal` & [perforation]
+K282    [ulcer] {acute} `gastrojejunal` & [hemorrhage] !{loss} & [perforation]
+K283    [ulcer] {acute} `gastrojejunal` & ![hemorrhage] & ![perforation]
+K284    [ulcer] {chronic} `gastrojejunal` & [hemorrhage]
+K285    [ulcer] {chronic} `gastrojejunal` & [perforation]
+K286    [ulcer] {chronic} `gastrojejunal` & [hemorrhage] !{loss} & [perforation]
+K287    [ulcer] {chronic} `gastrojejunal` & ![hemorrhage] & ![perforation]
+K289    [ulcer] `gastrojejunal` !{acute} !{chronic} & ![hemorrhage] & ![perforation]
+K2900   [gastritis] {acute} !{hemorrhage}
+K2901   [gastritis] {acute} {hemorrhage}
+K2920   [gastritis] {alcoholic} !{hemorrhage}
+K2921   [gastritis] {alcoholic} {hemorrhage}
+K2930   [gastritis] {chronic} {superficial} !{hemorrhage}
+K2931   [gastritis] {chronic} {superficial} {hemorrhage}
+K2940   [gastritis] {chronic} {atrophic} !{hemorrhage}
+K2941   [gastritis] {chronic} {atrophic} {hemorrhage}
+K2950   [gastritis] {chronic} !{atrophic} !{superficial} !{alcoholic} !{hemorrhage}
+        [unpsecified chronic gastritis] !{acute} !{atrophic} !{superficial} !{alcoholic} !{hemorrhage}
+K2951   [gastritis] {chronic} !{atrophic} !{superficial} !{alcoholic} {hemorrhage}
+K2960*  other gastritis without bleeding 
+K2961*  other gastritis with bleeding
+K2970   [gastritis] !{antral} !{fundal} !{acute} !{atrophic} !{superficial} !{alcoholic} !{hemorrhage}
+K2971   [gastritis] !{antral} !{fundal} !{acute} {hemorrhage}
+K2980   [duodenitis] & ![hemorrhage]
+K2981   [duodenitis] & [hemorrhage]
+K2990   [gastroduodenitis] & ![hemorrhage]
+K2991   [gastroduodenitis] & [hemorrhage]
+K30     [functional dyspepsia]
+K310    [dilatation] {acute} `stomach`
+K311    [stenosis] {hypertrophic} {pyloric}
+K312    [hourglass stricture] & [stenosis] `stomach`
+K313    [pylorospasm]
+K314    [diverticulum] `gastric`
+K315    [obstruction] `duodenum`
+K316    [fistula] `stomach and duodenum`
+K317    [polyp] `stomach and duodenum`
+        [polyp] `stomach`
+        [polyp] `duodenum`
+K31811  [angiodysplasia] `stomach and duodenum` & [hemorrhage]
+        [gastric antral vascular ectasia] & [hemorrhage]
+K31819  [angiodysplasia] `stomach and duodenum` & ![hemorrhage]
+        [gastric antral vascular ectasia] & ![hemorrhage]
+K3182   [dieulafoy lesion] `stomach and duodenum`
+K3183   [achlorhydria]
+K3184   [gastroparesis] !{diabetic}
+K3189   [other disease of stomach and duodenum]
+K319    [disease] `stomach and duodenum`
+K3520   [appendicitis] {acute} {peritonitis} !{perforated} !{ruptured} !{abscess}
+K3521   [appendicitis] {acute} !{perforated} !{ruptured} & [generalized] {peritonitis} {abscess}
+K3530   [appendicitis] {acute} !{perforated} !{ruptured} & [localized] {peritonitis} !{gangrene}
+K3531   [appendicitis] {acute} !{perforated} !{ruptured} & [localized] {peritonitis} {gangrene} !{perforation}
+K3532   [perforated appendicitis] !{abscess}
+K3533   [perforated appendicitis] {acute} & [abscess]
+K3580   [appendicitis] {acute} !{perforation} !{peritonitis} !{ruptured} !{gangrene} !{localized} !{generalized}
+K3589*  other {acute} [appendicitis]
+K36     [other appendicitis]
+K37     [appendicitis] !{acute}
+K380    [hyperplasia] `appendix`
+K381    [concretions] `appendix`
+K382    [diverticulum] `appendix`
+K383    [fistula] `appendix`
+K388*   other specified diseases of `appendix`
+K389    [disease] `appendix`
+K4000   [incarcerated hernia] !{recurrent} `bilateral inguinal` & ![gangrene]
+K4001   [incarcerated hernia] {recurrent} `bilateral inguinal` & ![gangrene]
+K4010   [incarcerated hernia] !{recurrent} `bilateral inguinal` & [gangrene] !{without}
+K4011   [hernia] !{recurrent} `bilateral inguinal` & [gangrene] !{without}
+K4020   [hernia] !{recurrent} `bilateral inguinal` & ![obstruction] & ![gangrene]
+K4021   [hernia] !{recurrent} `bilateral inguinal` & ![obstruction] & ![gangrene]
+K4030   [hernia] !{recurrent} `unilateral inguinal` & [incarcerated] & ![gangrene] 
+        [hernia] !{recurrent} `inguinal` & [incarcerated] & ![gangrene]
+K4031   [hernia] {recurrent} `inguinal` !{bilateral} & [incarcerated] & ![gangrene]
+        [hernia] {recurrent} `unilateral inguinal` & [incarcerated] & ![gangrene]
+K4040   [hernia] !{recurrent} `inguinal` & [gangrene] !{without}
+        [hernia] !{recurrent} `inguinal` !{bilateral} & [gangrene] !{without}
+K4041   [hernia] {recurrent} `inguinal` & [gangrene] !{without}
+        [hernia] {recurrent} `inguinal` !{bilateral} & [gangrene] !{without}
+K4090   [hernia] !{bilateral} `inguinal` !{recurrent} & ![incarcerated] & ![gangrene]
+K4091   [hernia] !{bilateral} `inguinal` {recurrent} & ![incarcerated] & ![gangrene]
+K4100   [incarcerated hernia] !{recurrent} `bilateral femoral` & ![gangrene]
+K4101   [incarcerated hernia] !{recurrent} `bilateral femoral` & ![gangrene]
+K4110   [hernia] !{recurrent}!{aftercare} `bilateral femoral` & [gangrene] !{without}
+K4111   [hernia] {recurrent} !{aftercare} `bilateral femoral` & [gangrene] !{without}
+K4120   [hernia] !{recurrent} !{aftercare} `bilateral femoral` & ![obstruction] & ![gangrene]
+K4121   [hernia] !{recurrent} !{aftercare} `bilateral femoral` & ![obstruction] & ![gangrene]
+K4130   [incarcerated hernia] !{recurrent} `unilateral femoral` & ![gangrene]
+K4131   [incarcerated hernia] !{recurrent} `unilateral femoral` & ![gangrene]
+K4140   [hernia] !{recurrent} !{aftercare} `unilateral femoral` & [gangrene] !{without}
+K4141   [hernia] !{recurrent} !{aftercare} `unilateral femoral` & [gangrene] !{without}
+K4190   [hernia] !{recurrent} !{aftercare} `unilateral femoral` & ![incarcerated] & ![gangrene]
+K4191   [hernia] !{recurrent} !{aftercare} `unilateral femoral` & ![incarcerated] & ![gangrene]
+K420    [hernia] {umbilical} !{ventral} !{aftercare} & [incarcerated] & ![gangrene]
+K421    [hernia] {umbilical} !{ventral} !{aftercare} & [gangrene] !{without}
+K429    [hernia] {umbilical} !{ventral} !{aftercare} !{obstruction} !{gangrene}
+K430    [hernia] {incisional} {ventral} !{aftercare} & [incarcerated] & ![gangrene]
+K431    [hernia] {incisional} {ventral} !{aftercare} & [gangrene] !{without}
+K432    [hernia] {incisional} {ventral} !{aftercare} & ![obstruction] & ![gangrene]
+K433    [hernia] `parastomal` {ventral} !{aftercare} {obstruction} & ![gangrene]
+K434    [hernia] `parastomal` {ventral} !{aftercare} & [gangrene] !{without}
+K435    [hernia] `parastomal`{ventral} !{aftercare} & ![obstruction] & ![gangrene]
+K436    [hernia] {ventral} !{aftercare} {obstruction} & ![gangrene]
+K437    [hernia] {ventral} !{aftercare} & [gangrene] !{without}
+K439    [hernia] {ventral} !{umbilical} !{aftercare} & ![obstruction] & ![gangrene]
+K440    [hernia] `diaphragm` !{aftercare} {obstruction} & ![gangrene]
+K441    [hernia] `diaphragm` !{aftercare} & [gangrene] !{without}
+K449    [hernia] `hiatal` !{aftercare} & ![obstruction] & ![gangrene]
+K450    [other hernia] {obstruction} & ![gangrene]
+K451    [other hernia] & [gangrene] !{without} & ![obstruction] 
+K458*   [hernia] `abdominal` & ![obstruction] & ![gangrene]
+K460    [hernia] `abdominal hernia` !{ventral} {obstruction} & ![gangrene] & ![vaginal enterocele]
+K461    [hernia] `abdominal hernia` !{ventral} & [gangrene] !{without}
+K469    [hernia] `abdominal hernia` !{ventral} {non-obstructing} & ![gangrene]
+K5000   [crohns disease] `small intestine` !{colon} !{complication}
+K50011  [crohns disease] `small intestine` !{colon} & [hemorrhage] `rectum`
+K50012  [crohns disease] `small intestine` !{colon} {obstruction} `intestine`
+K50013  [crohns disease] `small intestine` !{colon} & [fistula]
+K50014  [crohns disease] `small intestine` !{colon} & [abscess]
+K50018* [crohns disease] `small intestine` & other complication
+K50019  [crohns disease] `small intestine` {complication}
+K5010   [crohns disease] `colon` !{small intestine} !{complication}
+K50111  [crohns disease] `colon` !{small intestine} & [hemorrhage] `rectum`
+K50112  [crohns disease] `colon` !{small intestine} {obstruction} `intestine`
+K50113  [crohns disease] `colon` !{small intestine} & [fistula]
+K50114  [crohns disease] `colon` !{small intestine} & [abscess]
+K50118* [crohns disease] `colon` & [other complication]
+K50119  [crohns disease] `colon`!{small intestine} & [complication]
+K5080   [crohns disease] `small intestine` `colon` !{hemorrhage}
+K50811  [crohns disease] `small intestine` `colon` & [hemorrhage] `rectum`
+K50812  [crohns disease] `small intestine` `colon` {obstruction} `intestine`
+K50813  [crohns disease] `small intestine` `colon` & [fistula]
+K50814  [crohns disease] `small intestine` `colon` & [abscess]
+K50818* [crohns disease] `small intestine` `colon` & other complication
+K50819  [crohns disease] `small intestine` `colon` & [complication]
+K5090   [crohns disease] !{complication} 
+K50911  [crohns disease] & [hemorrhage] `rectum`
+K50912  [crohns disease] {obstruction} `intestine`
+K50913  [crohns disease] & [fistula]
+K50914  [crohns disease] & [abscess]
+K50918* [crohns disease], with other complication
+K50919  [crohns disease] {complication}
+K5100   [pancolitis] {ulcerative} & ![complication]
+K51011  [pancolitis] {ulcerative} & [hemorrhage] `rectum`
+K51012  [pancolitis] {ulcerative} {obstruction} `intestine`
+K51013  [pancolitis] {ulcerative} & [fistula]
+K51014  [pancolitis] {ulcerative} & [abscess]
+K51018* [pancolitis] {ulcerative} with other complication
+K51019  [pancolitis] {ulcerative} & [complication]
+K5120   [proctitis] {ulcerative} & ![complication]
+K51211  [proctitis] {ulcerative} & [hemorrhage] `rectum`
+K51212  [proctitis] {ulcerative} {obstruction} `intestine`
+K51213  [proctitis] {ulcerative} & [fistula]
+K51214  [proctitis] {ulcerative} & [abscess]
+K51218* [proctitis] {ulcerative} with other complication
+K51219  [proctitis] {ulcerative} & [complication]
+K5130   [rectosigmoiditis] {ulcerative} & ![complication]
+K51311  [rectosigmoiditis] {ulcerative} & [hemorrhage] `rectum`
+K51312  [rectosigmoiditis] {ulcerative} {obstruction} `intestine`
+K51313  [rectosigmoiditis] {ulcerative} & [fistula]
+K51314  [rectosigmoiditis] {ulcerative} & [abscess]
+K51318* [rectosigmoiditis] {ulcerative} with other complication
+K51319  [rectosigmoiditis] {ulcerative} & [complication]
+K5140   [polyp] {inflammatory} `colon` & ![complication]
+K51411  [polyp] {inflammatory} `colon` & [hemorrhage] `rectum`
+K51412  [polyp] {inflammatory} `colon` {obstruction} `intestine`
+K51413  [polyp] {inflammatory} `colon` & [fistula]
+K51414  [polyp] {inflammatory} `colon` & [abscess]
+K51418  [polyp] {inflammatory} `colon` !{obstruction} !{hemorrhage} !{fistula} !{abscess}
+K51419  [polyp] {inflammatory} `colon` & [complication]
+K5150   [left sided colitis] & ![complication]
+K51511  [left sided colitis] & [hemorrhage] `rectum`
+K51512  [left sided colitis] {obstruction} `intestine`
+K51513  [left sided colitis] & [fistula]
+K51514  [left sided colitis] & [abscess]
+K51518* [left sided colitis] with other complication
+K51519  [left sided colitis] & [complication]
+K5180   [other ulcerative colitis] & ![complication]
+K51811  [colitis] {ulcerative} & [hemorrhage] `rectum`
+K51812  [colitis] {ulcerative} {obstruction} `intestine`
+K51813  [colitis] {ulcerative} & [fistula]
+K51814  [colitis] {ulcerative} & [abscess]
+K51818* [colitis] {ulcerative} with other complication
+K51819  [colitis] {ulcerative} & [complication]
+K5190   [colitis] {ulcerative} & ![complication]
+K51911  [colitis] {ulcerative} & [hemorrhage] `rectum`
+K51912  [colitis] {ulcerative} {obstruction} `intestine`
+K51913  [colitis] {ulcerative} & [fistula]
+K51914  [colitis] {ulcerative} & [abscess]
+K51918* [colitis] {ulcerative} & complication
+K51919  [colitis] {ulcerative} & [complication]
+K520    [gastroenteritis] & [radiation]
+        [colitis] & [radiation]
+K521    [gastroenteritis] {toxic}
+        [colitis] {toxic}
+K522    [gastroenteritis] {allergic}
+        [colitis] {allergic}
+        [gastroenteritis] {dietetic}
+        [colitis] {dietetic}
+K5221   [food protein induced enterocolitis syndrome]
+K5222   [food protein induced enteropathy]
+K5229*  other allergic and dietetic gastroenteritis and colitis
+K523    [indeterminate colitis]
+K5281   [gastritis] {eosinophilic}
+        [gastroenteritis] {eosinophilic}
+K5282   [colitis] {eosinophilic}
+K52831  [collagenous colitis]
+K52832  [lymphocytic colitis]
+K52838* [other microscopic colitis]
+K52839  [microscopic colitis]
+K5289*  other specified noninfective gastroenteritis and colitis
+K529    [colitis] !{ulceration} !{indeterminate} !{lymphocytic} !{microscopic} !{history} !{ischemic} !{cryptosporidiosis}
+K550    [disorder] {acute} `vascular` `intestine`
+K55011* focal (segmental) acute (reversible) ischemia of small intestine
+K55012* diffuse acute (reversible) ischemia of small intestine
+K55019*  acute (reversible) ischemia of small intestine
+K55021*  focal (segmental) acute infarction of small intestine
+K55022*  diffuse acute infarction of small intestine
+K55029*  acute infarction of small intestine, extent
+K55031*  focal (segmental) acute (reversible) ischemia of large intestine
+K55032*  diffuse acute (reversible) ischemia of large intestine
+K55039*  acute (reversible) ischemia of large intestine, extent
+K55041*  focal (segmental) acute infarction of large intestine
+K55042*  diffuse acute infarction of large intestine
+K55049   [infarction] `large intestine`
+K55051*  focal (segmental) acute (reversible) ischemia of intestine, part
+K55052*  diffuse acute (reversible) ischemia of intestine, part
+K55059*  acute (reversible) ischemia of intestine, part and extent
+K55061*  focal (segmental) acute infarction of intestine, part
+K55062*  diffuse acute infarction of intestine, part
+K55069*  acute infarction of intestine, part and extent
+K551    [disorder] {chronic} `vascular` `intestine`
+K5520   [angiodysplasia] `colon` & ![hemorrhage]
+K5521   [angiodysplasia] `colon` & [hemorrhage]
+K5530   [necrotizing enterocolitis]
+K5531   [necrotizing enterocolitis] {stage 1}
+K5532   [necrotizing enterocolitis] {stage 2}
+K5533   [necrotizing enterocolitis] {stage 3}
+K558*   other vascular disorders of `intestine`
+K559    [ischemic colitis]
+K560    [paralytic ileus]
+K561    [intussusception]
+K562    [volvulus]
+K563    [gallstone ileus]
+K5641   [fecal impaction]
+K5649   [impaction] `intestine`
+K5650   [intestinal adhesions bands]
+K5651   [intestinal adhesions bands] {partial obstruction}
+K5652   [intestinal adhesions] & [complete obstruction] `bowel`
+K56600  [intestinal obstruction] {partial}
+K56601  [intestinal obstruction] {complete} !{adhesions}
+K56609  [intestinal obstruction]
+K56690  [other intestinal obstruction] {partial}
+K56691* [other intestinal obstruction] {complete}
+K56699  [other intestinal obstruction] !{complete obstruction} !{partial obstruction}
+K567    [ileus]
+K5700   [diverticulitis] `small intestine` & [perforation] & [abscess] & ![hemorrhage]
+K5701   [diverticulitis] `small intestine` & [perforation] & [abscess] & [hemorrhage]
+K5710   [diverticulosis] `small intestine` & ![perforation] & ![abscess] & ![hemorrhage]
+K5711   [diverticulosis] `small intestine` & ![perforation] & ![abscess] & [hemorrhage]
+K5712   [diverticulitis] `small intestine` & ![perforation] & ![abscess] & ![hemorrhage]
+K5713   [diverticulitis] `small intestine` & ![perforation] & ![abscess] & [hemorrhage]
+K5720   [diverticulitis] & [perforation] & [abscess] & ![hemorrhage]
+K5721   [diverticulitis] & [perforation] & [abscess] & [hemorrhage]
+K5730   [diverticulosis] `large intestine` & ![perforation] & ![abscess] !{status post} & ![hemorrhage]
+K5731   [diverticulosis] & [hemorrhage] !{loss} & [colon] & ![perforation] & ![abscess] !{status post}
+K5732   [diverticulitis] !{without} & ![perforation] & ![abscess] !{status post} & ![hemorrhage] `large intestine` 
+K5733   [diverticulitis] & [hemorrhage] !{loss} & [colon] & ![perforation] & ![abscess] !{status post}
+K5740   [diverticulitis] `small intestine` `colon` & [perforation] & [abscess] & ![hemorrhage]
+K5741   [diverticulitis] `small intestine` `colon` & [perforation] & [abscess] & [hemorrhage]
+K5750   [diverticulosis] `small intestine` `colon` & ![perforation] & ![abscess] & ![hemorrhage]
+K5751   [diverticulosis] `small intestine` `colon` & ![perforation] & ![abscess] & [hemorrhage]
+K5752   [diverticulitis] `small intestine` `colon` & ![perforation] & ![abscess] & ![hemorrhage]
+K5753   [diverticulitis] `small intestine` `colon` & ![perforation] & ![abscess] & [hemorrhage]
+K5780   [diverticulitis] `intestine` & [perforation] & [abscess] & ![hemorrhage] `intestine`
+K5781   [diverticulitis] `intestine` & [perforation] & [abscess] & [hemorrhage]
+K5790   [diverticulosis] !{small intestine} !{colon} !{perforation} !{abscess} !{hemorrhage}
+K5791*  [diverticulosis] `intestine` & ![perforation] & ![abscess] & [hemorrhage]
+K5792*  [diverticulitis] `intestine` & ![perforation] & ![abscess] & ![hemorrhage]
+K5793*  [diverticulitis] `intestine` & ![perforation] & ![abscess] & [hemorrhage]
+K580    [irritable bowel syndrome] & [diarrhea] !{history}
+K581    [irritable bowel syndrome] {constipation}
+K582    [mixed irritable bowel syndrome]
+K588*   other irritable bowel syndrome
+K589    [irritable bowel syndrome]
+K5900   [constipation] !{chronic}
+K5901   [constipation] {slow transit}
+K5902   [constipation] {outlet dysfunction}
+K5903   [constipation] {drug induced}
+K5904   [chronic idiopathic constipation]
+K5909   [chronic constipation]
+K591    [diarrhea] {functional}
+K592    [neurogenic bowel]
+K5931   [toxic megacolon]
+K5939*  other megacolon
+K594    [anal spasm]
+K598*   [other specified functional intestinal disorders] "Deleted ICD10 FY2021"
+K5981	[ogilvie syndrome] 
+K5989	[other specified functional intestinal disorders] 
+K599    [disorder] {functional} `intestine`
+K600    [fissure] {acute} `anus`
+K601    [fissure] {chronic} `anus`
+K602    [fissure] `anus`
+K603    [fistula] `anus` !{imperforate}
+K604    [fistula] `rectum`
+K605    [fistula] `anorectal`
+K610    [abscess] `anus`
+K611    [abscess] `rectum`
+K612    [abscess] `anorectal`
+K613    [abscess] `ischiorectal`
+K614    [abscess] `intrasphincteric`
+K620    [polyp] `anus` !{inflammatory} !{adenomatous} !{benign}
+K621    [polyp] `rectum` !{inflammatory} !{adenomatous} !{benign}
+K622    [prolapse] `anus`
+K623    [prolapse] `rectum`
+K624    [stenosis] `anus`
+        [stenosis] `rectum`
+K625    [hemorrhage] !{loss} `anus`
+        [hemorrhage] !{loss} `rectum`
+K626    [ulcer] `anus`
+        [ulcer] `rectum`
+K627    [proctitis] {radiation }
+K6281   [tear] {healed} {nontraumatic} {old} `anal sphincter`
+K6282   [dysplasia] `anus`
+K6289   [pain] `rectum`
+K629*   [disease] `anus`
+K630    [abscess] `intestine`
+K631    [perforation] `intestine` !{duodenum} !{traumatic} & ![diverticulitis] & ![peritonitis]
+K632    [fistula] `intestine`
+        [enterocutaneous fistula]
+K633    [ulcer] `intestine`
+K634    [enteroptosis]
+K635    [polyp] `colon` !{past or family hx or specimens} !{adenomatous}
+        [hyperplastic polyps] 
+K6381   [dieulafoy lesion] `intestine`
+K6389   [other specified disease] `intestine`
+K639    [disease] `intestine` !{crohns}
+K640    [hemorrhoids] {first degree}
+        [hemorrhoids] !{prolapse}
+K641    [hemorrhoids] {second degree}
+K642    [hemorrhoids] {third degree}
+K643    [hemorrhoids] {fourth degree}
+K644    [hemorrhoids] {external} !{thrombosed}
+        [hemorrhoids] {residual} !{thrombosed}
+        [skin tags] `anus` !{thrombosed}
+K645    [external hemorrhoids] {thrombosed}
+K648    [internal hemorrhoids] !{grade} !{stage} !{residual} !{external}
+K649    [hemorrhoid] !{grade} !{stage} !{degree}
+K650    [peritonitis] {generalized} {acute}
+K651    [abscess] {generalized}
+K652    [spontaneous bacterial peritonitis]
+K653    [choleperitonitis]
+K654    [sclerosing mesenteritis]
+K658*   other peritonitis
+K659    [peritonitis] & ![tuberculous]
+K660    [peritoneal adhesions]
+K661    [hemoperitoneum]
+K668*   other specified disorders of peritoneum
+K669    [disorder] `peritoneum`
+K67     [disorder] `peritoneum` & [disease] {infectious}
+K6811   [abscess] `retroperitoneal`
+K6812   [abscess] `psoas muscle`
+K6819   [abscess] `retroperitoneal`
+K689    [disorder] `retroperitoneum`
+K700    [fatty liver] {alcoholic}
+K7010   [hepatitis] {alcoholic} & ![ascites]
+K7011   [hepatitis] {alcoholic} & [ascites]
+K702    [fibrosis] {alcoholic} & [sclerosis] `liver`
+K7030   [cirrhosis] & [alcoholic] & ![ascites]
+K7031   [cirrhosis] & [ascites] & [alcoholic]
+K7040   [failure] {alcoholic} `hepatic` & ![coma]
+K7041   [failure] {alcoholic} `hepatic` & [coma]
+K709    [alcoholic liver disease]
+K710    [toxic liver disease] & [cholestasis]
+K7110   [toxic liver disease] & `hepatic` [necrosis] & ![coma]
+K7111   [toxic liver disease] & `hepatic` [necrosis] & [coma]
+K712    [toxic liver disease] & [hepatitis] {acute}
+K713    [toxic liver disease] & [hepatitis] {chronic} {persistent}
+K714    [toxic liver disease] & [hepatitis] {chronic} {lobular}
+K7150   [toxic liver disease] & [hepatitis] {chronic} {active} & ![ascites]
+K7151   [toxic liver disease] & [hepatitis] {chronic} {active} & [ascites]
+K716    [toxic liver disease] & [hepatitis]
+K717    [toxic liver disease] & [fibrosis] & [cirrhosis] `liver`
+K718*   [toxic liver disease] with other [disorder] of liver
+K719    [toxic liver disease]
+K7200   [hepatic failure] {acute} & ![coma] & ![transplant failure] `liver`
+        [liver shock] {acute} & ![coma]
+K7201   [hepatic failure] {acute} & [coma] & ![transplant failure] `liver`
+        [liver shock] {acute} & [coma]
+K7210   [hepatic failure] {chronic} & ![coma]
+        [liver shock] {chronic} & ![coma]
+K7211   [hepatic failure] {chronic} & [coma]
+        [liver shock] {chronic} & [coma]
+K7290   [hepatic failure] & ![coma] & ![transplant failure] `liver`
+K7291   [hepatic failure] & [coma] & ![transplant failure] `liver` 
+K730    [hepatitis] {chronic} {persistent}
+K731    [hepatitis] {chronic} {lobular}
+K732    [hepatitis] {chronic} {active}
+K738*   other {chronic} [hepatitis]
+K739    [hepatitis] {chronic} !{c}
+K740*   [fibrosis] `hepatic` "Deleted ICD10 FY2021"
+K7400	[hepatic fibrosis] !{early} !{advanced}
+K7401	[hepatic fibrosis] {early} 
+K7402	[hepatic fibrosis] {advanced} 
+K741    [sclerosis] `hepatic`
+K742    [fibrosis] `hepatic` & [sclerosis] `hepatic`
+K743    [cirrhosis] {primary} `biliary`
+K744    [cirrhosis] {secondary} `biliary`
+K745    [cirrhosis] `biliary`
+K7460   [cirrhosis] !`biliary` !{alcholic} !{primary} !{secondary}
+K7469   [other cirrhosis] `liver` !{alcholic}
+K750    [abscess] `liver`
+K751    [phlebitis] `portal vein`
+K752    [hepatitis] {nonspecific} {reactive}
+K753    [hepatitis] {granulomatous}
+K754    [hepatitis] {autoimmune}
+K7581   [nonalcoholic steatohepatitis]
+K7589*  [disease] {inflammatory} `liver`
+K759    [hepatitis] {inflammatory} !{acute} !{chronic} !{vaccine} 
+K760    [fatty liver]
+K761    [congestive hepatopathy]
+        [congestion] {chronic} {passive} `liver`
+K762    [necrosis] {central} {hemorrhagic} `liver`
+K763    [infarction] `liver`
+K764    [hepatis] {peliosis}
+K765    [hepatic veno occlusive disease]
+K766    [portal hypertension]
+K767    [hepatorenal syndrome]
+K7681   [hepatopulmonary syndrome]
+K7689   [other specified diseases of liver]
+K769    [liver disease]
+        [hypodense liver masses]
+K77*    [liver disorders in diseases classified elsewhere]
+K8000   [calculus] `gallbladder` & [acute cholecystitis] 
+        [calculus of gallbladder] & [acute cholecystitis] & ![obstruction]
+K8001   [calculus] `gallbladder` & [acute cholecystitis] {obstruction}
+        [calculus of gallbladder] & [cholecystitis] {acute} {obstruction}
+K8010   [calculus] `gallbladder` & [cholecystitis] !{acute} & ![obstruction]
+        [cholelithiasis] & [cholecystitis] !{acute} & ![obstruction]
+K8011   [calculus] `gallbladder` & [cholecystitis] {chronic} {obstruction}
+        [calculus of gallbladder] & [cholecystitis] {chronic} {obstruction}
+K8012   [cholelithiasis] & [cholecystitis] {chronic} & [cholecystitis] {acute} & ![obstruction]
+        [calculus of gallbladder] & [cholecystitis] {acute} {chronic} & ![obstruction]
+K8013   [calculus] `gallbladder` & [cholecystitis] {acute} {chronic} {obstruction}
+        [calculus of gallbladder] & [cholecystitis] {acute} {chronic} {obstruction}
+K8018*  [calculus] `gallbladder` & [other cholecystitis] & ![obstruction]
+K8019*  [calculus] `gallbladder` & [cholecystitis] {obstruction}
+K8020   [calculus] `gallbladder` & ![cholecystitis] & ![obstruction]
+        [calculus of gallbladder] & ![cholecystitis] & ![obstruction]
+K8021   [calculus] `gallbladder` {obstruction} `bile duct` & ![cholecystitis]
+        [calculus of gallbladder] {obstruction} & ![cholecystitis]
+K8030   [calculus] `bile duct` & [cholangitis] & ![obstruction]
+        [calculus of bile duct] & [cholangitis] & ![obstruction]
+K8031   [calculus] `bile duct` & [cholangitis] {obstruction}
+        [calculus of bile duct] & [cholangitis] {obstruction}
+K8032   [calculus] `bile duct` & [cholangitis] {acute} & ![obstruction]
+        [calculus of bile duct] & [cholangitis] {acute} & ![obstruction]
+K8033   [calculus] `bile duct` & [cholangitis] {acute} {obstruction}
+        [calculus of bile duct] & [cholangitis] {acute} {obstruction}
+K8034   [calculus] `bile duct` & [cholangitis] {chronic} & ![obstruction]
+        [calculus of bile duct] & [cholangitis] {chronic} & ![obstruction]
+K8035   [calculus] `bile duct` & [cholangitis] {chronic} {obstruction}
+        [calculus of bile duct] & [cholangitis] {chronic} {obstruction}
+K8036   [calculus] `bile duct` & [cholangitis] {acute} {chronic} & ![obstruction]
+        [calculus of bile duct] & [cholangitis] {acute} {chronic} & ![obstruction]
+K8037   [calculus] `bile duct` & [cholangitis] {acute} {chronic} {obstruction}
+        [calculus of bile duct] & [cholangitis] {acute} {chronic} {obstruction}
+K8040   [calculus] `bile duct` & [cholecystitis] & [cholangitis] & ![obstruction]
+        [calculus of bile duct] & [cholecystitis] & [cholangitis] & ![obstruction]
+K8041   [calculus] `bile duct` & [cholecystitis] & [cholangitis] {obstruction}
+        [calculus of bile duct] & [cholecystitis] & [cholangitis] {obstruction}
+K8042   [calculus] `bile duct` & [cholecystitis]{acute} & [cholangitis] & ![obstruction]
+        [calculus of bile duct] & [cholecystitis] {acute} & [cholangitis] & ![obstruction]
+K8043   [calculus] `bile duct` & [cholecystitis] {acute} & [cholangitis] {obstruction}
+        [calculus of bile duct] & [cholecystitis] {acute} & [cholangitis] {obstruction}
+K8044   [calculus] `bile duct` & [cholecystitis] {chronic} & [cholangitis] & ![obstruction]
+        [calculus of bile duct] & [cholecystitis] {chronic} & [cholangitis] & ![obstruction]
+K8045   [calculus] `bile duct` & [cholecystitis] {chronic} & [cholangitis] {obstruction}
+        [calculus of bile duct] & [cholecystitis] {chronic} & [cholangitis] {obstruction}
+K8046   [calculus] `bile duct` & [cholecystitis] {acute} {chronic} & [cholangitis] & ![obstruction]
+        [calculus of bile duct] & [cholecystitis] {acute} {chronic} & [cholangitis] & ![obstruction]
+K8047   [calculus] `bile duct` & [cholecystitis] {acute} {chronic} & [cholangitis] {obstruction}
+        [calculus of bile duct] & [cholecystitis] {acute} {chronic} & [cholangitis] {obstruction}
+K8050   [calculus] `bile duct` & ![cholangitis] & ![cholecystitis] & ![obstruction]
+        [choledocholithiasis] & ![cholangitis] & ![cholecystitis] & ![obstruction]
+K8051   [calculus] `bile duct` {obstruction} `biliary` !{cholangitis} !{cholecystitis}
+        [calculus of bile duct] {obstruction} `biliary` !{cholangitis} !{cholecystitis}
+K8060   [calculus] `gallbladder` & [calculus] `bile duct` & [cholecystitis] & ![obstruction]
+        [gallstone] `gallbladder` & [calculus of bile duct] & [cholecystitis] & ![obstruction]
+K8061   [calculus] `gallbladder` & [calculus] `bile duct` & [cholecystitis] {obstruction}
+        [gallstone] `gallbladder` & [calculus of bile duct] & [cholecystitis] {obstruction}
+K8062   [calculus] `gallbladder` & [calculus] `bile duct` & [cholecystitis] {acute} & ![obstruction]
+        [gallstone] `gallbladder` & [calculus of bile duct] & [cholecystitis] {acute} & ![obstruction]
+K8063   [calculus] `gallbladder` & [calculus] `bile duct` & [cholecystitis] {acute} {obstruction}
+        [calculus of gallbladder] & [calculus of bile duct] & [cholecystitis] {acute} {obstruction}
+K8064   [calculus] `gallbladder` & [calculus] `bile duct` & [cholecystitis] {chronic} & ![obstruction]
+        [calculus of gallbladder] & [calculus of bile duct] & [cholecystitis] {chronic} & ![obstruction] !{acute}
+K8065   [calculus] `gallbladder` & [calculus] `bile duct` & [cholecystitis] {chronic} {obstruction} !{acute}
+        [calculus of gallbladder] & [calculus of bile duct]  & [cholecystitis] {chronic} {obstruction} !{acute}
+K8066   [calculus] `gallbladder` & [calculus] `bile duct` & [cholecystitis] {acute} {chronic} & ![obstruction]
+        [calculus of gallbladder] & [calculus of bile duct] & [cholecystitis] {acute} {chronic} & ![obstruction]
+K8067   [calculus] `gallbladder` & [calculus] `bile duct` & [cholecystitis] {acute} {chronic} {obstruction}
+        [calculus of gallbladder] & [calculus of bile duct] & [cholecystitis] {acute} {chronic} {obstruction}
+K8070   [calculus] `gallbladder` & [calculus] `bile duct` !{cholecystitis} & ![obstruction] `bile duct`
+        [calculus of gallbladder] & [calculus of bile duct] !{cholecystitis} & ![obstruction] `bile duct`
+K8071   [calculus] `gallbladder` & [calculus] `bile duct` & ![cholecystitis] {obstruction}
+        [calculus of gallbladder] & [calculus of bile duct] !{cholecystitis} {obstruction}
+K8080*  [calculus] `gallbladder` & ![obstruction]
+        [cholelithiasis] & ![obstruction]
+K8081*  [calculus] `gallbladder` {obstruction}
+        [cholelithiasis] {obstruction}
+K810    [acute cholecystitis] & ![calculus] & ![cholelithiasis]
+K811    [cholecystitis] {chronic} & ![cholelithiasis]
+K812    [cholecystitis] {acute on chronic}
+K819    [cholecystitis] !{acute} !{chronic}
+K820    [obstruction] `gallbladder` & ![cholelithiasis]
+K821    [hydrops] `gallbladder`
+K822    [perforation] `gallbladder`
+K823    [fistula] `gallbladder`
+K824    [cholesterolosis] `gallbladder`
+K828    [dyskinesia] `biliary`
+        [other specified diseases of gallbladder]
+K829*   [disease] `gallbladder`
+K82A1   [gangrene] `gallbladder`
+K82A2   [perforation] `gallbladder` & [cholecystitis]
+K8301   [primary sclerosing cholangitis]
+K8309   [other cholangitis]
+K831    [obstruction] {obstructive} `bile duct`
+K832    [perforation] `bile duct`
+K833    [fistula] `bile duct`
+K834    [spasm] `sphincter of oddi`
+K835    `biliary` [cyst]
+K838    [other specified diseases of biliary tract]
+K839    [disease of the biliary tract] !{specified disease}
+K8500   [idiopathic acute pancreatitis without necrosis or infection]
+K8501   [idiopathic acute pancreatitis with uninfected necrosis]
+K8502   [idiopathic acute pancreatitis with infected necrosis]
+K8510   [biliary acute pancreatitis without necrosis or infection]
+K8511   [biliary acute pancreatitis with uninfected necrosis]
+K8512   [biliary acute pancreatitis with infected necrosis]
+K8520   [pancreatitis] & [alcohol induced] & ![necrosis or infection]
+K8521   [alcohol induced acute pancreatitis with uninfected necrosis]
+K8522   [alcohol induced acute pancreatitis with infected necrosis]
+K8530   [drug induced acute pancreatitis without necrosis or infection]
+K8531   [drug induced acute pancreatitis with uninfected necrosis]
+K8532   [drug induced acute pancreatitis with infected necrosis]
+K8580*  other acute pancreatitis without necrosis or infection
+K8581*  other acute pancreatitis with uninfected necrosis
+K8582*  other acute pancreatitis with infected necrosis
+K8590   [acute pancreatitis] !{necrosis} !{infection}
+        [pancreatitis]
+K8591   [acute pancreatitis with uninfected necrosis]
+K8592   [acute pancreatitis with infected necrosis]
+K860    [pancreatitis] {alcohol induced} {chronic}
+K861    [chronic pancreatitis]
+K862    [cyst] `pancreas`
+        [cyst] {pancreatic}
+K863    [pseudocyst] `pancreas`
+        [pseudocyst] {pancreatic}
+K8681   [exocrine pancreatic insufficiency]
+K8689   [other specified diseases of pancreas]
+K869*   [disease] `pancreas`
+K87*    disorders of gallbladder, biliary tract and pancreas in diseases classified elsewhere
+K900    [celiac disease]
+K901    [tropical sprue]
+K902    [blind loop syndrome]
+K903    [steatorrhea] `pancreas`
+K904    [malabsorption] & [intolerance]
+K9041   [non celiac gluten sensitivity]
+K9049   [malabsorption due to intolerance]
+K9081   [whipples disease]
+K9089*  [malabsorption] `intestine`
+K909    [malabsorption] `intestine`
+K910    [vomiting] & [gastrointestinal surgery]
+K911    [postgastric surgery syndrome]
+K912    [malabsorption] {postsurgical}
+K9130   [postprocedural intestinal obstruction]
+K9131   [postprocedural intestinal obstruction] {partial}
+K9132   [postprocedural intestinal obstruction] {complete}
+K915    [postcholecystectomy syndrome]
+K9161   [hemorrhage] {intraoperative} `digestive system organ` & [digestive sytem procedure]
+        [hematoma] {intraoperative} `digestive system organ` & [digestive sytem procedure]
+K9162   [hemorrhage] {intraoperative} `digestive system organ` & [procedure]
+        [hematoma] {intraoperative} `digestive system organ` & [procedure]
+K9171   [puncture] {accidental}  `digestive system organ` & [digestive system procedure]
+        [laceration] {accidental}  `digestive system organ` & [digestive system procedure]
+K9172   [puncture] {accidental}  `digestive system organ` & [procedure]
+        [laceration] {accidental}  `digestive system organ` & [procedure]
+K9181   [complication] {intraoperative} `digestive system organ`
+K9182   [hepatic failure] {postprocedural}
+K9183   [postprocedural hepatorenal syndrome]
+K91840  [hemorrhage] {postprocedural} `digestive system organ` & [digestive system procedure]
+        [hematoma] {postprocedural} `digestive system organ` & [digestive system procedure]
+K91841  [hemorrhage] {postprocedural} `digestive system organ` & [procedure]
+        [hematoma] {postprocedural} `digestive system organ` & [procedure]
+K91850  [pouchitis]
+K91858* other complications of intestinal pouch
+K9186   [cholelithiasis] {retained} & [cholecystectomy]
+K91870  [postprocedural hematoma] `digestive system organ or structure` {following a digestive system procedure}
+K91871  [postprocedural hematoma] `digestive system organ or structure` {following other procedure}
+K91872  [postprocedural seroma] `digestive system organ or structure` {following a digestive system procedure}
+K91873  [postprocedural seroma] `digestive system organ or structure` {following other procedure}
+K9189   [other post procedural complications and disorders of the digestive system] & [postoperative adynamic ileus]
+        [other post procedural complications and disorders of the digestive system] & [adynamic ileus] {postsurgical}
+        [complication] {postprocedural} `digestive system`
+K920    [hematemesis]
+K921    [melena]
+K922    [hemorrhage] `gastrointestinal`
+K9281   [mucositis] `gastrointestinal` {ulcerative}
+K9289   [other specified diseases of the digestive system]
+K929    [disease] `digestive system`
+K9400   [colostomy complication]
+K9401   [colostomy hemorrhage]
+K9402   [colostomy infection]
+K9403   [colostomy malfunction]
+K9409   [other complications of colostomy]
+K9410   [enterostomy complication]
+K9411   [enterostomy hemorrhage]
+K9412   [enterostomy infection]
+K9413   [enterostomy malfunction]
+K9419   [other complications of enterostomy]
+K9420   [gastrostomy complication]
+K9421   [gastrostomy hemorrhage]
+K9422   [gastrostomy infection]
+K9423   [gastrostomy malfunction]
+K9429   [other complications of gastrostomy]
+K9430   [complications] `esophagostomy`
+K9431   [hemorrhage] `esophagostomy`
+K9432   [infection] `esophagostomy`
+K9433   [malfunction] `esophagostomy`
+K9439   [complication] & [esophagostomy]
+K9501   [infection] & [gastric band procedure]
+K9509   [complication] & [gastric band procedure]
+K9581   [infection] & [bariatric procedure]
+K9589   [complication] & [bariatric procedure]

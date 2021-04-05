@@ -1,0 +1,562 @@
+0001F*	[heart failure] {assessed}
+0001U*	red blood cell antigen typing, dna, human erythrocyte antigen gene analysis of 35 antigens from 11 blood groups, utilizing whole blood, common rbc alleles reported 
+0002U*	oncology (colorectal), quantitative assessment of three urine metabolites (ascorbic acid, succinic acid and carnitine) by liquid chromatography with tandem mass spectrometry (lc-ms/ms) using multiple reaction monitoring acquisition, algorithm reported as likelihood of adenomatous polyps 
+0003U*	oncology (ovarian) biochemical assays of five proteins (apolipoprotein a-1, ca 125 ii, follicle stimulating hormone, human epididymis protein 4, transferrin), utilizing serum, algorithm reported as a likelihood score 
+0005F*	[osteoarthritis] {assessed}
+00100*	[general anesthesia] & [proc on salivary glands] & [biopsy] 
+00102*	[general anesthesia] & [repair] `cleft lip` 
+00103*	[general anesthesia] & [reconstructive] `eyelid` 
+00104*	[general anesthesia] & [electroconvulsive therapy]
+00120*	[general anesthesia] proc on ext, middle, & inner ear  & [biopsy] 
+00124*	[general anesthesia] proc on ext, middle, & inner ear  & [biopsy] otoscopy 
+00126*	[general anesthesia] proc on ext, middle, & inner ear  & [biopsy] tympanotomy 
+0012F*	[community-acquired bacterial pneumonia] {assessed}
+00140*	[general anesthesia] & [proc on eye] & ![lens surgery] & ![corneal transplant] & ![vitreoretinal surgery] & ![iridectomy] & ![ophthalmoscopy]
+00142*	[general anesthesia] & [lens surgery]
+00144*	[general anesthesia] & [corneal transplant]
+00145*	[general anesthesia] & [vitreoretinal surgery]
+00147*	[general anesthesia] & [iridectomy]
+00148*	[general anesthesia] & [ophthalmoscopy]
+0014F*	comp preop assess, cataract surg w/ iol placemnt; w/ dilated fundus eval, cataract axial length 
+0015F*	melanoma follow up completed; w/ history of moles, complete skin physical exam, patient counseling 
+00160*	[general anesthesia] proc on nose & accessory sinuses
+00162*	[general anesthesia] proc on nose & accessory sinuses; radical surgery 
+00164*	[general anesthesia] proc on nose & accessory sinuses; bx, soft tissue 
+00170	[dental scaling] & [general anesthesia] 
+00172*	[general anesthesia] intraoral proc & [biopsy] repair, cleft palate 
+00174*	[general anesthesia] intraoral proc & [biopsy] excision, retropharyngeal tumor 
+00176*	[general anesthesia] intraoral proc & [biopsy] radical surgery 
+00190*	[general anesthesia] proc on facial bones/skull
+00192*	[general anesthesia] proc on facial bones/skull; radical surgery (w/prognathism) 
+00210*	[general anesthesia] intracranial proc
+00211*	[general anesthesia] intracranial procedures; craniotomy or craniectomy for evacuation of hematoma 
+00212*	[general anesthesia] & [intracranial proc] subdural taps 
+00214*	[general anesthesia] & [intracranial proc] burr holes, w/ventriculography 
+00215*	[general anesthesia] & [intracranial proc] cranioplasty/elevation depressed skull fx, extradural 
+00216*	[general anesthesia] & [intracranial proc] vascular proc 
+00218*	[general anesthesia] & [intracranial proc] proc in sitting position 
+00220*	[general anesthesia] & [intracranial proc] cerebrospinal fluid shunting proc 
+00222*	[general anesthesia] & [intracranial proc] electrocoagulation, intracranial nerve 
+00300*	[general anesthesia] head, neck, post trunk integumentary, muscles/nerves 
+00320*	[general anesthesia] neck organ proc; nos, age 1 yr/older 
+00322*	[general anesthesia] neck organ proc; thyroid needle bx 
+00326*	[general anesthesia] larynx & trachea proc; children <1 yr 
+00350*	[general anesthesia] proc on major vessels, neck
+00352*	[general anesthesia] proc on major vessels, neck; simple ligation 
+00400*	[general anesthesia] extremities, anterior trunk, perineum, integumentary
+00402*	[general anesthesia] extremities, anterior trunk, perineum, integumentary; breast reconstruction 
+00404*	[general anesthesia] extremities, ant trunk, perineum, integ; radical/modified radical breast surgery 
+00406*	[general anesthesia] extremities, ant trunk, perineum, integ; rad/modified rad breast surg w/node dissection 
+00410*	[general anesthesia] extremities, anterior trunk, perineum, integumentary; cardioversion 
+0042T*	cerebral perfusion anaysis, ct w/contrst, postprocess, determ cerebral blood flow/vol & mean 
+00450*	[general anesthesia] proc on clavicle & scapula
+00454*	[general anesthesia] proc on clavicle & scapula; bx, clavicle 
+00470*	[general anesthesia] partial rib resection
+00472*	[general anesthesia] partial rib resection; thoracoplasty, any type 
+00474*	[general anesthesia] partial rib resection; radical proc 
+00500*	[general anesthesia] all proc on esophagus 
+0051T*	implant, tot replacement heart system w/recipient cardiectomy 
+00520*	[general anesthesia] closed chest proc
+00522*	[general anesthesia] closed chest proc; pleura needle bx 
+00524*	[general anesthesia] closed chest proc; pneumocentesis 
+00528*	[general anesthesia] closed chest proc, mediastinoscopy & dx thoracoscopy w/o 1 lung ventilation 
+00529*	[general anesthesia] closed chest proc, mediastinoscopy & dx thoracoscopy w/1 lung ventilation 
+0052T*	replacement/repair, thoracic unit, tot replacement heart system 
+00530*	[general anesthesia] permanent transvenous pacemaker insertion 
+00532*	[general anesthesia] access to central venous circulation 
+00534*	[general anesthesia] transvenous insertion/replacement, pacing cardioverter/defibrillator 
+00537*	[general anesthesia] cardiac electrophysiologic proc w/radiofrequency ablation 
+00539*	[general anesthesia] tracheobronchial reconstruction 
+0053T*	replacement/repair, implantable component(s), tot replacement heart system, w/o thoracic unit 
+00540*	[general anesthesia] & [thoracoscopy]
+00541*	[general anesthesia] & [thoracoscopy]  w/1 lung ventilation 
+00542*	[general anesthesia] & [thoracoscopy]  decortication 
+00546*	[general anesthesia] & [thoracoscopy]  pulm resection w/thoracoplasty 
+00548*	[general anesthesia] & [thoracoscopy]  repair trachea/bronchi 
+0054T*	computer-assisted surgical navigational ortho procedure, with image-guidance based on fluoro images 
+00550*	[general anesthesia] sternal debridement 
+0055T*	computer-assisted surgical navigational ortho procedure, with image-guidance based on ct/mri images 
+00560*	[general anesthesia] proc on heart, pericard, & grt vessls, chest; ![oxygenator]
+00561*	[general anesthesia] proc on heart, pericard, & grt vessls, chest; w/pump oxygenator, <1yr 
+00562*	[general anesthesia] proc on heart, pericard, & grt vessls, chest; w/ pump oxygenator; age 1 year or older 
+00563*	[general anesthesia] proc on heart, pericard, & grt vessls, chest; w/pump oxygenator w/hypotherm circ arrest 
+00566*	[general anesthesia] direct coronary artery bypass grafting; without pump oxygenator 
+00567*	[general anesthesia] direct coronary artery bypass grafting; with pump oxygenator 
+00580*	[general anesthesia] heart transplant/heart & lung transplant 
+0058T*	cryopreservation; reproductive tissue, ovarian 
+00600*	[general anesthesia] proc, cervical spine & cord
+00604*	[general anesthesia] proc, cervical spine & cord; proc w/patient sitting 
+00620*	[general anesthesia] proc, thoracic spine & cord
+00625*	[general anesthesia] thoracic spine/cord procedure, anterior transthoracic approach; no one lung ventilation 
+00626*	[general anesthesia] thoracic spine/cord, anterior transthoracic approach; utilizing one lung ventilation 
+00630*	[general anesthesia] proc, lumbar region
+00632*	[general anesthesia] proc, lumbar region; lumbar sympathectomy 
+00635*	[general anesthesia] proc, lumbar region; diagnostic/therapeutic lumbar puncture 
+00640*	[general anesthesia] manipulation, spine, closed proc,  `cervical or thoracic`/lumbar 
+00670*	[general anesthesia] extensive spine & spinal cord proc 
+00700*	[general anesthesia] proc, upper anterior abdominal wall
+00702*	[general anesthesia] proc, upper anterior abdominal wall; percutaneous liver bx 
+0071T*	focused us uterine leiomyomata ablation, w/mr guide; tot < 200 cc of tissue 
+0072T*	focused us uterine leiomyomata ablation, w/mr guide; tot vol 200 cc+ 
+00730*	[general anesthesia] proc, upper posterior abdominal wall 
+00740*	[general anesthesia] upper gi endoscopy proc, proximal duodenum 
+00750*	[general anesthesia] hernia repairs, upper abdomen
+00752*	[general anesthesia] hernia repairs, upper abdomen; lumbar & ventral, &/or wound dehiscence 
+00754*	[general anesthesia] hernia repairs, upper abdomen; omphalocele 
+00756*	[general anesthesia] hernia repairs, upper abdomen; transabdominal repair, diaphragmatic hernia 
+0075T*	extracranial verteb/chest carotid stent(s) transcath placemt w radiol s&i, perq; init vessel 
+0076T*	extracranial verteb/chest carotid stent(s) transcath placemt w radiol s&i, perq; ea addlvessel 
+00770*	[general anesthesia] all proc on major abdominal blood vessels 
+00790*	[general anesthesia] intraperitoneal proc, upper abdomen, w/laparoscopy
+00792*	[general anesthesia] upper abd w/laparoscopy; partial hepatectomy/mgmt liver hemorrhage (w/o liver bx) 
+00794*	[general anesthesia] intraperitoneal proc, upper abdomen, w/laparoscopy; pancreatectomy, partial/total 
+00796*	[general anesthesia] intraperitoneal proc, upper abdomen, w/laparoscopy; liver transplant, recipient 
+00797*	[general anesthesia] intraperitoneal proc, upper abdomen, w/laparoscopy; gastric restrict, morbid obesity 
+00800*	[general anesthesia] proc, lower anterior abdominal wall
+00802*	[general anesthesia] proc, lower anterior abdominal wall; panniculectomy 
+00810*	[general anesthesia] lower intestinal endoscopy proc, distal duodenum 
+00820*	[general anesthesia] proc, lower posterior abdominal wall 
+00830*	[general anesthesia] hernia repairs, lower abdomen
+00832*	[general anesthesia] hernia repairs, lower abdomen; ventral & incisional hernias 
+00834*	[general anesthesia] hernia repairs, lower abdomen, nos, <one year of age 
+00836*	[general anesthesia] hernia repairs, lower abdomen, nos, infants <37 wks @ birth & <50 wks @ surg 
+00840*	[general anesthesia] intraperitoneal proc, lower abdomen, w/laparoscopy
+00842*	[general anesthesia] intraperitoneal proc, lower abdomen, w/laparoscopy; amniocentesis 
+00844*	[general anesthesia] introperitoneal proc, lower abdomen, w/laparoscopy; abdominoperineal resection 
+00846*	[general anesthesia] introperitoneal proc, lower abdomen, w/laparoscopy; radical hysterectomy 
+00848*	[general anesthesia] intraperitoneal proc, lower abdomen, w/laparoscopy; pelvic exteneration 
+00851*	[general anesthesia] intraperitoneal proc, lower abdomen, w/laparoscopy; tubal ligation/transection 
+0085T*	breath test, heart transplant rejection 
+00860*	[general anesthesia] extraperitoneal proc, lower abdomen, w/urinary tract
+00862*	[general anesthesia] extraperitoneal proc, lower abdomen, w/urinary tract; renal proc/donor nephrectomy 
+00864*	[general anesthesia] extraperitoneal proc, lower abdomen, w/urinary tract; total cystectomy 
+00865*	[general anesthesia] extraperitoneal proc, lower abdomen, w/urinary tract; radical prostatectomy 
+00866*	[general anesthesia] extraperitoneal proc, lower abdomen, w/urinary tract; adrenalectomy 
+00868*	[general anesthesia] extraperitoneal proc, lower abdomen, w/urinary tract; renal transplant, recipient 
+00870*	[general anesthesia] extraperitoneal proc, lower abdomen, w/urinary tract; cystolithotomy 
+00872*	[general anesthesia] lithotripsy, extracorporeal shock wave; w/water bath 
+00873*	[general anesthesia] lithotripsy, extracorporeal shock wave; w/o water bath 
+00880*	[general anesthesia] proc on major lower abdominal vessels
+00882*	[general anesthesia] proc on major lower abdominal vessels; inferior vena cava ligation 
+00902*	[general anesthesia] anorectal proc 
+00904*	[general anesthesia] radical perineal proc 
+00906*	[general anesthesia] vulvectomy 
+00908*	[general anesthesia] perineal prostatectomy 
+00910*	[general anesthesia] transurethral proc (w/urethrocystoscopy)
+00912*	[general anesthesia] transurethral proc (w/urethrocystoscopy); transurethral resection, bladder tumor(s) 
+00914*	[general anesthesia] transurethral proc (w/urethrocystoscopy); transurethral resection, prostate 
+00916*	[general anesthesia] transurethral proc (w/urethrocystoscopy); post transurethral resection bleeding 
+00918*	[general anesthesia] transurethral proc (w/urethrocystoscopy); w/fragmentation/manip/rem, ureteral calculus 
+00920*	[general anesthesia] proc, male genitalia(w/open urethral proc)
+00921*	[general anesthesia] proc, male genitalia(w/open urethral proc); vasectomy, unilat/bilat 
+00922*	[general anesthesia] proc, male genitalia(w/open urethral proc); seminal vesicles 
+00924*	[general anesthesia] proc, male genitalia(w/open urethral proc); undescended testis, unilat/bilat 
+00926*	[general anesthesia] proc, male genitalia(w/open urethral proc); radical orchiectomy, inguinal 
+00928*	[general anesthesia] proc, male genitalia(w/open urethral proc); radical orchiectomy, abdominal 
+00930*	[general anesthesia] proc, male genitalia(w/open urethral proc); orchiopexy, unilat/bilat 
+00932*	[general anesthesia] proc, male genitalia(w/open urethral proc); complete amputation, penis 
+00934*	[general anesthesia] proc, male genitalia(w/open urethral proc); radical amput penis w/bilat inguinal nodes 
+00936*	[general anesthesia] proc, male genitalia(w/open urethral proc); rad amput penis w/bilat inguin & iliac node 
+00938*	[general anesthesia] proc, male genitalia(w/open urethral proc); penis prosthesis insert, perineal approach 
+00940*	[general anesthesia] vaginal proc & [biopsy] nos 
+00942*	[general anesthesia] vaginal proc & [biopsy] colpotomy, vaginectomy, colporrhaphy & open urethral proc 
+00944*	[general anesthesia] vaginal proc & [biopsy] vaginal hysterectomy 
+00948*	[general anesthesia] vaginal proc & [biopsy] cervical cerclage 
+00950*	[general anesthesia] vaginal proc & [biopsy] culdoscopy 
+00952*	[general anesthesia] vaginal proc & [biopsy] hysteroscopy &/or hysterosalpingography 
+0095T*	removal of total disc arthroplasty, anterior approach, each additional interspace, cervical 
+0098T*	revision including replacement of disc arthroplasty, anterior, each addl interspace, cervical 
+0100T*	place subconjunc retinal prosth recevr&pulse gen,implt intra-ocular retnl electrde array,w/vitrectmy 
+0101T*	extracorporeal shock wave involving musculoskeletal system, not otherwise specified, high energy 
+0102T*	extracorp shock wave,high energy,perf by md,req anest oth than loc,invlv lateral humeral epicondyle 
+0106T*	quantitative sensory testing (qst),test&interp/extrem;using touch pressr stim to assess lg diam sens 
+0107T*	quantitative sensory testing (qst),test&interp/extrem;using vibratn stim to assess lg diam fiber sen 
+0108T*	quantitative sensory testing (qst),test&interp/extrem;using coolng stim to assess sm nrv fibr sen&hy 
+0109T*	quantitative sensory testing (qst),test&interp/extrem;using ht-pn stim to assess sm nrv fibr sen&hyp 
+0110T*	quantitative sensory testing (qst),test&interp/extrem;using oth stim to assess sensation 
+01112*	[general anesthesia] bone marrow aspiration &/or bx, anterior/posterior iliac crest 
+0111T*	long-chain (c20-22) omega-3 fatty acids in red blood cell (rbc)membranes 
+01120*	[general anesthesia] proc, bony pelvis 
+01130*	[general anesthesia] body cast application/revision 
+01140*	[general anesthesia] interpelviabdominal (hindquarter) amputation 
+01150*	[general anesthesia] radical proc, tumor, pelvis, except hindquarter amputation 
+01160*	[general anesthesia] closed proc involving symphysis pubis/sacroiliac joint 
+01170*	[general anesthesia] open proc involving symphysis pubis/sacroiliac joint 
+01173*	[general anesthesia] open repair, fx disruption, pelvis 
+01180*	[general anesthesia] obturator neurectomy; extrapelvic 
+01190*	[general anesthesia] obturator neurectomy; intrapelvic 
+01200*	[general anesthesia] all closed proc involving hip joint 
+01202*	[general anesthesia] arthroscopic proc, hip joint 
+01210*	[general anesthesia] open proc involving hip joint
+01212*	[general anesthesia] open proc involving hip joint; hip disarticulation 
+01214*	[general anesthesia] open proc involving hip joint; total hip arthroplasty 
+01215*	[general anesthesia] open proc involving hip joint; revision, total hip arthroplasty 
+01220*	[general anesthesia] all closed proc involving upper two thirds, femur 
+01230*	[general anesthesia] open proc involving upper two thirds, femur
+01232*	[general anesthesia] open proc involving upper two thirds, femur; amputation 
+01234*	[general anesthesia] open proc involving upper two thirds, femur; radical resection 
+01250*	[general anesthesia] all proc on nerves, muscles, tendons, fascia, & bursae, upper leg 
+01260*	[general anesthesia] all proc involving veins, upper leg, w/exploration 
+0126T*	common carotid intima-media thickness (imt) study,eval of atheroscl burdn/cor hrt dz risk factr asse 
+01270*	[general anesthesia] upper leg artery proc w/bypass graft
+01272*	[general anesthesia] upper leg artery proc w/bypass graft; femoral artery ligation 
+01274*	[general anesthesia] upper leg artery proc w/bypass graft; femoral artery embolectomy 
+01320*	[general anesthesia] nerves, muscles, tendons, fascia & bursae, knee &/or popliteal area 
+01340*	[general anesthesia] all closed proc on lower one third, femur 
+01360*	[general anesthesia] all open proc on lower one third, femur 
+01380*	[general anesthesia] all closed proc on knee joint 
+01382*	[general anesthesia] dx arthroscopic proc, knee joint 
+01390*	[general anesthesia] all closed proc on upper ends, tibia, fibula, &/or patella 
+01392*	[general anesthesia] all open proc on upper ends, tibia, fibula, &/or patella 
+01400*	[general anesthesia] open/surg arthroscopic proc, knee joint
+01402*	[general anesthesia] open/surg arthroscopic proc, knee joint; total knee arthroplasty 
+01404*	[general anesthesia] open/surg arthroscopic proc, knee joint; disarticulation at knee 
+01420*	[general anesthesia] all cast applications, removal/repair involving knee joint 
+01430*	[general anesthesia] proc on veins, knee & popliteal area
+01432*	[general anesthesia] proc on veins, knee & popliteal area; arteriovenous fistula 
+01440*	[general anesthesia] arteries, knee & popliteal area
+01442*	[general anesthesia] arteries, knee & popliteal area; popliteal thromboendarterectomy 
+01444*	[general anesthesia] arteries, knee & popliteal area; popliteal excision & graft/repair 
+01462*	[general anesthesia] all closed proc, lower leg, ankle, & foot 
+01464*	[general anesthesia] arthroscopic proc, ankle &/or foot 
+01470*	[general anesthesia] nerves/muscles/tendons & fascia, lower leg/ankle/foot
+01472*	[general anesthesia] nerves/muscles/tendons & fascia, lower leg/ankle/foot; ruptured achilles tendon 
+01474*	[general anesthesia] nerves/muscles/tendons & fascia, lower leg/ankle/foot; gastrocnemius recession 
+01480*	[general anesthesia] open proc, bones, lower leg/ankle/foot
+01482*	[general anesthesia] open proc, bones, lower leg,ankle & foot; radical resection w/below knee amputation 
+01484*	[general anesthesia] open proc, bones, lower leg/ankle/foot; osteotomy/osteoplasty, tibia &/or fibula 
+01486*	[general anesthesia] open proc, bones, lower leg/ankle/foot; total ankle replacement 
+01490*	[general anesthesia] lower leg cast application, removal/repair 
+01500*	[general anesthesia] arteries lower leg proc w/bypass graft
+01502*	[general anesthesia] arteries lower leg proc w/bypass graft; embolectomy, direct/w/catheter 
+01520*	[general anesthesia] proc on veins, lower leg
+01522*	[general anesthesia] proc on veins, lower leg; venous thrombectomy, direct/w/catheter 
+0159T*	cad, algorithm/pharmacokinetic analysis, further physician review for interpretation, breast mri 
+01610*	[general anesthesia] nerves/muscles/tendons/fascia & bursae, shoulder/axilla 
+01620*	[general anesthesia] closed proc, humeral head & neck/sternoclavicular joint/ac joint/shoulder 
+01622*	[general anesthesia] dx arthroscopic proc, shoulder joint 
+01630*	[general anesthesia] open/surg arthroscopic proc, humeral head & neck, sternoclav/ac/shoulder jt
+01634*	[general anesthesia] open/surg arthroscopic proc, humeral head & neck, sternoclav/ac/shoulder jt; disarticul 
+01636*	anesth, open/surg arthroscop proc, humer head & neck, sternoclav/ac/should jt; intrthoracoscap ampu 
+01638*	[general anesthesia] open/surg arthroscopic proc, humeral head & neck, sternoclav/ac/shoulder jt; replacemen 
+0163T*	total disc arthroplasty, anterior approach, w/ discectomy to prepare interspace, each addl, lumbar 
+0164T*	removal of total disc arthroplasty, anterior approach, each addl interspace, lumbar 
+01650*	[general anesthesia] proc on arteries, shoulder & axilla
+01652*	[general anesthesia] proc on arteries, shoulder & axilla; axillary-brachial aneurysm 
+01654*	[general anesthesia] proc on arteries, shoulder & axilla; bypass graft 
+01656*	[general anesthesia] proc on arteries, shoulder & axilla; axillary-femoral bypass graft 
+0165T*	revision including replacement of total disc arthroplasty, anterior, each addl interspace, lumbar 
+01670*	[general anesthesia] all proc on veins, shoulder & axilla 
+01680*	[general anesthesia] shoulder cast application, removal/repair
+01682*	[general anesthesia] shoulder cast application, removal/repair; shoulder spica 
+01710*	[general anesthesia] nerves/muscles/tendons/fascia & bursae, upper arm & elbow
+01712*	[general anesthesia] nerves/muscles/tendons/fascia & bursae, upper arm & elbow; tenotomy elbow-shoulder, ope 
+01714*	[general anesthesia] nerves/muscles/tendons/fascia & bursae, upper arm & elbow; tenoplasty, elbow-shoulder 
+01716*	[general anesthesia] nerve/muscl/tendon/fascia & bursae, upper arm & elbow; tenodesis, rupt lng biceps tendo 
+01730*	[general anesthesia] all closed proc on humerus & elbow 
+01732*	[general anesthesia] dx arthroscopic proc, elbow joint 
+01740*	[general anesthesia] open/surg arthroscopic proc, elbow
+01742*	[general anesthesia] open proc on humerus & elbow; osteotomy, humerus 
+01744*	[general anesthesia] open proc on humerus & elbow; repair, nonunion/malunion, humerus 
+0174T*	cad with further physician review for interpretation and report, chest, performed concurrent 
+01756*	[general anesthesia] open proc on humerus & elbow; radical proc 
+01758*	[general anesthesia] open proc on humerus & elbow; excision, cyst/tumor, humerus 
+0175T*	cad with further physician review for interpretation and report, chest, performed remote 
+01760*	[general anesthesia] open proc on humerus & elbow; total elbow replacement 
+01770*	[general anesthesia] proc on arteries, upper arm & elbow
+01772*	[general anesthesia] proc on arteries, upper arm & elbow; embolectomy 
+01780*	[general anesthesia] proc on veins, upper arm & elbow
+01782*	[general anesthesia] proc on veins, upper arm & elbow; phleborrhaphy 
+0178T*	electrocardiogram, 64 leads or greater, with graphic presentation and analysis; with i&r 
+0179T*	ecg, 64 leads or greater, with graphic presentation and analysis; tracing and graphics only, w/o i&r 
+0180T*	ecg, 64 leads or greater, with graphic presentation and analysis; interpretation and report only 
+01810*	[general anesthesia] nerves/muscles/tendons/fascia & bursae, lower arm/hand 
+01820*	[general anesthesia] all closed proc on radius, ulna, wrist/hand bones 
+01829*	[general anesthesia] dx arthroscopic procedures, wrist 
+01830*	[general anesthesia] open/surg arthroscopic/endoscopic proc, distal radius/distal ulna/wrist/hand
+01832*	anes, open/surg arthrosc/endoscop proc, distl radius/distal ulna/wrist/hand; total wrist replace 
+01840*	[general anesthesia] proc on arteries, forearm, wrist, & hand
+01842*	[general anesthesia] proc on arteries, forearm, wrist, & hand; embolectomy 
+01844*	[general anesthesia] vascular shunt/shunt revision, any type 
+0184T*	excision of rectal tumor, transanal endoscopic microsurgical approach, including muscularis propria 
+01850*	[general anesthesia] proc on veins, forearm, wrist, & hand
+01852*	[general anesthesia] proc on veins, forearm, wrist, & hand; phleborrhaphy 
+01860*	[general anesthesia] forearm/wrist/hand cast application, removal/repair 
+0188T*	videoconferenced critical care, critically ill or injured patient, first 30- 74 minutes 
+0189T*	videoconferenced critical care, critically ill or injured patient; each additional 30 minutes 
+0190T*	placement intraocular radiation source applicator (list separately in add to primary procedure) 
+01916*	[general anesthesia] dx arteriography/venography 
+0191T*	insertion of anterior segment aqueous drainage device, w/o extraocular reservoir; internal approach 
+01920*	[general anesthesia] cardiac catheterization w/coronary arteriography & ventriculography 
+01922*	[general anesthesia] non-invasive imaging/radiation therapy 
+01924*	[general anesthesia] therapeutic interventional radiol, arterial system
+01925*	[general anesthesia] therapeutic interventional radiol, arterial system; carotid/coronary 
+01926*	[general anesthesia] therapeutic interventional radiol, arterial system; intracranial/intracardiac/aortic 
+01930*	anes, therapeutic interven radiol, venous/lymphatic system w/o central circ access
+01931*	anes, therap interven radiol, venous/lymphatic sys w/o central circ access; intrahepatic/portal cir 
+01932*	anes, therap interven radiol, venous/lymphatic system w/o central circ access; intrathoracic/jugula 
+01933*	anes, therap interven radiol, venous/lymphatic system w/o central circ access; intracranial 
+01935*	[general anesthesia] percutaneous image guided proc, spine, diagnostic 
+01936*	[general anesthesia] percutaneous image guide proc, spine, therapeutic 
+01951*	anesthesia 2nd & 3rd degree burn excision/debridement w/wo graft, tbsa treated anesth&surg; <4% tbs 
+01952*	anesthesia 2nd & 3rd degree burn excis/debridement w/wo graft, tbsa treated anesth&surg; 4-9% tbsa 
+01953*	anesthesia 2nd & 3rd degree burn excision/debridement w/wo graft; ea add'l 9% tbsa/part 
+01958*	[general anesthesia] external cephalic vesion proc 
+0195T*	arthrodesis, pre-sacral interbody technique, w instrumentation, imaging, discectomy; lumbar; single 
+01960*	[general anesthesia] vaginal delivery only 
+01961*	[general anesthesia] cesarean delivery only 
+01962*	[general anesthesia] urgent hysterectomy following delivery 
+01963*	[general anesthesia] cesarean hysterectomy w/o any labor analgesia/anesthesia care 
+01965*	anes incompl/missed ab 
+01966*	anes induced ab 
+01967*	neuraxial labor analgesia/[general anesthesia] planned vaginal delivery 
+01968*	[general anesthesia] cesarean delivery following neuraxial labor analgesia/anesthesia 
+01969*	anes for cesarean hysterectomy following neuraxial labor analgesia/anesthesia 
+0196T*	arthrodesis, pre-sacral interbody, w instrumentation, imaging, discectomy; lumbar; each addl 
+0198T*	measurement ocular blood flow by repetitive intraocular pressure sampling, with interpretation/report 
+01990*	physiological support, harvesting, organ(s), brain-dead patient 
+01991*	[general anesthesia] dx/therapeutic nerve blocks/injections; not in prone position 
+01992*	[general anesthesia] dx/therapeutic nerve blocks/injections; prone position 
+01996*	daily hospital management, epidural/subarachnoid continuous drug administration 
+01999*	unlisted anesthesia proc(s) 
+0200T*	percutaneous sacral augmentation, unilateral, balloon/mechanical device, 1 or more needles 
+0201T*	percutaneous sacral augmentation, bilateral, balloon/mechanical device, two or more needles 
+0202T*	posterior vertebral joint arthroplasty, single level, lumbar spine 
+0205T*	intravascular catheter-based coronary vessel or graft spectroscopy, each vessel 
+0206T*	computerized database analysis of multiple cycles digitized cardiac electrical data from 2+ ecg lead 
+0207T*	evacuation of meibomian glands, automated, using heat and intermittent pressure, unilateral 
+0208T*	pure tone audiometry (threshold), automated; air only 
+0209T*	pure tone audiometry (threshold), automated; air/bone 
+0210T*	speech audiometry threshold, automated 
+0211T*	speech audiometry threshold, automated; with speech recognition 
+0212T*	comprehensive audiometry threshold evaluation and speech recognition, automated 
+0213T*	injection paravertebral facet joint, w/ u/s `cervical or thoracic` single level 
+0214T*	injection paravertebral facet joint, w/ u/s `cervical or thoracic` second level 
+0215T*	injection paravertebral facet joint, w/ u/s `cervical or thoracic` third and any additional level 
+0216T*	injection paravertebral facet joint, w/ u/s, lumbar or sacral; single level 
+0217T*	injection paravertebral facet joint, w/ u/s, lumbar or sacral; second level 
+0218T*	injection paravertebral facet joint, w/ u/s, lumbar or sacral; third and any additional level(s) 
+0219T*	placement posterior intrafacet implant, unilateral/bilateral, single level; cervical 
+0220T*	placement posterior intrafacet implant, unilateral/bilateral, single level; thoracic 
+0221T*	placement posterior intrafacet implant, unilateral/bilateral, single level; lumbar 
+0222T*	placement posterior intrafacet implant, uni/bilateral, single level; each additional segment 
+0228T*	injection, anesthetic and/or steroid, epidural, with us,  `cervical or thoracic`; single level 
+0229T*	injection, anesthetic and/or steroid, epidural, with us,  `cervical or thoracic`; each additional level 
+0230T*	injection, anesthetic and/or steroid, epidural, with us, lumbar/sacral; single level 
+0231T*	injection, anesthetic and/or steroid, epidural, with us, lumbar/sacral; each additional level 
+0232T*	injection, platelet rich plasma, any tissue, including image guidance, harvesting and preparation 
+0234T*	transluminal peripheral atherectomy, open or percutaneous; renal artery 
+0235T*	transluminal peripheral atherectomy, open or percutaneous; visceral artery (except renal), each 
+0236T*	transluminal peripheral atherectomy, open or percutaneous; abdominal aorta 
+0237T*	transluminal peripheral atherectomy, open or percutaneous; brachiocephalic trunk and branches, each 
+0238T*	transluminal peripheral atherectomy, open or percutaneous; iliac artery, each vessel 
+0249T*	ligation, hemorrhoidal vascular bundle(s), including ultrasound guidance 
+0253T*	insertion of anterior segment aqueous drainage device; internal approach, into suprachoroidal space 
+0254T*	endovascular repair of iliac artery bifurcation, unilateral 
+0255T*	endovascular repair of iliac artery bifurcation, unilateral; radiological supervision and interpret 
+0263T*	auto bone marrw cell rx complt bone marrw harvst 
+0264T*	auto bone marrw cell rx comp w/o bone mar harvst 
+0265T*	bone mar harvst only for intmusc autolo cell rx 
+0266T*	im/repl cartd sinus baroreflx activ dev tot syst 
+0267T*	im/repl cartd sins baroreflx activ dev lead only 
+0268T*	im/repl cartd sins barreflx act dev pls gen only 
+0269T*	rev/remvl cartd sins barreflx act dev tot system 
+0270T*	rev/remvl cartd sins barreflx act dev lead only 
+0271T*	rev/rem cartd sins barreflx act dev pls gen only 
+0272T*	intrgortion dev eval cartd sins barreflx w/i&r 
+0273T*	introgation dev eval cartd sins barreflx w/prgrm 
+0274T*	perc lamino-/laminectomy image guide cerv/thorac 
+0275T*	perc lamino-/laminectomy indir imag guide lumbar 
+0278T*	trnscut elect modlation pain reproces ea tx sess 
+0290T*	cornea incisns recipient cornea w/lasr kertplsty 
+0293T*	ins lt atrial hemodynamic monitor; complete system, incl implanted communication module/pressure sen 
+0294T*	ins lt atrial hemodynamic monitor; pressure sensor lead at time of insertion pacing cardiovert-defib 
+0295T*	external ecg record >48 hrs-21 days continuous rhythm recording/storage;record/scan/analysis w/rprt 
+0296T*	external ecg record >48 hrs-21 days continuous rhythm recording/storage; recording 
+0297T*	external ecg record >48 hrs-21 days continuous rhythm recording/storage; scanning analysis w rprt 
+0298T*	external ecg record >48 hrs-21 days continuous rhythm recording/storage; review and interpretation 
+0299T*	esw for wound healing, high energy, incl topical application/dressing care; initial wound 
+0300T*	esw for wound healing, high energy, incl topical application/dressing care; each additional wound 
+0301T*	destruction/reduction malignant breast tumor w externally applied focused microwave, incl place cath 
+0302T*	insert/remove/replace intracard ischemia monitor incl imaging s&i, intra-op inter/program; complete 
+0303T*	insert/remove/replace intracard ischemia monitor incl imaging s&i, intra-op inter/program; electrode 
+0304T*	insert/remove/replace intracard ischemia monitor incl imaging s&i, intra-op inter/program; device 
+0305T*	program device eval intracard ischemia monitor sys w adjust programmed values, w analysis/review/rpt 
+0306T*	interrogation device evaluation of intracardiac ischemia monitoring system w analysis/review/report 
+0307T*	removal of intracardiac ischemia monitoring device 
+0308T*	insertion of ocular telescope prosthesis including removal of crystalline lens 
+0309T*	arthrodesis presacral intrbdy w/instrument l4/l5 
+0310T*	motor function mapping navigated tms tx plan 
+0312T*	laps implt nstim eltrd array & pls gen vagus nrv 
+0313T*	laps rev/replcmt nstim eltrd array vagus nrv 
+0314T*	laps rmvl nstim eltrd array & pls gen vagus nrv 
+0315T*	removal pulse generator vagus nerve 
+0316T*	replacement pulse generator vagus nerve 
+0317T*	elec alys nstim pls gen vagus nrv w/reprgrmg 
+0329T*	mntr intraocular press 24hrs/> uni/bi w/interp 
+0330T*	tear film imaging unilateral or bilateral w/i&r 
+0331T*	myocrd sympathetic innervaj img plnr qual&quant 
+0332T*	myocrd symp innervaj img plnr qual&quant w/spect 
+0333T*	visual evoked potential acuity screening auto 
+0335T*	extra-osseous joint implant talotarsal stabilj 
+0337T*	endothelial function assessment non-invasive 
+0338T*	transcatheter renal sympath denervation unilat 
+0339T*	transcatheter renal sympath denervation bilat 
+0340T*	ablate pulm tumors w/ pleura/chest wall extsn 
+0341T*	quant pupillometry w/ interp&report unilat/bilat 
+0342T*	therapeutic apheresis w/ selective hdl delip 
+0345T*	transcath mitral valve repair via coronary sinus 
+0346T*	ultrasound elastography 
+0347T*	place interstitial device(s) in bone for rsa 
+0348T*	radiostereometric analysis spine exam 
+0349T*	radiostereometric analysis upper extremity exam 
+0350T*	radiostereometric analysis lower extremity exam 
+0351T*	intraop oct breast or axill node each specimen 
+0352T*	oct breast or axill node specimen i&r 
+0353T*	oct of breast surg cavity real time intraop 
+0354T*	oct breast surg cavity real time/referred i&r 
+0355T*	gi tract imaging intraluminal colon with i&r 
+0356T*	insert drug implant into lacrimal canal for iop 
+0357T*	cryopreservation immature oocyte(s) 
+0358T*	bia whole body supine postion with i&r 
+0359T*	behavioral identification assessment 
+0360T*	observational behav assessment first 30 min 
+0361T*	observational behav assessment addl 30 min 
+0362T*	exposure behav assessment first 30 min 
+0363T*	exposure behav assessment addl 30 min 
+0364T*	behavior treatment by protocol first 30 min 
+0365T*	behavior treatment by protocol addl 30 min 
+0366T*	group behavior treatment first 30 min 
+0367T*	group behavior treatment addl 30 min 
+0368T*	behavior treatment with modification 30 min 
+0369T*	behavior treatment with modification addl 30 min 
+0370T*	family behavior treatment guidance 
+0371T*	multiple family group behav treatment guidance 
+0372T*	behavior treatment social skills training group 
+0373T*	exposure behavior treatment first 30 min 
+0374T*	exposure behavior treatment addl 30 min 
+0375T*	total disc arthrp ant appr w/discectomy crv 3+ 
+0376T*	ant segment insert drain w/o reservoir ea addl 
+0377T*	anoscopy w/bulking agent inj for fecal incont 
+0378T*	visual field assessment phys review and report 
+0379T*	visual field assessment tech support w/instruct 
+0380T*	comp animation retina image time series analysis 
+0381T*	ext heart rate for epi sz up to 14 days complete 
+0382T*	ext heart rate for epi sz up to 14 days r&i only 
+0383T*	ext heart rate for epi sz up to 30 days complete 
+0384T*	ext heart rate for epi sz up to 30 days r&i only 
+0385T*	ext heart rate for epi sz over 30 days complete 
+0386T*	ext heart rate for epi sz over 30 days r&i only 
+0387T*	transcath insert or replace leadless ca pm ventr 
+0388T*	transcath removal leadless ca pm ventr 
+0389T*	prog device eval in person leadless pm system 
+0390T*	peri-proc device eval in pers leadless pm system 
+0391T*	interrog device eval in person leadless pm syst 
+0394T*	hdr electronic brachytherapy skin surface 
+0395T*	hdr electronic brachytherapy ntrstl/intrcav 
+0396T*	intraop kinetic balance sensr knee rplcmt arthrp 
+0397T*	ercp with optical endomicroscopy add on 
+0398T*	mrgfus stereotactic ablation lesion intracranial 
+0399T*	myocardial strain imaging quan assmt 
+0400T*	multi-spectral digital skin les analysis 1-5 les 
+0401T*	multi-spectral digital skin les analysis 6+ les 
+0402T*	collagen cross-linking of cornea 
+0403T*	diabetes prevention prog standardized curriculum 
+0404T*	transcervical uterine fibroid abltj w/us gdn rf 
+0405T*	oversight care of xtrcorp liver assist sys pat 
+0406T*	nsl ndsc surg ethmd sin plmt drug elutng implnt 
+0407T*	nsl ndsc surg ethmd plmt drug elutng implnt w/bx 
+0408T*	insj/rplc car modulj sys pls gen transvns eltrd 
+0409T*	insj/rplc cardiac modulj sys pls generator only 
+0410T*	insj/rplc cardiac modulj sys atr electrode only 
+0411T*	insj/rplc car modulj sys ventr electrode only 
+0412T*	removal cardiac modulj sys pls generator only 
+0413T*	removal cardiac modulj sys transvenous electrode 
+0414T*	rmvl & rpl cardiac modulj sys pls generator only 
+0415T*	repos cardiac modulj sys transvenous electrode 
+0416T*	reloc skin pocket cardiac modulj pulse generator 
+0417T*	prgrmg device evaluation cardiac modulj system 
+0418T*	interro device evaluation cardiac modulj system 
+0419T*	dstrj neurofibromata xtnsv face head neck >50 
+0420T*	dstrj neurofibromata xtnsv trnk extremities >100 
+0421T*	transurethral waterjet ablation prostate compl 
+0422T*	tactile breast img computer aided sensors uni/bi 
+0423T*	secretory type ii phospholipase a2 (spla2-iia) 
+0424T*	insj/rplc nstim system sleep apnea complete 
+0425T*	insj/rplc nstim system sleep apnea sensing lead 
+0426T*	insj/rplc nstim system sleep apnea stimj lead 
+0427T*	insj/rplc nstim system sleep apnea pls generator 
+0428T*	removal nstim system sleep apnea pls generator 
+0429T*	removal nstim system sleep apnea sensing lead 
+0430T*	removal nstim system sleep apnea stimj lead 
+0431T*	rmvl/rplc nstim system sleep apnea pls generator 
+0432T*	repos nstim system sleep apnea stimj lead 
+0433T*	repos nstim system sleep apnea sensing lead 
+0434T*	interro dev eval nstim pls gen sys sleep apnea 
+0435T*	prgrmg eval nstim pls gen sys sleep apnea 1 sess 
+0436T*	prgrmg eval nstim pls gen sys sleep apnea study 
+0437T*	impltj nonbiol/synth implt fasc rnfcmt abdl wall 
+0438T*	tprnl plmt biodegradable matrl periprostatic 
+0439T*	myocardial perfusion echo ischm/viability assmt 
+0440T*	abltj perc cryoabltj img gdn uxtr/perph nerve 
+0441T*	abltj perc cryoabltj img gdn lxtr/perph nerve 
+0442T*	abltj perc cryoabltj img gdn nrv plex/trncl nrv 
+0443T*	rt spctrl alys prostate tiss fluorescenc spctrscpy 
+0444T*	initial plmt drug eluting ocular insert uni/bi 
+0445T*	sbsq plmt drug eluting ocular insert uni/bi 
+0446T*	crtj subq insj impltbl glucose sensor sys train 
+0447T*	rmvl impltbl glucose sensor subq pocket via inc 
+0448T*	rmvl insj impltbl gluc sensor dif anatomic site 
+0449T*	insj aqueous drain dev w/o eo rsvr initial dev 
+0450T*	insj aqueous drain dev w/o eo rsvr each addl dev 
+0451T*	insj/rplcmt impltbl aortic ventr complete system 
+0452T*	insj/rplcmt impltbl aortic ventr vasc hemo seal 
+0453T*	insj/rplcmt impltbl aortic ventr mechano-elec 
+0454T*	insj/rplcmt impltbl aortic ventr subq electrode 
+0455T*	remvl perm implt aortic ventr complete system 
+0456T*	remvl perm implt aortic ventr vasc hemo seal 
+0457T*	remvl perm implt aortic ventr mechano-elec 
+0458T*	remvl perm implt aortic ventr subq electrode 
+0459T*	relocaj rplcmt aortic ventr mechano-electrode 
+0460T*	repos aortic ventr dev subcutaneous electrode 
+0461T*	repos aortic ventr dev subq elect contrpulsj dev 
+0462T*	prgrmg eval mech-elec aortic ventr sys per day 
+0463T*	interrog eval implt aortic ventr sys per day 
+0464T*	visual ep testing for glaucoma w/interpj & reprt 
+0465T*	supchrdl njx of rx agt w/o supply of medication 
+0466T*	insrt ch wall respir eltrd/ra & conj pulse gen 
+0467T*	revj/rplmnt ch wal respir eltrd & conj pulse gen 
+0468T*	removal chest wall respiratory eltrode/array 
+0500F*	initial prenatal care visit, health care professional providing obstetrical care 
+0501F*	prenatal flow sheet documented in medical record by first prenatal visit 
+0502F*	subsequent prenatal care visit 
+0503F*	postpartum care visit 
+0505F*	hemodialysis plan of care documented (esrd, p-esrd)1 
+0507F*	peritoneal dialysis plan of care documented (esrd) 
+0509F*	urinary incontinence plan of care documented (ger)5 
+0513F*	elevated blood pressure plan of care documented (ckd)1 
+0514F*	plan of care for elevated hemoglobin level documented for patient receiving esa therapy (ckd)1 
+0516F*	anemia plan of care documented (esrd)1 
+0517F*	glaucoma plan of care documented (ec)5 
+0518F*	falls plan of care documented (ger)5 
+0519F*	planned chemo regimen, including drug(s) prescribed, dose, and duration, doc prior to new txmt 
+0520F*	radiation dose limits to normal tissues established prior to 3d radiation, > or = 2 tissues/organs 
+0521F*	plan of care to address pain documented (coa)2 (onc)1 
+0525F*	initial visit for episode (bkp)2 
+0526F*	subsequent visit for episode (bkp)2 
+0528F*	recommended follow-up interval for repeat colonoscopy of at least 10 years documented in report 
+0529F*	interval of 3 or more years since patient's last colonoscopy, documented (end/polyp)5 
+0535F*	dyspnea management plan of care, documented (pall cr)5 
+0540F*	glucorticoid management plan documented (ra)5 
+0545F*	plan for follow-up care for major depressive disorder, documented (mdd adol) 
+0550F*	cytopath report on nongyn specimen - 2 wkng days 
+0551F*	cytopath report - nongyn spcmn docd non-routine 
+0555F*	symptom management plan of care documented 
+0556F*	plan of care to achieve lipid control documented 
+0557F*	plan of care to manage anginal symptoms docd 
+0575F*	hiv rna control plan of care, documented (hiv) 
+0580F*	multidisciplinary care plan developed or updated (dsp)8 
+0581F*	patient transferred directly from anesthetizing location to critical care unit (peri2)11 
+0582F*	patient not transferred directly from anesthetizing location to critical care unit (peri2)11 
+0583F*	transfer of care checklist used (peri2)11 
+0584F*	transfer of care checklist not used (peri2)11 

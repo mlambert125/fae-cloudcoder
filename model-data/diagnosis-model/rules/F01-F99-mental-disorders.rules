@@ -1,0 +1,772 @@
+F0150   [vascular dementia] & ![behavioral disturbance]
+F0151   [vascular dementia] & [behavioral disturbance]
+F0280   [dementia] & [dementia in other diseases classified elsewhere] & ![behavioral disturbance]
+        [alzheimers disease]
+F0281   [dementia] & [dementia in other diseases classified elsewhere] & [behavioral disturbance]
+F0390   [dementia] !{alzheimers} & ![behavioral disturbance] & ![vascular]
+F0391   [dementia] & [behavioral disturbance]
+F04     [amnestic disorder] & [physiological condition]
+F05     [delirium] & [physiological condition]
+F060    [psychotic disorder] & [hallucinations] & [physiological condition]
+F061    [catatonic disorder] & [physiological condition]
+F062    [psychotic disorder] & [delusions] & [physiological condition]
+F0630   [mood disorder] & [physiological condition]
+F0631   [mood disorder] & [physiological condition] & [depressive feature]
+F0632   [mood disorder] & [physiological condition] & [major depressive like episode]
+F0633   [mood disorder] & [physiological condition] & [manic]
+F0634*  mood disorder due to known physiological condition with mixed features
+F064    [anxiety disorder] & [due to physiological condition]
+F068*   other specified mental disorders due to known physiological condition
+F070    [personality change] & [physiological condition]
+F0781   [postconcussional syndrome]
+F0789*  other personality and behavioral disorders due to known physiological condition
+F079    [personality disorder] & [physiological condition]
+F09     [mental disorder] !{specified} & [physiological condition]
+F1011   [alcohol] {abuse} !{dependence} {remission}
+F10120  [alcohol] {abuse} !{dependence} & [intoxication] & [uncomplicated]
+F10121  [alcohol] {abuse} !{dependence} & [intoxication delirium]
+F10129  [alcohol] {abuse} !{dependence} & [intoxication]
+        [alcohol intoxication]
+F10130	[alcohol abuse with withdrawal]	{uncomplicated} 
+F10131	[alcohol abuse with withdrawal] & [delirium] 
+F10132	[alcohol abuse with withdrawal] & [perceptual disturbance] 
+F10139	[alcohol abuse with withdrawal] 
+F1014   [alcohol] {abuse} !{dependence} & [mood disorder] {alcohol induced}
+F10150  [alcohol] {abuse} !{dependence} & [psychotic disorder] {alcohol induced} & [delusions]
+F10151  [alcohol] {abuse} !{dependence} & [psychotic disorder] {alcohol induced} & [hallucinations]
+F10159  [alcohol] {abuse} !{dependence} & [psychotic disorder] {alcohol induced}
+F10180  [alcohol] {abuse} !{dependence} & [anxiety disorder] {alcohol induced}
+F10181  [alcohol] {abuse} !{dependence} & [sexual dysfunction] {alcohol induced}
+F10182  [alcohol] {abuse} !{dependence} & [sleep disorder] {alcohol induced}
+F1010   [alcohol] {abuse} !{dependence} !{remission}
+F10188* [alcohol] {abuse} !{dependence} with other {alcohol induced} [disorder] 
+F1019   [alcohol] {abuse} !{dependence}
+F1020   [alcohol] {dependence} !{remission} !{intoxication} !{delirium} !{perceptual disturbance}
+F1021   [alcohol] {dependence} {remission} !{intoxication} !{delirium} !{perceptual disturbance}
+        [alcohol] {use} {remission} !{intoxication} !{delirium} !{perceptual disturbance}
+F10220  [alcohol] {dependence} !{delirium} !{perceptual disturbance} & [intoxication]
+F10221  [alcohol] {dependence} !{perceptual disturbance} & [intoxication delirium]
+F10229  [alcohol] {dependence} & [intoxication]
+F10230  [alcohol] {dependence} & [withdrawal]
+F10231  [alcohol] {dependence} & [withdrawal] & [delirium]
+F10232  [alcohol] {dependence} & [withdrawal] & [perceptual disturbance]
+F10239  [alcohol] {dependence} & [withdrawal] {alcohol}
+F1024   [alcohol] {dependence} & [mood disorder] {alcohol induced}
+F10250  [alcohol] {dependence} & [psychotic disorder] {alcohol induced} & [delusions]
+F10251  [alcohol] {dependence} & [psychotic disorder] {alcohol induced} & [hallucinations]
+F10259  [alcohol] {dependence} & [psychotic disorder] {alcohol induced}
+F1026   [alcohol] {dependence} & [amnestic disorder] {alcohol induced} {persisting}
+F1027   [alcohol] {dependence} & [persisting dementia] {alcohol induced}
+F10280  [alcohol] {dependence} & [anxiety disorder] {alcohol induced}
+F10281  [alcohol] {dependence} & [sexual dysfunction] {alcohol induced}
+F10282  [alcohol] {dependence} & [sleep disorder] {alcohol induced}
+F10288* [alcohol] {dependence} with other {alcohol induced} [disorder]
+F1029   [alcohol] {dependence} & [disorder] {alcohol induced}
+F10920  [alcohol] {use} !{abuse} !{dependence} !{delirium} !{perceptual disturbance} & [intoxication]
+F10921  [alcohol] {use} !{abuse} !{dependence} & [intoxication delirium]
+F10929  [alcohol] {use} !{abuse} !{dependence} & [intoxication]
+F10930	[alcohol] {use} {withdrawal} {uncomplicated} 
+F10931	[alcohol] {use} {withdrawal} {delirium} 
+F10932	[alcohol] {use} {withdrawal} {perceptual disturbance} 
+F10939	[alcohol] {use} {withdrawal} 
+F1094   [alcohol] {use} !{abuse} !{dependence} & [mood disorder] {alcohol induced}
+F10950  [alcohol] {use} !{abuse} !{dependence} & [psychotic disorder] {alcohol induced} & [delusions]
+F10951  [alcohol] {use} !{abuse} !{dependence} & [psychotic disorder] {alcohol induced} & [hallucinations]
+F10959  [alcohol] {use} !{abuse} !{dependence} & [psychotic disorder] {alcohol induced} & ![hallucinations] & ![delusions]
+F1096   [alcohol] {use} !{abuse} !{dependence} & [amnestic disorder] {alcohol induced} {persisting}
+F1097   [alcohol] {use} !{abuse} !{dependence} & [persisting dementia] {alcohol induced}
+F10980  [alcohol] {use} !{abuse} !{dependence} & [anxiety disorder] {alcohol induced}
+F10981  [alcohol] {use} !{abuse} !{dependence} & [sexual dysfunction] {alcohol induced}
+F10982  [alcohol] {use} !{abuse} !{dependence} & [sleep disorder] {alcohol induced}
+F10988* [alcohol] {use} !{abuse} !{dependence} with other {alcohol induced} [disorder]
+F1099   [alcohol] {use} !{abuse} !{dependence} & [alcohol induced]
+F1110   [opioid] {abuse} !{dependence} !{remission} !{intoxication} !{delirium} !{perceptual disturbance}
+F1111   [opioid] {abuse} !{dependence} {remission} !{intoxication} !{delirium} !{perceptual disturbance}
+F11120  [opioid] {abuse} !{dependence} & [intoxication] {uncomplicated}
+F11121  [opioid] {abuse} !{dependence} & [intoxication delirium]
+F11122  [opioid] {abuse} !{dependence} & [intoxication] & [perceptual disturbance]
+F11129  [opioid] {abuse} !{dependence} & [intoxication] !{delirium} !{perpetual disturbance}
+F1113	[opioid] {use} {withdrawal} 
+F1114   [opioid] {abuse} !{dependence} & [mood disorder] {opioid induced}
+F11150  [opioid] {abuse} !{dependence} & [psychotic disorder] {opioid induced} & [delusions]
+F11151  [opioid] {abuse} !{dependence} & [psychotic disorder] {opioid induced} & [hallucinations]
+F11159  [opioid] {abuse} !{dependence} & [psychotic disorder] {opioid induced}
+F11181  [opioid] {abuse} !{dependence} & [sexual dysfunction] {opioid induced}
+F11182  [opioid] {abuse} !{dependence} & [sleep disorder] {opioid induced}
+F11188* [opioid] {abuse} !{dependence} with other {opioid induced} disorder
+F1119   [opioid] {abuse} !{dependence} & [disorder] {opioid induced}
+F1120   [opioid] {dependence} !{withdrawl} !{severe} & ![intoxication]
+F1121   [opioid] {dependence} {remission} !{intoxication} !{delirium} !{perceptual disturbance}
+F11220  [opioid] {dependence} & [intoxication]
+F11221  [opioid] {dependence} & [intoxication delirium]
+F11222  [opioid] {dependence} & [intoxication] & [perceptual disturbance]
+F11229  [opioid] {dependence} & [intoxication]
+F1123   [opioid] {dependence} & [withdrawal]
+F1124   [opioid] {dependence} & [mood disorder] {opioid induced}
+F11250  [opioid] {dependence} & [psychotic disorder] {opioid induced} & [delusions]
+F11251  [opioid] {dependence} & [psychotic disorder] {opioid induced} & [hallucinations]
+F11259  [opioid] {dependence} & [psychotic disorder] {opioid induced}
+F11281  [opioid] {dependence} & [sexual dysfunction] {opioid induced}
+F11282  [opioid] {dependence} & [sleep disorder] {opioid induced}
+F11288* [opioid] {dependence} with other {opioid induced} disorder
+F1129   [opioid] {dependence} & [disorder] {opioid induced}
+F1190   [opioid] {use} !{long term} !{abuse} !{dependence} !{delirium} !{withdrawal} !{intoxication}
+F11920  [opioid] {use} !{abuse} !{dependence} & [intoxication]
+F11921  [opioid] {use} !{abuse} !{dependence} & [intoxication delirium]
+F11922  [opioid] {use} !{abuse} !{dependence} & [intoxication] & [perceptual disturbance]
+F11929  [opioid] {use} !{abuse} !{dependence} & [intoxication]
+F1193   [opioid] {use} !{abuse} !{dependence} & [withdrawal]
+F1194   [opioid] {use} !{abuse} !{dependence} & [mood disorder] {opioid induced}
+F11950  [opioid] {use} !{abuse} !{dependence} & [psychotic disorder] {opioid induced} & [delusions]
+F11951  [opioid] {use} !{abuse} !{dependence} & [psychotic disorder] {opioid induced} & [hallucinations]
+F11959  [opioid] {use} !{abuse} !{dependence} & [psychotic disorder] {opioid induced}
+F11981  [opioid] {use} !{abuse} !{dependence} & [sexual dysfunction] {opioid induced}
+F11982  [opioid] {use} !{abuse} !{dependence} & [sleep disorder] {opioid induced}
+F11988* [opioid] {use} !{abuse} !{dependence} with other {opioid induced} disorder
+F1199   [opioid] {use} !{abuse} !{dependence} & [disorder] {opioid induced}
+F1210   [cannabis] {abuse} !{dependence} !{severe}
+F1211   [cannabis] {abuse} !{dependence} {remission}
+F12120  [cannabis] {abuse} !{dependence} & [intoxication] !{delirium}
+F12121  [cannabis] {abuse} !{dependence} & [intoxication delirium]
+F12122  [cannabis] {abuse} !{dependence} & [intoxication] & [perceptual disturbance]
+F12129  [cannabis] {abuse} !{dependence} & [intoxication] & ![perceptual disturbance]
+F1213   [cannabis] {abuse} {withdrawal} 
+F13130	[sedative, hypnotic or anxiolytic] {abuse} {withdrawal} {uncomplicated} 
+F13131	[sedative, hypnotic or anxiolytic] {abuse} {withdrawal} & [delirium]	
+F13132	[sedative, hypnotic or anxiolytic] {abuse} {withdrawal} & [perceptual disturbance] 
+F13139	[sedative, hypnotic or anxiolytic] {abuse} {withdrawal}         
+F12150  [cannabis] {abuse} !{dependence} & [psychotic disorder] & [delusions]
+F12151  [cannabis] {abuse} !{dependence} & [psychotic disorder] & [hallucinations]
+F12159  [cannabis] {abuse} !{dependence} & [psychotic disorder] & ![hallucinations] & ![delusions]
+F12180  [cannabis] {abuse} !{dependence} & [anxiety disorder] {cannabis induced}
+F12188* [cannabis] {abuse} !{dependence} with other {cannabis induced} disorder
+F1219   [cannabis] {abuse} !{dependence} {cannabis induced}
+F1220   [cannabis] {dependence} !{remission} !{intoxication} !{delirium} !{perceptual disturbance}
+F1221   [cannabis] {dependence} {remission}
+F12220  [cannabis] {dependence} & [intoxication] !{delirium}
+F12221  [cannabis] {dependence} & [intoxication delirium]
+F12222  [cannabis] {dependence} & [intoxication] & [perceptual disturbance]
+F12229  [cannabis] {dependence} & [intoxication] & ![perceptual disturbance]
+F1223   [cannabis] {dependence} & [withdrawal]
+F12250  [cannabis] {dependence} & [psychotic disorder] & [delusions]
+F12251  [cannabis] {dependence} & [psychotic disorder] & [hallucinations]
+F12259  [cannabis] {dependence} & [psychotic disorder] & ![hallucinations] & ![delusions]
+F12280  [cannabis] {dependence} & [anxiety disorder] {cannabis induced}
+F12288* [cannabis] {dependence} with other {cannabis induced} disorder
+F1229   [cannabis] {dependence} !{remission} !{intoxication} !{delirium} !{perceptual disturbance}
+F1290   [cannabis] {use} !{abuse} !{dependence} !{withdrawal} !{intoxication} !{delirium} !{hallucinations} !{perceptual disturbance} !{psychotic disorder} !{delusions} !{newborn}
+F12920  [cannabis] {use} !{abuse} !{dependence} {intoxication} !{delirium} !{perceptual disturbance}
+F12921  [cannabis] {use} !{abuse} !{dependence} {intoxication delirium}
+F12922  [cannabis] {use} !{abuse} !{dependence} {intoxication} {perceptual disturbance}
+F12929  [cannabis] {use} !{abuse} !{dependence} {intoxication} !{perceptual disturbance}
+F1293   [cannabis] {use} !{abuse} !{dependence} {withdrawal}
+F12950  [cannabis] {use} !{abuse} !{dependence} {psychotic disorder} {delusions}
+F12951  [cannabis] {use} !{abuse} !{dependence} {psychotic disorder} {hallucinations}
+F12959  [cannabis] {use} !{abuse} !{dependence} {psychotic disorder} !{hallucinations} !{delusions}
+F12980  [cannabis] {use} !{abuse} !{dependence} {anxiety disorder}
+F12988* [cannabis] {use} !{abuse} !{dependence} with other {cannabis induced} disorder
+F1299*  [cannabis] {use} !{abuse} !{dependence} & [disorder] {cannabis induced}
+F1310   [sedative] {abuse} !{dependence} !{remission} !{intoxication} !{delirium} !{perceptual disturbance}
+F1311   [sedative] {abuse} !{dependence} {remission}
+F13120  [sedative] {abuse} !{dependence} & [intoxication]
+F13121  [sedative] {abuse} !{dependence} & [intoxication delirium]
+F13129  [sedative] {abuse} !{dependence} & [intoxication]
+F1314   [sedative] {abuse} !{dependence} & [mood disorder]
+F13150  [sedative] {abuse} !{dependence} & [psychotic disorder] {sedative induced} & [delusions]
+F13151  [sedative] {abuse} !{dependence} & [psychotic disorder] {sedative induced} & [hallucinations]
+F13159  [sedative] {abuse} !{dependence} & [psychotic disorder] {sedative induced}
+F13180  [sedative] {abuse} !{dependence} & [anxiety disorder] {sedative induced}
+F13181  [sedative] {abuse} !{dependence} & [sexual dysfunction] {sedative induced}
+F13182  [sedative] {abuse} !{dependence} & [sleep disorder] {sedative induced}
+F13188* [sedative] {abuse} !{dependence}  with other se {anxiolytic induced} disorder
+F1319*  [sedative] {abuse} !{dependence}  with unspecif or {anxiolytic induced} disorder
+F1320   [sedative] {dependence} !{remission} !{intoxication} !{delirium} !{perceptual disturbance}
+F1321   [sedative] {dependence} {remission}
+F13220  [sedative] {dependence} & [intoxication] & ![delirium]
+F13221  [sedative] {dependence} & [intoxication delirium]
+F13229  [sedative] {dependence} & [intoxication] & ![delirium]
+F13230  [sedative] {dependence} & [withdrawal] & ![delirium] & ![perceptual disturbance]
+F13231  [sedative] {dependence} & [withdrawal] & [delirium]
+F13232  [sedative] {dependence} & [withdrawal] & [perceptual disturbance]
+F13239  [sedative] {dependence} & [withdrawal] & ![perceptual disturbance]
+F1324   [sedative] {dependence} & [mood disorder] {sedative induced}
+F13250  [sedative] {dependence} & [psychotic disorder] {sedative induced} & [delusions]
+F13251  [sedative] {dependence} & [psychotic disorder] {sedative induced} & [hallucinations]
+F13259  [sedative] {dependence} & [psychotic disorder] {sedative induced}
+F1326   [sedative] {dependence} & [persisting amnestic disorder] {sedative induced}
+F1327   [sedative] {dependence} & [persisting dementia] {sedative induced}
+F13280  [sedative] {dependence} & [anxiety disorder] {sedative induced}
+F13281  [sedative] {dependence} & [sexual dysfunction] {sedative induced}
+F13282  [sedative] {dependence} & [sleep disorder] {sedative induced}
+F13288* sedative dependence with other sedative, hypnotic, or {anxiolytic induced} disorder
+F1329   [sedative] {dependence} & [disorder] {sedative induced}
+F1390   [sedative ] {use} !{abuse} !{dependence} !{intoxication} !{delirium} !{perceptual disturbance}
+F13920  [sedative ] {use} !{abuse} !{dependence} & [intoxication]
+F13921  [sedative ] {use} !{abuse} !{dependence} & [intoxication delirium]
+F13929  [sedative ] {use} !{abuse} !{dependence} & [intoxication]
+F13930  [sedative ] {use} !{abuse} !{dependence} & [withdrawal]
+F13931  [sedative ] {use} !{abuse} !{dependence} & [withdrawal] & [delirium]
+F13932  [sedative ] {use} !{abuse} !{dependence} & [withdrawal] & [perceptual disturbance]
+F13939  [sedative ] {use} !{abuse} !{dependence} & [withdrawal]
+F1394   [sedative ] {use} !{abuse} !{dependence} & [mood disorder] {sedative induced}
+F13950  [sedative ] {use} !{abuse} !{dependence} & [psychotic disorder] {sedative induced} & [delusions]
+F13951  [sedative ] {use} !{abuse} !{dependence} & [psychotic disorder] {sedative induced} & [hallucinations]
+F13959  [sedative ] {use} !{abuse} !{dependence} & [psychotic disorder] {sedative induced}
+F1396   [sedative ] {use} !{abuse} !{dependence} & [persisting amnestic disorder] {sedative induced}
+F1397   [sedative ] {use} !{abuse} !{dependence} & [persisting dementia] {sedative induced}
+F13980  [sedative ] {use} !{abuse} !{dependence} & [anxiety disorder] {sedative induced}
+F13981  [sedative ] {use} !{abuse} !{dependence} & [sexual dysfunction] {sedative induced}
+F13982  [sedative ] {use} !{abuse} !{dependence} & [sleep disorder] {sedative induced}
+F13988* [sedative ] {use} !{abuse} !{dependence} with other {anxiolytic induced} disorder
+F1399   [sedative ] {use} !{abuse} !{dependence} & [disorder] {sedative induced}
+F1410   [cocaine] {abuse} !{dependence} !{remission} !{intoxication} !{delirium} !{perceptual disturbance}
+F1411   [cocaine] {abuse} !{dependence} {remission}
+F14120  [cocaine] {abuse} !{dependence} & [intoxication]
+F14121  [cocaine] {abuse} !{dependence} & [intoxication] & [delirium]
+F14122  [cocaine] {abuse} !{dependence} & [intoxication] & [perceptual disturbance]
+F14129  [cocaine] {abuse} !{dependence} & [intoxication]
+F1414   [cocaine] {abuse} !{dependence} & [mood disorder] {cocaine induced}
+F14150  [cocaine] {abuse} !{dependence} & [psychotic disorder] {cocaine induced} & [delusions]
+F14151  [cocaine] {abuse} !{dependence} & [psychotic disorder] {cocaine induced} & [hallucinations]
+F14159  [cocaine] {abuse} !{dependence} & [psychotic disorder] {cocaine induced}
+F14180  [cocaine] {abuse} !{dependence} & [anxiety disorder] {cocaine induced}
+F14181  [cocaine] {abuse} !{dependence} & [sexual dysfunction] {cocaine induced}
+F14182  [cocaine] {abuse} !{dependence} & [sleep disorder] {cocaine induced}
+F14188* [cocaine] {abuse} !{dependence}  with other [disorder] {cocaine induced}
+F1419   [cocaine] {abuse} !{dependence} & [disorder] {cocaine induced}
+F1420   [cocaine] {dependence} !{remission} !{intoxication} !{delirium} !{perceptual disturbance}
+F1421   [cocaine] {dependence} {remission}
+F14220  [cocaine] {dependence} & [intoxication]
+F14221  [cocaine] {dependence} & [intoxication delirium]
+F14222  [cocaine] {dependence} & [intoxication] & [perceptual disturbance]
+F14229  [cocaine] {dependence} & [intoxication]
+F1423   [cocaine] {dependence} & [withdrawal]
+F1424   [cocaine] {dependence} & [mood disorder] {cocaine induced}
+F14250  [cocaine] {dependence} & [psychotic disorder] {cocaine induced} & [delusions]
+F14251  [cocaine] {dependence} & [psychotic disorder] {cocaine induced} & [hallucinations]
+F14259  [cocaine] {dependence} & [psychotic disorder] {cocaine induced}
+F14280  [cocaine] {dependence} & [anxiety disorder] {cocaine induced}
+F14281  [cocaine] {dependence} & [sexual dysfunction] {cocaine induced}
+F14282  [cocaine] {dependence} & [sleep disorder] {cocaine induced}
+F14288* [cocaine] {dependence}  with other [disorder] {cocaine induced}
+F1429   [cocaine] {dependence} & [disorder] {cocaine induced}
+F1413	[cocaine] {abuse} !{dependence} {withdrawal} 
+F1493	[cocaine] {use} !{abuse} !{dependence} {withdrawal} 
+F1490   [cocaine] {use} !{abuse} !{dependence} !{intoxication} !{delirium} !{perceptual disturbance}
+F14920  [cocaine] {use} !{abuse} !{dependence} & [intoxication]
+F14921  [cocaine] {use} !{abuse} !{dependence} & [intoxication delirium]
+F14922  [cocaine] {use} !{abuse} !{dependence} & [intoxication] & [perceptual disturbance]
+F14929  [cocaine] {use} !{abuse} !{dependence} & [intoxication] !{intoxication} !{delirium} !{perceptual disturbance}
+F1494   [cocaine] {use} !{abuse} !{dependence} & [mood disorder] {cocaine induced}
+F14950  [cocaine] {use} !{abuse} !{dependence} & [psychotic disorder] {cocaine induced} & [delusions]
+F14951  [cocaine] {use} !{abuse} !{dependence} & [psychotic disorder] {cocaine induced} & [hallucinations]
+F14959  [cocaine] {use} !{abuse} !{dependence} & [psychotic disorder] {cocaine induced}
+F14980  [cocaine] {use} !{abuse} !{dependence} & [anxiety disorder] {cocaine induced}
+F14981  [cocaine] {use} !{abuse} !{dependence} & [sexual dysfunction] {cocaine induced}
+F14982  [cocaine] {use} !{abuse} !{dependence} & [sleep disorder] {cocaine induced}
+F14988* [cocaine] {use} !{abuse} !{dependence} with other [disorder] {cocaine induced}
+F1499   [cocaine] {use} !{abuse} !{dependence} & [disorder] {cocaine induced}
+F1510   [stimulant] {abuse} !{dependence} !{remission} !{intoxication} !{delirium} !{perceptual disturbance}
+F1511*  other stimulant abuse, in remission
+F15120  [stimulant] {abuse} !{dependence} & [intoxication]
+F15121  [stimulant] {abuse} !{dependence} & [intoxication delirium]
+F15122  [stimulant] {abuse} !{dependence} & [intoxication] & [perceptual disturbance]
+F15129  [stimulant] {abuse} !{dependence} & [intoxication]
+F1513	[stimulant] {abuse} !{dependence} {withdrawal} 
+F1514   [stimulant] {abuse} !{dependence} & [mood disorder] {stimulant induced}
+F15150  [stimulant] {abuse} !{dependence} & [psychotic disorder] {stimulant induced} & [delusions]
+F15151  [stimulant] {abuse} !{dependence} & [psychotic disorder] {stimulant induced} & [hallucinations]
+F15159  [stimulant] {abuse} !{dependence} & [psychotic disorder] {stimulant induced}
+F15180  [stimulant] {abuse} !{dependence} & [anxiety disorder] {stimulant induced}
+F15181  [stimulant] {abuse} !{dependence} & [sexual dysfunction] {stimulant induced}
+F15182  [stimulant] {abuse} !{dependence} & [sleep disorder] {stimulant induced}
+F15188* other [stimulant] {abuse} !{dependence} with other {stimulant induced} disorder
+F1519   [stimulant] {abuse} !{dependence} & [disorder] {stimulant induced}
+F1520   [stimulant] {dependence} !{remission} !{intoxication} !{delirium} !{perceptual disturbance}
+F1521   [stimulant] {dependence} {remission}
+F15220  [stimulant] {dependence} & [intoxication]
+F15221  [stimulant] {dependence} & [intoxication delirium]
+F15222  [stimulant] {dependence} & [intoxication] & [perceptual disturbance]
+F15229  [stimulant] {dependence} & [intoxication]
+F1523   [stimulant] {dependence} & [withdrawal]
+F1524   [stimulant] {dependence} & [mood disorder] {stimulant induced}
+F15250  [stimulant] {dependence} & [psychotic disorder] {stimulant induced} & [delusions]
+F15251  [stimulant] {dependence} & [psychotic disorder] {stimulant induced} & [hallucinations]
+F15259  [stimulant] {dependence} & [psychotic disorder] {stimulant induced}
+F15280  [stimulant] {dependence} & [anxiety disorder] {stimulant induced}
+F15281  [stimulant] {dependence} & [sexual dysfunction] {stimulant induced}
+F15282  [stimulant] {dependence} & [sleep disorder] {stimulant induced}
+F15288* other [stimulant] {dependence} with other {stimulant induced} disorder
+F1529   [stimulant] {dependence} & [disorder] {stimulant induced}
+F1590   [stimulant] {use} !{abuse} !{dependence} !{chronic} !{remission} !{intoxication} !{delirium} !{perceptual disturbance}
+F15920  [stimulant] {use} !{abuse} !{dependence} & [intoxication]
+F15921  [stimulant] {use} !{abuse} !{dependence} & [intoxication delirium]
+F15922  [stimulant] {use} !{abuse} !{dependence} & [intoxication] & [perceptual disturbance]
+F15929  [stimulant] {use} !{abuse} !{dependence} & [intoxication]
+F1593   [stimulant] {use} !{abuse} !{dependence} & [withdrawal]
+F1594   [stimulant] {use} !{abuse} !{dependence} & [mood disorder] {stimulant induced}
+F15950  [stimulant] {use} !{abuse} !{dependence} & [psychotic disorder] {stimulant induced} & [delusions]
+F15951  [stimulant] {use} !{abuse} !{dependence} & [psychotic disorder] {stimulant induced} & [hallucinations]
+F15959  [stimulant] {use} !{abuse} !{dependence} & [psychotic disorder] {stimulant induced}
+F15980  [stimulant] {use} !{abuse} !{dependence} & [anxiety disorder] {stimulant induced}
+F15981  [stimulant] {use} !{abuse} !{dependence} & [sexual dysfunction] {stimulant induced}
+F15982  [stimulant] {use} !{abuse} !{dependence} & [sleep disorder] {stimulant induced}
+F15988* other [stimulant] {use} !{abuse} !{dependence} with other {stimulant induced} disorder
+F1599   [stimulant] {use} !{abuse} !{dependence} & [disorder] {stimulant induced}
+F1610   [hallucinogen] {abuse} !{dependence} !{remission} !{intoxication} !{delirium} !{perceptual disturbance}
+F1611   [hallucinogen] {abuse} !{dependence} {remission}
+F16120  [hallucinogen] {abuse} !{dependence} & [intoxication]
+F16121  [hallucinogen] {abuse} !{dependence} & [intoxication] & [delirium]
+F16122  [hallucinogen] {abuse} !{dependence} & [intoxication] & [perceptual disturbance]
+F16129  [hallucinogen] {abuse} !{dependence} & [intoxication]
+F1614   [hallucinogen] {abuse} !{dependence} & [mood disorder] {hallucinogen induced}
+F16150  [hallucinogen] {abuse} !{dependence} & [psychotic disorder] {hallucinogen induced} & [delusions]
+F16151  [hallucinogen] {abuse} !{dependence} & [psychotic disorder] {hallucinogen induced} & [hallucinations]
+F16159  [hallucinogen] {abuse} !{dependence} & [psychotic disorder] {hallucinogen induced}
+F16180  [hallucinogen] {abuse} !{dependence} & [anxiety disorder] {hallucinogen induced}
+F16183  [hallucinogen] {abuse} !{dependence} & [hallucinogen persisting perception disorder]
+F16188* [hallucinogen] {abuse} !{dependence} with other [disorder] {hallucinogen induced}
+F1619   [hallucinogen] {abuse} !{dependence} & [disorder] {hallucinogen induced}
+F1620   [hallucinogen] {dependence} !{remission} !{intoxication} !{delirium} !{perceptual disturbance}
+F1621   [hallucinogen] {dependence} {remission}
+F16220  [hallucinogen] {dependence} & [intoxication]
+F16221  [hallucinogen] {dependence} & [intoxication] & [delirium]
+F16229  [hallucinogen] {dependence} & [intoxication]
+F1624   [hallucinogen] {dependence} & [mood disorder] {hallucinogen induced}
+F16250  [hallucinogen] {dependence} & [psychotic disorder] {hallucinogen induced} & [delusions]
+F16251  [hallucinogen] {dependence} & [psychotic disorder] {hallucinogen induced} & [hallucinations]
+F16259  [hallucinogen] {dependence} & [psychotic disorder] {hallucinogen induced}
+F16280  [hallucinogen] {dependence} & [anxiety disorder] {hallucinogen induced}
+F16283  [hallucinogen] {dependence} & [hallucinogen persisting perception disorder]
+F16288* [hallucinogen] {dependence} with other [disorder] {hallucinogen induced}
+F1629   [hallucinogen] {dependence} & [disorder] {hallucinogen induced}
+F1690   [hallucinogen] {use} !{abuse} !{dependence} !{intoxication} !{delirium} !{perceptual disturbance}
+F16920  [hallucinogen] {use} !{abuse} !{dependence} & [intoxication]
+F16921  [hallucinogen] {use} !{abuse} !{dependence} & [intoxication] & [delirium]
+F16929  [hallucinogen] {use} !{abuse} !{dependence} & [intoxication]
+F1694   [hallucinogen] {use} !{abuse} !{dependence} & [mood disorder] {hallucinogen induced}
+F16950  [hallucinogen] {use} !{abuse} !{dependence} & [psychotic disorder] {hallucinogen induced} & [delusions]
+F16951  [hallucinogen] {use} !{abuse} !{dependence} & [psychotic disorder] {hallucinogen induced} & [hallucinations]
+F16959  [hallucinogen] {use} !{abuse} !{dependence} & [psychotic disorder] {hallucinogen induced}
+F16980  [hallucinogen] {use} !{abuse} !{dependence} & [anxiety disorder] {hallucinogen induced}
+F16983  [hallucinogen] {use} !{abuse} !{dependence} & [hallucinogen persisting perception disorder]
+F16988* [hallucinogen] {use} !{abuse} !{dependence} with other [disorder] {hallucinogen induced}
+F1699   [hallucinogen] {use} !{abuse} !{dependence} & [disorder] {hallucinogen induced}
+F17200  [nicotine] !{past tobacco} !{never} & ![cigarettes] & ![former smoker]
+F17201  [nicotine] !{past tobacco} !{never} & ![cigarettes] {remission}
+F17203  [nicotine] !{past tobacco} !{never} & ![cigarettes] {withdrawal}
+F17208* [nicotine] {dependence} & [with other nicotine induced disorder]
+F17209* [nicotine] {dependence} & [nicotine induced disorder]
+F17210  [nicotine] !{past tobacco} !{never} & [cigarettes] & ![former smoker] & ![caregiver smoker]
+F17211  [nicotine] !{past tobacco} !{never} & [cigarettes] {remission}
+F17213  [nicotine] !{past tobacco} !{never} & [cigarettes] {withdrawal}
+F17218* [nicotine] {dependence} & [cigarettes] & other [nicotine induced disorder]
+F17219  [nicotine] !{past tobacco} & [cigarettes] & [nicotine induced disorder]
+F17220  [nicotine dependent] {chewing tobacco}!{past tobacco}
+F17221  [nicotine dependent] {chewing tobacco} {remission} !{past tobacco}
+F17223  [nicotine dependent] {chewing tobacco} {withdrawal} !{past tobacco}
+F17228* [nicotine dependent] {chewing tobacco} & other [nicotine induced disorder]
+F17229  [nicotine dependent] {chewing tobacco} !{past tobacco} & [nicotine induced disorder]
+F17290  [other nicotine dependence] & [current smoker] !{remission} !{past tobacco}
+F17291  [other nicotine dependence] {remission} !{past tobacco}
+F17293  [other nicotine dependence] & [withdrawal] !{past tobacco}
+F17298* [nicotine dependent] {tobacco} !{past tobacco}
+F17299  [other nicotine dependence] & [nicotine induced disorder] !{past tobacco}
+F1810   [inhalant] {abuse} !{dependence} !{remission} !{intoxication} !{delirium} !{perceptual disturbance}
+F1811   [inhalant] {abuse} !{dependence} {remission}
+F18120  [inhalant] {abuse} !{dependence} & [intoxication]
+F18121  [inhalant] {abuse} !{dependence} & [intoxication delirium]
+F18129  [inhalant] {abuse} !{dependence} & [intoxication]
+F1814   [inhalant] {abuse} !{dependence} & [mood disorder] {inhalant induced}
+F18150  [inhalant] {abuse} !{dependence} & [psychotic disorder] {inhalant induced} & [delusions]
+F18151  [inhalant] {abuse} !{dependence} & [psychotic disorder] {inhalant induced} & [hallucinations]
+F18159  [inhalant] {abuse} !{dependence} & [psychotic disorder] {inhalant induced}
+F1817   [inhalant] {abuse} !{dependence} & [dementia] {inhalant induced}
+F18180  [inhalant] {abuse} !{dependence} & [anxiety disorder] {inhalant induced}
+F18188* [inhalant] {abuse} !{dependence} with other [disorder] {inhalant induced}
+F1819   [inhalant] {abuse} !{dependence} & [disorder] {inhalant induced}
+F1820   [inhalant] {dependence} !{remission} !{intoxication} !{delirium} !{perceptual disturbance}
+F1821   [inhalant] {dependence} {remission}
+F18220  [inhalant] {dependence} & [intoxication]
+F18221  [inhalant] {dependence} & [intoxication delirium]
+F18229  [inhalant] {dependence} & [intoxication]
+F1824   [inhalant] {dependence} & [mood disorder] {inhalant induced}
+F18250  [inhalant] {dependence} & [psychotic disorder] {inhalant induced} & [delusions]
+F18251  [inhalant] {dependence} & [psychotic disorder] {inhalant induced} & [hallucinations]
+F18259  [inhalant] {dependence} & [psychotic disorder] {inhalant induced}
+F1827   [inhalant] {dependence} & [dementia] {inhalant induced}
+F18280  [inhalant] {dependence} & [anxiety disorder] {inhalant induced}
+F18288* [inhalant] {dependence} with other [disorder] {inhalant induced}
+F1829   [inhalant] {dependence} & [disorder] {inhalant induced}
+F1890   [inhalant] {use} !{abuse} !{dependence} !{remission} !{intoxication} !{delirium} !{perceptual disturbance}
+F18920  [inhalant] {use} !{abuse} !{dependence} & [intoxication]
+F18921  [inhalant] {use} !{abuse} !{dependence} & [intoxication] & [delirium]
+F18929  [inhalant] {use} !{abuse} !{dependence} & [intoxication]
+F1894   [inhalant] {use} !{abuse} !{dependence} & [mood disorder] {inhalant induced}
+F18950  [inhalant] {use} !{abuse} !{dependence} & [psychotic disorder] {inhalant induced} & [delusions]
+F18951  [inhalant] {use} !{abuse} !{dependence} & [psychotic disorder] {inhalant induced} & [hallucinations]
+F18959  [inhalant] {use} !{abuse} !{dependence} & [psychotic disorder] {inhalant induced}
+F1897   [inhalant] {use} !{abuse} !{dependence} & [persisting dementia] {inhalant induced}
+F18980  [inhalant] {use} !{abuse} !{dependence} & [anxiety disorder] {inhalant induced}
+F18988* [inhalant] {use} !{abuse} !{dependence} with other [disorder] {inhalant induced}
+F1899   [inhalant] {use} !{abuse} !{dependence} & [disorder] {inhalant induced}
+F1910   [psychoactive substance] {abuse} !{dependence} !{remission} !{intoxication} !{delirium} !{perceptual disturbance}
+F1911   [psychoactive substance] {abuse} !{dependence} {remission}
+F19120  [psychoactive substance] {abuse} !{dependence} & [intoxication]
+F19121  [psychoactive substance] {abuse} !{dependence} & [intoxication delirium]
+F19122  [psychoactive substance] {abuse} !{dependence} & [intoxication] & [perceptual disturbance]
+F19129  [psychoactive substance] {abuse} !{dependence} & [intoxication]
+F19130	[other psychoactive substance] {abuse} !{dependence} {withdrawal} {uncomplicated} 
+F19131	[other psychoactive substance] {abuse} !{dependence} {withdrawal} & [delirium]
+F19132	[other psychoactive substance] {abuse} !{dependence} {withdrawal} & [perceptual disturbance] 
+F19139	[other psychoactive substance] {abuse} !{dependence} {withdrawal}  
+F1914   [psychoactive substance] {abuse} !{dependence} & [mood disorder] {psychoactive substance induced}
+F19150  [psychoactive substance] {abuse} !{dependence} & [psychotic disorder] {psychoactive substance induced} & [delusions]
+F19151  [psychoactive substance] {abuse} !{dependence} & [psychotic disorder] {psychoactive substance induced} & [hallucinations]
+F19159  [psychoactive substance] {abuse} !{dependence} & [psychotic disorder] {psychoactive substance induced}
+F1916   [psychoactive substance] {abuse} !{dependence} & [persisting amnestic disorder] {psychoactive substance induced}
+F1917   [psychoactive substance] {abuse} !{dependence} & [persisting dementia] {psychoactive substance induced}
+F19180  [psychoactive substance] {abuse} !{dependence} & [anxiety disorder] {psychoactive substance induced}
+F19181  [psychoactive substance] {abuse} !{dependence} & [sexual dysfunction] {psychoactive substance induced}
+F19182  [psychoactive substance] {abuse} !{dependence} & [sleep disorder] {psychoactive substance induced}
+F19188  [other psychoactive substance abuse with other disorder psychoactive substance induced]
+F1919   [psychoactive substance] {abuse} !{dependence} & [disorder] {psychoactive substance induced}
+F1920   [psychoactive substance] {dependence} !{remission} !{withdrawal} !{intoxication} !{delirium} !{perceptual disturbance}
+F1921   [psychoactive substance] {dependence} {remission}
+F19220  [psychoactive substance] {dependence} & [intoxication]
+F19221  [psychoactive substance] {dependence} & [intoxication delirium]
+F19222  [psychoactive substance] {dependence} & [intoxication] & [perceptual disturbance]
+F19229  [psychoactive substance] {dependence} & [intoxication]
+F19230  [psychoactive substance] {dependence} & [withdrawal]
+F19231  [psychoactive substance] {dependence} & [withdrawal] & [delirium]
+F19232  [psychoactive substance] {dependence} & [withdrawal] & [perceptual disturbance]
+F19239  [psychoactive substance] {dependence} & [withdrawal]
+F1924   [psychoactive substance] {dependence} & [mood disorder] {psychoactive substance induced}
+F19250  [psychoactive substance] {dependence} & [psychotic disorder] {psychoactive substance induced} & [delusions]
+F19251  [psychoactive substance] {dependence} & [psychotic disorder] {psychoactive substance induced} & [hallucinations]
+F19259  [psychoactive substance] {dependence} & [psychotic disorder] {psychoactive substance induced}
+F1926   [psychoactive substance] {dependence} & [persisting amnestic disorder] {psychoactive substance induced}
+F1927   [psychoactive substance] {dependence} & [persisting dementia] {psychoactive substance induced}
+F19280  [psychoactive substance] {dependence} & [anxiety disorder] {psychoactive substance induced}
+F19281  [psychoactive substance] {dependence} & [sexual dysfunction] {psychoactive substance induced}
+F19282  [psychoactive substance] {dependence} & [sleep disorder] {psychoactive substance induced}
+F19288* [other psychoactive substance] {dependence} & [disorder] {psychoactive substance induced}
+F1929   [psychoactive substance] {dependence} & [disorder] {psychoactive substance induced}
+F1990   [psychoactive substance] {use} !{abuse} !{dependence} !{intoxication} 
+F19920  [psychoactive substance] {use} !{abuse} !{dependence} & [intoxication] & ![delirium] & ![perceptual disturbance] & ![withdrawal]
+F19921  [psychoactive substance] {use} !{abuse} !{dependence} & [intoxication] & [delirium]
+F19922  [psychoactive substance] {use} !{abuse} !{dependence} & [intoxication] & [perceptual disturbance]
+F19929  [psychoactive substance] {use} !{abuse} !{dependence} & [intoxication] & ![delirium] & ![perceptual disturbance] & ![withdrawal]
+F19930  [psychoactive substance] {use} !{abuse} !{dependence} & [withdrawal] & ![delirium] & ![perceptual disturbance]
+F19931  [psychoactive substance] {use} !{abuse} !{dependence} & [withdrawal] & [delirium]
+F19932  [psychoactive substance] {use} !{abuse} !{dependence} & [withdrawal] & [perceptual disturbance]
+F19939  [psychoactive substance] {use} !{abuse} !{dependence} & [withdrawal] & ![delirium] & ![perceptual disturbance]
+F1994   [psychoactive substance] {use} !{abuse} !{dependence} & [mood disorder] {psychoactive substance induced}
+F19950  [psychoactive substance] {use} !{abuse} !{dependence} & [psychotic disorder] {psychoactive substance induced} & [delusions]
+F19951  [psychoactive substance] {use} !{abuse} !{dependence} & [psychotic disorder] {psychoactive substance induced} & [hallucinations]
+F19959  [psychoactive substance] {use} !{abuse} !{dependence} & [psychotic disorder] {psychoactive substance induced}
+F1996   [psychoactive substance] {use} !{abuse} !{dependence} & [persisting amnestic disorder] {psychoactive substance induced}
+F1997   [psychoactive substance] {use} !{abuse} !{dependence} & [persisting dementia] {psychoactive substance induced}
+F19980  [psychoactive substance] {use} !{abuse} !{dependence} & [anxiety disorder] {psychoactive substance induced}
+F19981  [psychoactive substance] {use} !{abuse} !{dependence} & [sexual dysfunction] {psychoactive substance induced}
+F19982  [psychoactive substance] {use} !{abuse} !{dependence} & [sleep disorder] {psychoactive substance induced}
+F19988  [other psychoactive substance] {use} !{abuse} !{dependence} & [disorder] {psychoactive substance induced}
+F1999   [psychoactive substance] {use} !{abuse} !{dependence} & [disorder] {psychoactive substance induced}
+F200    [paranoid schizophrenia]
+F201    [disorganized schizophrenia]
+F202    [catatonic schizophrenia]
+F203    [undifferentiated schizophrenia]
+F205    [residual schizophrenia]
+F2081   [schizophreniform disorder]
+F2089   [other schizophrenia]
+F209    [schizophrenia]
+F21     [schizotypal disorder]
+F22     [delusional disorders]
+F23     [brief psychotic disorder]
+F24     [shared psychotic disorder]
+F250    [bipolar schizoaffective disorder]
+F251    [schizoaffective disorder] {depressive}
+F258    [other schizoaffective disorders]
+F259    [schizoaffective disorder] !{bipolar} !{depressive}
+F28     [psychotic disorder not due to a substance or known physiological condition]
+F29     [psychoses]
+F3010   [manic episode] & ![psychotic]
+F3011   [manic episode] & ![psychotic] {mild}
+F3012   [manic episode] & ![psychotic] {moderate}
+F3013   [manic episode] {severe} & ![psychotic]
+F302    [manic episode] {severe} & [psychotic]
+F303    [manic episode] {partial remission}
+F304    [manic episode] {full remission}
+F308*   [manic] & ![bipolar disorder]
+F309    [manic] & ![bipolar disorder]
+F310    [bipolar disorder] {hypomanic}
+F3110   [bipolar disorder] {manic} & ![psychotic]
+F3111   [bipolar disorder] {manic} & ![psychotic] {mild}
+F3112   [bipolar disorder] {manic} & ![psychotic] {moderate}
+F3113   [bipolar disorder] {manic} & ![psychotic] {severe}
+F312    [bipolar disorder] {manic} {severe} & [psychotic]
+F3130   [bipolar disorder] !{olympus} !{trans} !{device} !{manic} !{mild} !{moderate} !{severe} !{cautery} & [depression] !{history}
+F3131   [bipolar disorder] !{manic} {mild} & [depression]
+F3132   [bipolar disorder] !{manic} {moderate} & [depression]
+F314    [bipolar disorder] !{manic} {severe} & ![psychotic] & [depression]
+F315    [bipolar disorder] !{manic} {severe} {psychotic} !{mixed}  & [depression]
+F3160   [bipolar disorder] {mixed} !{manic} !{mild} !{moderate} !{severe}
+F3161   [bipolar disorder] {mixed} {mild}
+F3162   [bipolar disorder] {mixed} {moderate}
+F3163   [bipolar disorder] {mixed} {severe} & ![psychotic]
+F3164   [bipolar disorder] {mixed} {severe} {psychotic} !{depression}
+F3170   [bipolar disorder] {remission}
+F3171   [bipolar disorder] {partial remission} {hypomanic}
+F3172   [bipolar disorder] {full remission} {hypomanic}
+F3173   [bipolar disorder] {partial remission} {manic}
+F3174   [bipolar disorder] {full remission} {manic}
+F3175   [bipolar disorder] {partial remission} {depressed}
+F3176   [bipolar disorder] {full remission} {depressed}
+F3177   [bipolar disorder] {partial remission} {mixed}
+F3178*  [bipolar disorder] {full remission}, most recent episode {mixed}
+F3181   [bipolar ii disorder]
+F3189*  other bipolar disorder
+F319    [bipolar disorder] !{trans} !{device} !{replacement} !{manic} !{mild} !{moderate} !{severe} !{cautery}
+F320    [major depressive disorder] {mild} !{recurrent}
+F321    [major depressive disorder] {moderate} !{recurrent}
+F322    [major depressive disorder] {severe} !{recurrent} & ![psychotic features]
+F323    [major depressive disorder] {severe} {psychotic features} !{recurrent}
+F324    [major depressive disorder] {partial remission} !{recurrent}
+F325    [major depressive disorder] {full remission}!{recurrent}
+F328*   [other depressive episodes]
+F3281   [other specified depressive episodes]
+F3289   [disruptive mood dysregulation]
+F329    [depression] !{suicidal} !{recurrent} !{ekg waves} !{systolic function} !{scleral} !{adjustment disorder}
+F330    [major depressive disorder] {recurrent} {mild}
+F331    [major depressive disorder] {recurrent} {moderate}
+F332    [major depressive disorder] {recurrent} {suicidal} & ![psychotic]
+F332    [major depressive disorder, severe, recurrent, without psychotic]
+F333    [major depressive disorder] {recurrent} {severe} {psychotic}
+F3340   [major depressive disorder] {recurrent} {remission}
+F3341   [major depressive disorder] {recurrent} {partial remission}
+F3342   [major depressive disorder] {recurrent} {full remission}
+F338*   other recurrent depressive disorders
+F339    [major depressive disorder] {recurrent}
+F340    [cyclothymic disorder]
+F341    [dysthymic disorder]
+F348*   other persistent mood affective disorders
+F3481   [other specified persistent mood affective disorders]
+F3489   [other specified persistent mood disorders]
+F349    [persistent mood affective disorder]
+F39     [mood affective disorder]
+F4000   [agoraphobia]
+F4001   [agoraphobia] & [panic disorder]
+F4002   [agoraphobia] & ![panic disorder]
+F4010   [social phobia]
+F4011   [social phobia] {generalized}
+F40210  [arachnophobia]
+F40218* other animal type phobia
+F40220  [fear of thunderstorms]
+F40228* other natural environment type phobia
+F40230  [fear of blood]
+F40231  [fear of injections]
+F40232  [fear of other medical care]
+F40233  [fear of injury]
+F40240  [claustrophobia]
+F40241  [acrophobia]
+F40242  [fear of bridges]
+F40243  [fear of flying]
+F40248* other situational type phobia
+F40290  [androphobia]
+F40291  [gynephobia]
+F40298* other specified phobia
+F408*   [phobic anxiety]
+F409    [phobic anxiety]
+F410    [panic attack]
+F411    [generalized anxiety disorder]
+F413    [anxiety] {mixed}
+F418    [other anxiety]
+F419    [anxiety] !{generalized} !{mri}
+F429    [obsessive-compulsive]
+F422    [mixed obsessional thoughts and acts]
+F423    [hoarding]
+F424    [excoriation skin picking]
+F430    [stress reaction] {acute}
+F4310   [post traumatic stress disorder] !{acute} !{chronic}
+F4311   [post traumatic stress disorder] {acute}
+F4312   [post traumatic stress disorder] {chronic}
+F4320   [adjustment disorder]
+F4321   [adjustment disorder] & [depressed mood]
+F4322   [adjustment disorder] & [anxiety]
+F4323   [adjustment disorder] & [anxiety] & [depressed mood]
+F4324   [adjustment disorder] & [disturbance of conduct]
+F4325   [adjustment disorder] & [disturbance of emotions] & [disturbance of conduct]
+F4329*  [adjustment disorder]
+F438*   other reactions to severe stress
+F439    [reaction to severe stress]
+F440    [dissociative amnesia]
+F441    [dissociative fugue]
+F442    [dissociative stupor]
+F444    [conversion disorder] & [motor symptom]
+F445    [conversion disorder] & [seizures]
+F446    [conversion disorder] & [sensory symptom]
+F447    [conversion disorder] & [mixed symptom presentation]
+F4481   [dissociative identity disorder]
+F4489*  other dissociative and conversion disorders
+F449    [dissociative and conversion disorder]
+F450    [somatization disorder]
+F451    [undifferentiated somatoform disorder]
+F4520   [hypochondriacal disorder]
+F4521   [hypochondriasis]
+F4522   [body dysmorphic disorder]
+F4529*  other hypochondriacal disorders
+F4541*  [pain disorder] exclusively related to {psychological} factors
+F4542   [pain disorder] {psychological}
+F458*   other somatoform disorders
+F459    [somatoform disorder]
+F481    [depersonalization derealization syndrome]
+F482    [pseudobulbar affect]
+F488*   other specified nonpsychotic mental disorders
+F489    [nonpsychotic mental disorder]
+F5000   [anorexia nervosa] !{restricting} !{binge eating}
+F5001   [anorexia nervosa] {restricting}
+F5002   [anorexia nervosa] {binge eating}
+F502    [bulimia nervosa]
+F508*   other eating disorders
+F5081   [binge eating]
+F5082   [food intake disorder]
+F509    [eating disorder]
+F5101   [primary insomnia]
+F5102   [adjustment insomnia]
+F5103   [paradoxical insomnia]
+F5104   [psychophysiologic insomnia]
+F5105   [insomnia] & [mental disorder]
+F5109   [other insomnia] & ![substance] & ![physiological condition]
+F5111   [primary hypersomnia]
+F5112   [insufficient sleep syndrome]
+F5113   [hypersomnia] & [mental disorder]
+F5119   [other hypersomnia] & ![substance] & ![physiological condition]
+F513    [sleepwalking]
+F514    [sleep terrors]
+F515    [nightmares]
+F518*   [sleep disorder] not due to a ![substance] or known ![physiological condition]
+F519*   [sleep disorder] & ![substance] & ![physiological condition]
+F520    [hypoactive sexual desire disorder]
+F521    [sexual aversion disorder]
+F5221   [erectile disorder]
+F5222   [sexual arousal disorder]
+F5231   [orgasmic disorder]
+F5232   [orgasmic disorder]
+F524    [premature ejaculation]
+F525    [vaginismus] & ![substance] & ![physiological condition]
+F526*   [dyspareunia] & ![substance] & ![physiological condition]
+F528*   [sexual dysfunction] not due to a ![substance] or known ![physiological condition]
+F529    [sexual dysfunction] & ![substance] & ![physiological condition]
+F530    [postpartum depression]
+F531    [puerperal psychosis]
+F54*    Psychological and behavioral factors associated with disorders or diseases classified elsewhere
+F550    [abuse of antacids]
+F551    [abuse of herbal remedies]
+F552    [abuse of laxatives]
+F553    [abuse of steroids]
+F554    [abuse of vitamins]
+F558*   abuse of other non psychoactive substances
+F59*    unspecified behavioral syndromes associated with physiological disturbances and physical factors
+F600    [paranoid personality disorder]
+F601    [schizoid personality disorder]
+F602    [antisocial personality disorder]
+F603    [borderline personality disorder]
+F604    [histrionic personality disorder]
+F605    [obsessive compulsive personality disorder]
+F606    [avoidant personality disorder]
+F607    [dependent personality disorder]
+F6081   [narcissistic personality disorder]
+F6089*  other specific personality disorders
+F609    [personality disorder] !{borderline} 
+F630    [pathological gambling]
+F631    [pyromania]
+F632    [kleptomania]
+F633    [trichotillomania]
+F6381   [intermittent explosive disorder]
+F6389*  other impulse disorders
+F639    [impulse disorder]
+F640    [transsexualism]
+F641    [dual role transvestism]
+F642    [gender identity disorder]
+F648*   [other gender identity disorders] "pediatric"
+F649    [unspecified gender identity disorder] "pediatric"
+F650    [fetishism]
+F651    [transvestic fetishism]
+F652    [exhibitionism]
+F653    [voyeurism]
+F654    [pedophilia]
+F6550   [sadomasochism]
+F6551   [sexual masochism]
+F6552   [sexual sadism]
+F6581   [frotteurism]
+F6589   [paraphilia]
+F659    [paraphilia]
+F66     [sexual disorder]
+F68A	[factitious disorder] {imposed on another}
+F6810   [factitious disorder] {imposed on self}
+F6811   [factitious disorder] {psychological signs} {imposed on self}
+F6812   [factitious disorder] {physical signs} {imposed on self}
+F6813   [factitious disorder] {physical} {psychological} {imposed on self}
+F688*   other specified disorders of adult personality and behavior
+F70     [intellectual disability] {mild}
+F71     [intellectual disability] {moderate}
+F72     [intellectual disability] {severe}
+F73     [intellectual disability] {profound}
+F78*    other intellectual disability
+F79     [intellectual disability] !{profound} !{severe} !{moderate} !{mild}
+F800    [phonological disorder]
+F801    [expressive language disorder]
+F802    [receptive expressive language disorder]
+F804    [speech development delay] & [hearing loss]
+F8081   [fluency disorder] "pediatric"
+F8082   [social pragmatic communication]
+F8089*  other developmental disorders of speech and language
+F809    [speech disorder]
+F810    [specific reading disorder]
+F812    [mathematics disorder]
+F8181   [disorder of written expression]
+F8189*  other developmental disorders of scholastic skills
+F819    [developmental disorder of scholastic skills] {learning diabilities}
+F82     [motor function development disorder]
+F840    [autistic disorder]
+F842    [retts syndrome]
+F843    [disintegrative disorder] "pediatric"
+F845    [aspergers syndrome]
+F848*   other pervasive developmental disorders
+F849    [pervasive developmental disorder]
+F88     [other disorders of psychological development]
+F89     [disorder of psychological development]
+F900    [attention deficit hyperactivity disorder] {inattentive}
+F901    [attention deficit hyperactivity disorder] {hyperactive}
+F902    [attention deficit hyperactivity disorder] {combined type}
+F908*   [attention deficit hyperactivity disorder], other type
+F909    [attention deficit hyperactivity disorder] & ![hyperactive type] & ![inattentive]
+F910    [conduct disorder] {family hx}
+F911    [conduct disorder] {childhood onset}
+F912    [conduct disorder] {adolescent onset}
+F913    [oppositional defiant disorder]
+F918*   other conduct disorders
+F919    [conduct disorder]
+F930    [separation disorder] "pediatric"
+F938*   other childhood emotional disorders
+F939    "pediatric" [emotional disorder]
+F940    [selective mutism]
+F941    [reactive attachment disorder] "pediatric"
+F942    [disinhibited attachment disorder] "pediatric"
+F948*   other childhood disorders of social functioning disorder
+F949    "pediatric" [disorder of social functioning]
+F950    [transient tic disorder]
+F951    [motor tic disorder] {chronic}
+F952    [tourettes disorder]
+F958*   other tic disorders
+F959    [tic disorder]
+F980    [enuresis] & ![substance] & ![physiological condition]
+F981    [encopresis] & ![substance] & ![physiological condition]
+F9821   [rumination disorder] 
+F9829   [feeding disorder] 
+F983    [pica] 
+F984    [stereotyped movement disorder]
+F985    [adult onset fluency disorder]
+F988*   other specified behavioral and emotional disorders with onset usually occurring in childhood and adolescence
+F989    [behavioral disorder] "pediatric"
+F99     [mental disorder] & ![specified]

@@ -1,0 +1,1255 @@
+Z0000   [annual physical examination] !{history} & ![abnormal findings]
+Z0001   [medical examination] !{history} & [abnormal findings] 
+Z00110  [health examination] {under 8 days old} & [newborn admission data] !"adult"
+Z00111  [health examination] {8 to 28 days old} & [newborn admission data] !"adult"
+Z00121  [health examination] {routine} & [abnormal findings] "pediatric"
+Z00129  [health examination] {routine} & ![abnormal findings] "pediatric"
+        [well child check]
+Z002    [examination] {period of rapid growth} "pediatric"
+Z003    [examination] {development state} "pediatric"
+Z005    [examination] {potential donor of organ and tissue}
+Z006*   [clinical research program] 
+Z0070   [examination] {period of delayed growth} "pediatric" & ![abnormal findings]
+Z0071   [examination] {period of delayed growth} "pediatric" & [abnormal findings]
+Z008*   [other general examination]
+Z0100   [examination] `eyes and vision` & ![abnormal findings]
+Z00999  [Z00.999] bogus code for covenant only do not change
+Z0101   [examination] `eyes and vision` & [abnormal findings]
+Z0102   [encounter for examination] `eyes` {following failed vision screening}
+Z01020  [encounter for examination] `eyes` {following failed vision screening} !{abnormal}
+Z01021  [encounter for examination] `eyes` {following failed vision screening} {abnormal}
+Z0110   [examination] `ears and hearing` & ![other abnormal findings]
+        [passed oae left] & [passed oae right]
+        [hearing screen] & ![other abnormal findings]
+Z01110  [examination] {hearing} {following failed hearing screening}
+Z01118  [examination] `ears and hearing` & [other abnormal findings]
+        [failed oae]
+        [hearing screen] & [other abnormal findings]
+Z0112   [hearing conservation and treatment]
+Z0120   [examination] {dental} & [cleaning] & ![abnormal findings]
+Z0121   [examination] {dental} & [cleaning] & [abnormal findings]
+Z0130   [examination] {blood pressure} & ![abnormal findings] {vital signs}
+Z0131   [examination] {blood pressure} & [abnormal findings] !{vital signs}
+Z01411  [examination] {gynecological} & [abnormal findings] !{vital signs}
+Z01419  [examination] {gynecological} & ![abnormal findings] {vital signs}
+Z0142*  [cervical smear] to confirm findings of recent normal smear following initial abnormal smear
+Z01810  [examination] {preprocedural} `cardiovascular`
+        [pre-cath]
+Z01811  [examination] {preprocedural} `respiratory`
+Z01812  [examination] {preprocedural} `laboratory`
+Z01818  [other preprocedural examination] {admission reason}
+Z0182   [allergy testing]
+Z0183   [blood typing]
+Z0184   [examination] {antibody response}
+Z0189   [examinations] {special}
+Z020    [examination] {admission to educational institution}
+Z021    [examination] {pre-employment}
+Z022    [admin examinations] & [admission to residential institution]
+Z023    [examination] {recruitment to armed forces}
+Z024    [examination] {driving license}
+Z025    [examination] {participation in sport}
+Z026    [examination] {insurance purposes}
+Z0271   [disability determination]
+Z0279   [issue of medical certificate]
+Z0281   [paternity testing]
+Z0282   [adoption services]
+Z0283   [blood alcohol test]
+Z0289*  other {administrative} [examinations]
+Z029    [admin examinations] & ![admission to residential institution]
+Z036*   observation for suspected toxic effect from ingested substance ruled out
+Z0371*  suspected problem with amniotic cavity and membrane ruled out
+Z0372*  suspected placental problem ruled out
+Z0373*  suspected fetal anomaly ruled out
+Z0374*  suspected problem with fetal growth ruled out
+Z0375*  suspected cervical shortening ruled out
+Z0379*  other suspected maternal and fetal conditions ruled out
+Z03810* observation for suspected exposure to anthrax ruled out
+Z03818  [other specified organisms] {ruled out} {asymptomatic}
+Z03821  [suspected ingested] `foreign body` {ruled out}	
+Z03822	[suspected inhaled] `foreign body` {ruled out} 
+Z03823	[suspected injected] `foreign body` {ruled out}	
+Z0389*  observation for other suspected diseases and conditions ruled out
+Z041    [transport accident] {examination}
+Z042    [work accident] {examination}
+Z043    [accident] {examination} !{cva} !{vascular} !{fall}
+Z0441   [rape] {examination} !"pediatric"
+Z0442   [rape] {examination} "pediatric"
+Z046    [examination] {general} {psychiatric} {requested by authority}
+Z0471   [physical abuse] {examination} !"pediatric"
+Z0472   [physical abuse] {examination} "pediatric"
+Z048*   [examination and observation for other specified reasons]
+Z0481*  [examination and observation of victim following forced sexual exploitation]
+Z0482*  [examination and observation of victim following forced labor exploitation]
+Z0489*  [examination and observation for other specified reasons]
+Z049    [encounter for examination and observation for unsp reason]
+Z051    [obs and eval of nb for suspected infect condition] & [ruled out] {infection}
+Z0542   [obs and eval of nb for suspected metabolic condition] & [ruled out]
+Z08*    [routine follow up after radiation]
+Z09     [follow up examination] !{plan} !{malignant} !{history} & ![in the hospital]
+Z110    [intestinal infectious disease] {screening} !{test negative outcome or description}
+Z111    [respiratory tuberculosis] {screening} !{test negative outcome or description}
+Z112*   [other bacterial disease] {screening} !{test negative outcome or description}
+Z113    [sexually transmitted disease] {screening} !{test negative outcome or description}
+Z114    [human immunodeficiency virus] {screening} !{test negative outcome or description}
+Z1151   [human papillomavirus] {screening} !{test negative outcome or description}
+Z1152   [screening for covid] !{previous test} !{test negative outcome or description} NEW AS OF JANUARY 2021
+Z1159   [screening for other viral diseases] !{previous test} !{test negative outcome or description}
+Z116*   screening for other protozoal diseases and helminthiases
+Z117    [encounter for testing] {latent tuberculosis}
+Z118*   screening for other infectious and parasitic diseases 
+Z119    [infectious disease] {screening}
+        [parasitic disease] {screening}
+Z120    [screening]  `stomach`
+Z1210   [screening]  `intestinal tract`
+Z1211   [screening] `colon`
+        [screening colonoscopy]
+Z1212   [screening]  `rectum` 
+Z1213   [screening]  `small intestine`
+Z122    [screening]  `respiratory organ`
+Z1231   [screen mammogram] !{history} & ![diagnostic] & ![postprocedural] & ![inconclusive]
+Z1239*  [screening] `breast`
+Z124*   [screening] `cervix`
+        [screening] {pap smear} 
+Z125    [screening]  `prostate`
+Z126    [screening]  `bladder`
+Z1271   [screening]  `testis`
+Z1272   [screening]  `vagina`
+        [screening] {pap smear}
+Z1273   [screening]  `ovary`
+Z1279   [screening]  `genitourinary organ`
+Z1281   [screening]  `oral cavity`
+Z1282   [screening]  `nervous system`
+Z1283   [screening]  `skin`
+Z1289*  [screening]
+Z129*   [screening]
+Z130*   screening for diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+Z131    [diabetes screening]
+Z1321   [nutritional disorder] {screening}
+Z13220  [lipoid screening disorders]
+Z13228  [screening] {other metabolic disorders}
+Z1329   [other endocrine disorder] {screening}
+Z134    [developmental disorder] {screening} "pediatric"
+Z135    [eye disorder] {screening}
+        [ear disorder] {screening}
+Z136    [cardiovascular disorder] {screening}
+Z1371   [genetic disease carrier status] {nonprocreative} {screening}
+Z1379   [genetic anomalies] {screening}
+        [chromosomal anomalies] {screening}
+Z13810  [upper gastrointestinal disorder] {screening}
+Z13811  [lower gastrointestinal disorder] {screening}
+Z13818* screening for other digestive system disorders
+Z13820  [osteoporosis] {screening}
+Z13828* screening for other musculoskeletal disorder
+Z1383   [respiratory disorder] {screening}
+Z1384   [dental disorder] {screening}
+Z13850  [traumatic brain injury] {screening}
+Z13858* screening for other nervous system disorders
+Z1388*  screening for disorder due to exposure to contaminants
+Z1389*  screening for other disorder
+Z139*   [screening]
+Z1401   [hemophilia a carrier] {asymptomatic}
+Z1402   [hemophilia a carrier] {symptomatic}
+Z141    [cystic fibrosis carrier]
+Z148    [genetic carrier of other disease]
+Z1501   [genetic susceptibility of breast]
+Z1502   [cancer susceptibility marker] `ovary` {positive} {genetic}
+Z1503   [genetic susceptibility] `prostate`
+Z1504   [genetic susceptibility] `endometrium`
+Z1509   [genetic susceptibility]
+Z1581   [multiple endocrine neoplasia] & [genetic susceptibility]
+Z1589   [genetic susceptibility to other disease]
+Z1610   [resistance to beta lactam antibiotics]
+Z1611   [resistance to penicillins]
+Z1612   [extended spectrum beta lactamase resistance]
+Z1619*  resistance to other specified beta lactam antibiotics
+Z1620   [resistance to antibiotic]
+Z1621   [resistance to vancomycin]
+Z1622*  [resistance to vancomycin]
+Z1623   [resistance to quinolones]
+        [resistance to fluoroquinolones]
+Z1624*  resistance to multiple antibiotics
+Z1629*  resistance to other single specified antibiotic
+Z1630   [resistance to antimicrobial drug]
+Z1631   [resistance to antiparasitic drug]
+Z1632   [resistance to antifungal drug]
+Z1633   [resistance to antiviral drug]
+Z16341  [resistance to single antimycobacterial drug]
+Z16342  [resistance to multiple antimycobacterial drugs]
+Z1635   [resistance to multiple antimicrobial drugs]
+Z1639*  resistance to other specified antimicrobial drug
+Z170    [estrogen receptor positive status]
+Z171    [estrogen receptor negative status]
+Z1801   [retained depleted uranium fragments]
+Z1809   [retained radioactive fragments]
+Z1810   [retained metal fragments]
+Z1811   [retained metal fragments] {magnetic}
+Z1812   [retained metal fragments] {nonmagnetic}
+Z182    [retained plastic fragments]
+Z1831   [retained animal quills]
+        [retained animal spines]
+Z1832   [retained tooth]
+Z1833   [retained wood fragments]
+Z1839   [retained organic fragments]
+Z1881   [retained glass fragments]
+Z1883   [retained stone fragments]
+        [retained crystalline fragments]
+Z1889*  [other specified retained foreign body fragments]
+Z189    [retained foreign body fragments]
+Z191    [hormone sensitive malignancy status]
+Z192    [hormone resistant malignancy status]
+Z2001   [intestinal infectious diseases due to escherichia coli] {exposure}
+Z2009   [intestinal infectious diseases] {exposure}
+Z201    [tuberculosis] {exposure}
+Z202    [sexually transmitted disease] {exposure}
+Z203    [rabies] {exposure}
+Z204    [rubella] {exposure}
+Z205    [viral hepatitis] {exposure}
+Z205    [contact with and (suspected) exposure to viral hepatitis]
+Z206    [human immunodeficiency virus] {exposure}
+Z207    [pediculosis] {exposure}
+        [acariasis] {exposure}
+        [infestations] {exposure}
+Z20810  [anthrax] {exposure}
+Z20811  [meningococcus] {exposure}
+Z20818* contact with and exposure to other bacterial communicable diseases 
+Z20820  [varicella] {exposure}
+Z20822  [other specified organisms] {suspected} !{past status}
+        [other specified organisms] {negative outcome}
+        [sars-cov-2 antigen]
+Z20828* [other specified organisms] !{contacts} {possibility} & ![respiratory symptoms]
+Z2089   [contact exposure to other communicable diseases] 
+Z209    [communicable disease] {exposure}
+Z21     [human immunodeficiency virus] !{symptoms}
+Z220    [typhoid] {carrier}
+Z221    [other intestinal infectious disease] {carrier}
+Z222    [diphtheria] {carrier}
+Z2231   [bacterial disease] {carrier} & [meningococci]
+Z22321  [carrier or suspected carrier of methicillin susceptible staphylococcus aureus]
+Z22322  [carrier or suspected carrier of methicillin resistant staphylococcus aureus]
+Z22330  [group b streptococcus] {carrier} !"pregnancy"
+Z22330  [carrier of group b streptococcus]
+Z22338* [carrier of other streptococcus]
+Z2239*  [carrier of other specified bacterial diseases]
+Z224    [sexually transmitted diseases] {carrier}
+Z2250   [viral hepatitis] {carrier}
+Z2251   [viral hepatitis b] {carrier}
+Z2252   [viral hepatitis c] {carrier}
+Z2259   [viral hepatitis] {carrier}
+Z2250*  [viral hepatitis] {carrier}
+Z2251*  [viral hepatitis b] {carrier}
+Z2252*  [viral hepatitis c] {carrier}
+Z2259*  [viral hepatitis] {carrier}
+Z226    [human t-lymphotropic virus type-1 infection] {carrier}
+Z227    [tuberculosis] {latent}
+Z228*   carrier of other infectious diseases
+Z229    [infectious disease] {carrier}
+Z23     [encounter for immunization] !{last admin}
+Z2801   [immunization not carried out] {acute illness}
+Z2802   [immunization not carried out] {chronic illness}
+Z2803   [immunization not carried out] {immune compromised state}
+Z2804   [immunization not carried out] {allergy to vaccine}
+Z2809   [immunization not carried out] {contraindication}
+Z281    [immunization not carried out] {belief}
+Z2820   [immunization not carried out] {decision}
+Z2821   [immunization not carried out] {patient refusal}
+Z2829*  [immunization not carried out] because  {decision} for other reason  
+Z283    [underimmunization status]
+Z2881   [immunization not carried out] {already had the disease}
+Z2882   [immunization not carried out] {caregiver refusal}
+Z2882   [immunization not carried out because of caregiver refusal]
+Z289    [immunization not carried out] !{ventriculogram} !{test}
+Z30011  [initial prescription of contraceptive pills]
+Z30012  [prescription of emergency contraception]
+Z30013  [initial prescription of injectable contraceptive]
+Z30014  [initial prescription of intrauterine contraceptive device]
+Z30015  [initial prescription of vaginal ring hormone contraceptive]
+Z30016  [initial prescription of transdermal patch hormonal contraceptive]
+Z30017  [initial prescription of implantable subdermal contraceptive]
+Z30018* initial prescription of other contraceptives
+Z30019  [initial prescription of contraceptives, unspecified]
+Z3002   [counseling and instruction in natural family planning]
+Z3009   [counseling and advice on contraception]
+Z302    [desires sterilization]
+Z3040   [surveillance of contraceptives]
+Z3041   [surveillance of contraceptive pills]
+Z3042   [surveillance of injectable contraceptive]
+Z30430  [insertion of intrauterine contraceptive device]
+Z30431  [checking of intrauterine contraceptive device]
+Z30432  [removal of intrauterine contraceptive device]
+Z30433  [removal and reinsertion of intrauterine contraceptive device]
+Z3049   [surveillance of other contraceptives]
+Z308*   other contraceptive management
+Z309    [contraceptive management]
+Z310    [reversal of previous sterilization]
+Z3141   [fertility testing]
+Z3142   [aftercare following sterilization reversal]
+Z31430  [testing for genetic disease carrier status] {procreative management} "female"
+Z31438* other genetic testing of "female" for procreative management
+Z31440  [testing for genetic disease carrier status] {procreative management} "male"
+Z31441  [testing of male partner of patient] & [recurrent pregnancy loss]
+Z31448* other genetic testing of "male" for procreative management
+Z3149   [procreative investigation]
+        [procreative testing]
+Z315    [genetic counseling]
+Z3161   [procreative counseling and advice using natural family planning]
+Z3162   [fertility preservation counseling]
+Z3169   [general counseling and advice on procreation]
+Z3181   [male factor infertility] "female"
+Z3182   [rh incompatibility status]
+Z3183   [assisted reproductive fertility procedure cycle]
+Z3184   [fertility preservation procedure]
+Z3189   [procreative management]
+Z319    [procreative management]
+Z3200*  [pregnancy test]
+Z3201   [pregnancy test] {positive} !{home}
+Z3202   [pregnancy test] {negative}
+Z322    [childbirth instruction]
+Z323    [childcare instruction]
+Z331    [pregnant state] {incidental}
+Z332    [elective termination of pregnancy] {encounter for} !{spontaneous abortion} !{history}
+Z3400   [supervision of pregnancy] {normal} {first}
+Z3401   [supervision of pregnancy] {normal}  {first trimester}
+Z3402   [supervision of pregnancy] {normal}  {second trimester}
+Z3403   [supervision of pregnancy] {normal}  {third trimester}
+Z3480*  supervision of normal pregnancy, unspecified trimester
+Z3481*  supervision of normal pregnancy, {first trimester}
+Z3482*  supervision of normal pregnancy, {second trimester}
+Z3483*  supervision of normal pregnancy, {third trimester}
+Z3490*  [supervision of pregnancy] {normal}
+Z3491   [supervision of pregnancy] {first trimester}
+Z3492   [supervision of pregnancy] {second trimester}
+Z3493   [supervision of pregnancy] {third trimester}
+Z36     [antenatal screening of mother]
+Z3689   [encounter for other specificed antenatal screening]
+Z3A00   [unspecified weeks of gestation of pregnancy] "pregnancy"
+Z3A01   [less than 8 weeks gestation of pregnancy] "pregnancy"
+Z3A08   [8 weeks gestation of pregnancy] !{year old} "pregnancy"  
+Z3A09   [9 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A10   [10 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A11   [11 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A12   [12 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A13   [13 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A14   [14 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A15   [15 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A16   [16 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A17   [17 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A18   [18 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A19   [19 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A20   [20 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A21   [21 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A22   [22 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A23   [23 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A24   [24 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A25   [25 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A26   [26 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A27   [27 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A28   [28 weeks gestation of pregnancy] !{year old} "pregnancy"
+Z3A29   [29 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A30   [30 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A31   [31 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A32   [32 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A33   [33 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A34   [34 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A35   [35 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A36   [36 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A37   [37 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A38   [38 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A39   [39 weeks gestation of pregnancy] !{year old} "pregnancy"  
+Z3A40   [40 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A41   [41 weeks gestation of pregnancy] !{year old} "pregnancy"   
+Z3A42   [42 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z3A49   [greater than 42 weeks gestation of pregnancy] !{year old} "pregnancy" 
+Z370    [single live birth] !{history} & [delivery] !{delivery header} & ![stillbirth] !"newborn"
+Z371    [single stillbirth] !{history} !"newborn"
+Z372    [twins] {liveborn} !"newborn"
+Z373    [twins] {liveborn} {stillborn} !"newborn" 
+Z374    [twins] {stillborn} !"newborn"
+Z3750   [multiple births] {liveborn} !"newborn"
+Z3751   [triplets] {liveborn} !"newborn"
+Z3752   [quadruplets] {liveborn} !"newborn"
+Z3753   [quintuplets] {liveborn}!"newborn"
+Z3754   [sextuplets] {liveborn} !"newborn"
+Z3759*   other [multiple births], all {liveborn} 
+Z3760   [multiple births] {liveborn} {stillborn} !"newborn"
+Z3761   [triplets] {liveborn} {stillborn} !"newborn"
+Z3762   [quadruplets] {liveborn} {stillborn} !"newborn"
+Z3763   [quintuplets] {liveborn} {stillborn} !"newborn"
+Z3764   [sextuplets] {liveborn} {stillborn} !"newborn"
+Z3769*  other multiple births, some {liveborn} {stillborn} "pregnancy"
+Z377    [multiple births] {stillborn} !"newborn"
+Z379    [outcome of delivery]
+Z3800   [single liveborn infant] & [vaginal birth] !{history} "newborn"
+        [term newborn delivered vaginally] & [newborn admission data] "newborn"
+Z3801   [single liveborn infant] & [cesarean delivery] !"adult" !"pregnancy" "newborn"
+        [term newborn delivered by c-section] & [newborn admission data] !"adult" !"pregnancy" "newborn"
+Z381    [single liveborn infant] {born outside hospital} & [newborn admission data] !"adult" !"pregnancy" "newborn"
+Z382    [single liveborn infant] & [unspecified place of birth] !{vaginal birth} !{cesarean delivery} & [newborn admission data] !"adult" !"pregnancy" "newborn"
+Z3830   [twin liveborn infant] & [vaginal birth] & [newborn admission data] !"adult" !"pregnancy" "newborn"
+Z3831   [twin liveborn infant] & [cesarean] & [newborn admission data] !"adult" !"pregnancy" "newborn"
+Z384    [twin liveborn infant] {born outside hospital} & [newborn admission data] !"adult"
+Z385    [twin liveborn infant] & [newborn admission data] !"adult"
+Z3861   [triplet liveborn infant] & [vaginal birth] & [newborn admission data] !"adult"
+Z3862   [triplet liveborn infant] & [cesarean] & [newborn admission data] !"adult"
+Z3863   [quadruplet liveborn infant] & [vaginal birth] & [newborn admission data] !"adult"
+Z3864   [quadruplet liveborn infant] & [cesarean] & [newborn admission data] !"adult"
+Z3865   [quintuplet liveborn infant] & [vaginal birth] & [newborn admission data] !"adult"
+Z3866   [quintuplet liveborn infant] & [cesarean] & [newborn admission data] !"adult"
+Z3868   [multiple liveborn infant] & [vaginal birth] & [newborn admission data] !"adult"
+Z3869   [multiple liveborn infant] & [cesarean] & [newborn admission data] !"adult"
+Z387    [multiple liveborn infant] {born outside hospital} & [newborn admission data] !"adult"
+Z388*   other multiple liveborn infant, unspecified as to place of birth & [newborn admission data] !"adult"
+Z390*   [examination] {immediately after delivery}
+Z391*   [examination] {lactating}
+Z392    [postpartum follow-up] {routine}
+Z4000   [prophylactic removal of organ]
+Z4001   [prophylactic removal of breast]
+Z4002   [prophylactic removal of ovary]
+Z4009   [prophylactic removal of other organ]
+Z408*   other prophylactic surgery
+Z409    [prophylactic surgery]
+Z411    [cosmetic surgery]
+Z412    [circumcision] !{revision} & ![newborn admission data] "adult" "male"
+Z413    [ear piercing]
+Z418*   other procedures for purposes other than remedying health state
+Z419*   procedure for purposes other than remedying health state
+Z421    [breast reconstruction] {following mastectomy}
+Z428*   other plastic and reconstructive surgery following medical procedure or healed injury
+Z430    [attention to tracheostomy]
+Z431    [attention to gastrostomy] !{history}
+Z432    [attention to ileostomy] !{history}
+Z433    [colostomy] {attention to} !{history}
+Z434    [artificial opening of digestive tract]
+Z435    [cystostomy]
+Z436    [artificial opening of urinary tract] !{infection} !{complication}
+Z437    [artificial vagina]
+Z438*   [other artificial openings]
+Z439    [artificial opening] !{other}
+Z44001  [fitting and adjustment of right artificial arm]
+Z44002  [fitting and adjustment of left artificial arm]
+Z44009  [fitting and adjustment of artificial arm, unspecified arm]
+Z44011  [fitting and adjustment of complete right artificial arm]
+Z44012  [fitting and adjustment of complete left artificial arm]
+Z44019  [fitting and adjustment of complete artificial arm, unspecified arm]
+Z44021  [fitting and adjustment of partial artificial right arm]
+Z44022  [fitting and adjustment of partial artificial left arm]
+Z44029  [fitting and adjustment of partial artificial arm, unspecified arm]
+Z44101  [fitting and adjustment of right artificial leg]
+Z44102  [fitting and adjustment of left artificial leg]
+Z44109  [fitting and adjustment of artificial leg, unspecified leg]
+Z44111  [fitting and adjustment of complete right artificial leg]
+Z44112  [fitting and adjustment of complete left artificial leg]
+Z44119  [fitting and adjustment of complete artificial leg, unspecified leg]
+Z44121  [fitting and adjustment of partial artificial right leg]
+Z44122  [fitting and adjustment of partial artificial left leg]
+Z44129  [fitting and adjustment of partial artificial leg, unspecified leg]
+Z4420   [fitting and adjustment of artificial eye, unspecified]
+Z4421   [fitting and adjustment of artificial right eye]
+Z4422   [fitting and adjustment of artificial left eye]
+Z4430   [fitting and adjustment of external breast prosthesis, unspecified breast]
+Z4431   [fitting and adjustment of external right breast prosthesis]
+Z4432   [fitting and adjustment of external left breast prosthesis]
+Z448*   [fitting and adjustment of other external prosthetic devices]
+Z449    [fitting and adjustment of external prosthetic device]
+Z45010  [checking and testing of cardiac pacemaker pulse generator]
+Z45018  [adjustment and management] {cardiac pacemaker}
+Z4502   [adjustment and management] {automatic implantable cardiac defibrillator}
+Z4509   [adjustment and management] {cardiac device}
+Z451    [adjustment and management] {infusion pump}
+Z452    [adjustment and management] {vascular access device}
+Z4531   [adjustment and management] {implanted visual substitution device}
+Z45320  [adjustment and management] {bone conduction device}
+Z45321  [adjustment and management] {cochlear device}
+Z45328  [adjustment and management] {implanted hearing device}
+Z4541   [adjustment and management] {cerebrospinal fluid drainage device}
+Z4542   [adjustment and management] {neuropacemaker}
+Z4549   [adjustment and management] {implanted nervous system device}
+Z45811  [adjustment or removal of right breast implant]
+Z45812  [adjustment or removal of left breast implant]
+Z45819  [adjustment or removal of breast implant]
+Z4582   [adjustment or removal of myringotomy device]
+Z4589*  [adjustment and management] {implanted device} {other}
+Z459    [adjustment and management] {implanted device} !{other}
+Z460    [fitting and adjustment of spectacles and contact lenses]
+Z461    [fitting and adjustment of hearing aid]
+Z462    [fitting and adjustment of device related to nervous system and special senses]
+Z463    [fitting and adjustment of dental prosthetic device]
+Z464    [fitting and adjustment of orthodontic device]
+Z4651   [fitting and adjustment of gastric lap band]
+Z4659   [fitting and adjustment of gastrointestinal appliance and device]
+Z466    [fitting and adjustment of urinary device]
+Z4681   [fitting and adjustment of insulin pump]
+Z4682   [fitting and adjustment of non vascular catheter]
+Z4689   [fitting and adjustment of other specified devices]
+Z469    [fitting and adjustment of unspecified device]
+Z471    [aftercare] & [joint replacement surgery]
+Z472    [removal of internal fixation device]
+Z4731   [aftercare] & [explantation of shoulder joint prosthesis]
+Z4732   [aftercare] & [explantation of hip joint prosthesis]
+Z4733   [aftercare] & [explantation of knee joint prosthesis]
+Z4781   [orthopedic aftercare] & [surgical amputation]
+Z4782   [orthopedic aftercare] & [scoliosis surgery]
+Z4789   [orthopedic aftercare]
+Z4800   [change of nonsurgical wound dressing]
+        [removal of nonsurgical wound dressing]
+Z4801   [change of surgical wound dressing]
+        [removal of surgical wound dressing]
+Z4802   [removal of sutures] !{return}
+Z4803   [change of drains]
+        [removal of drains]
+Z481    [planned postprocedural wound closure]
+Z4821   [aftercare] & [heart transplant]
+Z4822   [aftercare] & [kidney transplant]
+Z4823   [aftercare] & [liver transplant]
+Z4824   [aftercare] & [lung transplant]
+Z48280  [aftercare] & [heart-lung transplant]
+Z48288* [aftercare] following multiple [organ transplant]
+Z48290  [aftercare] & [bone marrow transplant]
+Z48298  [aftercare] & [organ transplant]
+Z483    [aftercare] & [surgery for neoplasm]
+Z48810  [aftercare] {surgical} & [surgery] `sense organ`
+Z48811  [aftercare] {surgical} & [surgery] `nervous system`
+Z48812  [aftercare] {surgical} & [surgery] `circulatory system`
+Z48813  [aftercare] {surgical} & [surgery] `respiratory system`
+Z48814  [aftercare] {surgical} & [surgery] `teeth or oral cavity`
+Z48815  [aftercare] {surgical} & [surgery] `digestive system`
+Z48816  [aftercare] {surgical} & [surgery] `genitourinary system`
+Z48817  [aftercare] {surgical} & [surgery] `skin and subcutaneous tissue`
+Z4889   [aftercare] {surgical}
+Z4901   [fitting and adjustment of extracorporeal dialysis catheter]
+Z4902   [fitting and adjustment of peritoneal dialysis catheter]
+Z4931   [adequacy testing for hemodialysis]
+Z4932   [adequacy testing for peritoneal dialysis]
+Z510    [antineoplastic radiation therapy] !{personal history} !{intraoperative} !{diagnostic test} & ![recently completed]  "outpatient"
+Z5111   [antineoplastic chemotherapy] !{status post} !{intraoperative} "outpatient"
+Z5112   [antineoplastic immunotherapy] !{intraoperative} 
+Z515    [palliative care]
+Z5181   [therapeutic drug level monitoring] !{intraoperative}
+Z5189*  [aftercare]
+Z52000  [donor] `whole blood`
+Z52001  [donor] `stem cells`
+Z52008* [donor], `other blood`
+Z52010  [donor] {autologous} `whole blood`
+Z52011  [donor] {autologous} `stem cells`
+Z52018* autologous [donor] `other blood`
+Z52090* other blood [donor] `whole blood`
+Z52091* other blood [donor] `stem cells`
+Z52098* other blood [donor] other `blood`
+Z5210   [donor] `skin`
+Z5211   [donor] {autologous} `skin`
+Z5219*  [donor] `skin`
+Z5220   [donor] `bone`
+Z5221   [donor] {autologous} `bone`
+Z5229*  [donor] `bone other`
+Z523    [donor] `bone marrow`
+Z524    [donor] `kidney`
+Z525    [donor] `cornea`
+Z526    [donor] `liver`
+Z52810  [donor] {anonymous recipient} `egg`
+Z52811  [donor] {designated recipient} `egg`
+Z52812  [donor] {anonymous recipient} `egg` 
+Z52813  [donor] {designated recipient} `egg` 
+Z52819  [donor] `egg`
+Z5289*  [donor] of other specified organs or tissues
+Z529    [donor] `organ or tissue`
+Z5301   [procedure and treatment not carried out] {smoking}
+Z5309   [procedure and treatment not carried out] {contraindication}
+Z531    [procedure and treatment not carried out] {belief}
+Z5320   [procedure and treatment not carried out] {decision}
+Z5321   [left without being seen] !{past status}
+Z5329   [left against medical advice] {for other reasons}
+Z538*   procedure and treatment not carried out for other reasons
+Z539    [procedure and treatment not carried out]
+Z550    [illiteracy]
+Z551    [schooling unavailable]
+Z552    [failed school] {exams}
+Z553    [underachievement in school]
+Z554    [educational maladjustment and discord with teachers and classmates]
+Z558    [other problems related to education and literacy]
+Z559    [problems related to education and literacy]
+Z560    [unemployment]
+Z561    [change of job]
+Z562    [threat of job loss]
+Z563    [stressful work schedule]
+Z564    [discord with boss and workmates]
+Z565    [uncongenial work environment]
+Z566    [physical and mental strain related to work]
+Z5681   [sexual harassment on the job]
+Z5682   [military deployment status]
+Z5689*  other problems related to employment
+Z569    [problems related to employment]
+Z570    [noise] {occupational}
+Z571    [radiation] {occupational}
+Z572    [dust] {occupational}
+Z5731   [environmental tobacco smoke] {occupational}
+Z5739   [other air contaminants] {occupational}
+Z574    [toxic agents in agriculture] {occupational}
+Z575    [toxic agents in other industries] {occupational}
+Z576    [extreme temperature] {occupational}
+Z577    [vibration] {occupational}
+Z578*   {occupational} exposure to other risk factors]
+Z579    [unspecified risk factor] {occupational}
+Z590    [homelessness]
+Z591    [inadequate housing]
+Z592    [discord with neighbors, lodgers and landlord]
+Z593    [problems related to living in residential institution]
+Z594    [lack of adequate food and safe drinking water]
+Z595    [extreme poverty]
+Z596    [low income]
+Z597    [insufficient social insurance and welfare support]
+Z598    [other problems related to housing and economic circumstances]
+Z599    [problem related to housing and economic circumstances]
+Z600    [problems of adjustment to life-cycle transitions]
+Z602    [problems related to living alone]
+Z603    [acculturation difficulty]
+Z604    [social exclusion and rejection]
+Z605    [target of discrimination and persecution]
+Z608*   other problems related to social environment
+Z609    [problem related to social environment]
+Z620    [inadequate parental supervision and control]
+Z621    [parental overprotection]
+Z6221   [child in welfare custody]
+Z6222   [institutional upbringing]
+Z6229   [upbringing away from parents]
+Z623    [hostility towards and scapegoating of child]
+Z626    [excessive parental pressure]
+Z62810  [physical abuse] {personal history} "pediatric"
+        [sexual abuse] {personal history} "pediatric"
+Z62811  [psychological abuse] {personal history} "pediatric"
+Z62812  [neglect] {personal history} "pediatric"
+Z62819  [abuse] {personal history} "pediatric"
+Z62820  [conflict] {parent-biological} "pediatric"
+Z62821  [conflict] {parent-adopted} "pediatric"
+Z62822  [conflict] {parent-foster} "pediatric"
+Z62890  [estrangement] {parent-child}
+Z62891  [sibling rivalry]
+Z62898  [other specified problems related to upbringing]
+Z629    [problem related to upbringing]
+Z630    [problems in relationship with spouse or partner]
+Z631    [problems in relationship with in-laws]
+Z6331   [absence of family member due to military deployment]
+Z6332   [absence of family member]
+Z634    [disappearance and death of family member]
+Z635    [disruption of family by separation and divorce]
+Z636    [dependent relative needing care at home]
+Z6371   [stress on family due to return of family member from military deployment]
+Z6372   [alcoholism in family]
+        [drug addiction in family]
+Z6379   [stressful life events affecting family and household]
+Z638    [other specified problems related to primary support group]
+Z639    [problem related to primary support group]
+Z640    [problems related to unwanted pregnancy]
+Z641    [problems related to multiparity]
+Z644    [discord with counselors]
+Z650    [conviction in civil and criminal proceedings] & ![imprisonment]
+Z651    [imprisonment]
+Z652    [problems related to release from prison]
+Z653    [problems related to other legal circumstances]
+Z654    [victim of crime and terrorism]
+Z655    [exposure to disaster]
+        [exposure to war]
+        [exposure to other hostilities]
+Z658    [other specified problems related to psychosocial circumstances]
+Z659    [problem related to psychosocial circumstances]
+Z66     [do not resuscitate]
+Z6710   [type a blood, rh positive]
+Z6711   [type a blood, rh negative]
+Z6720   [type b blood, rh positive]
+Z6721   [type b blood, rh negative]
+Z6730   [type ab blood, rh positive]
+Z6731   [type ab blood, rh negative]
+Z6740   [type o blood, rh positive]
+Z6741   [type o blood, rh negative]
+Z6790   [rh positive]
+Z6791   [rh negative] !{positive}
+Z681    [bmi of 19 or less] !{percentile}
+Z6820   [bmi of 20.0-20.9] !{percentile}
+Z6821   [bmi of 21.0-21.9] !{percentile} 
+Z6822   [bmi of 22.0-22.9] !{percentile} 
+Z6823   [bmi of 23.0-23.9] !{percentile} 
+Z6824   [bmi of 24.0-24.9] !{percentile}
+Z6825   [bmi of 25.0-25.9] !{percentile} 
+Z6826   [bmi of 26.0-26.9] !{percentile} 
+Z6827   [bmi of 27.0-27.9] !{percentile} 
+Z6828   [bmi of 28.0-28.9] !{percentile} 
+Z6829   [bmi of 29.0-29.9] !{percentile} 
+Z6830   [bmi of 30.0-30.9] !{percentile} 
+Z6831   [bmi of 31.0-31.9] !{percentile} 
+Z6832   [bmi of 32.0-32.9] !{percentile} 
+Z6833   [bmi of 33.0-33.9] !{percentile}
+Z6834   [bmi of 34.0-34.9] !{percentile} 
+Z6835   [bmi of 35.0-35.9] !{percentile} 
+Z6836   [bmi of 36.0-36.9] !{percentile} 
+Z6837   [bmi of 37.0-37.9] !{percentile} 
+Z6838   [bmi of 38.0-38.9] !{percentile} 
+Z6839   [bmi of 39.0-39.9] !{percentile} 
+Z6841   [bmi of 40.0-44.9] !{percentile} 
+Z6842   [bmi of 45.0-49.9] !{percentile} 
+Z6843   [bmi of 50.0-59.9] !{percentile} 
+Z6844   [bmi of 60.0-69.9] !{percentile} 
+Z6845   [bmi of 70 or greater] !{percentile}
+Z6851   [bmi of less than 5th percentile for age]
+Z6852   [bmi of 5th percentile to less than 85th percentile for age]
+Z6853   [bmi of 85th percentile to less than 95th percentile for age]
+Z6854   [greater than ninety five percentile for age] {bmi}
+        [bmi of greater than or equal to 95th percentile for age]
+Z69010  [mental health services] {victim of parental child abuse}
+Z69011  [mental health services] {perpetrator of parental child abuse}
+Z69020  [mental health services] {victim of non-parental child abuse}
+Z69021  [mental health services] {perpetrator of non-parental child abuse}
+Z6911   [mental health services] {victim of spousal or partner abuse}
+Z6912   [mental health services] {perpetrator of spousal or partner abuse}
+Z6981   [mental health services] {victim of abuse}
+Z6982   [mental health services] {perpetrator of abuse}
+Z700    [counseling related to sexual attitude]
+Z701    [counseling related to patient's sexual behavior and orientation]
+Z702    [counseling related to sexual behavior and orientation of third party]
+Z703    [counseling related to combined concerns regarding sexual attitude, behavior and orientation]
+Z708    [other sex counseling]
+Z709    [sex counseling]
+Z710    [person encountering health services to consult on behalf of another person]
+Z711    [person with feared health complaint in whom no diagnosis is made]
+Z712    [person consulting for explanation of examination or test findings]
+Z713    [dietary counseling and surveillance]
+Z7141   [alcohol abuse counseling and surveillance of alcoholic]
+Z7142   [counseling for family member of alcoholic]
+Z7151   [referral for drug rehab]
+Z7152   [counseling for family member of drug abuser]
+Z716    [tobacco abuse counseling]
+Z717    [human immunodeficiency virus counseling]
+Z7181   [spiritual or religious counseling]
+Z7184   [encounter for health counseling related to travel]
+Z7189   [other specified counseling]
+Z719*   [counseling]
+Z720    [use of tobacco] & ![cigarette dependence] & ![former smoker] & [complications from smoking]
+Z723    [lack of physical exercise]
+Z724    [inappropriate diet and eating habits]
+Z7251   [high risk heterosexual behavior]
+Z7252   [high risk homosexual behavior]
+Z7253   [high risk bisexual behavior]
+Z726    [gambling and betting]
+Z72810  [antisocial behavior] {child}
+        [antisocial behavior] "pediatric"
+Z72811  [antisocial behavior] "adult"
+Z72820  [sleep deprivation]
+Z72821  [inadequate sleep hygiene]
+Z7289   [other lifestyle problems]
+Z729    [lifestyle problem]
+Z730    [burn-out]
+Z731    [type a behavior pattern]
+Z732    [lack of relaxation and leisure]
+Z733*   [stress]
+Z734    [inadequate social skills]
+Z735    [social role conflict]
+Z736    [limitation of activities due to disability]
+Z73810  [behavioral insomnia] {childhood} {sleep-onset association type} "pediatric"
+Z73811  [behavioral insomnia] {childhood} {limit setting type} "pediatric"
+Z73812  [behavioral insomnia] {childhood} {combined type} "pediatric"
+Z73819  [behavioral insomnia] {childhood} "pediatric"
+Z7382   [dual sensory impairment]
+Z7389*  other problems related to life management difficulty
+Z739    [life management difficulty]
+Z7401   [bed confinement]
+        [bedridden]
+Z7409   [reduced mobility]
+Z741    [need for assistance with personal care]
+Z742    [need for assistance at home]
+Z743    [need for continuous supervision]
+Z748*   other problems related to care provider dependency
+Z749    [care provider dependency]
+Z750    [medical services not available in home]
+Z751    [admin examinations] & [person awaiting admission to adequate facility elsewhere]
+Z752    [waiting period for investigation and treatment]
+Z753    [unavailability and inaccessibility of health-care facilities]
+Z754    [unavailability and inaccessibility of helping agencies]
+Z755    [holiday relief care]
+Z758*   other problems related to medical facilities and other health care
+Z759    [problem related to medical facilities]
+Z760    [issue of repeat prescription]
+Z761    [health supervision and care of foundling]
+Z762    [health supervision and care of other healthy infant and child]
+Z763    [healthy person accompanying sick person]
+Z764    [boarder to healthcare facility]
+Z765    [malingerer]
+Z7681   [expectant parent prebirth pediatrician visit]
+Z7682   [awaiting organ transplant status]
+Z7689*  persons encountering health services in other specified circumstances
+Z77010  [exposure to arsenic]
+Z77011  [exposure to lead]
+Z77012  [exposure to uranium]
+Z77018* [exposure to other hazardous metals]
+Z77020  [exposure to aromatic amines]
+Z77021  [exposure to benzene]
+Z77028* [exposure to other hazardous aromatic compounds]
+Z77090  [exposure to asbestos]
+Z77098* [exposure to other hazardous, chiefly nonmedicinal, chemicals]
+Z77110  [exposure to air pollution]
+Z77111  [exposure to water pollution]
+Z77112  [exposure to soil pollution]
+Z77118* [exposure to other environmental pollution]
+Z77120  [exposure to mold]
+Z77121  [exposure to harmful algae and algae toxins]
+Z77122  [exposure to noise]
+Z77123  [exposure to radon and other naturally occuring radiation]
+Z77128* [exposure to other hazards in the physical environment]
+Z7721   [exposure to potentially hazardous body fluids]
+Z7722   [exposure to environmental tobacco smoke]
+Z7729   [exposure to other hazardous substances]
+Z779*   other contact with and exposures hazardous to health  
+Z780    [menopausal state] !{menopausal symptoms} 
+Z781    [physical restraint status]
+Z789*   other specified health status
+Z7901   [anticoagulants] !{not long term}
+Z7902   [antithrombotics/antiplatelets] !{not long term}
+Z791    [non steroidal anti inflammatories] !{not long term}
+Z792    [antibiotics] !{not long term} 
+Z793    [hormonal contraceptives] !{not long term}
+Z794    [insulin] !{not long term}
+        [insulin dependent]
+Z7951   [inhaled steroids] !{not long term}
+Z7952   [systemic steroids] !{not long term}
+Z79810  [selective estrogen receptor modulators] !{not long term}
+Z79811  [aromatase inhibitors] !{not long term}
+Z79818  [selective estrogen receptor down regulators] !{not long term}
+Z7982   [aspirin] !{not long term}
+Z7983   [bisphosphonates] !{not long term}
+Z7984   [oral hypoglycemic drugs] !{not long term}
+Z79890  [hormone replacement therapy] 
+Z79891  [opiate analgesic] !{not long term} 
+Z79899  [long term drug therapy] !{not long term}
+Z800    [malignant] {family hx} !{states} `digestive organ`
+Z801    [malignant] {family hx} !{states} `trachea`
+        [malignant] {family hx} !{states} `bronchus`
+        [malignant] {family hx} !{states} `lung`
+Z802    [malignant] {family hx} !{states} `intrathoracic organs`
+Z803    [malignant] {family hx} !{states} `breast`
+Z8041   [malignant] {family hx} !{states} `ovary`
+Z8042   [malignant] {family hx} !{states} `prostate`
+Z8043   [malignant] {family hx} !{states} `testis`
+Z8049   [malignant] {family hx} !{states} `genital organs`
+Z8051   [malignant] {family hx} !{states} `kidney`
+Z8052   [malignant] {family hx} !{states} `bladder`
+Z8059   [malignant] {family hx} !{states} `urinary tract organ`
+Z806    [leukemia] {family hx}
+Z807    [malignant] {family hx} !{states} `lymphoid, hematopoietic and related tissues`
+Z808*   [malignant] {family hx} !{states} organs or systems
+Z809*   [disease] {family hx}
+Z810    [intellectual disabilities] {family hx} !{states} 
+Z811    [alcohol abuse and dependence] {family hx} !{states} 
+Z812    [tobacco abuse and dependence] {family hx} !{states} 
+Z813    [psychoactive substance abuse and dependence] {family hx}
+Z814    [substance abuse and dependence] {family hx}
+Z818*   [mental and behavioral disorders] {family hx}
+Z820    [epilepsy] {family hx} !{states} 
+Z821    [blindness] {family hx} !{states} 
+Z822    [deafness] {family hx} !{states} 
+Z823    [stroke] {family hx}
+Z8241   [sudden cardiac death] {family hx} !{states} 
+Z8249   [heart disease-fm] {family hx} !{states}
+Z825    [asthma] !{patient} {family hx}
+Z825    [lower respiratory diseases] {chronic} {family hx} !{states} 
+Z8261   [arthritis] {family hx} !{states} 
+Z8262   [osteoporosis] {family hx}  
+Z8269*  {family hx} !{states} `diseases of the musculoskeletal system and connective tissue`
+Z8271   [polycystic kidney] {family hx} !{states} 
+Z8279   [congenital malformations, deformations and chromosomal abnormalities] {family hx} !{states} 
+Z8279   [fam hx of congen malform, deformations and chromsoml abnlt] {family hx}
+Z828*   {family hx} !{states} disabilities and chronic diseases leading to disablement 
+Z830    [human immunodeficiency virus] {family hx} !{states} 
+Z831    [infectious disease] {family hx} !{states} 
+Z832    [diseases of the blood and blood-forming organs] {family hx} !{states} 
+Z833    [diabetes mellitus] {family hx}
+Z8341   [multiple endocrine neoplasia syndrome] {family hx} !{states} 
+Z8349   [endocrine nutritional and metabolic diseases] {family hx}
+Z83511  [glaucoma] {family hx} !{states} 
+Z83518* {family hx} !{states} specified eye disorder 
+Z8352   [ear disorders] {family hx} !{states} 
+Z836    [disease] {respiratory system} {family hx} !{states} 
+Z8371   [polyps] {colonic} {family hx} !{states} 
+Z8379   [disease] {digestive system} {family hx} !{states} 
+Z840    [disease] {skin and subcutaneous tissue} {family hx} !{states} 
+Z841    [disorder] {kidney and ureter} {family hx} !{states} 
+Z842    [disease] {genitourinary system} {family hx} !{states} 
+Z843    [consanguinity] {family hx} !{states} 
+Z8481   [carrier of genetic disease] {family hx} !{states} 
+Z8489*  {family hx} !{states} specified conditions 
+Z8500*  [disease] {personal history} !{family hx} {states} `digestive organ` & ![current treatment]
+Z8501   [disease] {personal history} !{family hx} !{present illness} `esophagus` & ![current treatment]
+Z85020  [carcinoid tumor] {personal history} !{family hx} !{present illness} `stomach` & ![current treatment]
+Z85028* {personal history} !{family hx} `stomach` & ![current treatment]
+Z85030  [carcinoid tumor] {personal history} !{family hx}  !{present illness} `large intestine` & ![current treatment]
+Z85038  [malignant neoplasm] {personal history} !{family hx} !{risk} `colon` & ![current treatment]
+Z85040  [carcinoid tumor] {personal history} !{family hx} !{present illness} `rectum` & ![current treatment]
+Z85048  [personal history] !{family hx} `rectum, rectosigmoid junction, and anus` & ![current treatment]
+Z8505   [disease] {personal history} !{family hx} !{present illness} `liver` & ![current treatment]
+Z85060  [carcinoid tumor] {personal history} !{family hx} !{present illness} `small intestine` & ![current treatment]
+Z85068* [personal history] !{family hx} !{present illness} `small intestine` & ![current treatment]
+Z8507   [disease] {personal history} !{family hx} !{present illness} `pancreas` & ![current treatment]
+Z8509   [malignant neoplasm] {personal history} !{family hx} !{present illness} `digestive organ` !{tongue} & ![current treatment]
+Z85110  [carcinoid tumor] {history} !{family hx} !{present illness} `bronchus and lung` & ![current treatment] 
+Z85118  [personal history] !{family hx} `lung cancer` & ![current treatment]
+Z8512   [disease] {personal history} !{family hx} !{present illness} `trachea` & ![current treatment]
+Z8520   [disease] {personal history} !{family hx} !{present illness} `respiratory organ`& ![current treatment] 
+Z8521   [disease] {personal history} !{family hx} !{present illness} `larynx` & ![current treatment]
+Z8522   [disease] {personal history} !{family hx} !{present illness} `nasal cavities, middle ear, and accessory sinuses`& ![current treatment] 
+Z85230  [carcinoid tumor] {personal history} !{family hx} !{present illness} `thymus` & ![current treatment]
+Z85238* [personal history] !{family hx} `thymus` & ![current treatment]
+Z8529   [malignant neoplasm] {personal history} !{family hx} !{present illness} `respiratory and intrathoracic organs` & ![current treatment]
+Z853    [malignant neoplasm] {history} !{family hx} `breast` & ![current treatment]
+Z8540   [malignant neoplasm] {personal history} !{family hx} `genital organ` & ![current treatment] "female" 
+Z8541   [malignant neoplasm] {personal history} !{family hx} `cervix` & ![current treatment]
+Z8542   [malignant neoplasm] {personal history} !{family hx} `uterus` & ![current treatment]
+Z8543   [malignant neoplasm] {personal history} !{family hx} `ovary` & ![current treatment]
+Z8544   [malignant neoplasm] {personal history} !{family hx} `genital organ` & ![current treatment] "female" 
+Z8545   [malignant neoplasm] {personal history} !{family hx} `genital organ` & ![current treatment] "male" 
+Z8546   [malignant neoplasm] {history} !{family hx} `prostate` & ![current treatment]
+Z8547   [malignant neoplasm] {personal history} !{family hx} `testis` & ![current treatment] 
+Z8548*  [disease] {personal history} !{family hx} `epididymis` & ![current treatment]
+Z8549   [malignant neoplasm] {personal history} !{family hx} `genital organ` & ![current treatment] "male" 
+Z8550   [malignant neoplasm] {personal history} !{family hx} `urinary tract organ` & ![current treatment]
+Z8551   [malignant neoplasm] {personal history} !{family hx} `bladder` & ![current treatment]
+Z85520  [carcinoid tumor] {personal history} !{family hx} `kidney` & ![current treatment]
+Z85528  [malignant neoplasm] {history} !{family hx} `kidney` & ![current treatment]
+Z8553   [disease] {personal history} !{family hx} `renal pelvis` & ![current treatment]
+Z8554   [disease] {personal history} !{family hx} `ureter` & ![current treatment]
+Z8559   [disease] {personal history} !{family hx} `urinary tract organ` & ![current treatment] 
+Z856*   [leukemia] {personal history} !{family hx} & ![current treatment]
+Z8571   [hodgkin lymphoma] {personal history} !{family hx} & ![current treatment]
+Z8572   [non hodgkin lymphoma] {personal history} !{family hx} & ![current treatment]
+Z8579   [neoplasms] {personal history} !{family hx} `lymphoid, hematopoietic and related tissues` & ![current treatment]
+Z85810  [malignant neoplasm] {history} !{family hx} `tongue` & ![current treatment]
+Z85818* {personal history} sites of lip, oral cavity, and pharynx & ![current treatment]
+Z85819  [disease] {personal history} !{family hx} `lip, oral cavity, and pharynx` & ![current treatment]
+Z85820  [malignant melanoma] {personal history} !{family hx} `skin` & ![current treatment]
+Z85821  [merkel cell carcinoma] {personal history} !{family hx} & ![current treatment]
+Z85828  [malignant neoplasm skin] {history} !{family hx} & ![current treatment]
+Z85830*  [disease] {personal history} !{family hx} {states} `bone cancer` & ![current treatment] 
+Z85831*  [disease] {personal history} !{family hx} {states} `soft tissue` & ![current treatment]
+Z85840*  [disease] {personal history} !{family hx} {states} `eye` & ![current treatment]
+Z85841  [brain malignancy] {personal history} !{family hx} & ![current treatment]
+Z85848* {personal history} parts of nervous tissue & ![current treatment]
+Z85850  [disease] {personal history} !{family hx} `thyroid` & ![current treatment]
+Z85858* {personal history} endocrine glands & ![current treatment]
+Z8589*  [disease] {personal history} !{family hx} `organs and systems` & ![current treatment]
+Z859*   [disease] {personal history} !{family hx} & ![current treatment]
+Z86000  [disease] {personal history} !{family hx} {in-situ} `breast`
+Z86001  [disease] {personal history} !{family hx} {in-situ} `cervix`
+Z86008* {personal history} `in-situ of other site`
+Z86010  [personal history] !{family hx} `colon polyps`
+Z86011  [disease] {personal history} !{family hx} {neoplasm benign} `brain`
+Z86012  [carcinoid tumor] {personal history} !{family hx} {neoplasm benign}
+Z86018* [personal history] !{family hx} {neoplasm benign} 
+Z8603*  [disease] {personal history}
+Z8611   [tuberculosis] {personal history} !{family hx}
+Z8612   [poliomyelitis] {personal history} !{family hx}
+Z8613   [malaria] {personal history} !{family hx}
+Z8614   [methicillin resistant staphylococcus aureus] {personal history} !{family hx}
+Z8615   [personal history of latent tuberculosis infection]
+Z8616   [personal history] !{family hx} {other specified organisms}
+Z8619   [infectious and parasitic diseases] {history} !{family hx}
+Z862    [diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism] {personal history} !{family hx}
+Z8631   [diabetic foot ulcer] {personal history} !{family hx}
+Z8632   [gestational diabetes] {personal history} !"pregnancy" !{family hx}
+Z8639   [disease] {metabolic} {personal history} !{family hx}
+Z8651   [combat and operational stress reaction] {personal history} !{family hx}
+Z8659   [mental disorders] {personal history} !{family hx}
+Z8661   [infection] {personal history} !{family hx} {states} `central nervous system`
+Z8669   [disease] {personal history} !{family hx} {states} `nervous system`
+Z86711  [pulmonary embolism] {personal history} !{family hx}
+Z86718  [venous thrombosis] {personal history} !{prophylaxis} !{family hx}
+        [embolism] {personal history} !{prophylaxis} !{family hx}
+Z8672   [thrombophlebitis] {personal history}
+Z8673   [past event] {cva} !{residual neurological deficit}
+Z8674   [sudden cardiac arrest] {personal history} !{family hx}
+Z8679   [circulatory system disease] {personal history} !{family hx}
+Z8701   [pneumonia] {personal history} {recurrent}
+Z8709   [disease] {personal history} !{family hx} {states} `respiratory system` 
+Z8711   [peptic ulcer disease] {personal history}
+Z8719   [digestive system disease] {personal history} !{family hx}
+Z872    [disease] {personal history} !{family hx} {states} `skin and subcutaneous tissue`
+Z87310  [osteoporosis fracture] {personal history} {healed}
+Z87311* {personal history}{healed} other 
+Z87312  [stress fracture] {personal history} {healed}
+Z8739   [disease] {personal history} !{family hx} {states} `musculoskeletal system and connective tissue`
+Z87410  [dysplasia] {personal history}  `cervical`
+Z87411  [dysplasia] {personal history} !{family hx} {states} `vagina`
+Z87412  [dysplasia] {personal history} !{family hx} {states} `vulva`
+Z8742   [disease] {personal history} !{family hx} {states} `genital tract` "female"
+Z87430  [dysplasia] {personal history} !{family hx} {states} `prostatic`
+Z87438* {personal history}diseases of "male" genital organs
+Z87440  [history of urinary tract infections]
+Z87441  [nephrotic syndrome] {personal history}
+Z87442  [kidney stone] {personal history}
+Z87448* {personal history}diseases of urinary system
+Z8751   [pre-term labor] {personal history}
+Z8759   [complications of pregnancy, childbirth and the puerperium] {personal history}
+Z87710  [personal history] !{family} {corrected} {hypospadias}
+Z87718  [personal history] !{family} {corrected} `genitourinary system`
+Z87720  [personal history] !{family} {corrected} `eye`
+Z87721  [personal history] !{family} {corrected} `ear`
+Z87728  [personal history] !{family} {corrected} `nervous system and sense organs`
+Z87730  [personal history] !{family} {corrected} {cleft lip and palate}
+Z87738  [personal history] {repaired} {other specified congenital malformations of digestive system}
+Z8774   [surgical correction history] & [congenital malformations of heart and circulatory system]
+Z8775   [personal history] !{family} {corrected} `respiratory system`
+Z8776   [personal history] !{family} {corrected} `integument, limbs and musculoskeletal system`
+Z87790  [personal history] !{family} {corrected} `face and neck`
+Z87798  [personal history] !{family} {corrected} `congenital malformations`
+Z8781   [personal history] !{family} {healed} {fracture} {traumatic}
+Z87820  [personal history] !{family} {healed} `traumatic brain injury` 
+Z87821  [personal history] !{family} {healed} {retained foreign body}
+Z87828  [personal history] !{family} {healed} {physical injury and trauma} {healed}
+Z87890  [sex reassignment] {personal history}
+Z87891  [former smoker]
+Z87892  [anaphylaxis] {personal history}
+Z87898  [personal history specified conditions]
+Z880    [allergy status to penicillin] {allergic}
+Z880NOTE* Heather - Putting pencicillin to far from the word allergy is causing a lot of false postives lets chat if this causing your site issues.
+Z881    [allergy status to antibiotic] {allergic} !{taking} !{in hospital}
+Z882    [allergy status to sulfonamides] {allergic} !{taking} !{in hospital}
+Z883    [allergy status to anti-infective] {allergic} !{taking} !{in hospital}
+Z884    [allergy status to anesthetic] {allergic} !{taking} !{in hospital}
+Z885    [allergy status to narcotic agent status] {allergic} !{taking} !{in hospital}
+Z886    [allergy status to analgesic] {allergic} !{taking} !{in hospital}
+Z887    [allergy] {serum and vaccine} !{taking} !{in hospital}
+Z888    [allergy status to other drugs] {allergic} !{taking} !{in hospital}
+Z89011  [status post] {amputation} `right thumb`
+Z889    [allergy unspecified drugs, medicaments and biological substances status]
+Z89012  [status post] {amputation} `left thumb`
+Z89019  [status post] {amputation} `thumb`
+Z89021  [status post] {amputation} `right finger`
+Z89029  [status post] {amputation} `finger`
+Z89022  [status post] {amputation} `left finger`
+Z89111  [status post] {amputation} `right hand`
+Z89112  [status post] {amputation} `left hand`
+Z89119  [status post] {amputation} `hand`
+Z89121  [status post] {amputation} `right wrist`
+Z89122  [status post] {amputation} `left wrist`
+Z89129  [status post] {amputation} `wrist`
+Z89201  [status post] {amputation} `right upper limb`
+Z89202  [status post] {amputation} `left upper limb`
+Z89209  [status post] {amputation} `upper limb`
+Z89211  [status post] {amputation} `right upper limb below elbow`
+Z89212  [status post] {amputation} `left upper limb below elbow`
+Z89219  [status post] {amputation} `upper limb below elbow`
+Z89221  [status post] {amputation} `right upper limb above elbow`
+Z89222  [status post] {amputation} `left upper limb above elbow`
+Z89229  [status post] {amputation} `upper limb above elbow`
+Z89231  [status post] {amputation} `right shoulder`
+Z89232  [status post] {amputation} `left shoulder`
+Z89239  [status post] {amputation} `shoulder`
+Z89411  [status post] {amputation} `right great toe`
+Z89412  [status post] {amputation} `left great toe`
+Z89419  [status post] {amputation} `great toe`
+Z89421  [status post] {amputation} `right toe`
+Z89422  [status post] {amputation} `left toe`
+Z89429  [status post] {amputation} `toe`
+Z89431  [status post] {amputation} `right foot`
+Z89432  [status post] {amputation} `left foot`
+Z89439  [status post] {amputation} `foot`
+Z89441  [status post] {amputation} `right ankle`
+Z89442  [status post] {amputation} `left ankle`
+Z89449  [status post] {amputation} `ankle`
+Z89511  [status post] {amputation} `right leg below knee`
+        [status post] {right} {bka}
+Z89512  [status post] {amputation} `left leg below knee`
+        [status post] {left} {bka}
+Z89519  [status post] {amputation} `leg below knee`
+Z89521  [status post] {amputation} `right knee`
+Z89522  [status post] {amputation} `left knee`
+Z89529  [status post] {amputation} `knee`
+Z89611  [status post] {amputation} `right above the knee`
+Z89612  [status post] {amputation} `left above the knee`
+Z89619  [status post] {amputation} `leg above knee`
+Z89621  [status post] {amputation} `right hip joint`
+Z89622  [status post] {amputation} `left hip joint`
+Z89629  [status post] {amputation} `hip joint`
+Z899    [status post] {amputation} `limb`
+Z9001   [status post] {amputation} `eye`
+Z9002   [status post] {amputation} `larynx`
+Z9009   [status post] {amputation} `head and neck`
+Z9010   [status post] {amputation} `breast or nipple`
+Z9011   [mastectomy status] {history} {right}
+Z9012   [mastectomy status] {mastectomy} {left}
+Z9013   [mastectomy status] {postoperative} {bilateral}
+Z902    [status post] {amputation} `lung`
+Z903    [status post] {amputation} `stomach`
+Z90410  [status post] {amputation} {total} `pancreas`
+Z90411  [status post] {amputation} {partial} `pancreas`
+Z9049   [acquired absence of other digestive parts]
+Z905    [nephrectomy] {history} !{family hx}
+Z906    [status post] {amputation} `urinary tract`
+Z90710  [status post hysterectomy]
+        [hysterectomy] {history}
+Z90711  [status post] {amputation} {remaining cervical stump} `uterus`
+Z90712  [status post] {amputation} {remaining uterus} `cervix`
+Z90721  [status post] {amputation} {unilateral} `ovary`
+Z90722  [status post] `bilateral ovary`
+Z9079   [status post] `genital organ`
+Z9081   [status post] {amputation} `spleen`
+Z9089   [status post] {organ amputation}
+Z91010  [allergy] {peanut}
+Z91011  [allergy] {milk product}
+Z91012  [allergy] {eggs}
+Z91013  [allergy] {seafood}
+Z91018  [allergy] {other foods} 
+Z9102   [allergy] {food additives}
+Z91030  [allergy] {bee}
+Z91038* other insect allergy status 
+Z91040  [allergy] {latex}
+Z91041  [allergy] {radiographic dye} !{injected} !{given}
+Z91048  [allergy] {other nonmedicinal substance}
+Z9109*  [allergy] !{drugs and biological substances}
+Z9111   [noncompliance with dietary regimen]
+Z91120  [underdosing of medication regimen] {intentional} {financial hardship}
+Z91128* patient's {intentional} underdosing of medication regimen for other reason
+Z91130  [underdosing of medication regimen] {unintentional} {age-related debility}
+Z91138* {unintentional} underdosing of medication regimen for other reason 
+Z9114   [noncompliance with medication regimen]
+Z9115   [noncompliance with renal dialysis]
+Z9119   [noncompliance with medical treatment and regimen]
+Z91410  [adult physical and sexual abuse] {personal history}
+Z91411  [adult psychological abuse] {personal history}
+Z91412  [adult neglect] {personal history}
+Z91419  [adult abuse] {personal history}
+Z9149   [psychological trauma] {personal history}
+Z915    [attempts to self harm] {history}
+Z9181   [date of last fall] {details of fall}
+        [frequent falls]
+Z9182   [military deployment] {personal history}
+Z9183   [wandering] {disease}
+Z9189   [personal risk factor] !{assessment}
+Z920    [contraception] {personal history}
+Z9221   [status post] {chemotherapy}
+Z9222   [monoclonal drug therapy] {personal history}
+Z9223   [estrogen therapy]
+Z92240  [inhaled steroid therapy] {personal history}
+Z92241  [systemic steroid therapy] {personal history}
+Z9225   [immunosupression therapy] {personal history}
+Z9229   [drug therapy] {personal history}
+Z923    [radiation] {personal history}
+Z9281   [extracorporeal membrane oxygenation] {personal history}
+Z9282   [post administration of tpa in a different facility within the last 24 hours prior to admission to current facility]
+Z9283   [failed moderate sedation] {personal history}
+Z9289   [history of medical treatment] 
+Z930    [tracheostomy] {status post} !{history}
+Z931    [gastrostomy status]
+Z932    [ileostomy]
+Z933    [colostomy]
+Z934    [other artificial openings of gastrointestinal tract]
+Z9350   [cystostomy]
+Z9351   [cutaneous-vesicostomy]
+Z9352   [appendico-vesicostomy]
+Z9359*  [cystostomy]
+Z936    [artificial openings of urinary tract]
+Z938    [other artificial opening status]
+Z939    [artificial opening] !{other}
+Z940    [transplant] {kidney} !{listed for} !{awaiting} & ![failure] {kidney}
+Z941    [transplant] {heart} !{family hx}
+Z942    [transplant] {lung}
+Z943    [transplant] `heart and lung`
+Z944    [transplant] {liver} !{listed for} !{awaiting} & ![failure] {liver} 
+Z945    [transplant] !{listed for} !{awaiting} `skin`
+Z946    [transplant] `bone`
+Z947    [transplant] `cornea`
+Z9481   [transplant] `bone marrow`
+Z9482   [transplant] `intestine`
+Z9483   [transplant] `pancreas`
+Z9484   [transplant] `stem cell`
+Z9489*  other [transplant] `organ` and tissue status
+Z949    [transplanted organ and tissue]
+Z950    [cardiac pacemaker] & ![temporary]
+Z951    [presence of aortocoronary bypass graft]
+Z952    [prosthetic heart valve]
+Z953    [xenogenic heart valve]
+Z954    [heart-valve replacement]
+Z955    [presence of coronary implant graft]
+Z95810  [automatic cardiac defibrillator]
+Z95811  [heart assist device]
+Z95812  [fully implantable artificial heart]
+Z95818  [presence of other cardiac implants and grafts]
+Z95820  [peripheral angioplasty status and implant and graft] `vascular`
+Z95828* presence of other vascular implants and grafts
+Z959    [implant and graft] `cardiac` `vascular`
+Z960    [presence of urogenital implants]
+Z961    [intraocular lens status]
+Z9620   [otological and audiological implant]
+Z9621   [implant] `cochlear`
+        [ci programming]
+Z9622   [myringotomy tube]
+Z9629   [otological and audiological implants]
+Z963    [artificial larynx]
+Z9641   [insulin pump]
+Z9649   [endocrine implants]
+Z965    [tooth-root and mandibular implant]
+Z9660   [orthopedic joint implant]
+Z96611  [artificial shoulder joint] {right}
+Z96612  [artificial shoulder joint] {left}
+Z96619  [artificial shoulder joint] !{left} !{right}
+Z96621  [artificial elbow joint] {right}
+Z96622  [artificial elbow joint] {left}
+Z96629  [artificial elbow joint] !{left} !{right}
+Z96631  [artificial wrist joint] {right}
+Z96632  [artificial wrist joint] {left}
+Z96639  [artificial wrist joint] !{left} !{right}
+Z96641  [artificial hip joint] {right} {past status}
+Z96642  [status post] {artificial hip joint} {left} 
+Z96643  [artificial hip joint] {bilateral} 
+Z96649  [artificial hip joint] !{left} !{right} !{bilateral} {past status}
+Z96651  [artificial knee joint] {right} {past status}
+Z96652  [artificial knee joint] {left}
+Z96653  [artificial knee joint] {bilateral}
+Z96659  [artificial knee joint] !{left} !{right} !{bilateral}
+Z96661  [right artificial ankle joint]
+Z96662  [left artificial ankle joint]
+Z96669  [artificial ankle joint]
+Z96691  [replacement] `finger-joint of right hands`
+Z96692  [replacement] `finger-joint of left hands`
+Z96693  [replacement] `finger-joint of both hands`
+Z96698* presence of other orthopedic joint implants
+Z967    [implant] `bone and tendon`
+Z9681   [artificial skin]
+Z9682   [presence of neurostimulator]
+Z9689*  presence of other specified functional implants
+Z969    [implant] {functional} 
+Z970    [artificial eye] 
+Z9710   [artificial limb] 
+Z9711   [artificial right arm] 
+Z9712   [artificial left arm] 
+Z9713   [artificial right leg] 
+Z9714   [artificial left leg] 
+Z9715   [artificial arms] {bilateral} 
+Z9716   [artificial legs] {bilateral} 
+Z972    [dental prosthetic device] 
+Z973    [spectacles and contact lenses] 
+Z974    [external hearing-aid] 
+Z975    [contraceptive device] {intrauterine} 
+Z978*   presence of other specified devices 
+Z980    [bypass and anastomosis] `intestine` 
+Z981    [arthrodesis status] !{prostate}
+Z982    [cerebrospinal fluid drainage device] 
+Z983    [collapse of lung] {post therapeutic} 
+Z9841   [cataract extraction status] `right eye` 
+Z9842   [cataract extraction status] `left eye` 
+Z9849   [cataract extraction status] !{left} !{right} `eye` 
+Z9851   [tubal ligation] {personal history}
+Z9852   [vasectomy] {personal history}
+Z9861   [coronary angioplasty status] 
+Z9862   [angioplasty] {peripheral} `vascular` 
+Z98810  [dental sealant] 
+Z98811  [dental restoration] 
+Z98818* other dental procedure status 
+Z9882   [breast implant] 
+Z9883   [filtering bleb] & [glaucoma surgery] 
+Z9884   [bariatric surgery status] 
+Z9885   [organ removal] {transplanted} 
+Z9886   [breast implant removal] {personal history} 
+Z98870  [in utero procedure] {personal history} {during pregnancy} 
+Z98871  [in utero procedure] {personal history} {while a fetus} 
+Z98890  [other postprocedural states] !{observation}
+Z990    [dependence on aspirator] 
+Z9911   [dependence on respirator]
+Z9912   [respirator dependence during power failure] 
+Z992    [dependence on renal dialysis] 
+Z993    [dependence on wheelchair] !{discharged via:} 
+Z9981   [dependence on supplemental oxygen] 
+Z9989   [dependence on other enabling machines and devices] !{nocturnal} & ![sleep study]

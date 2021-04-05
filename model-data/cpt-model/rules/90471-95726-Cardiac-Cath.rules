@@ -1,0 +1,175 @@
+90471   [immunization] {administration}
+90744   [hepatitis b vaccine] !{past status}
+90970   [hemodialysis] {monthly service} {outpatient}
+91037   [esophageal function test]
+92018   [opthalmological exam] & [anesthesia]
+92250   [fundus photography]
+92502   [otolaryngologic exam] & [anesthesia]
+92920   [angioplasty] `coronary artery` & ![acute mi] & ![stent] & ![atherectomy]  
+92921*  [angioplasty] `coronary artery` {addl artery/branch}  
+92924   [atherectomy] `coronary artery` & ![stent] & ![acute mi]  
+92925*  [atherectomy] `coronary artery` {addl artery/branch}  
+92928   [stent] !{post} `coronary artery` & ![atherectomy] & ![acute mi]  
+92929*  [stent] `coronary artery` {addl artery/branch}  
+92933   [atherectomy] & [stent] `coronary artery` & ![acute mi]  
+92934*  [atherectomy] & [stent] `coronary artery` {addl artery/branch}   
+92937   [revascularization] `coronary artery bypass graft` & ![acute mi]  
+92938*  [revascularization] `coronary artery bypass graft` {addl artery/branch}   
+92941   [revascularization] & [acute mi] `coronry artery/coronary artery bypass graft`  
+92943   [revascularization] {chronic total occlusion} `coronary artery/coronary artery bypass graft` !{addl artery/branch}   
+92944   [revascularization] {chronic total occlusion} `coronary artery/coronary artery bypass graft` {addl artery/branch}  
+92950   [cardiopulmonary resuscitation] !{full code}
+92953   [temporary transcutaneous pacing]
+92960   [cardioversion] !{internal}
+92961   [cardioversion] {internal}
+92970   [cardioassist-method circulatory assist] {internal}
+92971   [cardioassist-method circulatory assist] !{internal}
+92973   [thrombectomy] `coronary artery` & ![aspiration thrombectomy]
+92974   [transcatheter placement] {radiation delivery device} {coronary intravascular brachytherapy}
+92975   [thrombolysis] `coronary` {intracoronary infusion}
+92977   [thrombolysis] `coronary` {iv infusion}
+92978   [endoluminal imaging] `coronary artery or graft`
+92979   [endoluminal imaging] `coronary artery or graft` {add'l vessel}
+92986   [balloon valvuloplasty] `aortic valve` {percutaneous}
+92987   [balloon valvuloplasty] `mitral valve` {percutaneous}
+92990   [balloon valvuloplasty] `pulmonary valve` {percutaneous} 
+92992   [septectomy/septostomy] `atrial` {transvenous} {balloon} & [cardiac catheterization] "Delete CPT 2021" 
+92993   [septectomy/septostomy] `atrial` {blade method} & [cardiac catheterization] "Delete CPT 2021"  
+92997   [angioplasty] `pulmonary artery` {percutaneous} !{add'l vessel}    
+92998   [angioplasty] `pulmonary artery` {percutaneous} {add'l vessel}  
+93000   [electrocardiogram] {routine} & [interpretation] & [report] 
+93005   [electrocardiogram] {12 leads or more} & [tracing] & ![interpretation] & ![report]  
+93010   [electrocardiogram] {12 leads or more} & [interpretation] & [report only] & ![tracing]  
+93015   [cardiovascular stress test] !{abnormal} !{rotation}
+93016   [cardiovascular stress test] !{abnormal} & [ecg monitor] & [supervision] & ![intpretation] & ![report]  
+93017   [cardiovascular stress test] !{abnormal} & [ecg monitor] & [tracing] & ![interpretation] & ![report]  
+93018   [cardiovascular stress test] !{abnormal} & [ecg monitor] & ![supervision] & ![tracing]  
+93024   [ergonovine provocation test]  
+93025   [microvolt t-wave alternans] {assessment} {ventricular arrhythmias}  
+93040   [rhythm ecg] {1-3 leads} & [tracing]  
+93041   [rhythm ecg] {1-3 leads} & [tracing] & ![interpretation] & ![report]  
+93042   [rhythm ecg] {1-3 leads} & ![tracing]  
+93050   [arterial pressure waveform analysis] {central arterial pressure}  
+93224   [ekg] {external} {recording up to 48 hours} {continuous} & [recording] & [scanning analysis] & [report]  
+93225   [ekg] {external} {recording up to 48 hours} {continuous} & [recording]  
+93226   [ekg] {external} {recording up to 48 hours} {continuous} & [scanning analysis] & [report]  
+93227   [ekg] {external} {recording up to 48 hours} {continuous} & [physician review] & [interpretation]  
+93228*  external mobile cardiovascular telemetry with ekg recording, concurrent analysis; physician review  
+93229*  external mobile cardiovascular telemetry with ekg recording, concurrent analysis; technical support  
+93260   [programming device evaluation] {implantable subq lead} {defibrillator system}  
+93261   [interrogation device evaluation] {implantable subq lead} {defibrillator system}  
+93268*   external patient ekg event; includes transmission, physician review and interpretation  
+93270*   external patient ekg event; recording (includes connection, recording, and disconnection)  
+93271*   external patient ekg event; transmission and analysis  
+93272*   external ekg event, 24-hour attended monitoring; physician review and interpretation  
+93278*   signal-averaged electrocardiography (saecg), w/wo ecg  
+93279   [programming device evaluation] & [adjustment] {single lead} {pacemaker}  
+93280   [programming device evaluation] & [adjustment] {dual lead} {pacemaker}  
+93281   [programming device evaluation] & [adjustment] {multiple lead} {pacemaker}  
+93282   [programming device evaluation] & [adjustment] {single lead} {icd system}  
+93283   [programming device evaluation] & [adjustment] {dual lead} {icd system}  
+93284   [programming device evaluation] & [adjustment] {multiple lead} {icd system}  
+93285   [programming device evaluation] & [adjustment] {implantable loop recorder system}  
+93286   [peri-procedural device evaluation] {single, dual, or multiple lead} {pacemaker}  
+93287   [peri-procedural device evaluation] {single, dual, or multiple lead} {icd system}  
+93288   [interrogation device evaluation] {single, dual, or multiple lead} {pacemaker}  
+93289   [interrogation device evaluation] {single, dual, or multiple lead} {icd system} & [heart rhythm analysis]  
+93290   [interrogation device evaluation] & [recording] {icm} & [analysis]   
+93291   [interrogation device evaluation] & [recording] {ilr} & [analysis] {heart rhythm data}  
+93292   [interrogation device evaluation] & [recording] {wearable} {defibrillator system}  
+93293   [transtelephonic rhythm strip pacemaker evaluation] {single, dual, or multiple lead} {pacemaker}  
+93294   [interrogation device eval] {remote} {< 90 days} {single, dual, or multiple lead} {pacemaker}  
+93295   [interrogation device eval] {remote} {< 90 days} {single, dual, or multiple lead} {icd}  
+93296   [interrogation device eval] {remote} {< 90 days} {pacemaker system or icd} {remote data acquisition}  
+93297   [interrogation device eval] {remote} {< 30 days} {icm} & [analysis] {cardiovascular data}  
+93298   [interrogation device eval] {remote} {< 30 days} {ilr} & [analysis] {heart rhythm data}  
+93303   [echocardiography complete] {transthoracic} {congenital heart} {complete}  
+93304   [echocardiography complete] {transthoracic} {congenital heart} {follow-up/limited study}  
+93306   [echocardiogram complete] {transthoracic}   
+        [transthoracic] & [echocardiogram complete] {2d echo} {mmode}
+93307   [ecg] {transthoracic} & ![doppler echocardiography]  
+93308   [ecg] {transthoracic} {follow-up or limited study}  
+93312   [tee] & ![probe placement] 
+93313   [tee] & [probe placement]
+93314   [tee] & [imaging guidance] & ![probe placement]  
+93315   [tee] {congenital} & ![probe placement] & ![imaging guidance]
+93316   [tee] {congenital} & [probe placement]
+93317   [tee] {congenital} & [imaging guidance] & ![probe placement]  
+93318   [tee] & [monitoring]  
+93320   [doppler echocardiography] & [echocardiogram complete] & ![ovary]
+        [doppler echo] {spectral} & ![ovary]
+93321   [doppler echocardiography] {follow-up/limited}  
+93325   [doppler echocardiography] {color flow mapping}  
+        [echocardiography complete] 
+93350   [ecg] {transthoracic} {during rest} & [stress test] & [report]  
+93351   [ecg] {transthoracic} {during rest} & [stress test] & [monitoring] {continuous}  
+93352   [echocardiographic contrast agent] & [stress echocardiography]  
+93355   [tee guidance]   
+93451   [right heart catheterization] !{left} & ![coronary angiography] 
+93452   [left heart catheterization] & ![coronary angiography]
+93453   [right heart catheterization] & [left heart catheterization] & ![coronary angiography]  
+93454   [coronary angiography] & ![left heart catheterization] & ![right heart catheterization]  
+93455   [coronary angiography] & [bypass graft] & ![left heart catheterization] & ![right heart catheterization]  
+93456   [right heart catheterization] & [coronary angiography] & ![left heart catheterization]  
+93457   [coronary angiography] & [bypass graft] & [right heart catheterization] & ![left heart catheterization]  
+93458   [left heart catheterization] & [coronary angiography] & ![right heart catheterization]  
+93459   [coronary angiography] & [bypass graft] & [left heart catheterization] & ![right heart catheterization]  
+93460   [coronary angiography] & [right heart catheterization] & [left heart catheterization]  
+        [right and left heart catheterization] & [coronary angiography]
+93461   [coronary angiography] & [bypass graft] & [right heart catheterization] & [left heart catheterization]  
+93462   [left heart catheterization] & [transseptal or transapical puncture]
+93463   [pharmacologic agent administration]   
+93464   [physiologic exercise study]   
+93503   [insertion] {flow directed catheter} {monitoring}   
+93505   [biopsy] `endomyocardial`  
+93530   [heart catheterization] {right} !{left} & [congenital heart]
+93531   [heart catheterization] {right} {left} {retrograde} & [congenital heart]
+        [heart catheterization] {right} {left} {retrograde} & [congenital heart]
+93532   [heart catheterization] {right} {left} {transseptal} & [congenital heart]
+93533   [heart catheterization] {right} {left} {transseptal} {existing septal opening} & [congenital heart]
+93613   [3d mapping]
+93619   [comprehensive ep study] & ![induction arrhythmia]
+93620   [comprehensive ep study] & [induction arrhythmia] `right atrial` `right ventricular`
+93621   [pacing and recording] `left atrial` `coronary sinus` !{right atrial} & ![ablation]
+93622   [comprehensive ep study] & [pacing and recording] `left ventricular`
+93623   [programmed stimulation and pacing] & [after intravenous drug infusion]
+93624   [electrophysiological follow-up]
+93631   [intra-operative pacing and mapping] `epicardial` `endocardial`
+93640   [eps evaluation] !{defibrillator}
+93641   [eps evaluation] !{defibrillator}
+93642   [eps evaluation] {defibrillator}
+93644   [eps evaluation] {defibrillator} {subcutaneous implantable}
+93650   [intracardiac catheter ablation] `atrioventricular node`
+93653   [comprehensive ep study] & [ablation] & ![ventricular tachycardia]
+93654   [comprehensive ep study] & [ablation] & [ventricular tachycardia]
+93655   [ablation] {svt}
+93656   [comprehensive ep study] & [transeptal catheter] & [intracardiac catheter ablation] `atrial fibrillation` & [pulmonary vein isolation]
+93657   [additional ablation] {atrial fibrillation}
+93660   [tilt table]
+93662   [intracardiac echocardiography]
+94002   [ventilation management] 
+94760*  [98 room air]
+95700*		Electroencephalogram (EEG) continuous recording, with video when performed, setup, patient education, and takedown when performed, administered in person by EEG technologist, minimum of 8 channels 
+95705*		Electroencephalogram (EEG), without video, review of data, technical description by EEG technologist, 2-12 hours; unmonitored 
+95706*		Electroencephalogram (EEG), without video, review of data, technical description by EEG technologist, 2-12 hours; with intermittent monitoring and maintenance 
+95707*		Electroencephalogram (EEG), without video, review of data, technical description by EEG technologist, 2-12 hours; with continuous, real-time monitoring and maintenance 
+95708*		Electroencephalogram (EEG), without video, review of data, technical description by EEG technologist, each increment of 12-26 hours; unmonitored 
+95709*		Electroencephalogram (EEG), without video, review of data, technical description by EEG technologist, each increment of 12-26 hours; with intermittent monitoring and maintenance 
+95710*		Electroencephalogram (EEG), without video, review of data, technical description by EEG technologist, each increment of 12-26 hours; with continuous, real-time monitoring and maintenance 
+95711*		Electroencephalogram with video (VEEG), review of data, technical description by EEG technologist, 2-12 hours; unmonitored 
+95712*		Electroencephalogram with video (VEEG), review of data, technical description by EEG technologist, 2-12 hours; with intermittent monitoring and maintenance 
+95713*		Electroencephalogram with video (VEEG), review of data, technical description by EEG technologist, 2-12 hours; with continuous, real-time monitoring and maintenance 
+95714*		Electroencephalogram with video (VEEG), review of data, technical description by EEG technologist, each increment of 12-26 hours; unmonitored 
+95715*		Electroencephalogram with video (VEEG), review of data, technical description by EEG technologist, each increment of 12-26 hours; with intermittent monitoring and maintenance 
+95716*		Electroencephalogram with video (VEEG), review of data, technical description by EEG technologist, each increment of 12-26 hours; with continuous, real-time monitoring and maintenance 
+95717*		Electroencephalogram (EEG), continuous recording, physician or other qualified health care professional review of recorded events, analysis of spike and seizure detection, interpretation and report, 2-12 hours of EEG recording; without video 
+95718*		Electroencephalogram (EEG), continuous recording, physician or other qualified health care professional review of recorded events, analysis of spike and seizure detection, interpretation and report, 2-12 hours of EEG recording; with video (VEEG) 
+95719*		Electroencephalogram (EEG), continuous recording, physician or other qualified health care professional review of recorded events, analysis of spike and seizure detection, each increment of greater than 12 hours, up to 26 hours of EEG recording, interpretation and report after each 24-hour period; without video 
+95720*		Electroencephalogram (EEG), continuous recording, physician or other qualified health care professional review of recorded events, analysis of spike and seizure detection, each increment of greater than 12 hours, up to 26 hours of EEG recording, interpretation and report after each 24-hour period; with video (VEEG) 
+95721*		Electroencephalogram (EEG), continuous recording, physician or other qualified health care professional review of recorded events, analysis of spike and seizure detection, interpretation, and summary report, complete study; greater than 36 hours, up to 60 hours of EEG recording, without video 
+95722*		Electroencephalogram (EEG), continuous recording, physician or other qualified health care professional review of recorded events, analysis of spike and seizure detection, interpretation, and summary report, complete study; greater than 36 hours, up to 60 hours of EEG recording, with video (VEEG) 
+95723*		Electroencephalogram (EEG), continuous recording, physician or other qualified health care professional review of recorded events, analysis of spike and seizure detection, interpretation, and summary report, complete study; greater than 60 hours, up to 84 hours of EEG recording, without video 
+95724*		Electroencephalogram (EEG), continuous recording, physician or other qualified health care professional review of recorded events, analysis of spike and seizure detection, interpretation, and summary report, complete study; greater than 60 hours, up to 84 hours of EEG recording, with video (VEEG) 
+95725*		Electroencephalogram (EEG), continuous recording, physician or other qualified health care professional review of recorded events, analysis of spike and seizure detection, interpretation, and summary report, complete study; greater than 84 hours of EEG recording, without video 
+95873    [electrical stimulation guidance] & [chemodenervation]
+96999    [unlisted dermatological service/procedure]

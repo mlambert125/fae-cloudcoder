@@ -1,0 +1,1705 @@
+other therapeutic substance 
+    pleurodesis
+    talc
+    phenergan
+    sealants
+botox
+    botulinum
+other therapeutic substance new technology
+    regeneron
+allograft
+    nonautologous tissue substitute
+    allogeneic
+    homograft
+    homoplastic graft
+    vitoss bimodal
+    bioburst fluid
+angiography
+    angiogram
+    arteriography
+    fluoroscopy
+    cineangiography
+    angiographic
+    graft injection
+    diagnostic catheters~3 image
+  catheter~3 image
+angiogram
+    angiography
+    arteriography
+    arteriogram
+    fluoroscopy
+    cineangiography
+    angiographic
+    graft injection
+    diagnostic catheters~3 image
+    catheter~3 image
+anterior approach, anterior column
+    supine positioning
+    supine postion
+    supine
+    anterior
+    anterior approach
+    anterior exposure
+    tedious dissection
+    alif
+    dlif
+    llif
+    xlif
+    retroperitoneal approach
+    extreme lateral interbody fusion
+    direct lateral interbody fusion
+    shoulders taped down
+anti-inflammatory
+    steroid
+    methylprednisolone
+    depo-medrol
+    dexamethasone
+    decadron
+    deflazacort
+    betamethasone
+    kenalog
+    corticosteroid
+    hydrocortisone
+    methylprednisolone
+    medrol
+    methylprednisolone sodium succinate
+    methylprednisolone
+    prednisone
+    solumedrol
+    solu-medrol
+    fluticasone
+    flovent
+artificial sphincter
+autologous arterial tissue
+    autologous artery graft
+autologous tissue substitute
+    autologous tissue  
+    autologous fat graft
+    autograft
+    obtuse marginal graft
+    saphenous vein graft
+    lima
+    autologous bone graft
+    autologous bone
+    autologous stem cells
+    local bone graft
+    bone autograft
+    cultured epidermal cell autograft
+    epicel cultured epidermal
+    autologous
+autologous venous tissue
+    saphenous~3 graft
+    saphenous~3 grafts
+    saphenous vein graft
+    saphenous vein grafts
+    autologous vein graft
+apligraf
+apalutamide antineoplastic
+    apalutamide
+bandage
+    band aid 
+    band-aid
+    bandaid
+    bandaging
+    bandages
+    dressing
+    wound covering
+    wound cover
+    wound dressing
+    wound dressings
+bicompartmental
+    medial and patellofemoral
+bilateral
+    bi
+    both
+    bilaterally
+    left and right
+    right and left
+    left, right
+    right, left
+bilateral or left
+    bilateral
+    bilaterally
+    both
+    left
+    lt
+    bimedial
+    left, right
+    right, left
+bilateral or right
+    bilateral
+    bilaterally
+    both
+    right
+    rt
+    bimedial
+    right-side
+    right-sided
+biventricular pacemaker
+bone generator stimulator
+bone growth stimulator
+bone graft
+branched
+    fenestrated
+cardiac lead
+    pacemaker lead
+    defibrillator lead
+    lead
+    rv lead
+    ra lead
+    electrode
+cardiac lead, defibrillator
+cardiac lead, pacemaker
+cardiac rate
+    heart rate
+cardiac resynchronization defibrillator pulse generator
+cardiac resynchronization pacemaker pulse generator
+cardiac rhythm related device
+  cardioverter-defibrillator
+  defibrillator
+  icd
+  ddd icd generator
+  aicd
+  pulse generator
+  pacemaker
+central line
+  picc line
+  picc
+central nervous electrical activity
+    eeg
+    localize seizures
+    myoclonic seizures
+    frontal sharp waves
+cerebral embolic filtration
+  sentinel cerebral protection
+  sentinel system
+  sentinel device
+  sentinel distal protection device
+  distal protection device
+  distal filter
+  first filter
+  proximal filter
+  second filter
+classical
+    high
+clearing or fusion
+    clearing
+    fusion
+    all the way
+    incision
+    performed down
+    carried sharply
+    down to the level
+common
+    main
+complete
+    metatarsophalangeal
+complete procedure
+    needle and guidewire were removed
+    guidewire~3 removed
+completed
+    results
+    yes
+computerized tomography
+    ct
+compression pressure dressing
+  wound vac
+  veraflow
+  pressure dressing
+contraceptive device
+    iud
+    intrauterine device
+    nexplanon
+continuous
+    remained in
+    greater than 18 hours
+contractility modulation device
+currently on
+    is on
+    times daily
+    tablet
+    taking
+    taper
+    received a
+    daily
+decompression
+   decompressive
+   decompressed
+   decompressing
+   laminectomy
+   laminotomy
+   facetectomy
+   foraminotomy
+defibrillator generator
+    cardioverter-defibrillator
+    cardioverter defibrillator
+    cardiac defibrillator
+    defibrillator
+    icd
+    ddd icd
+    implantable cardioverter-defibrillator
+    maximo ii dr
+    maximo
+    protecta xt drsecura
+    aicd
+    evera
+    virtuoso
+    cardioverter-defibrillator
+    defib
+defibrillator lead
+    defibrillation lead
+desufflated
+destructive agent
+    phenol motor branch
+    phenol motor brand blocks
+device
+    iv
+    cardiac monitor
+    monitor
+diaphragmatic pacemaker lead
+diagnostic
+  sent to pathology
+  tissue sample
+  biopsy
+  biopsied
+  bx
+  biopsies
+  culture
+  specimens
+  specimen
+  frozen section
+  frozen sections
+  testing
+  histology
+  specimens: cultures
+  sent for studies
+  sent off
+  studies
+  testing
+  evaluation
+  microbiologic
+  biochemical
+  cytopathologic
+  analysis
+  submitted to laboratory
+  submitted for gram stain
+drainage device
+    pleurex catheter
+    chest tube
+    chest tubes
+    foley
+    urinary catheter
+    penrose drain
+    drainage tube
+    drainage tubes
+    drainage catheter
+    drain
+    drain placement
+    drain placed
+    tube
+    10f
+    nasogastric tube 
+    ng tube
+    pleurx catheter
+drug-eluting intraluminal device
+    drug eluting intraluminal device
+    drug-eluting stent
+    drug eluting stent
+    des
+    synergy des
+dual chamber
+    dual
+    dual-chamber
+dual-chamber pacemaker
+    dual chamber pacemaker
+    dual chamber lbb pacemaker
+    dual chamber~3 pacemaker
+    dual-chamber lbb pacemaker
+    dual-chamber~3 pacemaker
+    pacemaker~4 atrial and ventricular
+endoscopic
+  ureteroscopy
+  endoscope
+  endoscopically
+  endoscopy
+  enteroscopy
+  cystoscopy
+  laryngoscopy
+  resectoscope
+  cystourethroscopy
+  bronchoscopy
+  bronchoscope
+  video bronchoscopy
+  colonoscopy
+  colonoscope
+  sigmoidoscopy
+  sphinceterotome
+  colonscope
+  lower gi endoscopy
+  egd
+  esophagogastroduodenoscopy
+  upper gi endoscopy
+  endobronchial
+  scope
+epiretinal visual prosthesis
+erdafitinib antineoplastic
+    erdafitinib
+excision
+  pancreatectomy
+  dissection
+  excised
+  pomeroy method
+  lymphadenectomy
+  dissected
+  biopsy
+  bx
+  biopsies
+  forceps
+  cold forceps
+  hot forceps
+  snare
+  excisional debridement
+  partial removal
+  partial wedge
+  resection~4 partial
+  needle core biopsy
+  polypectomy
+  polyp was removed
+  polyp~5 removed
+  colectomy
+  wedge
+  osteotomy
+endotracheal intubation
+  intubation
+  intubated
+  endotracheal airway
+  endotracheal tube
+  et tube
+  ett~3 placement
+  laryngoscope~3 ett
+external fixation device
+    external fixator
+    external fixation
+    fixation, external
+    fixator, external
+external fixation device, hybrid
+external fixation device, limb lengthening
+external fixation device, monoplanar
+external fixation device, ring
+external heart assist system
+extraluminal device
+    atriclip laa exclusion system
+    atriclip
+    lap-band adjustable gastric banding system
+    realize adjustable gastric band
+    gastric band
+    banding
+    band
+    gastric banding
+    filshie clips
+    pomeroy
+    mucopexy
+    clip
+extraluminal fixation device
+extrernal fixation device
+fixation device
+feeding device
+    feeding~3 tube
+femoral approach
+    via~4 femoral
+    access~5 femoral
+    introduced~4 femoral
+    femoral retrograde catheterization
+fosfomycin anti infective
+    fosfomycin
+fourth
+    4th
+fourth-degree
+    fourth degree
+    4th degree
+    anal sphincter and rectal mucosa
+    rectum
+full code
+    code
+    full treatment
+    full
+    /full
+guidance
+    guided
+    technique~4 insertion
+harvest
+  harvested
+  harvesting
+hearing device
+hearing device, bone conduction
+hearing device, multiple channel cochlear prosthesis
+hearing device, single channel cochlear prosthesis
+high
+    proximal phalanx
+    metatarsal head
+history
+    history of
+    born
+    after
+    has undergone
+    ongoing
+    is patent
+    historical
+    2019
+    2018
+    2017
+    2016
+    2015
+    2014
+    2013
+    2012
+    2011
+    2010
+    2009
+    2008
+    2007
+    2006
+    2005
+    2004
+    2003
+    2002
+    2001
+    2000
+    2020
+imaging
+  ct
+  ct scan
+  computerized tomography
+  radiography
+  mri
+  magnetic resonance imaging
+implantable heart assist system
+incised using
+    electrocautery~4 dissect
+in place
+    discontinuance
+    output
+    bag is filling up
+    will continue
+    after~4 removed
+    can be helpful
+    last 24-hour events
+in route
+    daughter began
+    decision regarding
+    on arrival~3 being delivered
+    patient is already
+    prehospital 
+indwelling device
+  catheter
+  foley
+infusion device 
+  picc line
+  picc
+  midline
+  picc/midline 
+  picc or midline
+  picc projects
+  introducer needle
+  peripherally inserted central catheter
+  non-tunneled central venous catheter
+  nontunneled hemodialysis catheter
+  indura intrathecal catheter
+  ascenda intrathecal catheter
+  central line
+  catheter
+  permacatheter
+  permcath
+  triple lumen
+  single-lumen
+  single lumen
+  mediport
+  perma-catheter
+  dialysis catheter
+  tunneled spinal catheter
+  tunneled central venous catheter
+  tunneled catheter
+  tunneled hemodialysis catheter
+  hickman
+  broviac
+  double lumen
+  double-lumen
+  central venous catheter
+  thoracic epidural
+  vascular line
+infusion device, pump
+infusion substitute
+initiated
+    with
+interbody fusion device
+    cage
+    interbody cervical fusion system
+    axialif system
+    coroent xl
+    interbody spacer
+    interbody~2 spacer
+    interbody fusion
+    interbody
+    interbody arthrodesis
+interbody
+  cage
+  cages
+  interbody fusion
+  interbody fusion cages
+  interbody fusion cage
+  interbody cervical fusion system
+  axialif system
+  coroent xl
+  interbody spacer
+  interbody spacers
+  interbody instrumentation
+  interbody type
+  medtronic atlantis elite
+  spacers
+  spacer
+  synfix
+  synthes spacer
+  prosthetic cage
+  bak
+  nanolock
+  peek
+  ray-threaded~3 cage
+  ray threaded~3 cage
+  verte-stack
+  verte stack
+intermittent pressure device
+  ipc
+  intermittent limb compression device
+internal fixation device
+    internal fixation
+    pinning
+    screws
+    cannulated screws
+    rod
+    rods
+    screw
+    screws
+    pedicle screw instrumentation
+    posterior segmental instrumentation
+    anterior instrumentation
+    instrumentation
+    pin
+    plate
+    im nailing
+    nailing
+    rod fixation
+    rod
+    hardware
+    wires
+    wire
+    k wire
+    sternal wire
+    sternal wires
+intramedullary internal fixation device
+    cephalomedullary nailing
+internal fixation device, intramedullary
+    intramedullary fixation
+    internal fixation intramedullary
+internal fixation device, rigid plate
+intracardiac pacemaker
+    micra
+    micra permanent pacemaker
+intraluminal device
+    filter
+    stent
+    stenting
+    stented
+    endoprosthesis
+    endovascular graft
+    wallstent 
+    therapeutic occlusion coils
+    talent occluder
+    talent converter
+    embolization device
+    intraluminal devices
+    stent
+    stents
+    watchman
+    absolute pro vascular
+    acculink 
+    afx endovascular
+    aneurx aaa advantage
+    assurant stent
+    cobalt stent
+    carotid wallstent monorail endoprosthesis
+    coaxia neuroflo catheter
+    colonic z-stent
+    complete stent
+    cook zenith aaa endovascular graft
+    cook zenith
+    double-j~2 stent
+    double-j~2 stents
+    double-j
+    double j
+    driver stent
+    e-luminexx stent
+    embolization coil
+    embolization coils
+    endologix afx
+    endoluminal
+    endurant 
+    excluder
+    express premounted stent
+    express biliary sd monorail
+    express sd renal monorail
+    flair endovascular stent graft
+    flair
+    formula balloon-expandable renal stent
+    gore excluder
+    gore tag
+    herculink elite renal stent
+    lifestent
+    medtronic endurant 
+    micro-driver stent
+    multi-link
+    omnilink elite vascular balloon
+    pipeline embolization
+    protege rx carotid stent system
+    talent
+    therapeutic occlusion coil
+    therapeutic occlusion coils
+    ultraflex precision colonic stent
+    valiant thoracic sstent graft
+    wallstent endoprosthesis
+    xact carotid stent 
+    zenith aaa endovascular
+    zenith
+    ovation graft main body
+    ipsilateral limb extension
+    bifurcated modular device
+intraluminal device endotracheal device
+intraluminal device, airway
+    nasopharyngeal airway
+    npa
+intraluminal device, bioactive
+    bioactive embolization coils
+    bioactive embolization coils
+    micrus cerecyte micocoil
+intraluminal device, drug-eluting
+    drug-eluting intraluminal device
+    drug eluting intraluminal device
+    drug-eluting stent
+    drug eluting stent
+    drug coated stent
+    cypher stent
+    endover
+    zotarolimus-eluting 
+    zotarolimus eluting
+    everolimus-eluting 
+    everolimus eluting
+    paclitaxel-eluting
+    paclitaxel eluting
+    sirolimus-eluting
+    sirolimus eluting
+    taxus liberte paclitaxel-eluting
+    taxus liberte paclitaxel eluting
+    xience everolimus eluting
+    zotarolimus-eluting 
+    zotarolimus eluting
+    zilver ptx drug-eluting
+    zilver ptx
+intraluminal device, endobrachial valve
+    spiration ibv valve system
+    spiration ibv
+intraluminal device, endotracheal airway
+intraluminal device, pessary
+intraluminal device, radioactive
+intraoperative
+  procedure
+  operation
+  operations room
+  operating room
+intravascular
+imipenem cilastatin relebactam anti infective
+    imipenem cilastatin
+iobenguane i 131 antineoplastic
+    iobenguane
+irrigating substance
+is present
+    terminates
+    noted
+    is high
+    extends
+    are optimally positioned
+    put out
+    out put
+    courses distally
+    tube fed
+    advance
+left
+    lt
+    bilateral
+left heart catheterization
+  lhc
+  left cardiac catheterization
+  left cardiac cath
+  left heart cath
+  heart catheterization left
+less than 24 hours
+    briefly
+    bedtime
+    nocturnal
+    applied at bedside
+liner
+loop recorder
+  linq
+low
+    partial
+    distal phalanx
+    distal interphalangeal joint
+    low transverse
+    low-transverse
+    transverse
+    lower segment transverse
+    low uterine transverse
+    lower uterine segment
+local anesthetic
+    marcaine
+    lidocaine
+    xylocaine
+impella
+  impeller
+levels or labs
+    levels
+    labs
+    enzymes
+    panel
+lung biopsy
+    lung wedge
+magnetically controlled growth rod
+    magnetically controlled growth rods
+magnetic resonance imaging
+    mri
+many lymph nodes
+    station x
+    regional D2
+    level ix
+mesh
+    synthetic substitute
+metaphyseal component with a ceramic
+mid
+    below-knee
+    middle phalanx
+    proximal interphalangeal joint
+monitoring device
+    arterial line
+    a-line
+    a line
+    cardiac event recorder
+    patient-activated cardiac event recorder
+    patient-activated implantable loop recorder
+    cardiac rhythm monitor
+    subcutaneous cardiac rhythm monitor
+    linq
+    loop recorder
+    loop recording
+    hemodynamic monitoring
+monitoring device cardiac
+    arterial line
+    cardiac event recorder
+    patient-activated cardiac event recorder
+    patient-activated implantable loop recorder
+    cardiac rhythm monitor
+    subcutaneous cardiac rhythm monitor
+    linq
+    loop recorder
+    loop recording
+    hemodynamic monitoring
+    pacemaker
+    hemodynamic monitoring device
+    cardioverter-defibrillator
+    defibrillator
+    icd
+    ddd icd generator
+    aicd
+    pulse generator
+monitoring device hemodynamic
+monitoring device, pressure sensor
+monitoring electrode
+    fetal monitoring
+    electronic fetal monitoring
+    efm
+    fse
+monoclonal antibody
+    abciximab
+    abraxane
+    adalimumab
+    adcetris
+    alemtuzumab
+    amivantamab
+    atidortoxumab
+    avelumab
+    basiliximab
+    belimumab
+    benralizumab
+    brentuximab
+    capromab
+    catumaxomab
+    certolizumab
+    cetuximab
+    crizanilizumab
+    ertumaxomab
+    herceptin
+    perjeta
+    anti-her2 theraphy
+    keytruda
+multiple
+    2
+    3
+    4
+natural opening
+  artificial opening
+  vaginal delivery
+  vaginal
+  mouth
+  po
+  oral
+needs or on
+    needs
+    on
+    scheduled
+    patient
+    historical
+    history
+    will need
+    planned for
+    referred for
+    yesterday
+nerve
+    nerve root
+    nerve roots
+    spinal cord
+neurostimulator generator
+neurostimulator lead
+    lead
+    leads
+    electrodes
+    electrode
+    stimulating electrodes
+no device
+nodules or disease
+    nodules
+    disease
+nonautologous tissue
+    nonautologous 
+nonautologous tissue substitute
+    allograft
+    allogeneic
+    homograft
+    homoplastic graft
+    vitoss bimodal
+    bioburst fluid
+none
+    episiotomy: none
+    episiotomy transcribed: no
+    episiotomy transcribed: none
+    no
+    transcribed
+    will not need
+normal suturing
+    running
+    were placed
+    line was confirmed
+    staple line and the
+    line
+    silk
+    resection with repair
+    anchored with silk sutures
+    graft~3 tacked
+    proglide
+not performed
+  deferred
+  was not performed
+  no injection
+nutritional substance
+  tpn
+  d10
+  pn/il
+  pn
+other antineoplastic
+    carboplatin
+    cyclophosphamide
+    chemotherapy
+    consolidation ia therapy
+    rituxan
+    cytotoxic antineoplastic
+    azacitidine
+    capecitabine
+    carmofur
+    cladribine
+    cytarabine
+    decitabine
+    f antibody therapy
+    Today 10/29 is day 1
+    irinotecan
+    temozolomide
+    doxorubicin/etoposide/vincristine
+    cisplatin
+    etoposide
+    floxuridine
+    fludarabine
+    fluorouracil
+    irinotecan
+    gemcitabine
+    mercaptopurine
+    nelarabine
+    pentostatin
+    tegafur
+    tioguanine
+    methotrexate
+    pemetrexed
+    raltitrexed
+    hydroxycarbamide
+    irinotecan
+    topotecan
+    daunorubicin
+    doxorubicin
+    epirubicin
+    idarubicin
+    mitoxantrone
+    valrubicin
+    etoposide
+    teniposide
+    cabazitaxel
+    docetaxel
+    paclitaxel
+    vinblastine
+    vincristine
+    vindesine
+    vinflunine
+    vinorelbine
+    bendamustine
+    busulfan
+    carmustine
+    chlorambucil
+    cholrmethine
+    cyclophosphamide
+    dacarbazine
+    fotemustine
+    lomustine
+    melphalan
+    streptozotocin
+    temozolomide
+    carboplatin
+    cisplatin
+    nedaplatin
+    oxaliplatin
+    altretamine
+    bleomycin
+    bortezomib
+    dactinomycin
+    estramustine
+    ixabepilone
+    mitomycin
+    procarbazine
+    alemtuzumab
+    bevacizumab
+    cetuximab
+    denosumab
+    gemtuzumab ozogamicin
+    ibritumomab tiuxetan
+    ipilimmab
+    nivolumab
+    ofatumumab
+    panitumumab
+    pembrolizumab
+    pertuzumab
+    rituximab
+    tositumomab
+    trastuzumab
+    afatinib
+    afibercept
+    axitinib
+    bosutinib
+    crizotinib
+    dasatinib
+    eriotinib
+    gefitinib
+    imatinib
+    lapatinib
+    nilotinib
+    pazopanib
+    ponatinib
+    regorafenib
+    ruxolitinib
+    sorafenib
+    sunitinib
+    vandetabib
+    everolimus
+    temsirolimus
+    alitretinoin
+    bexarotene
+    isotretinoin
+    tamibarotene
+    tretinoin
+    lenalidomide
+    pomalidomide
+    thailidomide
+    panobinostat
+    romidepsin
+    valproate
+    vorinostat
+    anagrelide
+    arsenic trioxide
+    asparaginase
+    bcg vaccine
+    denileukin diftitox
+other contrast
+    air contrast
+other device
+    hardware
+    sling
+    sling and swath
+pacemaker
+    cardiac rhythm related device
+    ppm
+pacemaker lead
+    lead
+    electrode
+pacemaker, dual chamber
+pacemaker, single chamber
+pacemaker, single chamber rate responsive
+packing material
+    non-adherent gauze
+    gauze
+    pads
+    ointments
+    sponges
+    txa placed
+partial
+    partal
+past status
+    post
+    prior
+    previous
+    planned
+    was checked
+    was~4 effacement
+    chooses to have
+    still abnormal
+    abnormal
+    again present
+    as needed
+    s/p
+    status post
+    status
+    seems to have
+    never able to palpate it
+    intact
+    last
+    last therapeutic
+    without
+    that were also normal
+    at that time~2 underwent
+    out of the timeframe
+    upon arrival to ed
+    postop day #2
+    history
+    history of
+    historical
+    histories
+    performed~2 weeks ago
+    prior
+    past history
+    previous patient
+    previously placed
+    previously made
+    previously undergone
+    requirement 
+    in the past
+    in the year
+    in place
+    surgical history
+    past surgical history
+    will proceed to or
+    there is also
+    psh
+    remote
+    has had
+    had a
+    historical
+    history of
+    has undergone
+    had undergone
+    ongoing
+    years ago
+    historical
+    2 weeks ago
+    2020, underwent
+    2019
+    2018
+    2017
+    2016
+    2015
+    2014
+    2013
+    2012
+    2011
+    2010
+    2009
+    2008
+    2007
+    2006
+    2005
+    2004
+    2003
+    2002
+    2001
+    2000
+    2020
+    postsurgical
+    post-surgical
+patellofemoral
+    patella femoral
+percutaneous 
+  puncture
+  puncture sites
+  minor incision
+  burr hole
+  burr holes
+  pulled through
+  needle biopsies
+  needle biopsy
+  biopsy needle
+  plunger
+  ct guided
+  ct-guided biopsy
+  ct-guided biopsies
+  liposuction
+  laser
+  linq delivery system
+  subcutaneous
+  subcutaneously
+  transcatheter
+  catheter
+  catheterization
+  fogarty
+  eps
+  electrophysiology study
+  transvenous
+  transjugular
+  tunneled
+  endovascular
+  fluoroscopy
+  injection
+  inj
+  inserted subcutaneously
+  screw
+  screws
+percutaneous endoscopic
+  laparoscopic
+  laparoscopic-assisted
+  endoscopic vein harvesting
+  total laparoscopic
+  diagnostic laparoscopy
+  laparoscopy
+  arthroscopy
+  cholecystectomy
+  scope and camera
+  robotic hysterectomy
+  thoracoscopic
+  vats
+  trocars placed
+  trocar~3 placed
+  trocars in place
+  trocar~3 introduced
+  trocar lap scope 
+  veress needle
+  video camera
+  video-assisted 
+  video assisted
+  video-assist
+  video assist
+  video-assistance
+  video assistance
+peripheral nervous electrical activity
+    facial nerve monitoring
+polyethylene
+  crosslink poly
+  cross link poly
+  poly liner
+  e-poly
+  e-poly liner
+  poly
+polyethylene liner and a +0, 36 mm ceramic head
+    polyethylene~7 ceramic head
+polyp
+posterior column
+    posterior
+posterior approach, anterior column
+    posterior approach/anterior column
+    prone~2 sneak around
+    axialif
+    plif
+    posterior lumbar interbody fusion
+    posterior lumbosacral interbody fusion
+    tlif
+posterior approach, posterior column
+  posterolateral
+  posterior lateral
+  posterior lateral gutters
+  posterior
+  transpedicular
+  transverse process
+  transverse processes
+  trans process
+  trans processes
+  prone
+  transferred~4 prone
+  transfer~4 prone
+  flipped~4 prone
+  anesthesia~4 turned prone
+pregnancy
+    pregnant
+    gestation
+    gestational
+    cesarean section
+    antepartum
+    term newborn delivered
+    complicating pregnancy
+    induction of labor
+    baby a
+    pregnant
+    labor
+    deliver~4 infant
+    birth weight
+    c-section
+    full term intrauterine pregnancy
+    transverse cesarean section
+    iol
+    obstetrics
+previously placed
+  previously deployed
+  widely patent
+  predominantly patent
+  disease in the stent
+  instent stenosis
+  previously
+  post
+  again noted
+  history of
+procedure header
+    performed
+    procedure:
+    procedure performed:
+    name of procedure:
+    description of procedure:
+    procedure(s) performed:
+    operations:
+    operation:
+    operations performed:
+    operation performed:
+    operation(s) performed:
+    operations/procedures
+    operative procedure performed
+    operation/procedure performed
+    impression:
+    lymph nodes:
+    name of procedure:
+    procedures performed:
+    procedure s  performed:
+    procedure(s) performed:
+    procedure in detail:
+    procedure note:
+    procedure.
+    procedure:
+    procedures:
+    operation performed:
+    *procedure(s)/descriptions:
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+prolonged
+    6-18 hours
+    6 hours
+    7 hours
+    8 hours
+    9 hours
+    10 hours
+    11 hours
+    12 hours
+    13 hours
+    14 hours
+    15 hours
+    16 hours
+    17 hours
+    18 hours
+placenta
+    placenta status:
+products of conception
+    product of conception
+    incomplete ab
+    fetus
+    fetal
+    placenta
+    embryo
+    blighted ovum
+    baby a
+    baby b  
+    placental tissue
+radial access
+    sheath was placed~3 radial artery
+    radial fashion
+radioactive element
+    cesium-131 collagen implant
+radioactive substance
+    cardiolite
+    radioactive tracer
+    thalium
+    sestamibi
+    lexiscan
+    technetium
+rapid deployment technique
+    rapid ventricular pacing
+rate responsive
+recombinant bone morphogenetic protein
+    bone~2 protein
+reservoir
+  port
+  power injectable mediport
+  mediport
+  port-a-cath
+resurfacing device
+results
+    completed
+    complete
+removal
+    removed
+ring    
+    carpentier-edwards
+    carpentier edwards
+    c.e. ring
+right
+    rt
+first degree
+  1st degree
+  1st-degree
+  first-degree
+  labial laceration
+  labial lacerations
+  labial abrasion
+  labial abrasions
+  fourchette
+  perianal skin
+  superficial
+  1st degree
+  labia
+  labium
+  labial
+  labial tear
+  fourchette
+  periurethral
+  superficial vaginal tear
+  superficial vaginal tears
+  vaginal abrasion
+  vaginal abrasions
+second
+    2nd
+second-degree
+  second degree
+  second degree laceration
+  second degree lac
+  2nd degree
+  2nd degree lac
+  2nd degree laceration
+  2nd-degree
+selective coronary angiography
+  coronary angiogram
+  coronary angiography
+  coronary arteriography
+  coronary arteriogram
+  selective coronary arteriography
+  selective angiography
+  selective coronary
+  right and left selective coronary arteriography
+  right and left coronary arteriography
+  Left and right coronary angiography
+  left right coronary angiography
+  Left and right selective coronary angiography
+serum, toxoid and vaccine
+    serum
+    toxoid
+    vaccine
+    hepatatis b vaccine
+    tetanus vaccine
+    tetanus: given today
+spacer
+spinal stabilization device, facet replacement
+spinal stabilization device, interspinous process
+spinal stabilization device, pedicle-based
+spo2
+    pulse ox
+spontaneous
+    premature
+stimulator generator
+    stimulator
+stimulator generator, multiple array
+    stimulator, multiple array
+stimulator generator, multiple array rechargable
+    stimulator, multiple rechargable
+stimulator generator, single array
+    stimulator, single
+stimulator generator, single array rechargable
+    stimulator, single array rechargable
+stimulator lead
+stage or meds
+    stage
+    without
+    80% effaced
+    kidney disease
+    ckd
+    anitbiotics
+    continue
+    physical exam
+    too frequently for
+    today
+    will need to order
+stone
+    stones
+    calculus
+    stone basket extraction
+subcutaneous tissue
+    fascia
+synthetic substitute
+    abiocor total replacement heart
+    arthroplasty
+    amplatzer muscular vsd occluder
+    annuloplasty ring
+    bard composix kugel patch
+    bard ventralex hernia patchbryan cervical disc systemexpress mini glaucoma shunt
+    flexible composit mesh
+    gore dualmesh
+    holter valve ventricular shunt
+    mitraclip valve repair system
+    open pivot valve
+    polymethylethacrylate
+    inflatable prosthesis
+    pmma
+    prestige cervical disc
+    proceed ventral patch
+    prodisc-c
+    prodisc-l
+    prolene polypropylene hernia system
+    rebound hrd
+    syncardia total artificial heart
+    total artificial heart
+    ultrapro hernia system
+    ultrapro plug
+    ventrio hernia patch
+    zimmer nexgen lps mobile bearing knee
+    zimmer nexgen lps-flex mobile knee
+    polyethylene
+    ventralight
+    mesh
+    rickham reservoir
+    marlex plug
+    gynemesh
+    ptfe
+    thermafix
+    thermafix pericardial value
+    physio ii ring
+    polytetrafluoroethylene
+    hero
+    semirigid rod prosthesis
+    mitraclip
+    mitraclips
+    abiocor
+    prosthetic
+    prosthesis
+    annuloplasty ripening
+    bard composix
+    mesh patch
+    kugel patch
+    bard dulex mesh
+    bard ventralex hernia patch
+    bryan cervical disc system
+    ex-press mini glaucoma shunt
+    flexible composite mesh
+    nitinol framed polymer mesh
+    open pivot aortic valve-graft
+    open pivot avg
+    partially absorbable mesh
+    prolene phs
+    total artificial heart 
+    uhs
+    ultrapro 
+    ventrio
+    zimmer nexgen
+synthetic substitute, unicondylar medial
+  arthroplasty medial
+synthetic substitute, ceramic
+    ceramic
+    abiocor total replacement heart
+    amplatzer muscular vsd occluder
+    annuloplasty ring
+    bard composix kugel patch
+    bard ventralex hernia patchbryan cervical disc systemexpress mini glaucoma shunt
+    flexible composit mesh
+    gore dualmesh
+    holter valve ventricular shunt
+    mitraclip valve repair system
+    open pivot valve
+    polymethylethacrylate
+    pmma
+    prestige cervical disc
+    proceed ventral patch
+    prodisc-c
+    prodisc-l
+    prolene polypropylene hernia system
+    rebound hrd
+    syncardia total artificial heart
+    total artificial heart
+    ultrapro hernia system
+    ultrapro plug
+    ventrio hernia patch
+    zimmer nexgen lps mobile bearing knee
+    zimmer nexgen lps-flex mobile knee
+    polyethylene
+    mesh
+synthetic substitute, ceramic on polyethylene
+    ceramic on polyethylene
+synthetic substitute, intraocular telescope
+    intraocular telescope
+metal synthetic substitute
+    metal
+    stryker in design
+    accolade stem
+synthetic substitute, metal on polyethylene
+    metal on polyethylene
+synthetic substitute, polyethylene
+    polyethylene
+tagraxofusp erzs antineoplastic
+    tagraxofusp
+tdc
+    trunk dialysis catheter
+tissue expander
+third
+    3rd
+third-degree
+    third degree
+    3rd degree
+    anal sphincter
+times 2
+    x2
+    times 3 with left internal mammary artery
+    times 3~3 left internal mammary artery
+times 3
+    x3
+    times 4 with left internal mammary artery
+    times 4~3 left internal mammary artery
+    times 4~3 right internal mammary artery
+times 4
+    x4
+times 4 or more
+    x4
+    times 4
+    x5
+    times 5
+    x6
+    times 6
+tracheostomy device
+    tracheotomy
+    trach tube
+    trach
+    tracheotomy tube
+tpa
+  angiomax
+  bivalirudin
+  thrombin inhibitor
+  tissue plasminogen activator
+tympanostomy tube
+    tympanostomy tubes
+    touma tube
+    touma tubes
+    eustachian tube
+    eustachian tubes
+    ear tube
+    ear tubes
+unicondylar
+    unicompartmental
+vascular access device
+    tunneled catheter
+    tunneled cath
+    tunneled dialysis catheter
+    tunneled~4 dialysis catheter
+    dialysis catheter
+    mediport
+vascular access device, reservoir
+vasopressor
+    dobutamine
+    dopamine
+    epinephrine
+    ephedrine
+    isoproten
+    phenylephrine
+    vasopressin
+    levophoid
+    neo drip
+venetoclax antineoplastic
+    venetoclax
+zooplastic tissue
+    bioprosthetic
+    xenograft
+    bioprosthesis
+    bovine
+    contegra pulmonary valved conduit
+    corevalve transcatheter aortic valve
+    corevalve evolut~3 bioprosthesis
+    epic stented tissue valve
+    freestyle aortic root
+    freestyle stentless aortic root bioprosthesis
+    hancock bioprosthetic valved conduit
+    hancock bioprosthesis valve
+    melody transcatheter pulmonary valve
+    mitroflow aortic pericardial heart valve
+    mosaic bioprosthesis valve
+    porcine valve
+    sapien transcatheter aortic valve
+    sjm biocor stented valve system
+    stented tissue valved
+    trifecta valve
+    sapien
+    sapien ultra
+    sapien s3 valve 
+    sapien transcatheter aortic valve
+    edwards sapien ultra bovine
+    zooplastic
+    zoograft
+    xenograft
+    porcine
+    bovine
+    bovine pericardial valve
+    bovine pericardium graft
+    bioprosthesis
+    3f bioprosthesis valve
+    hancock
+    mosaic bioprosthesis
+    contegra
+    contegra pulmonary valved conduit
+    corevalve
+    epic stented tissue valve
+    freestyle aortic root bioprosthesis
+    hancock
+    hancock bioprosthesis valve
+    hancock bioprosthetic valved conduit
+    medtronic corevalve evolut
+    melody
+    melody transcatheter pulmonary valve
+    mitroflow
+    mitroflow aortic pericardial heart valve
+    mosaic bioprosthesis valve
+    sjm biocor
+    sjm biocor stented valve system
+    stented tissue valve
+    trifecta

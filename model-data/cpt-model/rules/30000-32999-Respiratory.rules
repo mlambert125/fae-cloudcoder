@@ -1,0 +1,342 @@
+30000	[drainage] {abscess and hematoma} `nasal`   
+30020	[drainage] {abscess and hematoma} `nasal septum`  
+30100	[biopsy] `intranasal`
+30110	[excision] `nasal` {polyp}  
+30115	[excision] `nasal` {polyp} {extensive}  
+30117	[fulguration/excision] `intranasal`
+30118	[fulguration/excision] `intranasal`  & [external approach]   
+30120	[excision/planing] `skin nose` {rhinophyma}  
+30124	[excision] {dermoid cyst} `nose` {simple, skin or subq}  
+30125	[excision] {dermoid cyst} `nose` {complex under bone/cartilage}  
+30130	[excision] !{submucous} `inferior turbinate`  
+30140	[excision] {submucous} `inferior turbinate`
+        [reduction] `inferior turbinate`
+        [turbinoplasty] {submucous} `inferior`
+30150	[rhinectomy] {partial}  
+30160	[rhinectomy] {total}  
+30200	[injection] `turbinate` & ![other surgical procedure] 
+30210	[displacement therapy]   
+30220	[insertion] {prosthesis} `nasal septal`   
+30300	[removal] {foreign body} `intranasal` {office type procedure}  
+30310	[removal] {foreign body} `intranasal` 
+30320	[removal] {foreign body} `intranasal` & [lateral rhinotomy]  
+30400	[rhinoplasty]
+30410	[rhinoplasty]
+30420	[rhinoplasty] & [septal repair]  
+30430	[rhinoplasty] {secondary} {minor revision}   
+30435	[rhinoplasty] {secondary} {intermediate revision}   
+30450	[rhinoplasty] {secondary} {major revision}   
+30460	[rhinoplasty] `nasal` {deformity} {congenital} `cleft lip/palate` & [columellar lengthening] {tip}  
+30462	[rhinoplasty] `nasal` {deformity} {congenital} `cleft lip/palate` & [columellar lengthening] {tip/septum/osteotomie}  
+30465	[repair] `nasal valve` !{collapse} & ![implant]
+30468   [repair] `nasal valve` {collapse} & [implant] 
+30520	[septoplasty] !`breast` 
+30540	[repair] {choanal atresia} `intranasal`  
+30545	[repair] {choanal atresia} `transpalatine`  
+30560	[lysis] `intranasal` 
+30580	[repair] {fistula} `oromaxillary`   
+30600	[repair] {fistula} `oronasal`  
+30620	[dermatoplasty] `septal/other intranasal`   
+30630	[repair] `nasal septal` {perforations}   
+30801	[ablation] `inferior turbinates`   
+30802	[ablation] {submucosal} `inferior turbinates` 
+30901	[epistaxis] & [control] & ![posterior] !{complex} !{subsequent}
+30903	[epistaxis] & [control] & ![posterior]
+30905	[epistaxis] & [control] & [posterior]   
+30906	[epistaxis] & [control] & [posterior] {subsequent}  
+30915	[ligation] `arteries` `ethmoidal`  
+30920	[ligation] `internal maxillary artery` {transantral}  
+30930	[fracture] `nasal inferior turbinate` {therapeutic}  
+30999	[submucous resection] `superior turbinate`   
+        [submucous resection] `middle turbinate`  
+31000	[lavage] `maxillary`   
+31002	[lavage] `sphenoid sinus`  
+31020	[sinusotomy] `maxillary` {intranasal} {antrotomy}  
+31030	[sinusotomy] `maxillary` {radical} & ![removal antrochoanal polyps]  
+31032	[sinusotomy] `maxillary` {radical} & [removal] {antrochoanal polyps}  
+31040	[pterygomaxillary fossa surgery]
+31050	[sinusotomy] `sphenoid` & ![biopsy] 
+31051	[sinusotomy] `sphenoid` & ![biopsy] & [mucosal stripping or removal polyp]
+31070	[sinusotomy] `frontal` & ![ethmoidectomy]
+31075	[sinusotomy] `frontal` {transorbital}
+31080	[sinusotomy] `frontal` {obliterative} & ![osteoplastic flap brow incision]  
+31081	[sinusotomy] `frontal` {obliterative} & ![osteoplastic flap brow incision]  
+31084	[sinusotomy] `frontal` {obliterative} & [osteoplastic flap brow incision]  
+31085	[sinusotomy] `frontal` {obliterative} & [osteoplastic flap coronal incision]  
+31086	[sinusotomy] `frontal` {osteoplastic flap brow incision}  
+31087	[sinusotomy] `frontal` {osteoplastic flap coronal incision}  
+31090*	[sinusotomy] `3 or more paranasal sinuses (frontal maxillary ethmoid sphenoid)  
+31200	[ethmoidectomy] `intranasal` {anterior}  
+31201	[ethmoidectomy] `intranasal` {total}  
+31205	[ethmoidectomy] `extranasal` {total}  
+31225	[maxillectomy] & ![exenteration] `orbital`  
+31230	[maxillectomy] & [exenteration] `orbital`  
+31231*  [endoscopy] `nasal`
+31233	[endoscopy] `sinus` & [sinusoscopy]  `maxillary` & [via inferior meatus puncture]  
+31235	[endoscopy] `sinus` & [sinusoscopy] `sphenoid`  
+31237	[endoscopy] `sinus` & [biopsy, polypectomy or debridement]  
+31238	[control epistaxis] & [endoscopy] `nasal`
+31239	[endoscopy] `sinus` & [dacryocystorhinostomy]  
+31240	[endoscopy] {nasal or sinus} & [resection] `concha bullosa`
+31253   [total ethmoidectomy] {frontal sinusotomy} & [endoscopy]
+31254	[ethmoidectomy] {partial} & [endoscopy]
+31257   [total ethmoidectomy] & [sphenoidotomy] & ![removal] {tissue} & [endoscopy]     
+31259   [total ethmoidectomy] & [sphenoidotomy] & [endoscopy] & [removal] {tissue}   
+31255	[total ethmoidectomy] {anterior} {posterior} & [endoscopy]
+31256	[antrostomy] `maxillary` & [endoscopy]
+        [sinus surgery] & [endoscopy]
+31267	[antrostomy] `maxillary` & [removal] {tissue} `maxillary`
+        [sinus surgery] & [endoscopy] & [removal] {tissue} `maxillary`
+31276	[endoscopy] {exploration} `frontal sinus`   
+31287	[endoscopy] & [sphenoidotomy] `nasal` 
+31288	[endoscopy] `sinus` & [sphenoidotomy] & [removal] {tissue} `sphenoid sinus`  
+31290	[endoscopy] `sinus` & [repair] `cerebrospinal` {fluid leak} `ethmoid region`  
+31291	[endoscopy] `sinus` & [repair] `cerebrospinal` {fluid leak} `sphenoid region`  
+31292	[endoscopy] `sinus` & [decompression] {medial/inferior} `orbital wall`   
+31293	[endoscopy] `sinus` & [decompression] {medial} {inferior} `orbital wall`   
+31294	[endoscopy] `sinus` & [decompression] `optic nerve`   
+31295	[balloon sinuplasty] `maxillary` & [endoscope]  
+31296	[endoscopy] `sinus` & [dilation] `frontal sinus ostium`   
+31297	[endoscopy] `sinus` & [dilation] `sphenoid sinus ostium`   
+31299*	unlisted proc accessory sinuses  
+31300	[laryngotomy] & [removal] {tumor/laryngocele}   
+31320	[laryngotomy] {diagnostic} 
+31360	[laryngectomy] {total} & ![radical neck dissection]  
+31365	[laryngectomy] {total} & [radical neck dissection]  
+31367	[laryngectomy] {subtotal} `supraglottic` & ![radical neck dissection]  
+31368	[laryngectomy] {subtotal} `supraglottic` & [radical neck dissection]  
+31370	[laryngectomy] {partial} {horizontal}  
+31375	[laryngectomy] {partial} {laterovertical}  
+31380	[laryngectomy] {partial} {anterovertical}  
+31382	[laryngectomy] {partial} {antero-latero-vertical}  
+31390	[pharyngolaryngectomy] & [radical neck dissection] & ![reconstructio]  
+31395	[pharyngolaryngectomy] & [radical neck dissection] & [reconstruction]  
+31400	[arytenoidectomy/arytenoidopexy] {extenal approach}  
+31420	[epiglottidectomy]  
+31500   [intubation] & [emergent]
+31502	[tracheotomy tube change] !{fistula tract}  
+31505	[laryngoscopy] {indirect} & ![biopsy]   
+31510	[laryngoscopy] {indirect} & [biopsy]  
+31511	[laryngoscopy] {indirect} & [fb]  
+31512	[laryngoscopy] {indirect} & [removal lesion]  
+31513	[laryngoscopy] {indirect} & [vocal cord injection]  
+31515	[laryngoscopy] {aspiration}
+31520	[laryngoscopy] & ![microscope or telescope] & ![insertion] & ![dilatation] & ![removal] & ![biopsy] "newborn"  
+31525	[laryngoscopy] & ![microscope or telescope] & ![insertion] & ![dilatation] & ![removal] & ![biopsy] !"newborn"  
+31526	[laryngoscopy] & [microscope or telescope] & ![biopsy] & ![obturator] & ![dilation]
+31527	[laryngoscopy] & [insertion] {obturator}  
+31528	[laryngoscopy] & [dilatation] !{subsequent}
+31529	[laryngoscopy] & [dilatation] {subsequent}  
+31530	[laryngoscopy] & [removal] {fb} & ![microscope or telescope] 
+31531	[laryngoscopy] & [removal] {fb} & [microscope or telescope] 
+31535	[laryngoscopy] & [biopsy] & ![excision/stripping]
+31536   [laryngoscopy] & [biopsy] & [microscope or telescope] & ![excision/stripping]
+31540	[laryngoscopy] & [excision] {tumor/stripping vocal cords/epiglottis}  
+31541	[laryngoscopy] & [microscope or telescope] & [excision tumor] {vocal cords/epiglottis} & ![biopsy]
+        [laryngoscopy] & [microscope or telescope] & [stripping] `vocal cord/epiglottis` & ![biopsy]
+31545	[laryngoscopy] & [removal] `vocal cord` {lesion} & [reconstrucion] {local flap} & [microscope or telescope] 
+31546	[laryngoscopy] & [removal] `vocal cord` {lesion} & [reconstrucion] {autograft}   
+31551	[laryngoplasty] & [graft] & ![stent] "younger than 12"
+31552	[laryngoplasty] & [graft] & ![stent] !"younger than 12" 
+31553	[laryngoplasty] & [graft] & [stent] "younger than 12"
+31554	[laryngoplasty] & [graft] & [stent] !"younger than 12"  
+31560	[laryngoscopy] & [arytenoidectomy]  
+31561	[laryngoscopy] & [arytenoidectomy] & [microscope or telescope] 
+31570	[laryngoscopy] & [injection] `vocal cord`   
+31571	[laryngoscopy] & [injection] `vocal cord` & [microscope or telescope] 
+        [microlaryngoscopy] & [injection] `vocal cord` 
+31572	[laryngoscopy] {flexible} & [ablation or destruction] {lesion} !{bilateral}  
+31573	[laryngoscopy] {flexible} & [therapeutic injection] !{bilateral}  
+31574	[laryngoscopy] {flexible} & [injection augmentation] !{bilateral}  
+        [microlaryngoscopy] & [injection augmentation] `vocal cord` 
+31575	[laryngoscopy] {flexible} & ![biopsy] & ![removal] & ![stroboscopy] & ![insertion] {stent}
+        [sleep endoscopy] & ![biopsy] & ![removal] & ![stroboscopy] & ![insertion] {stent}
+31576	[laryngoscopy] {flexible} & [biopsy]
+31577	[laryngoscopy] {flexible} & [removal] {fb}  
+31578	[laryngoscopy] {flexible} & [removal] {lesion}  
+31579	[laryngoscopy] & [stroboscopy]  
+31580	[laryngoplasty] & [insertion] {keel/stent}  
+31584	[laryngoplasty] & [fracture reduction] & [fixation] 
+31587	[laryngoplasty] `cricoid split` & ![graft]  
+31590	[reinnervation] `laryngeal` {neuromuscular pedicle}  
+31591	[laryngoplasty] {medialization} !{biliateral}
+31592	[resection] `cricotracheal`  
+31595	[section laryngeal nerve] {recurrent} 
+31599*	unlisted proc larynx  
+31600	[tracheostomy] !"younger than 2"
+31601	[tracheostomy] "younger than 2"
+31603	[tracheostomy] `transtracheal`  
+31605	[tracheostomy] `cricothyroid membrane`  
+31610	[fenestration procedure] & [skin flaps]  
+31611	[construction] `tracheoesophageal` {fistula} & [insertion] {speech prosthesis} `alaryngeal`  
+31612	[tracheal puncture] & [aspiration or injection] `transtracheal` {percutaneous}  
+31613	[tracheostoma revision] & ![flap rotation]  
+31614	[tracheostoma revision] & [flap rotation] {complex}  
+31615	[tracheobronchoscopy] {via tracheostomy}
+31623	[bronchoscopy] & [brushing]  
+31624	[bronchial alveolar lavage] & [bronchoscope] 
+31625	[bronchoscopy] & [biopsy] `bronchial or endobronchial` & ![ebus]
+31626	[bronchoscopy] & [placement] {markers}  
+31627	[bronchoscopy] & [navigational]  
+31628	[bronchoscopy] & [transbronchial lung biopsy] 
+31632*	[bronchoscopy] & [biopsy] `transbronchial lung` {each additional lobe}  
+31629	[bronchoscopy] & [needle aspiration biopsy] `transbronchial/trachea/mainstem/bronchus`  
+31630	[bronchoscopy] & [dilation/closed reduction] {fracture} `tracheal/bronchial`  
+31631	[bronchoscopy] & [placement] {stent} `tracheal`   
+31633*	[bronchoscopy] & [biopsy] {needle aspiration} `transbronchial` {each additional}  
+31634	[bronchoscopy] & [balloon occlusion]   
+31635	[bronchoscopy] & [removal] {fb}  
+31636	[bronchoscopy] & [stent] `bronchial`  
+31637*	[bronchoscopy] & [stent] `bronchial` {each additional}  
+31638	[bronchoscopy] & [revision] {stent} `tracheal/bronchial`   
+31640	[bronchoscopy] & [excision] {tumor}  
+31641	[bronchoscopy] & [destruction] & ![excision]  
+31643	[bronchoscopy] & [placement catheter] {radioelement}  
+31645	[bronchoscopy] & [aspiration] `tracheobronchial`
+31646	[bronchoscopy] & [aspiration] `tracheobronchial`
+31647	[bronchoscopy] & [insertion] `bronchial` {valve} {initial lobe}  
+31648	[bronchoscopy] & [removal] `bronchial` {valve}   
+31649	[bronchoscopy] & [removal] `bronchial` {valve} {each additional}  
+31651	[bronchoscopy] & [insertion] `bronchial` {valve} {each additional lobe}  
+31652	[bronchoscopy] & [ebus] !{peripheral lesions} !{multiple} 
+31653	[bronchoscopy] & [ebus] {multiple} !{peripheral lesions} 
+31654	[bronchoscopy] & [ebus] {peripheral lesions}  
+31656*	[bronchoscopy] &  contrast material for segmental bronchography  
+31660	[bronchoscopy] & [thermoplasty] `bronchial`   
+31661	[bronchoscopy] & [thermoplasty] `bronchial` {2/>}   
+31622   [bronchoscopy] & ![other bronchoscopy procedure]
+31715*	transtracheal injection bronchography  
+31717	[catheterization] & [biopsy] `bronchial` {brush}  
+31720	[aspiration] {catheter} `nasotracheal`  
+31725	[aspiration] {catheter} `tracheobronchial` {fiberscope}
+31730	[introduction] {needle wire dilator/stent/tube} {o2 therapy}  
+31750	[tracheoplasty] `cervical`  
+31755	[tracheoplasty] & [fistulization] `tracheopharyngeal`   
+31760	[tracheoplasty] `intrathoracic`  
+31766	[reconstruction] `carinal`  
+31770	[bronchoplasty] & [repair] {graft}   
+31775	[bronchoplasty] & [repair] {graft} & [excision] {stenosis and anastomosis}  
+31780	[excision] `tracheal` {stenosis and anastomosis} `cervical`  
+31781	[excision] `tracheal` {stenosis and anastomosis} `cervicothoracic`  
+31785	[excision] `tracheal` {tumor/carcinoma} `cervical`  
+31786	[excision] `tracheal` {tumor/carcinoma} `thoracic`  
+31800	[suture] `tracheal` `cervical`  
+31805	[suture] `tracheal` `intrathoracic`  
+31820	[closure] {tracheostomy/fistula} & ![plastic repair]  
+31825	[closure] {tracheostomy/fistula} & [plastic repair]  
+31830	[revision] {tracheostomy scar}  
+31899*	unlisted proc trachea bronchi  
+32000*	thoracentesis puncture pleural cavity aspiration/subsequent  
+32002*	thoracentesis & insertion tube & wo water seal  
+32005*	chemical pleurodesis  
+32019*	indwelling tunneled pleural catheter insert & cuff  
+32020*	tube thoracostomy & wo water seal  
+32035	[thoracostomy] & [resection] `rib` {empyema}  
+32036	[thoracostomy] & [drainage] {open flap} {empyema}  
+32095*	thoracotomy limited [biopsy] lung/pleura  
+32096	[thoractomy] & [biopsy] `lung` {infiltrate}  
+32097	[thoractomy] & [biopsy] `lung` {nodule/mass}  
+32098	[thoracotomy] & [biopsy] `pleura`  
+32100	[thoracotomy] {exploration}  
+32110	[thoracotomy] & [control and/repair] {hemorrhage} `lung`  
+32120	[thoracotomy] {postoperative complications}  
+32124	[thoracotomy] & [pneumonolysis] `intrapleural` {open}  
+32140	[thoracotomy] & [removal] {cyst}  
+32141	[thoracotomy] & [resection/plication] `bullae`  
+32150	[thoracotomy] & [removal] `intrapleural` {fb/fibrin deposit}  
+32151	[thoracotomy] & [removal] `intrapulmonary` {fb}  
+32160	[thoracotomy] & [cardiac massage]  
+32200	[pneumonostomy] & [drainage] {abscess/cyst} {open}  
+32201*	pneumonostomy & percutaneous drainage abscess/cyst  
+32215	[scarification] `pleural` {repeat pneumothorax}  
+32220	[decortication] `pulmonary` {total}  
+32225	[decortication] `pulmonary` {partial}  
+32310	[pleurectomy] {parietal}  
+32320	[decortication] & [pleurectomy]  
+32400	[biopsy] `pleura` {needle} {percutaneous}   
+32402*	[biopsy] pleura open  
+32408   [biopsy] {lung/mediastinum} & [needle]  
+32420*	pneumocentesis puncture lung aspiration  
+32421*	thoracentesis puncture pleural cavity for aspiration or{subsequent}   
+32422*	thoracentesis with insertion tube includes water seal when performed  
+32440	[pneumonectomy]  
+32442	[pneumonectomy] & [resection] `trachea` & [anastomosis] `broncho-tracheal`  
+32445	[pneumonectomy] `extrapleural`  
+32480	[removal lung] & ![pneumonectomy] {single lobe}  
+32482	[removal lung] & ![pneumonectomy] {2 lobes}  
+32484	[removal lung] & [segmentectomy]  
+32486	[removal lung] & [resection] `bronchus` & [anastomosis] `broncho-bronchial`  
+32488	[pneumonectomy] {completion} {previous removal}  
+32491	[resection-pication] {emphysematous} `lung`  
+32500	[removal lung] !{total} & [pneumonectomy] {wedge}  
+32501	[bronchoplasty] `bronchus` {during lobectomy/segmentectomy}  
+32503	[resection] `apical lung` {tumor} & ![reconstruction] `chest wall`  
+32504	[resection] `apical lung` {tumor} & [reconstruction] `chest wall`  
+32505	[thoracotomy] & [resection] {wedge} {mass or nodule} {initial}   
+32506	[thoracotomy] & [resection] {wedge} {mass or nodule} {each additional}  
+32507	[thoracotomy] & [resection] {wedge} {diagnostic} `wedge` & [resection] `lung`  
+32540	[empyemectomy]   
+32550	[insertion] {catheter} `pleural` & [indwelling] 
+32551	[tube thoracostomy] !{percutaneous} 
+32552	[removal] {catheter} `pleural` & [indwelling]
+32553	[placement] {interstitial device} {radiation therapy guidance} {percutaneous} `intra-thoracic`   
+32554	[thoracentesis] & ![imaging guidance]  
+32555	[thoracentesis] & [imaging guidance]  
+32556	[chest tube placement] !{imaging guidance} & [drainage]
+32557	[chest tube placement] {imaging guidance} & [drainage]
+32560	[instillation] & [pleurodesis] {chest tube/catheter}   
+32561	[instillation] & [fibrinolysis] {chest tube/catheter} {initial}  
+32562	[instillation] & [fibrinolysis] {chest tube/catheter} {subsequent}  
+32601	[thoracoscopy] !{biopsy}
+32602*	[thoracoscopy] `lungs` `pleural space` & [biopsy] 
+32603*	[thoracoscopy] `pericardial sac` !& [biopsy] 
+32604	[thoracoscopy] `pericardial sac` & [biopsy]  
+32605*	[thoracoscopy] `mediastinal space` !& [biopsy] 
+32606	[thoracoscopy] `mediastinal space` & [biopsy]  
+32607	[thoracoscopy] & [biopsy] `lung` {infiltrate} !{bilateral}  
+32608	[thoracoscopy] & [biopsy] `lung` {nodule or mass} !{bilateral}   
+32609	[thoracoscopy] & [biopsy] `pleura`  
+32650	[thoracoscopy] & [pleurodesis]   
+32651	[thoracoscopy] & [decortication] {partial} `pulmonary`  
+32652	[thoracoscopy] & [decortication] {total} `pulmonary`  
+32653	[thoracoscopy] & [removal] `intrapleural` {fb/fibrin deposit}  
+32654	[thoracoscopy] & [control hemorrhage]   
+32655	[thoracoscopy] & [resection-plicaation] {bullae}   
+32656	[thoracoscopy] & [pleurectomy] {partial}  
+32657*	[thoracoscopy] & [wedge resection lung]   
+32658	[thoracoscopy] & [removal] {clot/fb} `pericardial sac`   
+32659	[thoracoscopy] & [creation of pericardial window/partial resection] `pericardial sac` {drainage}   
+32660	[thoracoscopy] & [pericardiectomy] {total} {vats}  
+32661	[thoracoscopy] & [excision] `pericardial` {cyst tumor/mass} {vats}  
+32662	[thoracoscopy] & [excision mediastinal] {cyst tumor/mass} {vats}  
+32663	[thoracoscopy] & [lobectomy]  
+32664	[thoracoscopy] & [thoracic sympathectomy]  
+32665	[thoracoscopy] & [esophagomyotomy]  
+32666	[thoracoscopy] & [thera wedge resection]  
+32667	[thoracoscopy] & [thera wedge resection] addl ipsilatrl  
+32668	[thoracoscopy] & [wedge resection anato lung resection]  
+32669	[thoracoscopy] & [segmentectomy]  
+32670	[thoracoscopy] & [bilobectomy]  
+32671	[thoracoscopy] & [pneumonectomy]  
+32672	[thoracoscopy] & [resection-plica emphysema lung]  
+32673	[thoracoscopy] & [resection thymus]  
+32674	[thoracoscopy] & [lymphadenectomy] {mediastinl and regionl}  
+32701	[stereotactic body radiation therapy]   
+32800	[repair] `lung` {hernia} {through chest wall}  
+32810	[closure] `chest wall`   
+32815	[closure] `bronchial` `major fistula` {open}  
+32820	[reconstruction] {major} `chest wall` {post traumatic}  
+32850	[donor pneumonectomy] {cadaver donor}  
+32851	[transplant] `lung` {single} & ![cardiopulmonary bypass]  
+32852	[transplant] `lung` {single} & [cardiopulmonary bypass]  
+32853	[transplant] `lung` {double} & ![cardiopulmonary bypass]  
+32855	[backbench prep] {cadaver} `lung` {allograft} !{bilateral}  
+32856	[backbench prep] {cadaver} `lung` {allograft} {bilateral}  
+32900	[resection] `ribs` {extrapleural}   
+32905	[thoracoplasty] {schede type/extrapleural}   
+32906	[thoracoplasty] {schede type/extrapleural} & [closure] `bronchopleural` {fistula}  
+32940	[pneumonolysis]   
+32960	[pneumothorax] {therapeutic}  
+32997	[lavage] `lung` {total}  
+32998	[ablation] `pulmonary` {tumor} {percutaneous} !{bilateral}  
+32999*	unlisted proc lungs & pleura  

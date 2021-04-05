@@ -1,0 +1,1105 @@
+A000    [biovar cholerae]
+A001    [biovar eltor]
+A009    [cholera]
+A0100   [typhoid fever]
+A0101   [typhoid meningitis]
+A0102   [typhoid fever] `heart`
+A0103   [typhoid pneumonia]
+A0104   [typhoid arthritis]
+A0105   [typhoid osteomyelitis]
+A0109   [typhoid fever] & [complications]
+A011    [paratyphoid fever a] 
+A012    [paratyphoid fever b]
+A013    [paratyphoid fever c]
+A014    [paratyphoid fever] 
+A020    [salmonella enteritis]
+A021    [salmonella sepsis]
+A0220   [salmonella infection] {localized}
+A0221   [salmonella meningitis]
+A0222   [salmonella pneumonia]
+A0223   [salmonella arthritis]
+A0224   [salmonella osteomyelitis]
+A0225   [salmonella pyelonephritis]
+A0229   [salmonella] & [localized infection]
+A028*   other specified salmonella infections
+A029    [salmonella infection]
+A030    [shigellosis] & [shigella dysenteriae]
+A031    [shigellosis] & [shigella flexneri]
+A032    [shigellosis] & [shigella boydii]
+A033    [shigellosis] & [shigella sonnei]
+A038*   other shigellosis
+A039    [shigellosis]
+A040    [enteropathogenic escherichia coli infection]
+A041    [enterotoxigenic escherichia coli infection]
+A042    [enteroinvasive escherichia coli infection]
+A043    [enterohemorrhagic escherichia coli infection]
+A044*   other intestinal escherichia coli infections
+A045    [campylobacter enteritis]
+A046    [enteritis] & [yersinia enterocolitica]
+A0471   [enterocolitis] & [clostridium difficile] {recurrent}
+A0472   [enterocolitis] & [clostridium difficile] !{recurrent}
+A048*   other specified bacterial intestinal infections
+A049    [infection] {bacterial} `intestine`
+A050    [staphylococcal intoxication] {foodborne}
+A051    [botulism food poisoning]
+A052    [clostridium perfringens intoxication] {foodborne}
+A053    [vibrio parahaemolyticus intoxication] {foodborne}
+A054    [bacillus cereus intoxication] {foodborne}
+A055    [vibrio vulnificus intoxication] {foodborne}
+A058*   other specified foodborne bacterial intoxication
+A059    [bacterial intoxication] {foodborne}
+A060    [amebic dysentery] {acute}
+A061    [intestinal amebiasis] {chronic}
+A062    [amebic nondysenteric colitis]
+A063    [ameboma] `intestine`
+A064    [amebic abscess] `liver`
+A065    [amebic abscess] `lung`
+A066    [amebic abscess] `brain`
+A067    [amebiasis] {cutaneous}
+A0681   [amebic cystitis]
+A0682   [infection] {amebic} `genitourinary`
+A0689   [infection] {amebic}
+A069    [amebiasis]
+A070    [balantidiasis]
+A071    [giardiasis]
+        [lambliasis]
+A072    [cryptosporidiosis]
+A073    [isosporiasis]
+A074    [cyclosporiasis]
+A078*   other specified protozoal intestinal diseases
+A079    [protozoal disease] `intestine`
+A080    [rotaviral enteritis]
+A0811   [gastroenteropathy] {acute} & [norwalk agent]
+A0819   [gastroenteropathy] {acute} & [small round virus]
+A082    [adenoviral enteritis]
+A0831   [calicivirus enteritis]
+A0832   [astrovirus enteritis]
+A0839   [enteritis] {viral}
+A084    [infection] {viral} `intestine`
+A088*   other specified intestinal infections
+A09     [infectious gastroenteritis and infectious colitis] !{cryptosporidiosis}
+A150    [tuberculosis] `lung`
+A154    [tuberculosis] `intrathoracic lymph node`
+A155    [tuberculosis] `larynx`
+        [tuberculosis] `trachea`
+        [tuberculosis] `bronchus`
+A156    [tuberculous pleurisy]
+A157    [tuberculosis] {primary} `respiratory`
+A158    [other respiratory tuberculosis]
+A159    [tuberculosis] `respiratory`
+A170    [tuberculous meningitis]
+A171    [tuberculoma] `meninges`
+A1781   [tuberculoma] `brain`
+        [tuberculoma] `spinal cord`
+A1782   [tuberculous meningoencephalitis]
+A1783   [tuberculous neuritis]
+A1789   [tuberculosis polyneuropathy]
+A179    [tuberculosis] `nervous system`
+A1801   [tuberculosis] `spine`
+A1802   [tuberculous arthritis] `joint`
+A1803   [tuberculosis] `bone`
+A1809   [tuberculosis] `musculoskeletal`
+A1810   [tuberculosis] `genitourinary system`
+A1811   [tuberculosis] `kidney`
+        [tuberculosis] `ureter`
+A1812   [tuberculosis] `bladder`
+A1813   [tuberculosis] `urinary organ`
+A1814   [tuberculosis] `prostate` 
+A1815   [tuberculosis] `genital organ` "male"
+A1816   [tuberculosis] `cervix`
+A1817   [tuberculous female pelvic inflammatory disease]
+A1818*  [tuberculosis] other `female genital organ`
+A182    [tuberculous peripheral lymphadenopathy]
+A1831   [tuberculous peritonitis]
+A1832   [tuberculous enteritis]
+A1839   [tuberculosis] `retroperitoneal`
+A184    [tuberculosis] `skin and subcutaneous tissue`
+        [tuberculosis] `skin and subcutaneous tissue`
+A1850   [tuberculosis] `eye`
+A1851   [tuberculous episcleritis]
+A1852   [tuberculous keratitis]
+A1853   [tuberculous chorioretinitis]
+A1854   [tuberculous iridocyclitis]
+A1859   [tuberculosis] `eye`
+A186    [tuberculosis] `inner ear`
+        [tuberculosis] `middle ear`
+A187    [tuberculosis] `adrenal gland`
+A1881   [tuberculosis] `thyroid gland`
+A1882   [tuberculosis] `endocrine gland`
+A1883   [tuberculosis] `digestive tract organ`
+A1884   [tuberculosis] `heart`
+A1885   [tuberculosis] `spleen`
+A1889   [tuberculosis] `muscle`
+        [tuberculosis] `cerebral arteritis`
+A190    [tuberculosis] {single site} {acute} `miliary`
+A191    [tuberculosis] {multiple sites} {acute} `miliary`
+A192    [tuberculosis] {acute} `miliary`
+A198*   other miliary tuberculosis
+A199    [miliary tuberculosis]
+A200*   [bubonic plague]
+A201*   [cellulocutaneous plague]
+A202*   [pneumonic plague]
+A203*   [plague meningitis]
+A207*   [septicemic plague]
+A208*   [other forms of plague]
+A209*   [plague]
+A210    [tularemia] `ulceroglandular`
+A211    [tularemia] `oculoglandular`
+A212    [tularemia] `pulmonary`
+A213    [tularemia] `gastrointestinal`
+A217    [tularemia] {generalized}
+A218*   other forms of tularemia
+A219    [tularemia]
+A220    [cutaneous anthrax]
+A221    [pulmonary anthrax]
+A222    [anthrax] `gastrointestinal`
+A227    [anthrax sepsis]
+A228*   other forms of anthrax
+A229    [anthrax]
+A230    [brucellosis] & [brucella melitensis]
+A231    [brucellosis] & [brucella abortus]
+A232    [brucellosis] & [brucella suis]
+A233    [brucellosis] & [brucella canis]
+A238*   other brucellosis
+A239    [brucellosis]
+A240    [glanders]
+A241    [melioidosis] {acute} {fulminating}
+A242    [melioidosis] {subacute} {chronic}
+A243    [melioidosis]
+A249    [melioidosis]
+A250    [spirillosis]
+A251    [streptobacillosis]
+A259    [rat bite fever]
+A260    [erysipeloid] `cutaneous`
+A267    [erysipelothrix sepsis]
+A268*   other forms of erysipeloid
+A269    [erysipeloid]
+A270    [leptospirosis icterohemorrhagica]
+A2781   [aseptic meningitis] & [leptospirosis]
+A2789   [leptospirosis] & ![aseptic meningitis]
+A279    [leptospirosis] & ![aseptic meningitis]
+A280    [pasteurellosis]
+A281    [cat scratch disease]
+A282    [yersiniosis] {extraintestinal}
+A288*   other specified zoonotic bacterial diseases
+A289    [zoonotic bacterial disease]
+A300    [indeterminate leprosy]
+A301    [tuberculoid leprosy]
+A302    [borderline tuberculoid leprosy]
+A303    [borderline leprosy]
+A304    [borderline lepromatous leprosy]
+A305    [lepromatous leprosy]
+A308*   other forms of leprosy
+A309    [leprosy]
+A310    [mycobacterial infection] `pulmonary`
+A311    [mycobacterial infection] `cutaneous`
+A312    [disseminated mycobacterium avium intracellulare complex]
+        [dmac]
+A318    [other mycobacterial infections]
+A319    [mycobacterial infection]
+A320    [listeriosis] `cutaneous`
+A3211   [listerial meningitis]
+A3212   [listerial meningoencephalitis]
+A327    [listerial sepsis]
+A3281   [listeriosis] `oculoglandular`
+A3282   [listerial endocarditis]
+A3289*   other forms of [listeriosis]
+A329    [listeriosis]
+A33     [tetanus neonatorum]
+A34     [obstetrical tetanus]
+A35     [tetanus] & ![immunization]
+A360    [diphtheria] `pharyngeal`
+A361    [diphtheria] `nasopharyngeal`
+A362    [diphtheria] `laryngeal`
+A363    [diphtheria] `cutaneous`
+A3681   [diphtheritic cardiomyopathy]
+A3682   [diphtheritic radiculomyelitis]
+A3683   [diphtheritic polyneuritis]
+A3684   [diphtheritic tubulo interstitial nephropathy]
+A3685   [diphtheritic cystitis]
+A3686   [diphtheritic conjunctivitis]
+A3689   [diphtheritic complications]
+A369    [diphtheria]
+A3700   [whooping cough] & [bordetella pertussis] & ![pneumonia]
+A3701   [whooping cough] & [bordetella pertussis] & [pneumonia]
+A3710   [whooping cough] & [bordetella parapertussis] & ![pneumonia]
+A3711   [whooping cough] & [bordetella parapertussis] & [pneumonia]
+A3780   [whooping cough] & [other bordetella species] & ![pneumonia]
+A3781   [whooping cough] & [other bordetella species] & [pneumonia]
+A3790   [whooping cough] & ![pneumonia]
+A3791   [whooping cough] & [pneumonia]
+A380    [scarlet fever] & [otitis media]
+A381    [scarlet fever] & [myocarditis]
+A388*   [scarlet fever] & [complication]
+A389    [scarlet fever]
+A390    [meningococcal meningitis]
+A391    [waterhouse friderichsen syndrome]
+A392    [meningococcemia] {acute}
+A393    [meningococcemia] {chronic}
+A394    [meningococcemia]
+A3950   [meningococcal carditis]
+A3951   [meningococcal endocarditis]
+A3952   [meningococcal myocarditis]
+A3953   [meningococcal pericarditis]
+A3981   [meningococcal encephalitis]
+A3982   [meningococcal retrobulbar neuritis]
+A3983   [meningococcal arthritis]
+A3984   [postmeningococcal arthritis]
+A3989   [meningococcal infection]
+A399    [meningococcal infection]
+A400    [sepsis] & [streptococcus group a]
+A401    [sepsis] & [streptococcus group b]
+A403    [sepsis] & [streptococcus pneumoniae]
+A408    [other streptococcal sepsis]
+A409    [streptococcal sepsis]
+A4101   [sepsis] & [methicillin susceptible staphylococcus aureus]
+A4102   [sepsis] & [methicillin resistant staphylococcus aureus] !{status post treatment}
+A411    [sepsis] & [coagulase negative staphylococcus]
+A412    [sepsis] & [staphylococcus] !{heamolyticus}
+A413    [sepsis] & [hemophilus influenzae]
+A414    [sepsis] & [anaerobes]
+A4150   [gram-negative sepsis]
+A4151   [sepsis] & [escherichia coli]
+A4152   [sepsis] & [pseudomonas]
+A4153   [sepsis] & [serratia]
+A4159   [sepsis] {gram negative}
+A4181   [sepsis] & [enterococcus]
+A4189   [other specified sepsis]
+A419    [sepsis] & ![sepsis specified] !{screen}
+A4199   [urosepsis]
+urosepsis* Do not remove contact heather 
+A420    [actinomycosis] `pulmonary`
+A421    [actinomycosis] `abdominal`
+A422    [actinomycosis] `cervicofacial`
+A427    [actinomycotic sepsis] 
+A4281   [actinomycotic meningitis]
+A4282   [actinomycotic encephalitis]
+A4289   [other forms of actinomycosis]
+A429    [actinomycosis]
+A430    [nocardiosis] `pulmonary`
+A431    [nocardiosis] `cutaneous`
+A438*   other forms of nocardiosis
+A439    [nocardiosis]
+A440    [bartonellosis] `systemic`
+A441    [bartonellosis] `cutaneous`
+        [bartonellosis] `mucocutaneous`
+A448*   other forms of bartonellosis
+A449    [bartonellosis]
+A46     [erysipelas]
+A480    [gas gangrene]
+A481    [legionnaires  disease]
+A482    [nonpneumonic legionnaires disease]
+A483    [toxic shock syndrome]
+A484    [brazilian purpuric fever]
+A485    [other specified botulism]
+A4851   [infant botulism] "pediatric"
+A4852   [wound botulism]
+A488*   other specified bacterial diseases
+A4901   [methicillin susceptible staphylococcus aureus infection] {unspecified site} !{pending}
+A4902   [methicillin resistant staphylococcus aureus infection] !{history} !{screen}
+A491*   [streptococcal infection]
+A492    [hemophilus influenzae infection]
+A493    [mycoplasma infection]
+A498*   other bacterial infections of unspecified site
+A499    [bacterial infection] !{pharmacy} !{skin} !{localized} !{pneumonia}
+A5001   [syphilitic oculopathy] {early}
+A5002   [syphilitic osteochondropathy] {early}
+A5003   [syphilitic pharyngitis] {early}
+A5004   [syphilitic pneumonia] {early}
+A5005   [syphilitic rhinitis] {early}
+A5006   [syphilis] {early} `cutaneous`
+A5007   [syphilis] {early} `mucocutaneous`
+A5008*  `viscera` [syphilis] {early}
+A5009   [syphilis] {symptomatic} {early}
+A501    [syphilis] {latent} {early}
+A502    [syphilis] {early}
+A5030   [syphilitic oculopathy] {late congenital}
+A5031   [syphilitic interstitial keratitis] {late congenital}
+A5032   [syphilitic chorioretinitis] {lat congenital}
+A5039   [syphilitic oculopathy] {late congenital}
+A5040   [neurosyphilis] {late congenital}
+A5041   [syphilitic meningitis] {late congenital}
+A5042   [syphilitic encephalitis] {late congenital}
+A5043   [syphilitic polyneuropathy] {late congenital}
+A5044   [syphilitic optic nerve atrophy] {late congenital}
+A5045   [general paresis] {juvenile}
+A5049   [neurosyphilis] {late congenital}
+A5051   [cluttons joints]
+A5052   [hutchinsons teeth]
+A5053   [hutchinsons triad]
+A5054   [syphilis] {late congenital} `cardiovascular`
+A5055   [syphilitic arthropathy] {late congenital}
+A5056   [syphilitic osteochondropathy] {late congenital}
+A5057   [syphilitic saddle nose]
+A5059   [syphilis] {symptomatic} {late congenital}
+A506    [syphilis] {latent} {late congenital}
+A507    [syphilis] {late congenital}
+A509    [syphilis] {congenital}
+A510    [syphilis] {primary} `genital`
+A511    [syphilis] {primary} `anus`
+A512    [syphilis] {primary}
+A5131   [condyloma latum]
+A5132   [syphilitic alopecia]
+A5139   [syphilis] {secondary} `skin`
+A5141   [syphilitic meningitis] {secondary}
+A5142   [syphilitic female pelvic disease] {secondary}
+A5143   [syphilitic oculopathy] {secondary}
+A5144   [syphilitic nephritis] {secondary}
+A5145   [syphilitic hepatitis] {secondary}
+A5146   [syphilitic osteopathy] {secondary}
+A5149   [syphilitic condition] {secondary}
+A515    [syphilis] {latent} {early}
+A519    [syphilis] {early}
+A5200   [syphilis] `cardiovascular`
+A5201   [syphilitic aneurysm] `aorta`
+A5202   [syphilitic aortitis]
+A5203   [syphilitic endocarditis]
+A5204   [syphilitic cerebral arteritis]
+A5205   [syphilis] `cerebrovascular`
+A5206   [syphilitic] `heart`
+A5209   [syphilis] `cardiovascular`
+A5210   [neurosyphilis] {symptomatic}
+A5211   [tabes dorsalis]
+A5212   [syphilis] `cerebrospinal`
+A5213   [syphilitic meningitis] {late}
+A5214   [syphilitic encephalitis] {late}
+A5215   [syphilitic neuropathy] {late}
+A5216   [charcots arthropathy]
+A5217   [general paresis]
+A5219   [neurosyphilis] {symptomatic}
+A522    [neurosyphilis] {asymptomatic}
+A523    [neurosyphilis]
+A5271   [syphilitic oculopathy] {late}
+A5272   [syphilis] `lung`
+        [syphilis] `bronchus`
+A5273   [syphilis] {symptomatic} {late} `respiratory organ`
+A5274   [syphilis] `liver`
+        [syphilis] `viscera`
+A5275   [syphilis] `kidney`
+        [syphilis] `ureter`
+A5276   [syphilis] {symptomatic} {late} `genitourinary`
+A5277   [syphilis] `bone`
+        [syphilis] `joint` 
+A5278*  [syphilis] other `musculoskeletal tissue` 
+A5279   [syphilis] {symptomatic} {late}
+A528*   {late} [syphilis] {latent}
+A529    [syphilis] {late}
+A530    [syphilis] {latent} & ![early] & ![late]
+A539    [syphilis] !{late}
+A5400   [gonococcal infection] `lower genitourinary tract`
+A5401   [gonococcal cystitis]
+        [gonococcal urethritis]
+A5402   [gonococcal vulvovaginitis]
+A5403   [gonococcal cervicitis]
+A5409   [gonococcal infection] `lower genitourinary tract`
+A541    [gonococcal infection] `lower genitourinary tract` & [periurethral abscess] & [accessory gland abscess]
+A5421   [gonococcal infection] {kidney}
+        [gonococcal infection] {ureter}
+A5422   [gonococcal prostatitis]
+A5423   [gonococcal infection] "male" `genital organ`
+A5424   [gonococcal female pelvic inflammatory disease]
+A5429   [gonococcal infection] `genitourinary`
+A5430   [gonococcal infection] `eye`
+A5431   [gonococcal conjunctivitis]
+A5432   [gonococcal iridocyclitis]
+A5433   [gonococcal keratitis]
+A5439   [gonococcal infection] `eye`
+A5440   [gonococcal infection] `musculoskeletal system`
+A5441   [gonococcal spondylopathy]
+A5442   [gonococcal arthritis]
+A5443   [gonococcal osteomyelitis]
+A5449   [gonococcal infection] `musculoskeletal tissue`
+A545    [gonococcal pharyngitis]
+A546    [gonococcal infection] `anus`
+        [gonococcal infection] `rectum`
+A5481   [gonococcal meningitis]
+A5482   [gonococcal abscess] `brain`
+A5483   [gonococcal infection] `heart`
+A5484   [gonococcal pneumonia]
+A5485   [gonococcal peritonitis]
+A5486   [gonococcal sepsis]
+A5489   [gonococcal infection]
+A549    [gonococcal infection]
+A55     [chlamydial lymphogranuloma]
+A5600   [chlamydial infection] `lower genitourinary tract`
+A5601   [chlamydial cystitis]
+        [chalmydial urethritis]
+A5602   [chlamydial vulvovaginitis]
+A5609   [chlamydia] & [cervicitis] `lower genitourinary tract`
+A5611   [chlamydial female pelvic inflammatory disease]
+A5619   [other chlamydial infection] `genitourinary`
+A562    [chlamydial infection] `genitourinary tract`
+A563    [chlamydial infection] `anus`
+        [chlamydial infection] `rectum`
+A564    [chlamydial infection] `pharynx`
+A568*   {sexually transmitted} [chlamydial infection] other sites
+A57     [chancroid]
+A58*    [granuloma inguinale]
+A5900   [trichomoniasis urogenital]
+A5901   [trichomonal vulvovaginitis] 
+A5902   [trichomonal prostatitis]
+A5903   [trichomonal cystitis]
+        [trichomonal urethritis]
+A5909   [trichomoniasis] `urogenital`
+A598*   trichomoniasis of other sites
+A599    [trichomoniasis]
+A6000   [herpesviral infection] !{history} `urogenital system`
+A6001   [herpesviral infection] !{history} `penis`
+A6002   [herpesviral infection] !{history} "male" `genital organ`
+A6003   [herpesviral cervicitis] !{history}
+A6004   [herpesviral vulvovaginitis] !{history}
+A6009   [herpesviral infection] !{history} `urogenital tract`
+A601    [herpesviral infection] !{history} `perianal skin`
+        [herpesviral infection] !{history} `rectum`
+A609    [herpesviral infection] !{history} `anogenital`
+A630    [venereal warts] `anogenital`
+A638*   other specified predominantly sexually transmitted diseases
+A64     [sexually transmitted disease] !{uf} !{screening} !{exposure}
+A65     [nonvenereal syphilis]
+A660    [initial lesions] & [yaws]
+A661    [multiple papillomata]
+        [wet crab yaws]
+A662    [lesion] {early} `skin` & [yaws]
+A663    [hyperkeratosis] & [yaws]
+A664    [gummata] & [yaws]
+        [ulcers] & [yaws]
+A665    [gangosa]
+A666    [lesion] `bone` & [yaws]
+        [lesion] `joint` & [yaws]
+A667    [yaws]
+A668    [latent yaws]
+A669    [yaws]
+A670    [pinta] & [lesion] {primary}
+A671    [pinta] & [lesion] {intermediate}
+A672    [pinta] & [lesion] {late}
+A673    [pinta] & [lesion]
+A679    [pinta]
+A680    [relapsing fever] {louse borne}
+A681    [relapsing fever] {tick borne}
+A689    [relapsing fever]
+A690    [ulcerative stomatitis] {necrotizing}
+A691    [vincents infection]
+A6920   [lyme disease] !{history}
+A6921   [lyme disease] !{history} & [meningitis]
+A6922   [lyme disease] !{history} & [neurologic disorder]
+A6923   [lyme disease] !{history} & [arthritis]
+A6929*  other conditions associated with lyme disease
+A698*   other specified spirochetal infections
+A699    [spirochetal infection]
+A70     [chlamydia psittaci infection]
+A710    [trachoma] {initial stage}
+A711    [trachoma] {active stage}
+A719    [trachoma]
+A740    [chlamydial conjunctivitis]
+A7481   [chlamydial peritonitis]
+A7489   [chlamydial disease] !{history}
+A749    [chlamydial infection] !{history}
+A750    [typhus fever] {epidemic} {louse borne} & [rickettsia prowazekii]
+A751    [typhus] {recrudescent}
+A752    [typhus fever] & [rickettsia typhi]
+A753    [typhus fever] & [rickettsia tsutsugamushi]
+A759    [typhus fever]
+A770    [spotted fever] & [rickettsia rickettsii]
+A771    [spotted fever] & [rickettsia conorii]
+A772    [spotted fever] & [rickettsia siberica]
+A773    [spotted fever] & [rickettsia australis]
+A7740   [ehrlichiosis]
+A7741   [ehrlichiosis chafeensis]
+A7749*  [ehrlichiosis]
+A778*   other spotted fevers
+A779    [spotted fever]
+A78*    [q fever]
+A790    [trench fever]
+A791    [rickettsialpox] & [rickettsia akari]
+A7981   [rickettsiosis] & [ehrlichia sennetsu]
+A7989*  other specified rickettsioses
+A799    [rickettsiosis]
+A800    [paralytic poliomyelitis] {acute} {vaccine associated}
+A801    [paralytic poliomyelitis] {acute} {wild virus} {imported}
+A802    [paralytic poliomyelitis] {acute} {wild virus} {indigenous}
+A8030   [paralytic poliomyelitis] {acute}
+A8039*   other {acute} {paralytic} [poliomyelitis]
+A804    [poliomyelitis] {acute} {nonparalytic}
+A809    [poliomyelitis] {acute}
+A8100   [creutzfeldt jakob disease]
+A8101   [creutzfeldt jakob disease] {variant}
+A8109*  other creutzfeldt jakob disease
+A811    [sclerosing panencephalitis] {subacute}
+A812    [leukoencephalopathy] {progressive} {multifocal}
+A8181   [kuru]
+A8182   [gerstmann straussler scheinker syndrome]
+A8183   [insomnia] {fatal} {familial}
+A8189*  {atypical} [virus infection] `central nervous system`
+A819    [virus infection] {atypical} `central nervous system`
+A820    [sylvatic rabies]
+A821    [urban rabies]
+A829    [rabies] !{risk} !{vaccination}
+A830    [japanese encephalitis]
+A831    [western equine encephalitis]
+A832    [eastern equine encephalitis]
+A833    [st louis encephalitis]
+A834    [australian encephalitis]
+A835    [california encephalitis]
+A836    [rocio virus disease]
+A838*   other mosquito borne viral encephalitis
+A839    [mosquito borne viral encephalitis]
+A840    [far eastern tick borne encephalitis]
+A841    [central european tick borne encephalitis]
+A8481	[powassan virus] 
+A8489	[other tick borne viral encephalitis] 
+A849    [tick borne viral encephalitis]
+A850    [enteroviral encephalitis]
+A851    [adenoviral encephalitis]
+A852    [arthropod borne viral encephalitis]
+A858*   other specified viral encephalitis
+A86     [viral encephalitis]
+A870    [enteroviral meningitis]
+A871    [adenoviral meningitis]
+A872    [lymphocytic choriomeningitis]
+A878*   other [viral meningitis]
+A879    [viral meningitis]
+A880    [enteroviral exanthematous fever]
+A881    [epidemic vertigo]
+A888*   other specified viral infections of central nervous system
+A89     [viral infection] `central nervous system`
+A90     [dengue fever]
+A91     [dengue hemorrhagic fever]
+A920    [chikungunya virus disease]
+A921    [o nyong nyong fever]
+A922    [venezuelan equine fever]
+A9230   [west nile virus infection] !{immune or vaccine or antibody} & ![complication]
+A9231   [west nile virus infection] & [encephalitis]
+        [west nile encephalitis]
+A9232   [west nile virus infection] & [neurologic manifestation]
+A9239   [west nile virus infection] & [complication]
+A924    [rift valley fever]
+A925    [zika virus]
+A928*   other specified mosquito borne viral fevers
+A929    [mosquito borne viral fever]
+A930    [oropouche virus disease]
+A931    [sandfly fever]
+A932    [colorado tick fever]
+A938*   other specified arthropod borne viral fevers
+A94     [arthropod borne viral fever]
+A950    [sylvatic yellow fever]
+A951    [urban yellow fever]
+A959    [yellow fever]
+A960    [junin hemorrhagic fever]
+A961    [machupo hemorrhagic fever]
+A962    [lassa fever]
+A968*   other [arenaviral hemorrhagic fever]
+A969    [arenaviral hemorrhagic fever]
+A980    [crimean congo hemorrhagic fever]
+A981    [omsk hemorrhagic fever]
+A982    [kyasanur forest disease]
+A983    [marburg virus disease]
+A984    [ebola virus disease]
+A985    [hemorrhagic fever] & [renal syndrome]
+A988*   other specified viral hemorrhagic fevers
+A99     [viral hemorrhagic fever]
+B000    [eczema herpeticum]
+B001    [herpesviral vesicular dermatitis]
+B002    [herpesviral gingivostomatitis]
+        [herpesviral pharyngotonsillitis]
+B003    [herpesviral meningitis]
+B004    [herpesviral encephalitis]
+B0050   [herpesviral ocular disease]
+B0051   [herpesviral iridocyclitis]
+B0052   [herpesviral keratitis]
+B0053   [herpesviral conjunctivitis]
+B0059   [other herpesviral disease eye]
+B007    [disseminated herpesviral disease]
+B0081   [herpesviral hepatitis]
+B0082   [herpes simplex myelitis]
+B0089*  [herpesviral infection] !{history}
+B009    [herpesviral infection]  !{history} & ![newborn]
+B010    [varicella meningitis]
+B0111   [varicella encephalitis]
+        [varicella encephalomyelitis]
+B0112   [varicella myelitis]
+B012    [varicella pneumonia]
+B0181   [varicella keratitis]
+B0189   [varicella] & [complication]
+B019    [varicella] !{immune or vaccine or antibody} & ![complication]
+B020    [zoster encephalitis]
+B021    [zoster meningitis]
+B0221   [postherpetic geniculate ganglionitis]
+B0222   [postherpetic trigeminal neuralgia]
+B0223   [postherpetic polyneuropathy]
+B0224   [postherpetic myelitis]
+B0229   [postherpetic nervous system involvement]
+B0230   [zoster ocular disease]
+B0231   [zoster conjunctivitis]
+B0232   [zoster iridocyclitis]
+B0233   [zoster keratitis]
+B0234   [zoster scleritis]
+B0239   [herpes zoster eye disease]
+B027    [disseminated zoster]
+B028*   [zoster] {complication}
+B029    [zoster] !{past or family hx or specimens} !{complication}
+B03     [smallpox]
+B04     [monkeypox]
+B050    [measles] & [encephalitis]
+B051    [measles] & [meningitis]
+B052    [measles] & [pneumonia]
+B053    [measles] & [otitis media]
+B054    [measles] & [complication] `intestine`
+B0581   [measles keratitis]
+        [measles keratoconjunctivitis]
+B0589   [measles] & [complication]
+B059    [measles] !{immune or vaccine or antibody} & ![complication]
+B6000	[babesiosis] !{babesia divergens} !{babesia microti} !{babesia duncani}	
+B6001	[babesiosis] {babesia microti} 
+B6002	[babesiosis] {babesia duncani} 
+B6003	[babesiosis] {babesia divergens} 
+B6009	[other babesiosis] 
+B0600   [rubella] & [neurological complication]
+B0601   [rubella encephalitis]
+B0602   [rubella meningitis]
+B0609   [neurological complications of rubella]
+B0681   [rubella pneumonia]
+B0682   [rubella arthritis]
+B0689   [rubella complications]
+B069    [rubella] !{immune or vaccine or antibody} & ![complication]
+B070    [plantar wart]
+B078*   other viral warts 
+B079    [viral wart]
+B08010  [cowpox]
+B08011  [vaccinia] & ![vaccine]
+B0802   [orf virus disease]
+B0803   [pseudocowpox]
+B0804   [paravaccinia]
+B0809   [orthopoxvirus infection]
+B081    [molluscum contagiosum]
+B0820   [exanthema subitum] "pediatric"
+B0821   [exanthema subitum] & [human herpesvirus 6] "pediatric"
+B0822   [exanthema subitum] & [human herpesvirus 7] "pediatric"
+B083    [erythema infectiosum]
+B084    [enteroviral vesicular stomatitis] & [exanthem]
+B085    [enteroviral vesicular pharyngitis]
+B0860   [parapoxvirus infection]
+B0861   [bovine stomatitis]
+B0862   [sealpox]
+B0869   [parapoxvirus infection]
+B0870   [yatapoxvirus infection]
+B0871   [tanapox virus disease]
+B0872   [yaba pox virus disease]
+B0879   [yatapoxvirus infection]
+B088*   other specified [viral infection] characterized by `skin` [lesion]
+B09     [viral infection] & [lesion] `skin and mucous membrane`
+B1001   [human herpesvirus 6 encephalitis]
+B1009   [human herpesvirus encephalitis]
+B1081   [herpesvirus 6 infection]
+B1082   [herpesvirus 7 infection]
+B1089   [human herpesvirus infection]
+B150    [hepatitis a] & [hepatic coma] !{history}
+B159    [hepatitis a] & ![hepatic coma] !{history}
+B160    [acute hepatitis b] & [delta agent] & [hepatic coma] !{history}
+B161    [acute hepatitis b] & [delta agent] & ![hepatic coma] !{history}
+B162    [acute hepatitis b] & ![delta agent] & [hepatic coma] !{history}
+B169    [acute hepatitis b] & ![delta agent] & ![hepatic coma] !{history}
+B170    [hepatitis b] & [delta infection] {acute} !{history}
+B1710   [acute hepatitis c] & ![hepatic coma] !{history}
+B1711   [acute hepatitis c] & [hepatic coma] !{history}
+B172    [acute hepatitis e] !{history}
+B178*   [other specified acute viral hepatitis]
+B179    [viral hepatitis] {acute} !{history}
+B180    [viral hepatitis b] {chronic} !{history} & [delta agent]
+B181    [viral hepatitis b] {chronic} !{surface} !{history} & ![delta agent]
+B182    [viral hepatitis c] {chronic} !{history}
+        [hepatitis c carrier] !{history}
+B188*   other {chronic} [viral hepatitis]
+B189    [viral hepatitis] {chronic} !{alcoholic} !{history} !{vaccine} !{nonimmune}
+B190    [viral hepatitis] !{alcoholic} !{vaccine} !{nonimmune} & [hepatic coma] 
+B1910   [viral hepatitis b] !{alcoholic} !{vaccine} !{nonimmune} & ![hepatic coma]
+B1911   [viral hepatitis b] !{alcoholic} !{vaccine} !{nonimmune} & [hepatic coma]
+B1920   [viral hepatitis c] !{alcoholic} !{vaccine} !{nonimmune} & ![hepatic coma]
+B1921   [viral hepatitis c] !{alcoholic} !{vaccine} !{nonimmune} & [hepatic coma]
+B199    [viral hepatitis] !{c} !{b} !{acute} !{chronic} !{history} !{alcoholic} !{vaccine} !{maternal} & ![hepatic coma] 
+B20     [acquired immune deficiency syndrome] !{hearing} !{screening} !{ambulatory}
+B250    [cytomegaloviral pneumonitis]
+B251    [cytomegaloviral hepatitis]
+B252    [cytomegaloviral pancreatitis]
+B258*   other cytomegaloviral diseases 
+B259    [cytomegaloviral disease]
+B260    [mumps orchitis]
+B261    [mumps meningitis]
+B262    [mumps encephalitis]
+B263    [mumps pancreatitis]
+B2681   [mumps hepatitis]
+B2682   [mumps myocarditis]
+B2683   [mumps nephritis]
+B2684   [mumps polyneuropathy]
+B2685   [mumps arthritis]
+B2689   [mumps] !{exposure history} & [complication]
+B269    [mumps] !{exposure history} & ![complication]
+B2700   [gammaherpesviral mononucleosis] !{immune or vaccine or antibody} & ![complication]
+B2701   [gammaherpesviral mononucleosis] & [polyneuropathy]
+B2702   [gammaherpesviral mononucleosis] & [meningitis]
+B2709   [gammaherpesviral mononucleosis] & [complication]
+B2710   [cytomegaloviral mononucleosis] !{immune or vaccine or antibody} & ![complication]
+B2711   [cytomegaloviral mononucleosis] & [polyneuropathy]
+B2712   [cytomegaloviral mononucleosis] & [meningitis]
+B2719   [cytomegaloviral mononucleosis] & [complication]
+B2780*  other [infectious mononucleosis] !{immune or vaccine or antibody} & ![complication]
+B2781*  other [infectious mononucleosis] & [polyneuropathy]
+B2782*  other [infectious mononucleosis] & [meningitis]
+B2789*  other [infectious mononucleosis] & [complication]
+B2790   [infectious mononucleosis] !{immune or vaccine or antibody} & ![complication]
+B2791   [infectious mononucleosis] & [polyneuropathy]
+B2792   [infectious mononucleosis] & [meningitis]
+B2799   [infectious mononucleosis] & [complication]
+B300    [keratoconjunctivitis] & [adenovirus]
+B301    [conjunctivitis] & [adenovirus]
+B302    [viral pharyngoconjunctivitis]
+B303    [epidemic hemorrhagic conjunctivitis] {acute} {enteroviral}
+B308*   other [viral conjunctivitis]
+B309    [viral conjunctivitis]
+B330    [epidemic myalgia]
+B331    [ross river disease]
+B3320   [viral carditis]
+B3321   [viral endocarditis]
+B3322   [viral myocarditis]
+B3323   [viral pericarditis]
+B3324   [viral cardiomyopathy]
+B333    [retrovirus infection]
+B334    [hantavirus pulmonary syndrome]
+        [hantavirus cardio pulmonary syndrome]
+B338*   other specified [viral disease]
+B340    [adenovirus infection]
+B341    [enterovirus infection]
+B342    [coronavirus infection] !{negative} !{pending}
+B343    [parvovirus infection]
+B344    [papovavirus infection]
+B348*   other viral infections of unspecified site
+B349    [viral infection]
+B350    [tinea barbae]
+        [tinea capitis]
+B351    [tinea unguium]
+B352    [tinea manuum]
+B353    [tinea pedis]
+B354    [tinea corporis]
+B355    [tinea imbricata]
+B356    [tinea cruris]
+B358*   other [dermatophytoses]
+B359    [dermatophytosis]
+B360    [pityriasis versicolor]
+B361    [tinea nigra]
+B362    [white piedra]
+B363    [black piedra]
+B368*   other specified [superficial mycosis]
+B369    [superficial mycosis]
+B370    [candidal stomatitis]
+B371    [candidiasis] `pulmonary`
+B372    [candidiasis] `skin`
+        [candidiasis] `nail`
+B373    [candidiasis] `vaginal`
+        [candidal vaginitis]
+B3741   [candidal cystitis]
+        [candidal urethritis]
+B3742   [candidal balanitis]
+B3749   [candidiasis] `urogenital`
+B375    [candidal meningitis]
+B376    [candidal endocarditis]
+B377    [candidal sepsis]
+B3781   [candidal esophagitis]
+B3782   [candidal enteritis]
+B3783   [candidal cheilitis]
+B3784   [candidal otitis externa]
+B3789   [candidiasis osteomyelitis]
+B379    [candidiasis]
+B380    [coccidioidomycosis] {acute} `pulmonary`
+B381    [coccidioidomycosis] {chronic} `pulmonary`
+B382    [coccidioidomycosis] `pulmonary`
+B383    [coccidioidomycosis] `cutaneous`
+B384    [coccidioidomycosis meningitis]
+B387    [coccidioidomycosis] {disseminated}
+B3881   [coccidioidomycosis] `prostatic`
+B3889   [coccidioidomycosis]
+B389    [coccidioidomycosis]
+B390    [histoplasmosis capsulati] {acute} `pulmonary`
+B391    [histoplasmosis capsulati] {chronic} `pulmonary`
+B392    [histoplasmosis capsulati] `pulmonary`
+B393    [histoplasmosis capsulati] {disseminated}
+B394    [histoplasmosis capsulati]
+B395    [histoplasmosis duboisii]
+B399    [histoplasmosis]
+B400    [blastomycosis] {acute} `pulmonary`
+B401    [blastomycosis] {chronic} `pulmonary`
+B402    [blastomycosis] `pulmonary`
+B403    [blastomycosis] `cutaneous`
+B407    [blastomycosis] {disseminated}
+B4081   [blastomycotic meningoencephalitis]
+B4089*  other forms of [blastomycosis]
+B409    [blastomycosis]
+B410    [paracoccidioidomycosis] `pulmonary`
+B417    [paracoccidioidomycosis] {disseminated}
+B418*   other forms of paracoccidioidomycosis
+B419    [paracoccidioidomycosis]
+B420    [sporotrichosis] `pulmonary`
+B421    [sporotrichosis] `lymphocutaneous`
+B427    [sporotrichosis] {disseminated}
+B4281   [sporotrichosis] `cerebral`
+B4282   [sporotrichosis arthritis]
+B4289*  other forms of sporotrichosis
+B429    [sporotrichosis]
+B430    [chromomycosis] `cutaneous`
+B431    [abscess] {pheomycotic} `brain`
+B432    [pheomycotic abscess] `subcutaneous`
+        [pheomycotic cyst] `subcutaneous`
+B438*   other forms of [chromomycosis]
+B439    [chromomycosis]
+B440    [aspergillosis] {invasive} `pulmonary`
+B441    [aspergillosis] `pulmonary`
+B442    [aspergillosis] `tonsillar`
+B447    [aspergillosis] {disseminated}
+B4481   [aspergillosis] {allergic} `bronchopulmonary`
+B4489*  [aspergillosis]
+B449    [aspergillosis]
+B450    [cryptococcosis] `pulmonary`
+B451    [cryptococcosis] `cerebral`
+B452    [cryptococcosis] `cutaneous`
+B453    [cryptococcosis] `osseous`
+B457    [cryptococcosis] {disseminated}
+B458*   other forms of cryptococcosis
+B459    [cryptococcosis]
+B460    [mucormycosis] `pulmonary`
+B461    [mucormycosis] `rhinocerebral`
+B462    [mucormycosis] `gastrointestinal`
+B463    [mucormycosis] `cutaneous`
+B464    [mucormycosis] {disseminated}
+B465    [mucormycosis]
+B468*   other zygomycoses
+B469    [zygomycosis]
+B470    [eumycetoma]
+B471    [actinomycetoma]
+B479    [mycetoma]
+B480    [lobomycosis]
+B481    [rhinosporidiosis]
+B482    [allescheriasis]
+B483    [geotrichosis]
+B484    [penicillosis]
+B488*   other specified mycoses
+B49     [mycosis]
+B500    [plasmodium falciparum malaria] & [cerebral complication]
+B508*   other {severe} and complicated [plasmodium falciparum malaria]
+B509    [plasmodium falciparum malaria]
+B510    [plasmodium vivax malaria] & [rupture] `spleen`
+B518*   [plasmodium vivax malaria] & [complication]
+B519    [plasmodium vivax malaria] !{immune or vaccine or antibody} & ![complication]
+B520    [plasmodium malariae malaria] & [nephropathy]
+B528*   [plasmodium malariae malaria] & [complication]
+B529    [plasmodium malariae malaria] !{immune or vaccine or antibody} & ![complication]
+B530    [plasmodium ovale malaria]
+B531    [malaria] & [simian plasmodia]
+B538*   other malaria
+B54     [malaria]
+B550    [leishmaniasis] `viscera`
+B551    [leishmaniasis] `cutaneous`
+B552    [leishmaniasis] `mucocutaneous`
+B559    [leishmaniasis]
+B560    [gambiense trypanosomiasis]
+B561    [rhodesiense trypanosomiasis]
+B569    [african trypanosomiasis]
+B570    [chagas disease] {acute} `heart`
+B571    [chagas disease] {acute} !`heart`
+B572    [chagas disease] {chronic} `heart`
+B5730   [chagas disease] `digestive system`
+B5731   [chagas disease] & [megaesophagus]
+B5732   [chagas disease] & [megacolon]
+B5739   [chagas disease] `digestive system`
+B5740   [chagas disease] `nervous system`
+B5741   [chagas disease] & [meningitis]
+B5742   [chagas disease] & [meningoencephalitis]
+B5749   [chagas disease] `nervous system`
+B575    [chagas disease] {chronic} `organ`
+B5800   [toxoplasma oculopathy]
+B5801   [toxoplasma chorioretinitis]
+B5809   [toxoplasma oculopathy]
+B581    [toxoplasma hepatitis]
+B582    [toxoplasma meningoencephalitis]
+B583    [toxoplasmosis] `pulmonary`
+B5881   [toxoplasma myocarditis]
+B5882   [toxoplasma myositis]
+B5883   [toxoplasma tubulo interstitial nephropathy]
+B5889   [toxoplasmosis] `organ`
+B589    [toxoplasmosis]
+B59     [pneumocystosis]
+B600*   [babesiosis] "Deleted ICD10 FY2021"
+B6010   [acanthamebiasis]
+B6011   [meningoencephalitis] & [acanthamoeba]
+B6012   [conjunctivitis] & [acanthamoeba]
+B6013   [keratoconjunctivitis] & [acanthamoeba]
+B6019   [acanthamebic disease]
+B602    [naegleriasis]
+B608*   other specified protozoal diseases
+B64     [protozoal disease]
+B650    [schistosomiasis] & [schistosoma haematobium]
+        [schistosomiasis] `urinary`
+B651    [schistosomiasis] & [schistosoma mansoni]
+        [schistosomiasis] `intestine`
+B652    [schistosomiasis] & [schistosoma japonicum]
+B653    [cercarial dermatitis]
+B658*   other schistosomiasis
+B659    [schistosomiasis]
+B660    [opisthorchiasis]
+B661    [clonorchiasis]
+B662    [dicroceliasis]
+B663    [fascioliasis]
+B664    [paragonimiasis]
+B665    [fasciolopsiasis]
+B668*   other specified fluke infections
+B669    [fluke infection]
+B670    [echinococcus granulosus infection] `liver`
+B671    [echinococcus granulosus infection] `lung`
+B672    [echinococcus granulosus infection] `bone`
+B6731   [echinococcus granulosus infection] `thyroid gland`
+B6732   [echinococcus granulosus infection] {multiple sites}
+B6739*  [echinococcus granulosus infection] other sites
+B674    [echinococcus granulosus infection]
+B675    [echinococcus multilocularis infection] `liver`
+B6761   [echinococcus multilocularis infection] {multiple sites}
+B6769*  [echinococcus multilocularis infection] other sites
+B677    [echinococcus multilocularis infection]
+B678*   [echinococcosis] `liver`
+B6790   [echinococcosis]
+B6799*  other echinococcosis
+B680    [taenia solium taeniasis]
+B681    [taenia saginata taeniasis]
+B689    [taeniasis]
+B690    [cysticercosis] `central nervous system`
+B691    [cysticercosis] `eye`
+B6981   [myositis] & [cysticercosis]
+B6989   [cysticercosis]
+B699    [cysticercosis]
+B700    [diphyllobothriasis]
+B701    [sparganosis]
+B710    [hymenolepiasis]
+B711    [dipylidiasis]
+B718*   other specified cestode infections
+B719    [cestode infection]
+B72     [dracunculiasis]
+B7300   [onchocerciasis] `eye`
+B7301   [onchocerciasis] & [endophthalmitis]
+B7302   [onchocerciasis] & [glaucoma]
+B7309*  [onchocerciasis] with other eye involvement
+B731    [onchocerciasis] & `eye` ![disease]
+B740    [filariasis] & [wuchereria bancrofti]
+B741    [filariasis] & [brugia malayi]
+B742    [filariasis] & [brugia timori]
+B743    [loiasis]
+B744    [mansonelliasis]
+B748*   other filariases
+B749    [filariasis]
+B75     [trichinellosis]
+B760    [ancylostomiasis]
+B761    [necatoriasis]
+B768*   other hookworm diseases
+B769    [hookworm disease]
+        [cutaneous larva migrans]
+B770    [ascariasis] & `intestine` [complication]
+B7781   [ascariasis] & [pneumonia]
+B7789   [ascariasis] & [complication]
+B779    [ascariasis]
+B780    [strongyloidiasis] `intestine`
+B781    [strongyloidiasis] `cutaneous`
+B787    [strongyloidiasis] {disseminated}
+B789    [strongyloidiasis]
+B79     [trichuriasis]
+B80     [enterobiasis]
+B810    [anisakiasis]
+B811    [capillariasis] `intestine`
+B812    [trichostrongyliasis]
+B813    [angiostrongyliasis] `intestine`
+B814    [helminthiases] {mixed} `intestine`
+B818*   other specified `intestine` [helminthiases]
+B820    [helminthiasis] `intestine`
+B829    [parasitism] `intestine`
+B830    [larva migrans] `viscera`
+B831    [gnathostomiasis]
+B832    [angiostrongyliasis] & [parastrongylus cantonensis]
+B833    [syngamiasis]
+B834    [hirudiniasis] `internal`
+B838*   other specified helminthiases
+B839    [helminthiasis]
+B850    [pediculosis] & [pediculus humanus capitis]
+B851    [pediculosis] & [pediculus humanus corporis]
+B852    [pediculosis]
+B853    [phthiriasis]
+B854    [pediculosis] & [phthiriasis]
+B86     [scabies]
+B870    [myiasis] `cutaneous`
+B871    [myiasis] {wound}
+B872    [myiasis] `ocular`
+B873    [myiasis] `nasopharyngeal`
+B874    [myiasis] `aural`
+B8781   [myiasis] `genitourinary`
+B8782   [myiasis] `intestine`
+B8789*  myiasis of other sites
+B879    [myiasis]
+B880    [acariasis]
+B881    [tungiasis]
+B882    [arthropod infestations]
+B883    [hirudiniasis] {external}
+B888    [infestation] {other specified infestations}
+B889    [infestation] !{other specified infestations}
+B89     [parasitic disease]
+B900*   {sequela} of `central nervous system` [tuberculosis]
+B901*   {sequela} of `genitourinary` [tuberculosis]
+B902*   {sequela} [tuberculosis] `bone`
+B908*   {sequela} [tuberculosis] other `organ`
+B909*   {sequela} of `respiratory` and unspecified [tuberculosis]
+B91*    {sequela} [poliomyelitis]
+B92*    {sequela} [leprosy]
+B940*   {sequela} [trachoma]
+B941*   {sequela} [viral encephalitis]
+B942*   {sequela} [viral hepatitis]
+B948*   {sequela} of other specified infectious and parasitic diseases
+B949*   {sequela} of unspecified [infectious disease]
+B950*   streptococcus group a & [infection classified elsewhere]
+B951*   streptococcus group b & [infection classified elsewhere]
+B952    [enterococcus] {positive}
+B953*   streptococcus pneumoniae & [infection classified elsewhere]
+B954    [other streptococcus] & [infection classified elsewhere] !{history}
+B955*   unspecified streptococcus & [infection classified elsewhere]
+B9561   [methicillin susceptible staphylococcus aureus infection] {suspected} {causing diseases elsewhere classified} !{negative} !{mrsa} !{history}
+B9562   [methicillin resistant staphylococcus aureus infection] {causing diseases elsewhere classified} !{negative} !{history} !{screen}
+B957*   [other staphylococcus] & [infection classified elsewhere]
+B958*   unspecified staphylococcus & [infection classified elsewhere]
+B960*   mycoplasma pneumoniae & [infection classified elsewhere]
+B961    [klebsiella pneumoniae] !{history}
+B9620   [escherichia coli] !{history}
+B9621*  shiga toxin producing escherichia coli (stec) o157 & [infection classified elsewhere]
+B9622*  other specified shiga toxin producing escherichia coli (stec) & [infection classified elsewhere]
+B9623*  unspecified shiga toxin producing escherichia coli (stec) & [infection classified elsewhere]
+B9629*  other escherichia coli & [infection classified elsewhere]
+B963*   hemophilus influenzae & [infection classified elsewhere]
+B964*   proteus (mirabilis) (morganii) & [infection classified elsewhere]
+B965    [pseudomonas] !{history}
+B966*   bacteroides fragilis & [infection classified elsewhere]
+B967*   clostridium perfringens & [infection classified elsewhere]
+B9681   [helicobacter pylori identified]
+B9682*  vibrio vulnificus & [infection classified elsewhere]
+B9689   [other bacterial agents as cause of disease classified elsewhere] !{hx}
+B970*   adenovirus & [infection classified elsewhere]
+B9710*  unspecified enterovirus & [infection classified elsewhere]
+B9711*  coxsackievirus & [infection classified elsewhere]
+B9712*  echovirus & [infection classified elsewhere]
+B9719*  other enterovirus & [infection classified elsewhere]
+B9721*  sars associated coronavirus & [infection classified elsewhere]
+B9729   [other coronovirus] {positive} !{negative} !{pending} & ![other specified organisms]
+B9730*  unspecified retrovirus & [infection classified elsewhere]
+B9731*  lentivirus & [infection classified elsewhere]
+B9732*  oncovirus & [infection classified elsewhere]
+B9733*  human t cell lymphotrophic virus type i & [infection classified elsewhere]
+B9734*  human t cell lymphotrophic virus type ii & [infection classified elsewhere]
+B9735*  human immunodeficiency virus type 2 & [infection classified elsewhere]
+B9739*  other retrovirus & [infection classified elsewhere]
+B974   [rsv] {positive} 
+B975*   reovirus & [infection classified elsewhere]
+B976*   parvovirus & [infection classified elsewhere]
+B977*   papillomavirus & [infection classified elsewhere]
+B9781*  human metapneumovirus & [infection classified elsewhere]
+B9789  [other viral agents] & ![rsv] {positive} & ![covid]
+B998*   other infectious disease
+B999*   unspecified infectious disease

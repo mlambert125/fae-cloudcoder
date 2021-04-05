@@ -1,0 +1,552 @@
+61000	[subdural tap] {fontanelle/suture} "infant" {initial}
+61001	[subdural tap] {fontanelle/suture} "infant" {subsequent}
+61020	[ventricular puncture] {previous} {burr hole/fontanelle/suture/implanted catheter} & ![injection procedure]
+61026	[ventricular puncture] {previous} {burr hole/fontanelle/suture/implanted catheter} & [injection procedure]
+61050	[cisternal/lateral cervical puncture] `c1-c2` & ![injection procedure]
+61055	[cisternal/lateral cervical puncture] `c1-c2` & [injection procedure]
+61070	[puncture] {shunt tubing/reservoir} {aspiration/injection}
+61105	[twist drill hole] `subdural/ventricular` & [puncture]
+61107	[twist drill hole] `subdural/intracerebral/ventricular` & [puncture] & [implant] {monitoring device}
+61108	[twist drill hole] `subdural/ventricular` & [puncture] & [evacuation and/drainage] {hematoma}
+61120	[burr hole] `ventricular` & [puncture]
+61140	[burr hole/trephine] & [biopsy] `brain/intracranial` {lesion}
+61150	[burr hole/trephine] & [drainage] `brain` {abscess/cyst}
+61151	[burr hole/trephine] {subsequent} & [aspiration] `intracranial` {abscess/cyst}
+61154	[burr* hole] {status post} & [evacuation and/drainage] {hematoma} `extradural/subdural`
+61156	[burr hole] & [aspiration] {hematoma/cyst} `intracerebral`
+61210	[burr hole] & [implant] `cerebral` {monitoring device}
+61215	[insertion] {subcutaneous} {reservoir/pump/infusion system} {ventricular catheter}
+61250	[burr hole/trephine] `supratentorial` {exploratory} & ![surgery]
+61253	[burr hole/trephine] `infratentorial`
+61304	[craniectomy/craniotomy] {exploratory} `supratentorial`
+61305	[craniectomy/craniotomy] {exploratory} `infratentorial`
+61312	[craniectomy/craniotomy] `supratentorial` {extradural/subdural} & [evacuation hematoma]
+61313	[craniectomy/craniotomy] `supratentorial intracerebral` & [evacuation hematoma]
+61314	[craniectomy/craniotomy] `infratentorial` {extradural/subdural} & [evacuation hematoma]
+61315	[craniectomy/craniotomy] `infratentorial intracerebellar`& [evacuation hematoma]
+61316	[incision] & [subcutaneous placement graft] `cranial bone`
+61320	[craniectomy/craniotomy] & [drainage] `intracranial` {abscess} {supratentorial}
+61321	[craniectomy/craniotomy] & [drainage] `intracranial` {abscess} {infratentorial}
+61322	[craniectomy/craniotomy] & [decompression] & ![evacuation] & ![lobectomy]
+61323	[craniectomy/craniotomy] & [decompression] & ![evacuation] & [lobectomy]
+61330	[decompression] `orbit` {transcranial approach}
+61332	[exploration] `orbit` {transcranial approach} & [biopsy]
+61333	[exploration] `orbit` {transcranial approach} & [removal] {lesion}
+61340	[decompression] `subtemporal cranial`
+61343	[craniectomy] `suboccipital` & [laminectomy] `cervical` & [decompression] `medulla` `spinal cord`
+61345	[decompression] `posterior fossa`
+61450	[craniectomy] `subtemporal` & [section/compression/decompression] {sensory root} `gasserian ganglion`
+61458	[craniectomy] `suboccipital` & [exploration/decompression] `cranial nerves`
+61460	[craniectomy] `suboccipital` {section 1 or more} `cranial nerves`
+61480	[craniectomy] `suboccipital` & [tractotomy/pedunculotomy] `mesencephalic`
+61500	[craniectomy] & [excision] {tumor/lesion} `skull`
+61501	[craniectomy] {osteomyelitis}
+61510	[craniectomy] & [trephination] {bone flap} `brain` {tumor} !{meningioma}
+61512	[craniectomy] & [trephination] {bone flap} `brain` {meningioma}
+61514	[craniectomy] & [trephination] {bone flap} `brain` {abscess}
+61516	[craniectomy] & [trephination] {bone flap} `brain` {cyst}
+61517	[implantation brain intracavitary chemotherapy]
+61518	[craniectomy] & [excision] `brain` {tumor} `infratentorial/posterior fossa` !{meningioma} !{cerebellopontine} !{midlin}
+61519	[craniectomy] & [excision] `brain` {tumor} `infratentorial/posterior fossa` {meningioma}
+61520	[craniectomy] & [excision] `brain` {tumor} `infratentorial/posterior fossa` {cerebellopontine angle tumor}
+61521	[craniectomy] & [excision] `brain` {tumor} `infratentorial/posterior fossa` {midline tumor skull base}
+61522	[craniectomy] `infratentorial/posterior fossa` & [excision] `brain abscess`
+61524	[craniectomy] `infratentorial/posterior fossa` & [excision] `enestration cyst`
+61526	[craniectomy] `cerebellopontine angle tumor`
+61530	[craniectomy] `cerebellopontine angle tumor` {middle/posterior fossa}
+61531	[implantation] `subdural` {strip electrodes} {seizure monitoring}
+61533	[craniotomy] & [elevation bone flap] & [implantation] {electrodes} `subdural` {long term seizure monitoring}
+61534	[craniotomy] & [elevation bone flap] & [excision] {epileptogenic focus} & ![electrocorticography]
+61535	[craniotomy] & [elevation bone flap] & [removal] `epidural/subdural` {electrod} & ![excision] `cerebral tissue`
+61536	[craniotomy] & [elevation bone flap] & [excision] `cerebral` {epileptogenic focus} & [electrocorticography]
+61537	[craniotomy] & [elevation bone flap] & [lobectomy] `temporal lobe` !{electrocorticography}
+61538	[craniotomy] & [elevation bone flap] & [lobectomy] `temporal lobe` & [electrocorticography]
+61539	[craniotomy] & [elevation bone flap] & [lobectomy] !`temporal lobe` & [electrocorticography]
+61540	[craniotomy] & [elevation bone flap] & [lobectomy] !`temporal lobe` !{electrocorticography}
+61541	[craniotomy] & [elevation bone flap] & [transection] `corpus callosum`
+61543	[craniotomy] & [elevation bone flap] & [hemispherectomy]
+61544	[craniotomy] & [elevation bone flap] & [excision/coagulation] `choroid plexus`
+61545	[craniotomy] & [elevation bone flap] & [excision] `craniopharyngioma`
+61546	[craniotomy] & [hypophysectomy/excision] `pituitary` {tumor} {intracranial approach}
+61548	[hypophysectomy/excision] `pituitary` {tumor} {transnasal/transseptal approach} {nonstereotactic}
+61550	[craniectomy] & [craniosynostosis] {single suture}
+61552	[craniectomy] & [craniosynostosis] {multiple sutures}
+61556	[craniotomy] & [craniosynostosis] {frontal/parietal bone flap}
+61557	[craniotomy] & [craniosynostosis] {bifrontal bone flap}
+61558	[extensive craniectomy] & [craniosynostosis] {multiple sutures} & ![bone grafts]
+61559	[extensive craniectomy] & [craniosynostosis] {multiple sutures} & [recontouring] & [bone autografts]
+61563	[excision] {benign tumor} `cranial bone` & ![optic nerve decompression]
+61564	[excision] {benign tumor} `cranial bone` & [optic nerve decompression]
+61566	[craniotomy] & [elevation bone flap] & [selective amygdalohippocampectomy]
+61567	[craniotomy] & [elevation bone flap] & [multiple subpial transections] & [electrocorticography]
+61570	[craniectomy/craniotomy] & [excision] {foreign body} `brain`
+61571	[craniectomy/craniotomy] & [treatment] {penetrating wound} `brain`
+61575	[bx/decompression/excision] {lesion} `skull base/brain stem/upper spinal cord` {transoral approach}
+61576	[bx/decompression/excision] {lesion} `skull base` & [splitting] `tongue and/mandible` {transoral approach}
+61580	[craniofacial approach] `anterior cranial fossa` & ![exenteration]
+61581	[craniofacial approach] `anterior cranial fossa` {extradural}
+61582	[craniofacial approach] `anterior cranial fossa` & [craniotomy] & [elevation frontal lobe] & [osteotomy]
+61583	[craniofacial approach] `anterior cranial fossa` {intradural} & [craniotomy] & [elevation/resection] `front lobe` & [osteotomy]
+61584	[orbitocranial approach] `anterior cranial fossa` & [osteotomy] & ![orbital exenteration]
+61585	[orbitocranial approach] `anterior cranial fossa` & [osteotomy] & [orbital exenteration]
+61586	[bicoronal/transzygomatic and/lefort 1 osteotomy approach] `anterior cranial fossa` & ![bone graft]
+61590	[infratemporal pre-auricular approach] `middle cranial fossa`
+61591	[infratemporal post-auricular approach] `middle cranial fossa`
+61592	[orbitocranial zygomatic approach] `middle cranial fossa`
+61595	[transtemporal approach] `posterior cranial fossa/jugular foramen/midline skull base`
+61596	[transcochlear approach] `posterior cranial fossa/jugular foramen/midline skull base`
+61597	[transcondylar approach] `posterior cranial fossa/jugular foramen/midline skull base`
+61598	[transpetrosal approach] `posterior cranial fossa/clivus/foramen magnum`
+61600	[resection/excision] {lesion} `base anterior cranial fossa` {extradural}
+61601	[resection/excision] {lesion} `base anterior cranial fossa` {intradural}
+61605	[resection/excision] {lesion} `infratemporal fossa/parapharyngeal space/petrous apex` {extradural}
+61606	[resection/excision] {lesion} `infratemporal fossa/parapharyngeal space/petrous apex` {intradural}
+61607	[resection/excision] {lesion} `parasellar area/cavernous sinus/clivus/midline skull base` {extradural}
+61608	[resection/excision] {lesion} `parasellar area/cavernous sinus/clivus/midline skull base` {intradural}
+61610*	[transection/ligation] `carotid artery` {cavernous sinus} & [anastomosis/graft]
+61611*	[transection/ligation] `carotid artery` {petrous canal} & ![repair]
+61612*	[transection/ligation] `carotid artery` {petrous canal} & [anastomosis/graft]
+61613	[obliteration] `carotid artery` {aneurysm/avm/carotid-cavernous fistula} & [dissection] `cavernous sinus`
+61615	[resection/excision] {lesion} `base posterior cranial fossa/jugular foramen/foramen magnum/c1-c3` {extradural}
+61616	[resection/excision] {lesion} `base posterior cranial fossa/jugular foramen/foramen magnum/c1-c3` {intradural}
+61618	[secondary repair] `dura` {csf leak} {following surgery} & [free tissue graft]
+61619	[secondary repair] `dura` {csf leak} {following surgery} & [flap]
+61623*	endovasc temp occlusion head/nck w/vessel cath balloon positioning/inflation neur monit s&i
+61624	[destruction] {permanent occlusion/embolization} {percutaneous} `cns`
+61626	[destruction] {permanent occlusion/embolization} {percutaneous}  !`cns`
+61630	[angioplasty] `intracranial` {percutaneous}
+61635	[stent] `intracranial` {transcatheter}
+61640	[balloon dilatation] `intracranial` {vasospasm} {percutaneous} {initial vessel}
+61641	[balloon dilatation] `intracranial` {vasospasm} {percutaneous} {each addl vessel} {same vascular family}
+61642	[balloon dilatation] `intracranial` {vasospasm} {percutaneous} {each addl vessel} {different vascular family}
+61645	[thrombectomy] `intracranial` {percutaneous}
+61650	[administration] {pharmacologic agent} {endovascular} {initial vascular territory} & ![thrombolysis]
+61651	[administration] {pharmacologic agent} {endovascular} {each addl vascular territory}
+61680	[surgery] `intracranial` {arteriovenous malformation} {supratentorial}
+61682	[surgery] `intracranial` {arteriovenous malformation} {supratentorial} {complex}
+61684	[surgery] `intracranial` {arteriovenous malformation} {infratentorial}
+61686	[surgery] `intracranial` {arteriovenous malformation} {infratentorial} {complex}
+61690	[surgery] `intracranial` {arteriovenous malformation} {dural}
+61692	[surgery] `intracranial` {arteriovenous malformation} {dural} {complex}
+61697	[surgery] `intracranial` {aneurysm} {complex} {intracranial approach} {carotid circulation}
+61698	[surgery] `intracranial` {aneurysm} {complex} {intracranial approach} {vertebrobasilar circulation}
+61700	[surgery] `intracranial` {aneurysm} {intracranial approach} {carotid circulation}
+61702	[surgery] `intracranial` {aneurysm} {intracranial approach} {vertebrobasilar circulation}
+61703	[surgery] `intracranial` {aneurysm} {cervical approach} & [application occluding clamp]
+61705	[surgery] {aneurysm/vascular malformation/fistula} & [occlusion] `carotid artery`
+61708	[surgery] {aneurysm/vascular malformation/fistula} & [intracranial electrothrombosis]
+61710	[surgery] {aneurysm/vascular malformation/fistula} & [intra-arterial embolization]
+61711	[anastomosis] `arterial` {extracranial-intracranial arteries}
+61720	[stereotactic creation lesion] `globus pallidus/thalamus`
+61735	[stereotactic creation lesion] `subcortical` !`globus pallidus/thalamus`
+61750	[bx/aspiration/excision] {stereotactic} `intracranial` {lesion}
+61751	[bx/aspiration/excision] {stereotactic} `intracranial` {lesion} & [ct and/mri guidance]
+61760	[stereotactic implantation] {electrodes} `cerebrum` {long term seizure monitor}
+61770   [stereotactic localization] & [placement] {radiation source}
+61781	[stereotactic computer-assisted] `cranial` {intradural}
+61782	[stereotactic computer-assisted] & [extradural] `cranial`
+        [fusion navigation system]
+61783	[stereotactic computer-assisted] `spinal`
+61790	[stereotactic creation lesion] {percutaneous} {neurolytic agent} `gasserian ganglion`
+61791	[stereotactic creation lesion] {percutaneous} {neurolytic agent} `trigeminal medullary tract`
+61793*	stereotactic radiosurgery 1+ sessions
+61795*	stereotactic computer assisted volumetric (navigational) intracranial/extracranial/spinal proc
+61796	[stereotactic radiosurgery] `cranial` {lesion}
+61797	[stereotactic radiosurgery] `cranial` {lesion} {each addl}
+61798	[stereotactic radiosurgery] `cranial` {lesion} {complex}
+61799	[stereotactic radiosurgery] `cranial` {lesion} {complex} {each addl}
+61800	[application of stereotactic headframe] {stereotactic radiosurgery}
+61850	[twist drill/burr hole] & [implantation] {neurostimulator electrodes} `cortical`
+61860	[craniectomy/craniotomy] & [implantation] {neurostimulator electrodes} `cerebral cortical`
+61863	[stereotactic implant] {neurostimulator electrode} `subcortical` & ![intraoperative microelectrode]
+61864	[stereotactic implant] {neurostimulator electrode} `subcortical` & ![intraoperative microelectrode] {each addl}
+61867	[stereotactic implant] {neurostimulator electrode} `subcortical` & [intraoperative microelectrode]
+61868	[stereotactic implant] {neurostimulator electrode} `subcortical` & [intraoperative microelectrode] {each addl}
+61870	[craniectomy] & [implantation] {neurostimulator electrodes} `cerebellar cortical` "Delete CPT 2021"
+61880	[revision/removal] `intracranial` {neurostimulator electrodes}
+61885	[insertion/replacement] `cranial` {neurostimulator pulse generator/receiver} & [connection] {single electrode}
+61886	[insertion/replacement] `cranial` {neurostimulator pulse generator/receiver} & [connection] {>/2 electrodes}
+61888	[revision/removal] `cranial` {neurostimulator pulse generator/receiver}
+62000	[elevation depressed skull fx] {extradural}
+62005	[elevation depressed skull fx] {compound/comminuted} {extradural}
+62010	[elevation depressed skull fx] & [repair dura and/debridement brain]
+62100	[craniotomy] {repair dural/csf leak}
+62115	[reduction craniomegalic skull] & ![bone grafts] & ![cranioplasty]
+62117	[reduction craniomegalic skull] & [craniotomy] & [reconstruction]
+62120	[repair encephalocele] `skull vault` & [cranioplasty]
+62121	[craniotomy] & [repair encephalocele] `skull base`
+62140	[cranioplasty] `skull` {defect} {<5 cm}
+62141	[cranioplasty] `skull` {defect} {>5 cm}
+62142	[removal] {bone flap/prosthetic plate} `skull`
+62143	[replacement] {bone flap/prosthetic plate} `skull`
+62145	[cranioplasty] `skull` {defect} & [reparative brain surgery]
+62146	[cranioplasty] & [autograft] {<5 cm}
+62147	[cranioplasty] & [autograft] {>5 cm}
+62148	[incision] & [retrieval] {subcutaneous} {cranial bone graft}
+62160	[neuroendoscopy] `intracranial` & [placement/replacement] {ventricular cath} & [attachment] {shunt}
+62161	[neuroendoscopy] `intracranial` & [dissection/fenestration] {adhesions/septum pellucidum/cyst}
+62162   [neuroendoscopy] `intracranial` & [fenestration/excision] {colloid cyst}
+62163	[neuroendoscopy] `intracranial` & [retrieval] {fb} "Delete CPT 2021"
+62164	[neuroendoscopy] `intracranial` & [excision] `brain` {tumor}
+62165	[neuroendoscopy] `intracranial` & [excision] `pituitary tumor` {transnasal/trans-sphenoidal approach}
+62180	[ventriculocisternostomy]
+62190	[creation shunt] `subarachnoid/subdural-atrial -jugular -auricular`
+62192	[creation shunt] `subarachnoid/subdural-peritoneal -pleural/terminus`
+62194	[replacement/irrigation] `subarachnoid/subdural` {catheter}
+62200	[ventriculocisternostomy] {3rd ventricle}
+62201	[ventriculocisternostomy] {3rd ventricle} {stereotactic} {neuroendoscopic}
+62220	[creation shunt] `ventriculo-atrial -jugular -auricular`
+62223	[creation shunt] `ventriculo-peritoneal -pleural/terminus`
+62225	[replacement/irrigation] `ventricular` {catheter}
+62230	[replacement/revision] {csf shunt/obstructed valve/distal catheter in shunt system}
+62252	[reprogramming] {programmable csf shunt}
+62256	[removal] {complete csf shunt system} & ![replacement]
+62258	[removal] {complete csf shunt system} & [replacement]
+62263	[lysis epidural adhesions] {solution injection/mechanical} {>/2 days}
+62264	[lysis epidural adhesions] {solution injection/mechanical} {1 day}
+62267	[aspiration] {percutaneous} `nucleus pulposus/intervertebral disc/paravertebral tissue` {diagnostic}
+62268	[aspiration] {percutaneous} `spinal cord` {cyst/syrinx}
+62269	[biopsy] `spinal cord` {percutaneous needle}
+62270	[lumbar puncture] !{therapeutic} &![imaging guidance] !{myelography}
+62272	[lumbar puncture] {therapeutic}
+62273	[injection procedure] `epidural` {blood/clot patch}
+62280	[injection/infusion] {neurolytic substance} `subarachnoid` 
+62281	[injection/infusion] {neurolytic substance} `epidural` `cervical or thoracic`
+62282	[injection/infusion] {neurolytic substance} `epidural` `lumbar and/sacral`
+62284	[injection procedure] {myelography/computed tomography} `lumbar`
+62287	[decompression] {percutaneous} `lumbar` `disc`
+62290	[injection procedure] & [diskography] {each level} `lumbar`
+62291	[injection procedure] & [diskography] {each level} `cervical or thoracic`
+62292	[injection procedure] & [chemonucleolysis] & [discography] `lumbar`
+62294	[injection procedure] `arterial` {occlusion arteriovenous malformation} `spinal`
+62302	[myelography] & [lumbar injection] `cervical`
+62303	[myelography] & [lumbar injection] `thoracic`
+62304	[myelography] & [lumbar injection] `lumbosacral`
+62305	[myelography] & [lumbar injection] {>/2 regions}
+62320	[injection procedure] {diagnostic/therapeutic substance} `intralaminal epidural/subarachnoid` `cervical or thoracic` & ![imaging guidance]
+62321	[injection procedure] {diagnostic/therapeutic substance} `intralaminal epidural/subarachnoid` `cervical or thoracic` & [imaging guidance]
+62322	[injection procedure] {diagnostic/therapeutic substance} `intralaminal epidural/subarachnoid` `lumbar/sacral` & ![imaging guidance]
+62323	[injection procedure] {diagnostic/therapeutic substance} `intralaminal epidural/subarachnoid` `lumbar/sacral` & [imaging guidance]
+62324	[continuous infusion/intermittent bolus] {diagnostic/therapeutic substance} `epidural/subarachnoid` `cervical or thoracic` & ![imaging guidance]
+62325	[continuous infusion/intermittent bolus] {diagnostic/therapeutic substance} `epidural/subarachnoid` `cervical or thoracic` & [imaging guidance]
+62326	[continuous infusion/intermittent bolus] {diagnostic/therapeutic substance} `epidural/subarachnoid` `lumbar/sacral` & ![imaging guidance]
+62327	[continuous infusion/intermittent bolus] {diagnostic/therapeutic substance} `epidural/subarachnoid` `lumbar/sacral` & [imaging guidance]
+62328   [lumbar puncture] & [imaging guidance] 
+6232*	Spinal puncture, lumbar, diagnostic; with fluoroscopic or CT guidance  
+62329*	Spinal puncture, therapeutic, for drainage of cerebrospinal fluid (by needle or catheter); with fluoroscopic or CT guidance 
+62350	[revision/reposition] `intrathecal/epidural` {tunneled catheter} {long term medication} & ![laminectomy]
+62351	[revision/reposition] `intrathecal/epidural` {tunneled catheter} {long term medication} & [laminectomy]
+62355	[removal] {previously implanted} `intrathecal/epidural` {catheter}
+62360	[implantation/replace] `intrathecal/epidural` {subcutaneous reservoir}
+62361	[implantation/replace] `intrathecal/epidural` {non-programmable pump}
+62362	[implantation/replace] `intrathecal/epidural` {programmable pump}
+62365	[removal] {subcutaneous} {reservoir/pump} `intrathecal/epidural`
+62367	[electronic analysis] {programmable implanted pump} `intrathecal/epidural` & ![reprogramming/refill]
+62368	[electronic analysis] {programmable implanted pump} `intrathecal/epidural` & [reprogramming]
+62369	[electronic analysis] {programmable implanted pump} `intrathecal/epidural` & [reprogramming] & [refill]
+62370	[electronic analysis] {programmable implanted pump} `intrathecal/epidural` & [reprogramming] & [refill] {physician}
+62380	[endoscopic decompression] `spinal cord/nerve root` & [laminotomy] & [facetectomy] & [foraminotomy] & [discectomy]
+63001	[laminectomy] & ![facetectomy] & ![foraminotomy] & ![diskectomy] & [exploration] `cervical`
+63003	[laminectomy] & ![facetectomy] & ![foraminotomy] & ![diskectomy] & [exploration] `thoracic`
+63005	[laminectomy] & ![facetectomy] & ![foraminotomy] & ![diskectomy] & [exploration] `lumbar`
+63011	[laminectomy] !{w/o facetectomy} !{foraminotomy} !{diskectomy} `sacral`
+63012	[laminectomy] & [removal] {abnormal facets} `lumbar`
+63015	[laminectomy] & [exploration and/decompression] !{w/o facetectomy} !{foraminotomy} !{diskectomy} {> 2 vertebral} `cervical`
+63016	[laminectomy] & [exploration and/decompression] !{w/o facetectomy} !{foraminotomy} !{diskectomy} {> 2 vertebral} `thoracic`
+63017	[laminectomy] & [exploration and/decompression] !{w/o facetectomy} !{foraminotomy} !{diskectomy} {> 2 vertebral} `lumbar`
+63020	[laminotomy] & [facetectomy] & [foraminotomy] {1 interspace} `cervical`
+63030	[laminotomy decompression] & ![radiculopathy/stenosis/spondylolisthesis] & ![laminectomy] `lumbar`
+        [hemilaminectomy and spinal decompression] & ![radiculopathy/stenosis/spondylolisthesis] & ![laminectomy] `lumbar` 
+63035	[laminotomy] & [facetectomy] & [foraminotomy] `cervical/lumbar`
+63040	[laminotomy] & [facetectomy] & [foraminotomy] `cervical`
+63042	[laminotomy] & [facetectomy] & [foraminotomy] `lumbar` & [reexploration]
+63043	[laminotomy] & [facetectomy] & [foraminotomy] {each addl interspace} `cervical` & [reexploration]
+63044	[laminotomy] & [facetectomy] & [foraminotomy] {each addl interspace} `lumbar` & [reexploration] 
+63045	[laminectomy] & [facetectomy] & [foraminotomy] `cervical`
+63046	[laminectomy] & [facetectomy] & [foraminotomy]  `thoracic`
+63047	[laminectomy] & [facetectomy] & [foraminotomy] `lumbar`  
+        [laminectomy] & [radiculopathy/stenosis/spondylolisthesis] `lumbar` & [decompression]
+63048	[laminectomy] & [facetectomy] & [foraminotomy] {each additional segment}
+63050	[laminoplasty] `cervical` & [decompression] `spinal cord` {>/2 vertebral}
+63051	[laminoplasty] `cervical` & [decompression] `spinal cord` {>/2 vertebral} & [reconstruction]
+63055	[decompression] {transpedicular approach} {single segment} `thoracic`
+63056	[decompression] {transpedicular approach} {single segment} `lumbar`
+63057	[decompression] {transpedicular approach} {each addl segment} `thoracic/lumbar`
+63064	[decompression] {costovertebral approach} {single segment} `thoracic`
+63066	[decompression] {costovertebral approach} {each addl segment} `thoracic`
+63075	[discectomy] {anterior} & [decompression] `cervical`
+63076	[discectomy] {anterior} & [decompression] {each addl interspace} `cervical`
+63077	[discectomy] {anterior} & [decompression] `thoracic`
+63078	[discectomy] {anterior} & [decompression] {each addl interspace} `thoracic`
+63081	[vertebral corpectomy] & [decompression] {anterior} `cervical`
+63082*	[vertebral corpectomy] & [decompression] {anterior} `cervical` {addl segment}
+63085	[vertebral corpectomy] & [decompression] {transthoracic} `thoracic`
+63086*	[vertebral corpectomy] & [decompression] {transthoracic} `thoracic` {addl segment}
+63087	[vertebral corpectomy] & [decompression] {thoracolumbar} `lower thoracic/lumbar`
+63088*	[vertebral corpectomy] & [decompression] {thoracolumbar} `lower thoracic/lumbar` {addl}
+63090	[vertebral corpectomy] & [decompression] {transperitoneal/retroperitoneal} `lower thoracic/lumbar/sacral`
+63091	[vertebral corpectomy] & [decompression] {transperitoneal/retroperitoneal} `lower thoracic/lumbar/sacral` {addl}
+63101	[vertebral corpectomy] & [decompression] {lateral extracavitary} `thoracic`
+63102	[vertebral corpectomy] & [decompression] {lateral extracavitary} `lumbar`
+63103*	[vertebral corpectomy] & [decompression] {lateral extracavitary} `thoracic/lumbar` {addl}
+63170	[laminectomy] & [myelotomy] `cervical thoracic/thoracolumbar`
+63172	[laminectomy] & [drainage] `intramedullary` {cyst/syrinx} {subarachnoid space}
+63173	[laminectomy] & [drainage] `intramedullary` {cyst/syrinx} {peritoneal/pleural space}
+63180	[laminectomy] {section dentate ligaments} `cervical` "Delete CPT 2021"
+63182	[laminectomy] {section dentate ligaments} `cervical` {> 2 segments} "Delete CPT 2021"
+63185	[laminectomy] & [rhizotomy]
+63190	[laminectomy] & [rhizotomy] {> 2}
+63191	[laminectomy] {section spinal accessory nerve}
+63194	[laminectomy] & [cordotomy] `spinothalamic tract` `cervical`
+63195	[laminectomy] & [cordotomy] `spinothalamic tract` `thoracic`
+63196	[laminectomy] & [cordotomy] `spinothalamic tracts` `cervical`
+63197	[laminectomy] & [cordotomy] `spinothalamic tracts` `thoracic`
+63198*	[laminectomy] & [cordotomy] `spinothalamic tracts` `cervical`
+63199*	[laminectomy] & [cordotomy] `spinothalamic tracts` `thoracic`
+63200	[laminectomy] & [release] {tethered} `spinal cord lumbar`
+63250	[laminectomy] {avm} `spinal cord` `cervical`
+63251	[laminectomy] {avm} `spinal cord` `thoracic`
+63252	[laminectomy] {avm} `spinal cord` `thoracolumbar`
+63265	[laminectomy] {lesion} !{neoplasm} `cervical`
+63266	[laminectomy] {lesion} !{neoplasm} `thoracic`
+63267	[laminectomy] {lesion} !{neoplasm} `lumbar`
+63268	[laminectomy] {lesion} !{neoplasm} `sacral`
+63270	[laminectomy] {lesion} !{neoplasm} {intradural} `cervical`
+63271	[laminectomy] {lesion} !{neoplasm} {intradural} `thoracic`
+63272   [laminectomy] {lesion} !{neoplasm} {intradural} `lumbar`
+63273	[laminectomy] {lesion} !{neoplasm} {intradural} `sacral`
+63275	[laminectomy] {neoplasm} `cervical`
+63276	[laminectomy] {neoplasm} `thoracic`
+63277	[laminectomy] {neoplasm} `lumbar`
+63278	[laminectomy] {neoplasm} `sacral`
+63280	[laminectomy] {neoplasm} {intradural} {extramedullary} `cervical`
+63281	[laminectomy] {neoplasm} {intradural} {extramedullary} `thoracic`
+63282	[laminectomy] {neoplasm} {intradural} {extramedullary} `lumbar`
+63283	[laminectomy] {neoplasm} {intradural} `sacral`
+63285	[laminectomy] {neoplasm} {intradural} {intramedullary} `cervical`
+63286	[laminectomy] {neoplasm} {intradural} {intramedullar} `thoracic`
+63287	[laminectomy] {neoplasm} {intradural} {intramedullary} `thoracolumbar`
+63290	[laminectomy] {neoplasm} {extradural-intradural}
+63295	[osteoplastic reconstruction] `dorsal spinal`
+63300	[vertebral corpectomy] `cervical`
+63301	[vertebral corpectomy] `thoracic` {transthoracic approach}
+63302	[vertebral corpectomy] `thoracic` {thoracolumbar approach}
+63303	[vertebral corpectomy] `lumbar/sacral` {transperitoneal/retroperitoneal approach}
+63304	[vertebral corpectomy] {intradural} `cervical`
+63305	[vertebral corpectomy] {intradural} `thoracic` {transthoracic approach}
+63306	[vertebral corpectomy] {intradural} `thoracic` {thoracolumbar approach}
+63307	[vertebral corpectomy] {intradural} `lumbar/sacral` {transperitoneal/retroperitoneal approach}
+63308	[vertebral corpectomy] {each addl}
+63600	[creation lesion] `spinal cord` {stereotactic} {percutaneous}
+63610	[stereotactic stimulation] `spinal cord` {percutaneous}
+63615	[stereotactic biopsy/aspiration/excision] {lesion} `spinal cord`
+63620	[stereotactic radiosurgery] `spinal` {lesion}
+63621	[stereotactic radiosurgery] {each addl} `spinal` {lesion}
+63650	[implantation] {spinal neurostimulator electrode} {percutaneous} 
+63655	[laminectomy] & [implantation] {spinal neurostimulator electrode} `epidural`
+63660*	[revision or removal] & [implantation] {percutaneous} {spinal} `spinal neurostimulator`
+63661	[removal] {spinal neurostimulator electrode} {percutaneous}
+63662	[laminotomy/laminectomy] & [removal] {spinal neurostimulator electrode}
+63663	[revision/replacement] {spinal neurostimulator electrode} {percutaneous}
+63664	[laminotomy/laminectomy] & [revision/replacement] {spinal neurostimulator electrode}
+63685	[insertion or replacement] {spinal neurostimulator pulse generator/receiver}
+63688	[revision/removal] {spinal neurostimulator pulse generator/receiver}
+63700	[repair] {meningocele}
+63702	[repair] {meningocele} {> 5 cm}
+63704	[repair] {myelomeningocele}
+63706	[repair] {myelomeningocele} {> 5 cm}
+63707	[repair] {dural/csf leak} & ![laminectomy]
+63709	[repair] {dural/csf leak/pseudomeningocele} & [laminectomy]
+63710	[dural graft]
+63740	[creation shunt] {lumbosubarachnoid shunt} & [laminectomy]
+63741	[creation shunt] {lumbosubarachnoid shunt} {percutaneous} & ![laminectomy]
+63744	[replacement/irrigation/revision] {lumbosubarachnoid shunt}
+63746	[removal] {lumbosubarachnoid shunt} & ![replacement]
+64400	[nerve block] `trigeminal`
+64402	[injection procedure] {anesthetic agent} `facial nerve` "Delete CPT 2020"
+64405	[injection procedure] {anesthetic agent} `greater occipital nerve`
+64408	[injection procedure] {anesthetic agent} `vagus nerve`
+64410	[injection procedure] {anesthetic agent} `phrenic nerve` "Delete CPT 2020"
+64413	[injection procedure] {anesthetic agent} `cervical plexus` "Delete CPT 2020"
+64415	[injection procedure] {anesthetic agent} `brachial plexus`
+64416	[infusion] {anesthetic agent} `brachial plexus`
+64417	[injection procedure] {anesthetic agent} `axillary nerve`
+64418	[injection procedure] {anesthetic agent} `suprascapular nerve`
+64420	[injection procedure] {anesthetic agent} `intercostal nerve`
+64421	[injection procedure] {anesthetic agent} `intercostal nerves` {multiple regional block}
+64425	[injection procedure] {anesthetic agent} `ilioinguinal iliohypogastric nerves`
+64430	[injection procedure] {anesthetic agent} `pudendal nerve`
+64435	[injection procedure] {anesthetic agent} `paracervical nerve`
+64445	[injection procedure] & [anesthetic agent] `sciatic nerve`
+64446	[infusion] {anesthetic agent} `sciatic nerve`
+64447	[injection procedure] & [anesthetic agent] `femoral nerve`
+64448	[infusion] {anesthetic agent} `femoral nerve`
+64449	[infusion] {anesthetic agent} `lumbar plexus posterior`
+64450	[injection procedure] & [anesthetic agent] !{general} `peripheral nerve` & ![surgical procedure]
+64451*	injection(s), anesthetic agent(s) and/or steroid; nerves innervating the sacroiliac joint, with image guidance (ie, fluoroscopy or computed tomography)	
+64454*	injection(s), anesthetic agent(s) and/or steroid; genicular nerve branches, including imaging guidance, when performed 	      
+64455	[injection procedure] `plantar common digital nerve` & [anesthetic/steroid] 
+64461	[paravertebral block injection] `thoracic`
+64462	[paravertebral block injection] `thoracic` {additional}
+64463	[paravertebral infusion] `thoracic`
+64479	[injection procedure] `transforaminal epidural` `cervical or thoracic` & [anesthetic/steroid] & [imaging guidance]
+64480	[injection procedure] `transforaminal epidural` `cervical or thoracic` {each additional} & [anesthetic/steroid] & [imaging guidance] 
+64483	[injection procedure] `transforaminal epidural` `lumbar or sacral` & [anesthetic/steroid] & [imaging guidance]
+64484	[injection procedure] `transforaminal epidural` `lumbar or sacral` {each additional} & [anesthetic/steroid] & [imaging guidance]
+64486	[tap block injection] !{bilateral}
+64487	[tap block infusion] !{bilateral}
+64488	[tap block injection] {bilateral}
+64489	[tap block infusion] {bilateral}
+64490	[injection procedure] `cervical or thoracic` !`paravertebral facet joint`
+64491	[injection procedure] `paravertebral facet joint` `cervical or thoracic` {second level}
+64492	[injection procedure] `paravertebral facet joint` `cervical or thoracic` {third or more}
+64493	[medial branch blocks] & [lumbar/sacral] & [imaging guidance]
+64494	[medial branch blocks] & [lumbar/sacral] {second level} & [imaging guidance]
+        [medial branch blocks] & [lumbar/sacral] & [each level] & [imaging guidance]
+64495	[medial branch blocks] & [lumbar/sacral] & [third or more] & [imaging guidance]
+64505	[injection procedure] {anesthetic agent} `sphenopalatine ganglion`  
+64508	[injection procedure] {anesthetic agent} `arotid sinus`
+64510	[injection procedure] {anesthetic agent} `stellate ganglion`
+64517	[injection procedure] {anesthetic agent} `superior hypogastric plexus`
+64520	[injection procedure] {anesthetic agent} `paravertebral sympathetic`
+64530	[injection procedure] {anesthetic agent} `celiac plexus`
+64550	[application surface neurostimulator]
+64553	[neurostimulator electrode implant] `cranial nerve` {percutaneous}
+64555	[neurostimulator electrode implant] `peripheral nerve` !`sacral nerve` {percutaneous}
+64560*	percutaneous[implantation] `spinal neurostimulator` electrodes autonomic nerve
+64561	[neurostimulator electrode implant] `sacral nerve` {percutaneous}
+        [neurostimulator electrode implant]  `sacral nerve` & [fluoroscopic guidance]
+64565	[neurostimulator electrode implant] `neuromuscular` {percutaneous}
+64566	[posterior tibial neurostimulation] {percutaneous needle electrode} {single}
+64568	[incision] {implantation neurostimulator electrode and generator} `cranial nerve` 
+64569	[revision or replacement] {neurostimulator electrode} `cranial nerve`
+64570	[removal] {neurostimulator electrode and pulse generator} `cranial nerve`
+64573*	incision[implantation] `spinal neurostimulator` electrodes cranial nerve
+64575	[incision] {implantation neurostimulator electrode} `peripheral nerve`
+64577*	incision[implantation] `spinal neurostimulator` electrodes autonomic nerve
+64580	[incision] {implantation neurostimulator electrode} `neuromuscular`
+64581	[incision] {implantation neurostimulator electrode} `sacral nerve`
+64585	[revision or removal] {neurostimulator electrode}
+64590	[insertion or replacement] {neurostimulator generator or receiver}
+64595   [revision or removal] {neurostimulator generator or receiver}
+64600	[destruction by neurolytic agent] `trigeminal nerve`
+64605	[destruction by neurolytic agent] `trigeminal nerve` {2nd and 3rd branches at foramen ovale} !{radiologic monitoring}
+64610	[destruction by neurolytic agent] `trigeminal nerve` {2nd and 3rd branches at foramen ovale} {radiologic monitoring}
+64611	[chemodenervation] `parotid and submandibular salivary glands` {bilateral}
+64612	[chemodenervation muscle] {muscles innervated} `facial nerve` !{bilateral}
+64615	[chemodenervation muscle] {muscles innervated} `facial,trigeminal,cervical spinal,accessory nerves` {bilateral}
+64616	[chemodenervation] `cervical paraspinous muscles` !{bilateral} !`larynx`
+64617	[chemodenervation muscle] `larynx` !{bilateral} {percutaneous}
+64620	[destruction by neurolytic agent] `intercostal nerve`
+64622*	destruction neurolytic paravertebral facet nerve lumbar/sacral single level
+64623*	destruction neurolytic paravertebral facet nerve lumbar/sacral add'l level
+64624*  Destruction by neurolytic agent, genicular nerve branches including imaging guidance, when performed 
+64625*  Radiofrequency ablation, nerves innervating the sacroiliac joint, with image guidance (ie, fluoroscopy or computed tomography) 
+64626*	destruction neurolytic paravertebral facet nerve `cervical or thoracic` single level
+64627*	destruction neurolytic paravertebral facet nerve `cervical or thoracic` add'l level 
+64630	[destruction by neurolytic agent] `pudendal nerve`
+64632	[destruction by neurolytic agent] `plantar common digital nerve`
+64633	[radiofrequency ablation] `cervical or thoracic`
+64634	[destruction by neurolytic agent] {parvertebral facet joint} `cervical or thoracic` {each additional}
+64635	[radiofrequency ablation] `lumbarsacral`
+64636	[destruction by neurolytic agent] {parvertebral facet joint} `lumbar or sacral` {each additional}
+64640	[destruction by neurolytic agent] `peripheral nerve or branch`
+        [destruction by neurolytic agent] `other peripheral nerve`
+64642	[chemodenervation] & [extremity muscles] `one extremity` 
+64643	[chemodenervation] & [extremity muscles] & [bilateral]
+64644	[chemodenervation] `extremity muscles` & [lower limb]
+64645	[chemodenervation] `extremity muscles` & [each unit]  `extremity muscles`
+64646	[chemodenervation] `lumbar paraspinous` 
+        [chemodenervation] `rectus abdominus` 
+        [chemodenervation] `oblique`
+        [chemodenervation] `trunk muscles`
+64647	[chemodenervation] `trunk muscles` 
+64650	[chemodenervation] `eccrine glands` `axillae` 
+64653	[chemodenervation] `eccrine glands` !`axillae` 
+64454*  injection(s), anesthetic agent(s) and/or steroid; genicular nerve branches, including imaging guidance, when performed  
+64680	[destruction by neurolytic agent] `celiac plexus` 
+64681	[destruction by neurolytic agent] `superior hypogastric plexus`
+64702	[neuroplasty] `digital`
+64704	[neuroplasty] `nerve` `hand or foot`
+64708	[neuroplasty] `major peripheral nerve` {open}
+64712	[neuroplasty] `sciatic nerve` `arm or leg` {open}
+64713	[neuroplasty] `brachial plexus` `arm or leg` {open}
+64714	[neuroplasty] `lumbar plexus` `arm or leg` {open}
+64716	[neuroplasty] `cranial nerve` & ![elbow] & ![wrist]
+64718	[neuroplasty] `ulnar nerve` & [elbow]
+64719	[neuroplasty] `ulnar nerve`  & [wrist]
+64721	[carpal tunnel release] !{endoscopy}
+64722	[decompression] !{spinal} `unspecified nerves` 
+64726	[decompression] `plantar digital nerve`
+64727	[internal neurolysis] {microscope}
+64732	[transection or avulsion] `supraorbital nerve`
+64734	[transection or avulsion] `infraorbital nerve`
+64736	[transection or avulsion] `mental nerve`
+64738	[transection or avulsion] `inferior alveolar nerve` & [osteotomy]
+64740	[transection or avulsion] `lingual nerve`
+64742	[transection or avulsion] `facial nerve`
+64744	[transection or avulsion] `greater occipital nerve`
+64746	[transection or avulsion] `phrenic nerve`
+64755	[transection or avulsion] `vagus nerves` `proximal stomach` !{laparoscopy}
+64760	[transection or avulsion] `vagus nerve` `abdominal` !{laparoscopy}
+64763	[transection or avulsion] `obturator nerve` {extrapelvic}
+64766	[transection or avulsion] `obturator nerve` {intrapelvic}
+64771	[transection or avulsion] `cranial nerve` {extradural}
+64772	[transection or avulsion] `spinal nerve` {extradural}
+64774	[excision of neuroma] `cutaneous nerve` {surgically identifiable}
+64776	[excision of neuroma] `digital nerve` {one or both} {same digit}
+64778	[excision of neuroma] `digital nerve` {additional digit}
+64782	[excision of neuroma] `hand or foot` !`digital nerve`
+64783	[excision of neuroma] `hand or foot` {additional nerve} !{same digit}
+64784	[excision of neuroma] `peripheral nerve` !`sciatic`
+64786	[excision of neuroma] `sciatic nerve`
+64787	[implantation nerve end] `bone or muscle`
+64788	[excision] {neurofibroma or neurolemmoma} `cutaneous nerve`
+64790	[excision] {neurofibroma or neurolemmoma} `peripheral nerve`
+64792	[excision] {neurofibroma or neurolemmoma} {extensive}
+64795	[biopsy] `nerve`
+64802	[sympathectomy] `cervical`
+64804	[sympathectomy] `cervicothoracic`
+64809	[sympathectomy] `thoracolumbar`
+64818	[sympathectomy] `lumbar`
+64820	[sympathectomy] `digital arteries`
+64821	[sympathectomy] `radial artery`
+64822	[sympathectomy] `ulnar artery`
+64823	[sympathectomy] `superficial palmar arch`
+64831	[suture] `digital nerve` `hand or foot` {one nerve}
+64832	[suture] `digital nerve` `hand or foot` {additional nerve}
+64834	[suture] {1 nerve} `hand or foot` `common sensory nerve`
+64835	[suture] {1 nerve} `median motor thenar`
+64836	[suture] {1 nerve} `ulnar motor`
+64837	[suture] {each additional nerve} `hand or foot`
+64840	[suture] `posterior tibial nerve`
+64856	[suture] `major peripheral nerve` `arm or leg` !`sciatic`
+64857	[suture] `major peripheral nerve` `arm or leg` !`sciatic` & ![transposition]
+64858	[suture] `sciatic nerve`
+64859	[suture] {each additional} `major peripheral nerve`
+64861	[suture] `brachial plexus`
+64862	[suture] `lumbar plexus`
+64864	[suture] `facial nerve` {extracranial}
+64865	[suture] `facial nerve` {infratemporal}
+64866	[anastomosis] `facial-spinal accessory`
+64868	[anastomosis] `facial-hypoglossal`
+64872	[suture nerve] & [secondary or delayed suture]
+64874	[suture nerve] & [extensive mobilization or transposition] `nerve`
+64876	[suture nerve] & [shortening bone] `extremity`
+64885	[nerve graft] `head or neck` {<4 cm}
+64886	[nerve graft] `head or neck` {> 4 cm}
+64890	[nerve graft] {single strand} `hand or foot` {<4 cm}
+64891	[nerve graft] {single strand} `hand or foot` {> 4 cm}
+64892	[nerve graft] {single strand} `arm or leg` {<4 cm}
+64893	[nerve graft] {single strand} `arm or leg` {> 4 cm}
+64895	[nerve graft] {multiple strands} `hand or foot` {<4 cm}
+64896	[nerve graft] {multiple strands} `hand or foot` {> 4 cm}
+64897	[nerve graft] {multiple strands} `arm or leg` {<4 cm}
+64898	[nerve graft] {cable grafting}  `arm or leg` {> 4 cm}
+64901	[nerve graft] {each additional nerve} {single strand}
+64902	[nerve graft] {each additional nerve} {multiple strands}
+64905	[nerve pedicle transfer] {1st stage}
+64907	[nerve pedicle transfer] {2nd stage}
+64910	[nerve repair] {synthetic conduit or vein allograft} {each nerve}
+64911	[nerve repair] {autogenous vein graft} {each nerve}
+64999**	unlisted proc nervous system

@@ -1,0 +1,303 @@
+D500    [iron deficiency anemia] & [blood loss] {chronic} 
+        [anemia] {due to} {blood loss}
+D501    [sideropenic dysphagia] 
+D508    [other iron deficiency anemias]
+D509    [anemia] {iron deficiency}
+D510    [vitamin b12 deficiency] & [anemia] & [intrinsic factor deficiency] 
+D511    [vitamin b12 deficiency] & [anemia] & [selective vitamin b12 malabsorption] & [proteinuria] 
+D512    [transcobalamin ii deficiency]
+D513    [vitamin b12 deficiency] & [anemia] {dietary} 
+D518    [other vitamin b12 deficiency anemias] 
+D519    [vitamin b12 deficiency] & [anemia] 
+D520    [folate deficiency anemia] {dietary} 
+D521    [folate deficiency anemia] {drug induced}
+D528    [other folate deficiency anemias] 
+D529    [folate deficiency anemia]
+D530    [protein deficiency anemia] 
+D531    [megaloblastic anemia] 
+D532    [scorbutic anemia] 
+D538    [other specified nutritional anemias] 
+D539    [nutritional anemia] 
+D550    [anemia] & [glucose 6 phosphate dehydrogenase deficiency] 
+D551    [anemia] & [glutathione metabolism disorder] 
+D552    [anemia] & [glycolytic enzymes disorder] 
+D553    [anemia] & [nucleotide metabolism disorder] 
+D558    [other anemias due to enzyme disorders] 
+D559    [anemia] & [enzyme disorder] 
+D560    [alpha thalassemia] !{sickle cell} !{minor}
+D561    [beta thalassemia] !{sickle cell} !{minor} !{trait}
+D562    [delta beta thalassemia] !{sickle cell}  !{minor} !{trait}
+D563    [thalassemia minor] !{sickle cell} !{major}
+D564    [hereditary persistence of fetal hemoglobin]  !{sickle cell}
+D565    [hemoglobin e beta thalassemia] !{sickle cell} 
+D568    [other thalassemias] 
+D569    [thalassemia]  !{sickle cell}
+D5700   [sickle-cell disease] & [crisis] 
+D5701   [hb-ss disease] & [acute chest syndrome] 
+D5702   [hb-ss disease] & [splenic sequestration]
+D5703	[hb-ss disease] {cerebral vascular involvement} 
+D5709	[hb-ss disease] {crisis with other specified complication} 
+D571    [sickle cell disease] & ![crisis] 
+D5720   [sickle cell/hb-c disease] & ![crisis] 
+D57211  [sickle cell/hb-c disease] & [acute chest syndrome] 
+D57212  [sickle cell/hb-c disease] & [splenic sequestration]
+D57213	[sickle cell/hb-c disease] {cerebral vascular involvement} 
+D57218	[sickle cell/hb-c disease] {crisis with other specified complication} 
+D57219  [hb c disease] & [crisis] 
+D573    [sickle cell trait] 
+D5740   [sickle cell beta thalassemia] & ![crisis]
+D57411  [sickle cell thalassemia] & [acute chest syndrome]
+D57412  [sickle cell thalassemia] & [splenic sequestration]
+D57413	[sickle cell thalassemia] & [cerebral vascular involvement] 
+D57418	[sickle cell thalassemia] & [crisis with other specified complication] 
+D57419  [sickle cell thalassemia] & [crisis]
+D5742	[sickle cell thalassemia] {beta zero} & ![crisis] 
+D57431	[sickle cell thalassemia] {beta zero} & [acute chest syndrome] 
+D57432	[sickle cell thalassemia] {beta zero} & [splenic sequestration] 
+D57433	[sickle cell thalassemia] {beta zero} & [cerebral vascular involvement] 
+D57438	[sickle cell thalassemia] {beta zero} & [crisis with other specified complication]  
+D57439	[sickle cell thalassemia] {beta zero} & [crisis] 
+D5744   [sickle cell thalassemia] {beta plus} & ![crisis]
+D57451	[sickle cell thalassemia] {beta plus} & [acute chest syndrome] 
+D57452	[sickle cell thalassemia] {beta plus} & [splenic sequestration] 
+D57453	[sickle cell thalassemia] {beta plus} & [cerebral vascular involvement] 
+D57458	[sickle cell thalassemia] {beta plus} & [crisis with other specified complication] 
+D57459	[sickle cell thalassemia] {beta plus} & [crisis] 
+D5780   [other sickle cell disorder] & ![crisis] 
+D57811  [other sickle cell disorder] & [acute chest syndrome] 
+D57812  [other sickle cell disorder] & [splenic sequestration] 
+D57813	[other sickle-cell disorder] & [cerebral vascular involvement] 
+D57818	[other sickle-cell disorder] & [crisis with other specified complication] 
+D57819  [other sickle cell disorder] & [crisis] 
+D580    [spherocytosis] {hereditary} 
+D581    [elliptocytosis] {hereditary} 
+D582    [hemoglobinopathies] 
+D588    [other specified hereditary hemolytic anemias]
+D589    [hemolytic anemia] {hereditary} 
+D590    [autoimmune hemolytic anemia] {drug induced} 
+D591*   [anemia] {autoimmune} {hemolytic} "Deleted ICD10 FY2021"
+D5910	[autoimmune hemolytic anemia] 
+D5911	[warm autoimmune hemolytic anemia] 
+D5912	[cold autoimmune hemolytic anemia] 
+D5913	[mixed type autoimmune hemolytic anemia] 
+D5919	[other autoimmune hemolytic anemia] 
+D592    [nonautoimmune hemolytic anemia] {drug induced} 
+D593    [hemolytic uremic syndrome] 
+D594    [anemia] {drug induced} 
+D595    [paroxysmal nocturnal hemoglobinuria] 
+D596    [hemoglobinuria] & [hemolysis] 
+D598    [other acquired hemolytic anemia] 
+D599    [hemolytic anemia] {acquired} 
+D600    [pure red cell aplasia] {chronic} {acquired} 
+D601    [pure red cell aplasia] {transient} {acquired} 
+D608    [other acquired pure red cell aplasias] 
+D609    [pure red cell aplasia] {acquired} 
+D6101   [pure red blood cell aplasia] {constitutional} 
+D6109   [aplastic anemia] {constitutional} 
+D611    [aplastic anemia] {drug induced} 
+D612    [aplastic anemia] 
+D613    [aplastic anemia] {idiopathic} 
+D61810  [pancytopenia] {chemotherapy induced}
+D61811  [pancytopenia] {drug induced} 
+D61818  [pancytopenia] !{drug induced} !{chemotherapy}
+D6182   [myelophthisis] 
+D6189   [aplastic anemia] 
+        [bone marrow failure syndrome] 
+D619    [aplastic anemia] 
+D62     [anemia] & [acute blood loss]
+D630    [anemia] {neoplastic disease} 
+D631    [anemia] & [chronic kidney disease] 
+        [anemia] {secondary} & [esrd] 
+D638    [anemia] & [other chronic disease] & ![chronic kidney disease]
+D640    [sideroblastic anemia] {hereditary}
+D641    [sideroblastic anemia] {secondary} & ![drugs and toxins]
+D642    [sideroblastic anemia] {secondary} & [drugs and toxins]
+D643    [sideroblastic anemias]
+D644    [dyserythropoietic anemia]
+D6481   [anemia] & [antineoplastic chemotherapy] & [cbc recheck]
+D6489   [other specified anemias]
+D649    [anemia] !{microcytic} !{aplastic} !{acute blood loss} !{chronic} !{postpartum} !{iron-deficiency} !{macrocytic} & ![neoplastic disease]
+D65     [intravascular coagulation] {disseminated}
+D66     [factor viii deficiency] {hereditary}
+D67     [factor ix deficiency]
+D680    [von willebrands disease]
+D681    [factor xi deficiency] {hereditary}
+D682    [clotting factor deficiency] {hereditary}
+D68311  [hemophilia] {acquired}
+D68312  [antiphospholipid antibody] & [hemorrhagic disorder]
+D68318  [other hemorrhagic disorder] & [intrinsic circulating anticoagulants] 
+        [hemorrhagic disorder] & [intrinsic circulating antibodies]
+        [hemorrhagic disorder] & [intrinsic circulating inhibitors]
+D6832   [hemorrhagic disorder] & [extrinsic circulating anticoagulants]  
+D684    [coagulation factor deficiency] {acquired} 
+D6851   [activated protein c resistance] 
+D6852   [prothrombin gene mutation] 
+D6859   [thrombophilia] {primary} 
+D6861   [antiphospholipid syndrome] 
+D6862   [lupus anticoagulant syndrome] 
+D6869   [other thrombophilia] 
+D688    [other specified coagulation defects] 
+D689    [coagulation defect] 
+D690    [allergic purpura] 
+D691    [qualitative platelet defect] 
+D692    [nonthrombocytopenic purpura] 
+D693    [immune thrombocytopenic purpura] 
+D6941   [evans syndrome]
+D6942   [thrombocytopenia purpura] {hereditary} 
+D6949   [thrombocytopenia] {primary} 
+D6951   [posttransfusion purpura] 
+D6959   [thrombocytopenia] {secondary} 
+D696    [thrombocytopenia] 
+D698    [other specified hemorrhagic conditions]
+D699    [hemorrhagic condition] 
+D700    [agranulocytosis] !{drug induced} & ![cancer chemotherapy]
+D701    [agranulocytosis] & [cancer chemotherapy] 
+D702    [agranulocytosis] {drug induced} 
+D703    [neutropenia] & [infection] 
+D704    [cyclic neutropenia] 
+D708    [other neutropenia] 
+D709    [neutropenia] & ![infection] 
+D71     [functional disorder of polymorphonuclear neutrophils]
+D720    [genetic anomaly of leukocytes] 
+D721*   [eosinophilia] "Deleted ICD10 FY2021"
+D72110	[idiopathic hypereosinophilic syndrome ihes] 
+D72111	[lymphocytic variant hypereosinophilic syndrome lhes] 
+D72118	[other hypereosinophilic syndrome] 
+D72119	[hypereosinophilic syndrome hes] 
+D7212	[drug rash with eosinophilia and systemic symptoms syndrome] 
+D7218	[eosinophilia in diseases classified elsewhere]	
+D7219	[other eosinophilia] 
+D72810  [lymphocytopenia] 
+D72818  [other decreased white blood cell count] 
+D72819  [decreased white blood cell count] 
+D72820  [lymphocytosis] 
+D72821  [monocytosis] 
+D72822  [plasmacytosis] 
+D72823  [leukemoid reaction] 
+D72824  [basophilia] 
+D72825  [bandemia] 
+D72828  [other elevated white blood cell count] 
+D72829  [elevated white blood cell count] 
+D7289   [other specified disorders of white blood cells]
+D729    [disorder of white blood cells] 
+D730    [hyposplenism] 
+D731    [hypersplenism] 
+D732    [chronic congestive splenomegaly] 
+D733    [abscess] `spleen` 
+D734    [cyst] `spleen` 
+D735    [infarction] `spleen` 
+D7381   [neutropenic splenomegaly] 
+D7389   [other diseases of spleen] 
+D739    [disease] `spleen` 
+D740    [methemoglobinemia] 
+D748    [other methemoglobinemias]
+D749    [methemoglobinemia] 
+D75A    [glucose 6 phosphate dehydrogenase deficiency] & ![anemia]
+D750    [erythrocytosis] {familial} 
+D751    [polycythemia] !{familial} !{vera}
+D7581   [myelofibrosis] 
+D7582   [heparin induced thrombocytopenia] 
+D7589   [other specified diseases of blood and blood forming organs] 
+D759    [disease] `blood and blood forming organs` 
+D761    [lymphohistiocytosis] {hemophagocytic} 
+D762    [hemophagocytic syndrome] {infection associated} 
+D763    [histiocytosis syndrome] 
+D77     [other disorders of blood and blood forming organs in diseases classified elsewhere] 
+D7801   [hemorrhage] {intraoperative} & [hematoma] `spleen` & [complication of procedure] `spleen` 
+D7802   [hemorrhage] {intraoperative} & [hematoma] `spleen` & [complication of procedure] 
+D7811   [puncture] {accidental} & [laceration] `spleen`& [procedure] `spleen` 
+D7812   [puncture] {accidental} & [laceration] `spleen`& [procedure] 
+D7821   [hemorrhage] {postprocedural} & [hematoma] `spleen` & [procedure] `spleen` 
+D7822   [hemorrhage] {postprocedural} & [hematoma] `spleen` & [procedure] 
+D7831   [postprocedural hematoma] `spleen` 
+D7832   [postprocedural hematoma spleen following other procedure] 
+D7833   [postprocedural seroma] `spleen` 
+D7834   [postprocedural seroma spleen following other procedure] 
+D7881   [complication] {intraoperative} `spleen` 
+D7889   [complication] {postprocedural} `spleen` 
+D800    [hypogammaglobulinemia] {hereditary} 
+D801    [hypogammaglobulinemia] !{hereditary}
+D802    [selective deficiency of immunoglobulin a] 
+D803    [selective deficiency of immunoglobulin g] 
+D804    [selective deficiency of immunoglobulin m] 
+D805    [immunodeficiency] & [increased immunoglobulin m] 
+D806    [antibody deficiency] & [near normal immunoglobulins] 
+        [antibody deficiency] & [hyperimmunoglobulinemia] 
+D807    [transient hypogammaglobulinemia]  
+D808    [other immunodeficiencies with predominantly antibody defects]
+D809    [immunodeficiency] {antibody} 
+D810    [severe combined immunodeficiency] & [reticular dysgenesis] 
+D811    [severe combined immunodeficiency] & [low t cell numbers] 
+        [severe combined immunodeficiency] & [low b cell numbers] 
+D812    [severe combined immunodeficiency] & [low b cell numbers] 
+        [severe combined immunodeficiency] & [normal b cell numbers] 
+D813    [adenosine deaminase deficiency] "Delete ICD10 FY2020"
+D8130   [adenosine deaminase deficiency]
+D8131	[severe combined immunodef due to adenosine deaminase deficiency]
+D8132	[adenosine deaminase 2 deficiency]
+D8139	[other adenosine deaminase deficiency]
+D814    [nezelofs syndrome] 
+D815    [purine nucleoside phosphorylase deficiency] 
+D816    [major histocompatibility complex class i deficiency] 
+D817    [major histocompatibility complex class ii deficiency] 
+D81810  [biotinidase deficiency] 
+D81818  [other biotin dependent carboxylase deficiency]
+D81819  [biotin dependent carboxylase deficiency] 
+D8189   [other combined immunodeficiencies]
+D819    [combined immunodeficiency] 
+D820    [wiskott aldrich syndrome] 
+D821    [di georges syndrome] 
+D822    [immunodeficiency] & [short limbed stature] 
+D823    [immunodeficiency] & [hereditary defective response to epstein-barr virus] 
+D824    [hyperimmunoglobulin e syndrome] 
+D828    [immunodeficiency associated with other specified major defects]
+D829    [immunodeficiency] & [major defect] 
+D830    [common variable immunodeficiency] & [predominant abnormalities of b cell numbers and function] 
+D831    [common variable immunodeficiency] & [predominant immunoregulatory t cell disorders] 
+D832    [common variable immunodeficiency] & [autoantibodies to b cells] 
+        [common variable immunodeficiency] & [autoantibodies to t cells] 
+D838    [other common variable immunodeficiencies]
+D839    [common variable immunodeficiency] 
+D840    [lymphocyte function antigen-1 defect] 
+D841    [defect] `complement system` 
+D848*   [other specified immunodeficiencies] "Deleted ICD10 FY2021"
+D8481	[immunodeficiency due to conditions classified elsewhere] 
+D84821	[immunodeficiency due to drugs] 
+D84822	[immunodeficiency due to external causes] 
+D8489	[other immunodeficiencies] 
+D849    [immunodeficiency] !{human}
+D860    [sarcoidosis] `lung` 
+D861    [sarcoidosis] `lymph nodes` 
+D862    [sarcoidosis] `lung` & [sarcoidosis] `lymph nodes` 
+D863    [sarcoidosis] `skin` 
+D8681   [sarcoid meningitis] 
+D8682   [palsy] {multiple} `cranial nerve` & [sarcoidosis] 
+D8683   [sarcoid iridocyclitis] 
+D8684   [sarcoid pyelonephritis] 
+D8685   [sarcoid myocarditis] 
+D8686   [sarcoid arthropathy] 
+D8687   [sarcoid myositis] 
+D8689   [sarcoidosis of other sites]
+D869    [sarcoidosis] 
+D890    [polyclonal hypergammaglobulinemia] 
+D891    [cryoglobulinemia] 
+D892    [hypergammaglobulinemia] 
+D893    [immune reconstitution syndrome] 
+D8940   [mast cell activation] 
+D8941   [monoclonal mast cell activation] 
+D8942   [idiopathic mast cell activation] 
+D8943   [secondary mast cell activation] 
+D8949   [other mast cell activation] 
+D89810  [graft versus host disease] {acute} 
+D89811  [graft versus host disease] {chronic} 
+D89812  [graft versus host disease] {acute on chronic} 
+D89813  [graft versus host disease] 
+D8982   [autoimmune lymphoproliferative syndrome]
+D89831	[cytokine release syndrome] {grade 1} 
+D89832	[cytokine release syndrome] {grade 2} 
+D89833	[cytokine release syndrome] {grade 3} 
+D89834	[cytokine release syndrome] {grade 4} 
+D89835	[cytokine release syndrome] {grade 5} 
+D89839	[cytokine release syndrome] !{grade} 
+D8989   [other specified disorders involving the immune mechanism] 
+D899    [disorder involving the immune mechanism unspecified immune disorder] 

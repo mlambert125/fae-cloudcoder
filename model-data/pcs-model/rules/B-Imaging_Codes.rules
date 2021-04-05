@@ -1,0 +1,1098 @@
+B00B0ZZ* [plain radiography]`spinal cord` {high osmolar contrast}
+B00B1ZZ* [plain radiography]`spinal cord` {low osmolar contrast}
+B00BYZZ* [plain radiography]`spinal cord` {other contrast}
+B00BZZZ* [plain radiography]`spinal cord`
+B01B0ZZ* [fluoroscopy]`spinal cord` {high osmolar contrast}
+B01B1ZZ* [fluoroscopy]`spinal cord` {low osmolar contrast}
+B01BYZZ* [fluoroscopy]`spinal cord` {other contrast}
+B01BZZZ* [fluoroscopy]`spinal cord`
+B2101ZZ  [angiogram] `coronary artery` {single}
+B2111ZZ  [angiogram] `coronary artery` !& [guidance] !{needs or on}
+         [selective coronary angiography] !{needs or on}
+B211YZZ*  [angiogram] `coronary artery` & [other contrast]
+B2121ZZ  [angiogram] `coronary artery bypass graft` 
+B2131ZZ  [angiogram] `coronary artery bypass graft multiple`
+B2141ZZ  [angiogram] `heart` {right} !`coronary`
+B2151ZZ  [ventriculogram] !{not performed}
+B215YZZ* [fluoroscopy of Left heart using Other Contrast]
+B2161ZZ  [angiogram] `heart` {right} {left} !{selective coronary angiography}
+         [angiogram] `heart` {bilateral}
+B2171ZZ  [angiogram] `right internal mammary artery`
+B2181ZZ  [angiogram] `left internal mammary artery`
+B21F1ZZ* [angiogram] `bypass graft`
+B240ZZ3  [ultrasonography] !{stay} `coronary artery` {intravascular}
+B240ZZ4  [ultrasonography] !{stay} `coronary artery` {transesophageal}
+B240ZZZ  [ultrasonography] !{stay} `coronary artery`
+B241ZZ3  [ultrasonography] !{stay} `coronary artery` {multiple} {intravascular}
+B241ZZ4  [ultrasonography] !{stay} `coronary artery` {multiple} {transesophageal}
+B241ZZZ  [ultrasonography] !{stay} `coronary artery` {multiple}
+B244ZZ3  [ultrasonography] !{stay} `heart` {right} {intravascular}
+B244ZZ4  [ultrasonography] !{stay} `heart` {right} {transesophageal}
+B244ZZZ  [ultrasonography] !{stay} `heart` {right}
+B245ZZ3  [ultrasonography] !{stay} `heart` {left} {intravascular}
+B245ZZ4  [ultrasonography] !{stay} `heart` {left} {transesophageal}
+B245ZZZ  [ultrasonography] !{stay} `heart` {left} !{left heart catheterization}
+B246ZZ3  [intracardiac echocardiogram] 
+B246ZZ4  [tee] !{past status}
+B246ZZZ  [ultrasonography] !{stay} `heart` {right} {left}
+         [ultrasonography] !{stay} `intracardiac`
+B24BZZ3  [intracardiac echocardiogram] & [aorta]
+B24BZZ4  [tee] & [aorta] !{past status}
+B24BZZZ  [ultrasonography] & [aorta] 
+B24CZZ3  [ultrasonography] !{stay} `pericardium` {intravascular}
+B24CZZ4  [ultrasonography] !{stay} `pericardium` {transesophageal}
+B24CZZ4  [ultrasonography] !{stay} `pericardium`
+B24DZZ3  [ultrasonography] !{stay} `pediatric heart` {intravascular}
+B24DZZ4  [tee] `pediatric heart`
+B24DZZZ  [ultrasonography] !{stay} `pediatric heart`
+B31U1ZZ  [angiography] `pulmonary trunk`
+B310010* [fluoroscopy]`thoracic aorta` {high osmolar contrast} {laser intraoperative} 
+B3100ZZ* [fluoroscopy]`thoracic aorta` {high osmolar contrast}
+B310110* [fluoroscopy]`thoracic aorta` {low osmolar contrast} {laser intraoperative}
+B3101ZZ  [angiogram] `aorta`& ![abdominal aortogram] !`aortic valve` !{past status}
+         [aortogram] & ![abdominal aortogram] !`aortic valve` !{past status}
+B310Y10* [fluoroscopy] `thoracic aorta` {other contrast} {laser intraoperative}
+B310YZZ* [fluoroscopy] `thoracic aorta` {other contrast}
+B310ZZZ* [fluoroscopy] `thoracic aorta`
+B311010* [fluoroscopy] & [brachiocephalic-subclavian artery] {right} {high osmolar contrast} {laser intraoperative}
+B3110ZZ* [fluoroscopy] & [brachiocephalic-subclavian artery] {right} {high osmolar contrast}
+B311110* [fluoroscopy] & [brachiocephalic-subclavian artery] {right} {low osmolar contrast} {laser intraoperative}
+B3111ZZ  [fluoroscopy] & [brachiocephalic-subclavian artery] {right}
+B311Y10* [fluoroscopy] & [brachiocephalic-subclavian artery] {right} {other contrast} {laser intraoperative}
+B311YZZ* [fluoroscopy] & [brachiocephalic-subclavian artery] {right} {other contrast}
+B311ZZZ* [fluoroscopy] & [brachiocephalic-subclavian artery] {right}
+B312010* [fluoroscopy] & [subclavian artery] {left} {high osmolar contrast} {laser intraoperative}
+B3120ZZ* [fluoroscopy] & [subclavian artery] {left} {high osmolar contrast}
+B312110* [fluoroscopy] & [subclavian artery] {left} {low osmolar contrast} {laser intraoperative}
+B3121ZZ  [fluoroscopy] & [subclavian artery] {left} 
+B312Y10* [fluoroscopy] & [subclavian artery] {left} {other contrast} {laser intraoperative}
+B312YZZ* [fluoroscopy] & [subclavian artery] {left} {other contrast}
+B312ZZZ* [fluoroscopy] & [subclavian artery] {left}
+B313010* [fluoroscopy] {right} & [common carotid artery] {high osmolar contrast} {laser intraoperative}
+B3130ZZ* [fluoroscopy] {right} & [common carotid artery] {high osmolar contrast}
+B313110* [fluoroscopy] {right} & [common carotid artery] {low osmolar contrast} {laser intraoperative}
+B3131ZZ  [fluoroscopy] {right} & [common carotid artery]
+B313Y10* [fluoroscopy] {right} & [common carotid artery] {other contrast} {laser intraoperative}
+B313YZZ* [fluoroscopy] {right} & [common carotid artery] {other contrast}
+B313ZZZ* [fluoroscopy] {right} & [common carotid artery]
+B314010* [fluoroscopy] {left} & [common carotid artery] {high osmolar contrast} {laser intraoperative}
+B3140ZZ* [fluoroscopy] {left} & [common carotid artery] {high osmolar contrast}
+B314110* [fluoroscopy] {left} & [common carotid artery] {low osmolar contrast} {laser intraoperative}
+B3141ZZ  [fluoroscopy] {left} & [common carotid artery]
+B314Y10* [fluoroscopy] {left} & [common carotid artery] {other contrast} {laser intraoperative}
+B314YZZ* [fluoroscopy] {left} & [common carotid artery] {other contrast}
+B314ZZZ* [fluoroscopy] {left} & [common carotid artery]
+B315010* [fluoroscopy] {bilateral} & [common carotid artery] {high osmolar contrast} {laser intraoperative}
+B3150ZZ* [fluoroscopy] {bilateral} & [common carotid artery] {high osmolar contrast}
+B315110* [fluoroscopy] {bilateral} & [common carotid artery] {low osmolar contrast} {laser intraoperative}
+B3151ZZ  [fluoroscopy] {bilateral} & [common carotid artery]
+B315Y10* [fluoroscopy] {bilateral} & [common carotid artery] {other contrast} {laser intraoperative}
+B315YZZ* [fluoroscopy] {bilateral} & [common carotid artery] {other contrast}
+B315ZZZ* [fluoroscopy] {bilateral} & [common carotid artery]
+B316010* [fluoroscopy] {right} & [internal carotid artery] {high osmolar contrast} {laser intraoperative}
+B3160ZZ* [fluoroscopy] {right} & [internal carotid artery] {high osmolar contrast}
+B316110* [fluoroscopy] {right} & [internal carotid artery] {low osmolar contrast} {laser intraoperative}
+B3161ZZ  [fluoroscopy] {right} & [internal carotid artery]
+B316Y10* [fluoroscopy] {right} & [internal carotid artery] {other contrast} {laser intraoperative}
+B316YZZ* [fluoroscopy] {right} & [internal carotid artery] {other contrast}
+B316ZZZ* [fluoroscopy] & [internal carotid artery] {right}
+B317010* [fluoroscopy] {left} & [internal carotid artery] {high osmolar contrast} {laser intraoperative}
+B3170ZZ* [fluoroscopy] {left} & [internal carotid artery] {high osmolar contrast}
+B317110* [fluoroscopy] {left} & [internal carotid artery] {low osmolar contrast} {laser intraoperative}
+B3171ZZ  [fluoroscopy] {left} & [internal carotid artery]
+B317Y10* [fluoroscopy] {left} & [internal carotid artery] {other contrast} {laser intraoperative}
+B317YZZ* [fluoroscopy] {left} & [internal carotid artery] {other contrast}
+B317ZZZ* [fluoroscopy] {left} & [internal carotid artery]
+B318010* [fluoroscopy] {bilateral} & [internal carotid artery] {high osmolar contrast} {laser intraoperative}
+B3180ZZ* [fluoroscopy] {bilateral} & [internal carotid artery] {high osmolar contrast}
+B318110* [fluoroscopy] {bilateral} & [internal carotid artery] {low osmolar contrast} {laser intraoperative}
+B3181ZZ  [fluoroscopy] {bilateral} & [internal carotid artery] 
+B318Y10* [fluoroscopy] {bilateral} & [internal carotid artery] {other contrast} {laser intraoperative}
+B318YZZ* [fluoroscopy] {bilateral} & [internal carotid artery] {other contrast}
+B318ZZZ* [fluoroscopy] {bilateral} & [internal carotid artery]
+B319010* [fluoroscopy] {right} & [external carotid artery] {high osmolar contrast} {laser intraoperative}
+B3190ZZ* [fluoroscopy] {right} & [external carotid artery] {high osmolar contrast}
+B319110* [fluoroscopy] {right} & [external carotid artery] {low osmolar contrast} {laser intraoperative}
+B3191ZZ  [fluoroscopy] {right} & [external carotid artery] 
+B319Y10* [fluoroscopy] {right} & [external carotid artery] {other contrast} {laser intraoperative}
+B319YZZ* [fluoroscopy] {right} & [external carotid artery] {other contrast}
+B319ZZZ* [fluoroscopy] {right} & [external carotid artery]
+B31B010* [fluoroscopy] {left} & [external carotid artery] {high osmolar contrast} {laser intraoperative}
+B31B0ZZ* [fluoroscopy] {left} & [external carotid artery] {high osmolar contrast}
+B31B110* [fluoroscopy] {left} & [external carotid artery] {low osmolar contrast} {laser intraoperative}
+B31B1ZZ  [fluoroscopy] {left} & [external carotid artery] 
+B31BY10* [fluoroscopy] {left} & [external carotid artery] {other contrast} {laser intraoperative}
+B31BYZZ* [fluoroscopy] {left} & [external carotid artery] {other contrast}
+B31BZZZ* [fluoroscopy] {left} & [external carotid artery]
+B31C010* [fluoroscopy] {bilateral} & [external carotid artery] {high osmolar contrast} {laser intraoperative}
+B31C0ZZ* [fluoroscopy] {bilateral} & [external carotid artery] {high osmolar contrast}
+B31C110* [fluoroscopy] {bilateral} & [external carotid artery] {low osmolar contrast} {laser intraoperative}
+B31C1ZZ  [fluoroscopy] {bilateral} & [external carotid artery] 
+B31CY10* [fluoroscopy] {bilateral} & [external carotid artery] {other contrast} {laser intraoperative}
+B31CYZZ* [fluoroscopy] {bilateral} & [external carotid artery] {other contrast}
+B31CZZZ* [fluoroscopy] {bilateral} & [external carotid artery]
+B31D010* [fluoroscopy] {right} & [vertebral artery] {high osmolar contrast} {laser intraoperative}
+B31D0ZZ* [fluoroscopy] {right} & [vertebral artery] {high osmolar contrast}
+B31D110* [fluoroscopy] {right} & [vertebral artery] {low osmolar contrast} {laser intraoperative}
+B31D1ZZ  [fluoroscopy] {right} & [vertebral artery]
+B31DY10* [fluoroscopy] {right} & [vertebral artery] {other contrast} {laser intraoperative}
+B31DYZZ* [fluoroscopy] {right} & [vertebral artery] {other contrast}
+B31DZZZ* [fluoroscopy] {right} & [vertebral artery]
+B31F010* [fluoroscopy] {left} & [vertebral artery] {high osmolar contrast} {laser intraoperative}
+B31F0ZZ* [fluoroscopy] {left} & [vertebral artery] {high osmolar contrast}
+B31F110* [fluoroscopy] {left} & [vertebral artery] {low osmolar contrast} {laser intraoperative}
+B31F1ZZ  [fluoroscopy] & [vertebral artery] {left}
+B31FY10* [fluoroscopy] {left} & [vertebral artery] {other contrast} {laser intraoperative}
+B31FYZZ* [fluoroscopy] {left} & [vertebral artery] {other contrast}
+B31FZZZ* [fluoroscopy] {left} & [vertebral artery]
+B31G010* [fluoroscopy] {bilateral} & [vertebral artery] {high osmolar contrast} {laser intraoperative}
+B31G0ZZ* [fluoroscopy] {bilateral} & [vertebral artery] {high osmolar contrast}
+B31G110* [fluoroscopy] {bilateral} & [vertebral artery] {low osmolar contrast} {laser intraoperative}
+B31G1ZZ  [fluoroscopy] {bilateral} & [vertebral artery] 
+B31GY10* [fluoroscopy] {bilateral} & [vertebral artery] {other contrast} {laser intraoperative}
+B31GYZZ* [fluoroscopy] {bilateral} & [vertebral artery] {other contrast}
+B31GZZZ* [fluoroscopy] {bilateral} & [vertebral artery]
+B31H010* [fluoroscopy] {left} & [upper extremity arteries] {high osmolar contrast} {laser intraoperative}
+B31H0ZZ* [fluoroscopy] {left} & [upper extremity arteries] {high osmolar contrast}
+B31H110* [fluoroscopy] {left} & [upper extremity arteries] {low osmolar contrast} {laser intraoperative}
+B31H1ZZ  [fluoroscopy] {left} & [upper extremity arteries] 
+B31HY10* [fluoroscopy] {left} & [upper extremity arteries] {other contrast} {laser intraoperative}
+B31HYZZ* [fluoroscopy] {left} & [upper extremity arteries] {other contrast}
+B31HZZZ* [fluoroscopy] {left} & [upper extremity arteries]
+B31J010* [fluoroscopy] {left} `upper extremity arteries` {high osmolar contrast} {laser intraoperative}
+B31J0ZZ* [fluoroscopy] {left} `upper extremity arteries` {high osmolar contrast}
+B31J110* [fluoroscopy] {left} `upper extremity arteries` {low osmolar contrast} {laser intraoperative}
+B31J1ZZ  [fluoroscopy] {left} `upper extremity arteries` 
+B31JY10* [fluoroscopy] {left} `upper extremity arteries` {other contrast} {laser intraoperative}
+B31JYZZ* [fluoroscopy] {left} `upper extremity arteries` {other contrast}
+B31JZZZ* [fluoroscopy] {left} `upper extremity arteries`
+B31K010* [fluoroscopy] {bilateral} & [upper extremity arteries] {high osmolar contrast} {laser intraoperative}
+B31K0ZZ* [fluoroscopy] {bilateral} & [upper extremity arteries] {high osmolar contrast}
+B31K110* [fluoroscopy] {bilateral} & [upper extremity arteries] {low osmolar contrast} {laser intraoperative}
+B31K1ZZ  [fluoroscopy] {bilateral} & [upper extremity arteries] 
+B31KY10* [fluoroscopy] {bilateral} & [upper extremity arteries] {other contrast} {laser intraoperative}
+B31KYZZ* [fluoroscopy] {bilateral} & [upper extremity arteries] {other contrast}
+B31KZZZ* [fluoroscopy] {bilateral} & [upper extremity arteries]
+B31L010* [fluoroscopy] & [intercostal and bronchial arteries] {high osmolar contrast} {laser intraoperative}
+B31L0ZZ* [fluoroscopy] & [intercostal and bronchial arteries] {high osmolar contrast}
+B31L110* [fluoroscopy] & [intercostal and bronchial arteries] {low osmolar contrast} {laser intraoperative}
+B31L1ZZ  [fluoroscopy] & [intercostal and bronchial arteries] 
+B31LY10* [fluoroscopy] & [intercostal and bronchial arteries] {other contrast} {laser intraoperative}
+B31LYZZ* [fluoroscopy] & [intercostal and bronchial arteries] {other contrast}
+B31LZZZ* [fluoroscopy] & [intercostal and bronchial arteries]
+B31M010* [fluoroscopy] & [spinal arteries] {high osmolar contrast} {laser intraoperative}
+B31M0ZZ* [fluoroscopy] & [spinal arteries] {high osmolar contrast}
+B31M110* [fluoroscopy] & [spinal arteries] {low osmolar contrast} {laser intraoperative}
+B31M1ZZ  [fluoroscopy] & [spinal arteries] 
+B31MY10* [fluoroscopy] & [spinal arteries] {other contrast} {laser intraoperative}
+B31MYZZ* [fluoroscopy] & [spinal arteries] {other contrast}
+B31MZZZ* [fluoroscopy] & [spinal arteries]
+B31N010* [fluoroscopy] & [other upper arteries] {high osmolar contrast} {laser intraoperative}
+B31N0ZZ* [fluoroscopy] & [other upper arteries] {high osmolar contrast}
+B31N110* [fluoroscopy] & [other upper arteries] {low osmolar contrast} {laser intraoperative}
+B31N1ZZ  [fluoroscopy] & [other upper arteries] 
+B31NY10* [fluoroscopy] & [other upper arteries] {other contrast} {laser intraoperative}
+B31NYZZ* [fluoroscopy] & [other upper arteries] {other contrast}
+B31NZZZ* [fluoroscopy] & [other upper arteries]
+B31P010* [fluoroscopy] & [thoraco-abdominal aorta] {high osmolar contrast} {laser intraoperative}
+B31P0ZZ* [fluoroscopy] & [thoraco-abdominal aorta] {high osmolar contrast}
+B31P110* [fluoroscopy] & [thoraco-abdominal aorta] {low osmolar contrast} {laser intraoperative}
+B31P1ZZ  [fluoroscopy] & [thoraco-abdominal aorta] 
+B31PY10* [fluoroscopy] & [thoraco-abdominal aorta] {other contrast} {laser intraoperative}
+B31PYZZ* [fluoroscopy] & [thoraco-abdominal aorta] {other contrast}
+B31PZZZ* [fluoroscopy] & [thoraco-abdominal aorta]
+B31Q010* [fluoroscopy] & [cervico-cerebral arch] {high osmolar contrast} {laser intraoperative}
+B31Q0ZZ* [fluoroscopy] & [cervico-cerebral arch] {high osmolar contrast}
+B31Q110* [fluoroscopy] & [cervico-cerebral arch] {low osmolar contrast} {laser intraoperative}
+B31Q1ZZ  [fluoroscopy] & [cervico-cerebral arch]  
+B31QY10* [fluoroscopy] & [cervico-cerebral arch] {other contrast} {laser intraoperative}
+B31QYZZ* [fluoroscopy] & [cervico-cerebral arch] {other contrast}
+B31QZZZ* [fluoroscopy] & [cervico-cerebral arch]
+B31R010* [fluoroscopy] & [intracranial arteries] {high osmolar contrast} {laser intraoperative}
+B31R0ZZ* [fluoroscopy] & [intracranial arteries] {high osmolar contrast}
+B31R110* [fluoroscopy] & [intracranial arteries] {low osmolar contrast} {laser intraoperative}
+B31R1ZZ  [fluoroscopy] & [intracranial arteries]
+B31RY10* [fluoroscopy] & [intracranial arteries] {other contrast} {laser intraoperative}
+B31RYZZ* [fluoroscopy] & [intracranial arteries] {other contrast}
+B31RZZZ* [fluoroscopy] & [intracranial arteries]
+B31S010* [fluoroscopy] {right} & [pulmonary artery] {high osmolar contrast} {laser intraoperative}
+B31S0ZZ* [fluoroscopy] {right} & [pulmonary artery] {high osmolar contrast}
+B31S110* [fluoroscopy] {right} & [pulmonary artery] {low osmolar contrast} {laser intraoperative}
+B31S1ZZ  [angiography] & [right pulmonary artery]
+B31SY10* [fluoroscopy] {right} & [pulmonary artery] {other contrast} {laser intraoperative}
+B31SYZZ* [fluoroscopy] {right} & [pulmonary artery] {other contrast}
+B31SZZZ* [fluoroscopy] {right} & [pulmonary artery]
+B31T010* [fluoroscopy] {left} & [pulmonary artery] {high osmolar contrast} {laser intraoperative}
+B31T0ZZ* [fluoroscopy] {left} & [pulmonary artery] {high osmolar contrast}
+B31T110* [fluoroscopy] {left} & [pulmonary artery] {low osmolar contrast} {laser intraoperative}
+B31T1ZZ  [angiography] & [left pulmonary artery] 
+B31TY10* [fluoroscopy] {left} & [pulmonary artery] {other contrast} {laser intraoperative}
+B31TYZZ* [fluoroscopy] {left} & [pulmonary artery] {other contrast}
+B31TZZZ* [fluoroscopy] {left} & [pulmonary artery]
+B340ZZ3* [ultrasonography]`thoracic aorta` {intravascular}
+B340ZZZ* [ultrasonography]`thoracic aorta`
+B341ZZ3* [ultrasonography] & [brachiocephalic-subclavian artery] {right} {intravascular}
+B341ZZZ* [ultrasonography] & [brachiocephalic-subclavian artery] {right}
+B342ZZ3* [ultrasonography] & [subclavian artery] {left} {intravascular}
+B342ZZZ* [ultrasonography] & [subclavian artery] {left}
+B343ZZ3* [ultrasonography] & [common carotid artery] {right} {intravascular}
+B343ZZZ* [ultrasonography] & [common carotid artery] {right}
+B344ZZ3* [ultrasonography] & [common carotid artery] {left} {intravascular}
+B344ZZZ* [ultrasonography] & [common carotid artery] {left}
+B345ZZ3* [ultrasonography] & [common carotid artery] {bilateral} {intravascular}
+B345ZZZ* [ultrasonography] {bilateral} `common carotid artery`
+B346ZZ3* [ultrasonography] & [internal carotid artery] {right} {intravascular}
+B346ZZZ* [ultrasonography] & [internal carotid artery] {right}
+B347ZZ3* [ultrasonography] & [internal carotid artery] {left} {intravascular}
+B347ZZZ* [ultrasonography] & [internal carotid artery] {left}
+B348ZZ3* [ultrasonography] {bilateral} `internal carotid artery` {intravascular}
+B348ZZZ* [ultrasonography] {bilateral} `internal carotid artery`
+B34HZZ3* [ultrasonography] {right} `upper extremity arteries` {intravascular}
+B34HZZZ* [ultrasonography] {right} `upper extremity arteries`
+B34JZZ3* [ultrasonography] {left} `upper extremity arteries` {intravascular}
+B34JZZZ* [ultrasonography] {left} `upper extremity arteries`
+B34KZZ3* [ultrasonography] {bilateral} `upper extremity arteries` {intravascular}
+B34KZZZ* [ultrasonography] {bilateral} `upper extremity arteries`
+B34RZZ3* [ultrasonography]`intracranial arteries` {intravascular}
+B34RZZZ* [ultrasonography]`intracranial arteries`
+B34SZZ3* [ultrasonography] {right} `pulmonary artery` {intravascular}
+B34SZZZ* [ultrasonography] {right} `pulmonary artery`
+B34TZZ3* [ultrasonography] {left} `pulmonary artery` {intravascular}
+B34TZZZ* [ultrasonography] {left} `pulmonary artery`
+B34VZZ3* [ultrasonography]`ophthalmic arteries` {intravascular}
+B34VZZZ* [ultrasonography]`ophthalmic arteries`
+B410010* [fluoroscopy]`abdominal aorta` {high osmolar contrast} {laser intraoperative}
+B4100ZZ* [fluoroscopy]`abdominal aorta` {high osmolar contrast}
+B410110* [fluoroscopy]`abdominal aorta` {low osmolar contrast} {laser intraoperative}
+B4101ZZ  [abdominal aortogram]
+B410Y10* [fluoroscopy]`abdominal aorta` {other contrast} {laser intraoperative}
+B410YZZ* [fluoroscopy]`abdominal aorta` {other contrast}
+B410ZZZ* [fluoroscopy]`abdominal aorta`
+B412010* [fluoroscopy]`hepatic artery` {high osmolar contrast} {laser intraoperative}
+B4120ZZ* [fluoroscopy]`hepatic artery` {high osmolar contrast}
+B412110* [fluoroscopy]`hepatic artery` {low osmolar contrast} {laser intraoperative}
+B4121ZZ* [fluoroscopy]`hepatic artery` {low osmolar contrast}
+B412Y10* [fluoroscopy]`hepatic artery` {other contrast} {laser intraoperative}
+B412YZZ* [fluoroscopy]`hepatic artery` {other contrast}
+B412ZZZ* [fluoroscopy]`hepatic artery`
+B413010* [fluoroscopy]`splenic arteries` {high osmolar contrast} {laser intraoperative}
+B4130ZZ* [fluoroscopy]`splenic arteries` {high osmolar contrast}
+B413110* [fluoroscopy]`splenic arteries` {low osmolar contrast} {laser intraoperative}
+B4131ZZ* [fluoroscopy]`splenic arteries` {low osmolar contrast}
+B413Y10* [fluoroscopy]`splenic arteries` {other contrast} {laser intraoperative}
+B413YZZ* [fluoroscopy]`splenic arteries` {other contrast}
+B413ZZZ* [fluoroscopy]`splenic arteries`
+B414010* [fluoroscopy]`superior mesenteric artery` {high osmolar contrast} {laser intraoperative}
+B4140ZZ* [fluoroscopy]`superior mesenteric artery` {high osmolar contrast}
+B414110* [fluoroscopy]`superior mesenteric artery` {low osmolar contrast} {laser intraoperative}
+B4141ZZ* [fluoroscopy]`superior mesenteric artery` {low osmolar contrast}
+B414Y10* [fluoroscopy]`superior mesenteric artery` {other contrast} {laser intraoperative}
+B414YZZ* [fluoroscopy]`superior mesenteric artery` {other contrast}
+B414ZZZ* [fluoroscopy]`superior mesenteric artery`
+B415010* [fluoroscopy]`inferior mesenteric artery` {high osmolar contrast} {laser intraoperative}
+B4150ZZ* [fluoroscopy]`inferior mesenteric artery` {high osmolar contrast}
+B415110* [fluoroscopy]`inferior mesenteric artery` {low osmolar contrast} {laser intraoperative}
+B4151ZZ* [fluoroscopy]`inferior mesenteric artery` {low osmolar contrast}
+B415Y10* [fluoroscopy]`inferior mesenteric artery` {other contrast} {laser intraoperative}
+B415YZZ* [fluoroscopy]`inferior mesenteric artery` {other contrast}
+B415ZZZ* [fluoroscopy]`inferior mesenteric artery`
+B416010* [fluoroscopy] {right} `renal artery` {high osmolar contrast} {laser intraoperative}
+B4160ZZ* [fluoroscopy] {right} `renal artery` {high osmolar contrast}
+B416110* [fluoroscopy] {right} `renal artery` {low osmolar contrast} {laser intraoperative}
+B4161ZZ  [angiography] {right} `renal artery` 
+B416Y10* [fluoroscopy] {right} `renal artery` {other contrast} {laser intraoperative}
+B416YZZ* [fluoroscopy] {right} `renal artery` {other contrast}
+B416ZZZ* [fluoroscopy] {right} `renal artery`
+B417010* [fluoroscopy] {left} `renal artery` {high osmolar contrast} {laser intraoperative}
+B4170ZZ* [fluoroscopy] {left} `renal artery` {high osmolar contrast}
+B417110* [fluoroscopy] {left} `renal artery` {low osmolar contrast} {laser intraoperative}
+B4171ZZ  [angiography] {left} `renal artery` 
+B417Y10* [fluoroscopy] {left} `renal artery` {other contrast} {laser intraoperative}
+B417YZZ* [fluoroscopy] {left} `renal artery` {other contrast}
+B417ZZZ* [fluoroscopy] {left} `renal artery`
+B418010* [fluoroscopy] {bilateral} `renal artery` {high osmolar contrast} {laser intraoperative}
+B4180ZZ* [fluoroscopy] {bilateral} `renal artery` {high osmolar contrast}
+B418110* [fluoroscopy] {bilateral} `renal artery` {low osmolar contrast} {laser intraoperative}
+B4181ZZ  [angiography] {bilateral} `renal artery`
+B418Y10* [fluoroscopy] {bilateral} `renal artery` {other contrast} {laser intraoperative}
+B418YZZ* [fluoroscopy] {bilateral} `renal artery` {other contrast}
+B418ZZZ* [fluoroscopy] {bilateral} `renal artery`
+B419010* [fluoroscopy]`lumbar artery` {high osmolar contrast} {laser intraoperative}
+B4190ZZ* [fluoroscopy]`lumbar artery` {high osmolar contrast}
+B419110* [fluoroscopy]`lumbar artery` {low osmolar contrast} {laser intraoperative}
+B4191ZZ* [fluoroscopy]`lumbar artery` {low osmolar contrast}
+B419Y10* [fluoroscopy]`lumbar artery` {other contrast} {laser intraoperative}
+B419YZZ* [fluoroscopy]`lumbar artery` {other contrast}
+B419ZZZ* [fluoroscopy]`lumbar artery`
+B41B010* [fluoroscopy]`other intra-abdominal arteries` {high osmolar contrast} {laser intraoperative}
+B41B0ZZ* [fluoroscopy]`other intra-abdominal arteries` {high osmolar contrast}
+B41B110* [fluoroscopy]`other intra-abdominal arteries` {low osmolar contrast} {laser intraoperative}
+B41B1ZZ* [fluoroscopy]`other intra-abdominal arteries` {low osmolar contrast}
+B41BY10* [fluoroscopy]`other intra-abdominal arteries` {other contrast} {laser intraoperative}
+B41BYZZ* [fluoroscopy]`other intra-abdominal arteries` {other contrast}
+B41BZZZ* [fluoroscopy]`other intra-abdominal arteries`
+B41C010* [fluoroscopy]`pelvic arteries` {high osmolar contrast} {laser intraoperative}
+B41C0ZZ* [fluoroscopy]`pelvic arteries` {high osmolar contrast}
+B41C110* [fluoroscopy]`pelvic arteries` {low osmolar contrast} {laser intraoperative}
+B41C1ZZ  [angiography] `pelvic arteries`
+B41CY10* [fluoroscopy]`pelvic arteries` {other contrast} {laser intraoperative}
+B41CYZZ* [fluoroscopy]`pelvic arteries` {other contrast}
+B41CZZZ* [fluoroscopy]`pelvic arteries`
+B41D010* [fluoroscopy]`aorta and bilateral lower extremity arteries` {high osmolar contrast} {laser intraoperative}
+B41D0ZZ* [fluoroscopy]`aorta and bilateral lower extremity arteries` {high osmolar contrast}
+B41D110* [fluoroscopy]`aorta and bilateral lower extremity arteries` {low osmolar contrast} {laser intraoperative}
+B41D1ZZ  [aortogram] & [angiography] `bilateral lower extremities` 
+B41DY10* [fluoroscopy]`aorta and bilateral lower extremity arteries` {other contrast} {laser intraoperative}
+B41DYZZ* [fluoroscopy]`aorta and bilateral lower extremity arteries` {other contrast}
+B41DZZZ* [fluoroscopy]`aorta and bilateral lower extremity arteries`
+B41F010* [fluoroscopy] {right} & [lower extremity] !{femoral approach} {high osmolar contrast} {laser intraoperative}
+B41F0ZZ* [fluoroscopy] {right} & [lower extremity] !{femoral approach} {high osmolar contrast}
+B41F110* [fluoroscopy] {right} & [lower extremity] !{femoral approach} {low osmolar contrast} {laser intraoperative}
+B41F1ZZ  [angiography] {right} & [lower extremity] !{femoral approach}
+B41FY10* [fluoroscopy] {right} & [lower extremity] !{femoral approach} {other contrast} {laser intraoperative}
+B41FYZZ* [fluoroscopy] {right} & [lower extremity] !{femoral approach} {other contrast}
+B41FZZZ* [fluoroscopy] {right} & [lower extremity] !{femoral approach}
+B41G010* [fluoroscopy] {left} & [lower extremity] !{femoral approach} {high osmolar contrast} {laser intraoperative}
+B41G0ZZ* [fluoroscopy] {left} & [lower extremity] !{femoral approach} {high osmolar contrast}
+B41G110* [fluoroscopy] {left} & [lower extremity] !{femoral approach} {low osmolar contrast} {laser intraoperative}
+B41G1ZZ  [angiography] {left} `lower extremity` !{femoral approach}
+B41GY10* [fluoroscopy] {left} & [lower extremity] !{femoral approach} {other contrast} {laser intraoperative}
+B41GYZZ* [fluoroscopy] {left} & [lower extremity] !{femoral approach} {other contrast}
+B41GZZZ* [fluoroscopy] {left} & [lower extremity] !{femoral approach}
+B41J010* [fluoroscopy]`other lower arteries` {high osmolar contrast} {laser intraoperative}
+B41J0ZZ* [fluoroscopy]`other lower arteries` {high osmolar contrast}
+B41J110* [fluoroscopy]`other lower arteries` {low osmolar contrast} {laser intraoperative}
+B41J1ZZ* [fluoroscopy]`other lower arteries` {low osmolar contrast}
+B41JY10* [fluoroscopy]`other lower arteries` {other contrast} {laser intraoperative}
+B41JYZZ* [fluoroscopy]`other lower arteries` {other contrast}
+B41JZZZ* [fluoroscopy]`other lower arteries`
+B440ZZ3* [ultrasonography]`abdominal aorta` {intravascular}
+B440ZZZ* [ultrasonography]`abdominal aorta`
+B444ZZ3* [ultrasonography]`superior mesenteric artery` {intravascular}
+B444ZZZ* [ultrasonography]`superior mesenteric artery`
+B445ZZ3* [ultrasonography]`inferior mesenteric artery` {intravascular}
+B445ZZZ* [ultrasonography]`inferior mesenteric artery`
+B446ZZ3* [ultrasonography] {right} `renal artery` {intravascular}
+B446ZZZ* [ultrasonography] {right} `renal artery`
+B447ZZ3* [ultrasonography] {left} `renal artery` {intravascular}
+B447ZZZ* [ultrasonography] {left} `renal artery`
+B448ZZ3* [ultrasonography] {bilateral} `renal artery` {intravascular}
+B448ZZZ* [ultrasonography] {bilateral} `renal artery`
+B44BZZ3* [ultrasonography]`other intra-abdominal arteries` {intravascular}
+B44BZZZ* [ultrasonography]`other intra-abdominal arteries`
+B44FZZ3* [ultrasonography] {right} `lower extremity arteries` {intravascular}
+B44FZZZ* [ultrasonography] {right} `lower extremity arteries`
+B44GZZ3* [ultrasonography] {left} `lower extremity arteries` {intravascular}
+B44GZZZ* [ultrasonography] {left} `lower extremity arteries`
+B44HZZ3* [ultrasonography] {bilateral} `lower extremity arteries` {intravascular}
+B44HZZZ* [ultrasonography] {bilateral} `lower extremity arteries`
+B44KZZ3* [ultrasonography]`celiac and mesenteric arteries` {intravascular}
+B44KZZZ* [ultrasonography]`celiac and mesenteric arteries`
+B44LZZ3* [ultrasonography]`femoral artery` {intravascular}
+B44LZZZ* [ultrasonography]`femoral artery`
+B44NZZ3* [ultrasonography]`penile arteries` {intravascular}
+B44NZZZ* [ultrasonography]`penile arteries`
+B50B1ZZ  [venogram] {right} `lower extremity veins`
+B50C1ZZ  [venogram] {left} `lower extremity veins`
+B5100ZA* [fluoroscopy] & [epidural veins] {high osmolar contrast} & [guidance]
+B5100ZZ* [fluoroscopy] & [epidural veins] {high osmolar contrast}
+B5101ZA* [fluoroscopy] & [epidural veins] {low osmolar contrast} & [guidance]
+B5101ZZ* [fluoroscopy] & [epidural veins] {low osmolar contrast}
+B510YZA* [fluoroscopy] & [epidural veins] {other contrast} & [guidance]
+B510YZZ* [fluoroscopy] & [epidural veins] {other contrast}
+B510ZZA* [fluoroscopy] & [epidural veins] & [guidance]
+B510ZZZ* [fluoroscopy] & [epidural veins]
+B5110ZA* [fluoroscopy] & [cerebral and cerebellar veins] {high osmolar contrast} & [guidance]
+B5110ZZ* [fluoroscopy] & [cerebral and cerebellar veins] {high osmolar contrast}
+B5111ZA* [fluoroscopy] & [cerebral and cerebellar veins] {low osmolar contrast} & [guidance]
+B5111ZZ* [fluoroscopy] & [cerebral and cerebellar veins] {low osmolar contrast}
+B511YZA* [fluoroscopy] & [cerebral and cerebellar veins] {other contrast} & [guidance]
+B511YZZ* [fluoroscopy] & [cerebral and cerebellar veins] {other contrast}
+B511ZZA* [fluoroscopy] & [cerebral and cerebellar veins] guidance
+B511ZZZ* [fluoroscopy] & [cerebral and cerebellar veins]
+B5120ZA* [fluoroscopy] & [intracranial sinuses] {high osmolar contrast} & [guidance]
+B5120ZZ* [fluoroscopy] & [intracranial sinuses] {high osmolar contrast}
+B5121ZA* [fluoroscopy] & [intracranial sinuses] {low osmolar contrast} & [guidance]
+B5121ZZ* [fluoroscopy] & [intracranial sinuses] {low osmolar contrast}
+B512YZA* [fluoroscopy] & [intracranial sinuses] {other contrast} & [guidance]
+B512YZZ* [fluoroscopy] & [intracranial sinuses] {other contrast}
+B512ZZA* [fluoroscopy] & [intracranial sinuses] & [guidance]
+B512ZZZ* [fluoroscopy] & [intracranial sinuses]
+B5130ZA* [fluoroscopy] {right} & [jugular veins] {high osmolar contrast} & [guidance]
+B5130ZZ* [fluoroscopy] {right} & [jugular veins] {high osmolar contrast}
+B5131ZA* [fluoroscopy] {right} & [jugular veins] {low osmolar contrast} & [guidance]
+B5131ZZ* [fluoroscopy] {right} & [jugular veins] {low osmolar contrast}
+B513YZA* [fluoroscopy] {right} & [jugular veins] {other contrast} & [guidance]
+B513YZZ* [fluoroscopy] {right} & [jugular veins] {other contrast}
+B513ZZA* [fluoroscopy] {right} & [jugular veins] & [guidance]
+B513ZZZ* [fluoroscopy] {right} & [jugular veins]
+B5140ZA* [fluoroscopy] {left} & [jugular veins] {high osmolar contrast} & [guidance]
+B5140ZZ* [fluoroscopy] {left} & [jugular veins] {high osmolar contrast}
+B5141ZA* [fluoroscopy] {left} & [jugular veins] {low osmolar contrast} & [guidance]
+B5141ZZ* [fluoroscopy] {left} & [jugular veins] {low osmolar contrast}
+B514YZA* [fluoroscopy] {left} & [jugular veins] {other contrast} & [guidance]
+B514YZZ* [fluoroscopy] {left} & [jugular veins] {other contrast}
+B514ZZA* [fluoroscopy] {left} & [jugular veins] & [guidance]
+B514ZZZ* [fluoroscopy] {left} & [jugular veins]
+B5150ZA* [fluoroscopy] {bilateral} & [jugular veins] {high osmolar contrast} & [guidance]
+B5150ZZ* [fluoroscopy] {bilateral} & [jugular veins] {high osmolar contrast}
+B5151ZA* [fluoroscopy] {bilateral} & [jugular veins] {low osmolar contrast} & [guidance]
+B5151ZZ* [fluoroscopy] {bilateral} & [jugular veins] {low osmolar contrast}
+B515YZA* [fluoroscopy] {bilateral} & [jugular veins] {other contrast} & [guidance]
+B515YZZ* [fluoroscopy] {bilateral} & [jugular veins] {other contrast}
+B515ZZA* [fluoroscopy] {bilateral} & [jugular veins] & [guidance]
+B515ZZZ* [fluoroscopy] {bilateral} & [jugular veins]
+B5160ZA* [fluoroscopy] {right} & [subclavian vein] {high osmolar contrast} & [guidance]
+B5160ZZ* [fluoroscopy] {right} & [subclavian vein] {high osmolar contrast}
+B5161ZA* [fluoroscopy] {right} & [subclavian vein] {low osmolar contrast} & [guidance]
+B5161ZZ* [fluoroscopy] {right} & [subclavian vein] {low osmolar contrast}
+B516YZA* [fluoroscopy] {right} & [subclavian vein] {other contrast} & [guidance]
+B516YZZ* [fluoroscopy] {right} & [subclavian vein] {other contrast}
+B516ZZA* [fluoroscopy] {right} & [subclavian vein] & [guidance]
+B516ZZZ* [fluoroscopy] {right} & [subclavian vein]
+B5170ZA* [fluoroscopy] {left} & [subclavian vein] {high osmolar contrast} & [guidance]
+B5170ZZ* [fluoroscopy] {left} & [subclavian vein] {high osmolar contrast}
+B5171ZA* [fluoroscopy] {left} & [subclavian vein] {low osmolar contrast} & [guidance]
+B5171ZZ* [fluoroscopy] {left} & [subclavian vein] {low osmolar contrast}
+B517YZA* [fluoroscopy] {left} & [subclavian vein] {other contrast} & [guidance]
+B517YZZ* [fluoroscopy] {left} & [subclavian vein] {other contrast}
+B517ZZA* [fluoroscopy] {left} & [subclavian vein] & [guidance]
+B517ZZZ* [fluoroscopy] {left} & [subclavian vein]
+B5180ZA* [fluoroscopy] & [superior vena cava] {high osmolar contrast} & [guidance]
+B5180ZZ* [fluoroscopy] & [superior vena cava] {high osmolar contrast}
+B5181ZA  [fluoroscopy] & [guidance] & [picc line] & ![biopsy]
+B5181ZZ* [fluoroscopy] & [superior vena cava] {low osmolar contrast}
+B518YZA* [fluoroscopy] & [superior vena cava] {other contrast} & [guidance]
+B518YZZ* [fluoroscopy] & [superior vena cava] {other contrast}
+B518ZZA* [fluoroscopy] & [picc line] & ![biopsy] & [guidance]
+B518ZZZ* [fluoroscopy] & [superior vena cava]
+B5190ZA* [fluoroscopy] & [inferior vena cava] {high osmolar contrast} & [guidance]
+B5190ZZ* [fluoroscopy] & [inferior vena cava] {high osmolar contrast}
+B5191ZA* [fluoroscopy] & [inferior vena cava] {low osmolar contrast} & [guidance]
+B5191ZZ* [fluoroscopy] & [inferior vena cava] {low osmolar contrast}
+B519YZA* [fluoroscopy] & [inferior vena cava] {other contrast} & [guidance]
+B519YZZ* [fluoroscopy] & [inferior vena cava] {other contrast}
+B519ZZA* [fluoroscopy] & [inferior vena cava] & [guidance]
+B519ZZZ* [fluoroscopy] & [inferior vena cava]
+B51B0ZA* [fluoroscopy] {right} & [lower extremity veins] {high osmolar contrast} & [guidance]
+B51B0ZZ* [fluoroscopy] {right} & [lower extremity veins] {high osmolar contrast}
+B51B1ZA* [fluoroscopy] {right} & [lower extremity veins] {low osmolar contrast} & [guidance]
+B51B1ZZ  [venogram] {right} `lower extremity veins` & [fluoroscopy]
+B51BYZA* [fluoroscopy] {right} & [lower extremity veins] {other contrast} & [guidance]
+B51BYZZ* [fluoroscopy] {right} & [lower extremity veins] {other contrast}
+B51BZZA* [fluoroscopy] {right} & [lower extremity veins]& [guidance]
+B51BZZZ* [fluoroscopy] {right} `lower extremity veins`
+B51C0ZA* [fluoroscopy] {left} & [lower extremity veins] {high osmolar contrast} & [guidance]
+B51C0ZZ* [fluoroscopy] {left} & [lower extremity veins] {high osmolar contrast}
+B51C1ZA* [fluoroscopy] {left} & [lower extremity veins] {low osmolar contrast} & [guidance]
+B51C1ZZ  [venogram] {left} & [lower extremity veins] & [fluoroscopy]
+B51CYZA* [fluoroscopy] {left} & [lower extremity veins] {other contrast} & [guidance]
+B51CYZZ* [fluoroscopy] {left} & [lower extremity veins] {other contrast}
+B51CZZA* [fluoroscopy] {left} & [lower extremity veins] & [guidance]
+B51CZZZ* [fluoroscopy] {left} & [lower extremity veins]
+B51D0ZA* [fluoroscopy] {bilateral} & [lower extremity veins] {high osmolar contrast} & [guidance]
+B51D0ZZ* [fluoroscopy] {bilateral} & [lower extremity veins] {high osmolar contrast}
+B51D1ZA* [fluoroscopy] {bilateral} & [lower extremity veins] {low osmolar contrast} & [guidance]
+B51D1ZZ* [fluoroscopy] {bilateral} & [lower extremity veins] {low osmolar contrast}
+B51DYZA* [fluoroscopy] {bilateral} & [lower extremity veins] {other contrast} & [guidance]
+B51DYZZ* [fluoroscopy] {bilateral} & [lower extremity veins] {other contrast}
+B51DZZA* [fluoroscopy] {bilateral} & [lower extremity veins] & [guidance]
+B51DZZZ* [fluoroscopy] {bilateral} & [lower extremity veins]
+B51F0ZA* [fluoroscopy] {right} & [pelvic iliac veins] {high osmolar contrast} & [guidance]
+B51F0ZZ* [fluoroscopy] {right} & [pelvic iliac veins] {high osmolar contrast}
+B51F1ZA* [fluoroscopy] {right} & [pelvic iliac veins] {low osmolar contrast} & [guidance]
+B51F1ZZ* [fluoroscopy] {right} & [pelvic iliac veins] {low osmolar contrast}
+B51FYZA* [fluoroscopy] {right} & [pelvic iliac veins] {other contrast} & [guidance]
+B51FYZZ* [fluoroscopy] {right} & [pelvic iliac veins] {other contrast}
+B51FZZA* [fluoroscopy] {right} & [pelvic iliac veins] & [guidance]
+B51FZZZ* [fluoroscopy] {right} & [pelvic iliac veins]
+B51G0ZA* [fluoroscopy] {left} & [pelvic iliac veins] {high osmolar contrast} & [guidance]
+B51G0ZZ* [fluoroscopy] {left} & [pelvic iliac veins] {high osmolar contrast}
+B51G1ZA* [fluoroscopy] {left} & [pelvic iliac veins] {low osmolar contrast} & [guidance]
+B51G1ZZ* [fluoroscopy] {left} & [pelvic iliac veins] {low osmolar contrast}
+B51GYZA* [fluoroscopy] {left} & [pelvic iliac veins] {other contrast} & [guidance]
+B51GYZZ* [fluoroscopy] {left} & [pelvic iliac veins] {other contrast}
+B51GZZA* [fluoroscopy] {left} & [pelvic iliac veins] & [guidance]
+B51GZZZ* [fluoroscopy] {left} & [pelvic iliac veins]
+B51H0ZA* [fluoroscopy] {bilateral} & [pelvic iliac veins] {high osmolar contrast} & [guidance]
+B51H0ZZ* [fluoroscopy] {bilateral} & [pelvic iliac veins] {high osmolar contrast}
+B51H1ZA* [fluoroscopy] {bilateral} & [pelvic iliac veins] {low osmolar contrast} & [guidance]
+B51H1ZZ* [fluoroscopy] {bilateral} & [pelvic iliac veins] {low osmolar contrast}
+B51HYZA* [fluoroscopy] {bilateral} & [pelvic iliac veins] {other contrast} & [guidance]
+B51HYZZ* [fluoroscopy] {bilateral} & [pelvic iliac veins] {other contrast}
+B51HZZA* [fluoroscopy] {bilateral} & [pelvic iliac veins] & [guidance]
+B51HZZZ* [fluoroscopy] {bilateral} & [pelvic iliac veins]
+B51J0ZA* [fluoroscopy] {right} & [renal vein] {high osmolar contrast} & [guidance]
+B51J0ZZ* [fluoroscopy] {right} & [renal vein] {high osmolar contrast}
+B51J1ZA* [fluoroscopy] {right} & [renal vein] {low osmolar contrast} & [guidance]
+B51J1ZZ* [fluoroscopy] {right} & [renal vein] {low osmolar contrast}
+B51JYZA* [fluoroscopy] {right} & [renal vein] {other contrast} & [guidance]
+B51JYZZ* [fluoroscopy] {right} & [renal vein] {other contrast}
+B51JZZA* [fluoroscopy] {right} & [renal vein] & [guidance]
+B51JZZZ* [fluoroscopy] {right} & [renal vein]
+B51K0ZA* [fluoroscopy] {left} & [renal vein] {high osmolar contrast} & [guidance]
+B51K0ZZ* [fluoroscopy] {left} & [renal vein] {high osmolar contrast}
+B51K1ZA* [fluoroscopy] {left} & [renal vein] {low osmolar contrast} & [guidance]
+B51K1ZZ* [fluoroscopy] {left} & [renal vein] {low osmolar contrast}
+B51KYZA* [fluoroscopy] {left} & [renal vein] {other contrast} & [guidance]
+B51KYZZ* [fluoroscopy] {left} & [renal vein] {other contrast}
+B51KZZA* [fluoroscopy] {left} & [renal vein] & [guidance]
+B51KZZZ* [fluoroscopy] {left} & [renal vein]
+B51L0ZA* [fluoroscopy] {bilateral} & [renal vein] {high osmolar contrast} & [guidance]
+B51L0ZZ* [fluoroscopy] {bilateral} & [renal vein] {high osmolar contrast}
+B51L1ZA* [fluoroscopy] {bilateral} & [renal vein] {low osmolar contrast} & [guidance]
+B51L1ZZ* [fluoroscopy] {bilateral} & [renal vein] {low osmolar contrast}
+B51LYZA* [fluoroscopy] {bilateral} & [renal vein] {other contrast} & [guidance]
+B51LYZZ* [fluoroscopy] {bilateral} & [renal vein] {other contrast}
+B51LZZA* [fluoroscopy] {bilateral} & [renal vein] & [guidance]
+B51LZZZ* [fluoroscopy] {bilateral} & [renal vein]
+B51M0ZA* [fluoroscopy] {right} & [upper extremity veins] {high osmolar contrast} & [guidance]
+B51M0ZZ* [fluoroscopy] {right} & [upper extremity veins] {high osmolar contrast}
+B51M1ZA* [fluoroscopy] {right} & [upper extremity veins] {low osmolar contrast} & [guidance]
+B51M1ZZ* [fluoroscopy] {right} & [upper extremity veins] {low osmolar contrast}
+B51MYZA* [fluoroscopy] {right} & [upper extremity veins] {other contrast} & [guidance]
+B51MYZZ* [fluoroscopy] {right} & [upper extremity veins] {other contrast}
+B51MZZA* [fluoroscopy] {right} & [upper extremity veins] & [guidance]
+B51MZZZ* [fluoroscopy] {right} & [upper extremity veins]
+B51N0ZA* [fluoroscopy] {left} & [upper extremity veins] {high osmolar contrast} & [guidance]
+B51N0ZZ* [fluoroscopy] {left} & [upper extremity veins] {high osmolar contrast}
+B51N1ZA* [fluoroscopy] {left} & [upper extremity veins] {low osmolar contrast} & [guidance]
+B51N1ZZ* [fluoroscopy] {left} & [upper extremity veins] {low osmolar contrast}
+B51NYZA* [fluoroscopy] {left} & [upper extremity veins] {other contrast} & [guidance]
+B51NYZZ* [fluoroscopy] {left} & [upper extremity veins] {other contrast}
+B51NZZA* [fluoroscopy] {left} & [upper extremity veins] & [guidance]
+B51NZZZ* [fluoroscopy] {left} & [upper extremity veins]
+B51P0ZA* [fluoroscopy] {bilateral} & [upper extremity veins] {high osmolar contrast} & [guidance]
+B51P0ZZ* [fluoroscopy] {bilateral} & [upper extremity veins] {high osmolar contrast}
+B51P1ZA* [fluoroscopy] {bilateral} & [upper extremity veins] {low osmolar contrast} & [guidance]
+B51P1ZZ* [fluoroscopy] {bilateral} & [upper extremity veins] {low osmolar contrast}
+B51PYZA* [fluoroscopy] {bilateral} & [upper extremity veins] {other contrast} & [guidance]
+B51PYZZ* [fluoroscopy] {bilateral} & [upper extremity veins] {other contrast}
+B51PZZA* [fluoroscopy] {bilateral} & [upper extremity veins] & [guidance]
+B51PZZZ* [fluoroscopy] {bilateral} & [upper extremity veins]
+B51Q0ZA* [fluoroscopy] {right} & [pulmonary vein] {high osmolar contrast} & [guidance]
+B51Q0ZZ* [fluoroscopy] {right} & [pulmonary vein] {high osmolar contrast}
+B51Q1ZA* [fluoroscopy] {right} & [pulmonary vein] {low osmolar contrast} & [guidance]
+B51Q1ZZ* [fluoroscopy] {right} & [pulmonary vein] {low osmolar contrast}
+B51QYZA* [fluoroscopy] {right} & [pulmonary vein] {other contrast} & [guidance]
+B51QYZZ* [fluoroscopy] {right} & [pulmonary vein] {other contrast}
+B51QZZA* [fluoroscopy] {right} & [pulmonary vein] & [guidance]
+B51QZZZ* [fluoroscopy] {right} & [pulmonary vein]
+B51R0ZA* [fluoroscopy] {left} & [pulmonary vein] {high osmolar contrast} & [guidance]
+B51R0ZZ* [fluoroscopy] {left} & [pulmonary vein] {high osmolar contrast}
+B51R1ZA* [fluoroscopy] {left} & [pulmonary vein] {low osmolar contrast} & [guidance]
+B51R1ZZ* [fluoroscopy] {left} & [pulmonary vein] {low osmolar contrast}
+B51RYZA* [fluoroscopy] {left} & [pulmonary vein] {other contrast} & [guidance]
+B51RYZZ* [fluoroscopy] {left} & [pulmonary vein] {other contrast}
+B51RZZA* [fluoroscopy] {left} & [pulmonary vein] & [guidance]
+B51RZZZ* [fluoroscopy] {left} & [pulmonary vein]
+B51S0ZA* [fluoroscopy] {bilateral} & [pulmonary vein] {high osmolar contrast} & [guidance]
+B51S0ZZ* [fluoroscopy] {bilateral} & [pulmonary vein] {high osmolar contrast}
+B51S1ZA* [fluoroscopy] {bilateral} & [pulmonary vein] {low osmolar contrast} & [guidance]
+B51S1ZZ* [fluoroscopy] {bilateral} & [pulmonary vein] {low osmolar contrast}
+B51SYZA* [fluoroscopy] {bilateral} & [pulmonary vein] {other contrast} & [guidance]
+B51SYZZ* [fluoroscopy] {bilateral} & [pulmonary vein] {other contrast}
+B51SZZA* [fluoroscopy] {bilateral} & [pulmonary vein] & [guidance]
+B51SZZZ* [fluoroscopy] {bilateral} & [pulmonary vein]
+B51T0ZA* [fluoroscopy] & [portal and splanchnic veins] {high osmolar contrast} & [guidance]
+B51T0ZZ* [fluoroscopy] & [portal and splanchnic veins] {high osmolar contrast}
+B51T1ZA* [fluoroscopy] & [portal and splanchnic veins] {low osmolar contrast} & [guidance]
+B51T1ZZ* [fluoroscopy] & [portal and splanchnic veins] {low osmolar contrast}
+B51TYZA* [fluoroscopy] & [portal and splanchnic veins] {other contrast} & [guidance]
+B51TYZZ* [fluoroscopy] & [portal and splanchnic veins] {other contrast}
+B51TZZA* [fluoroscopy] & [portal and splanchnic veins] & [guidance]
+B51TZZZ* [fluoroscopy] & [portal and splanchnic veins]
+B51V0ZA* [fluoroscopy] & [other veins] {high osmolar contrast} & [guidance]
+B51V0ZZ* [fluoroscopy] & [other veins] {high osmolar contrast}
+B51V1ZA* [fluoroscopy] & [other veins] {low osmolar contrast} & [guidance]
+B51V1ZZ* [fluoroscopy] & [other veins] {low osmolar contrast}
+B51VYZA* [fluoroscopy] & [other veins] {other contrast} & [guidance]
+B51VYZZ* [fluoroscopy] & [other veins] {other contrast}
+B51VZZA* [fluoroscopy] & [other veins] & [guidance]
+B51VZZZ* [fluoroscopy] & [other veins]
+B51W0ZA* [fluoroscopy] & [dialysis shunt/fistula] {high osmolar contrast} & [guidance]
+B51W0ZZ* [fluoroscopy] & [dialysis shunt/fistula] {high osmolar contrast}
+B51W1ZA* [fluoroscopy] & [dialysis shunt/fistula] {low osmolar contrast} & [guidance]
+B51W1ZZ  [fistulogram]
+B51WYZA* [fluoroscopy] & [dialysis shunt/fistula] {other contrast} & [guidance]
+B51WYZZ* [fluoroscopy] & [dialysis shunt/fistula] {other contrast}
+B51WZZA* [fluoroscopy] & [dialysis shunt/fistula] & [guidance]
+B51WZZZ* [fluoroscopy] & [dialysis shunt/fistula]
+B543ZZ3* [ultrasonography] {right} & [jugular veins]{intravascular}
+B543ZZA  [ultrasonography] {right} & [jugular veins] & [guidance]
+B543ZZZ* [ultrasonography] {right} & [jugular veins]
+B544ZZ3* [ultrasonography] {left} & [jugular veins] {intravascular}
+B544ZZA  [ultrasonography] {left} & [jugular veins] & [guidance]
+B544ZZZ* [ultrasonography] {left} & [jugular veins]
+B546ZZ3* [ultrasonography] {right} & [subclavian vein] {intravascular}
+B546ZZA  [ultrasonography] {right} & [subclavian vein] & [guidance]
+B546ZZZ* [ultrasonography] {right} & [subclavian vein]
+B547ZZ3* [ultrasonography] {left} & [subclavian vein] {intravascular}
+B547ZZA  [ultrasonography] {left} & [subclavian vein] & [guidance]
+B547ZZZ* [ultrasonography] {left} & [subclavian vein]
+B548ZZ3* [ultrasonography] !{stay} & [superior vena cava] {intravascular}
+B548ZZA  [ultrasonography] & [picc line] & [guidance]
+B548ZZZ* [ultrasonography]`superior vena cava`
+B549ZZ3* [ultrasonography]`inferior vena cava` {intravascular}
+B549ZZA* [ultrasonography]`inferior vena cava` & [guidance]
+B549ZZZ* [ultrasonography]`inferior vena cava`
+B54BZZ3* [ultrasonography] {right} `lower extremity veins` {intravascular}
+B54BZZA* [ultrasonography] {right} `lower extremity veins` & [guidance]
+B54BZZZ* [ultrasonography] {right} `lower extremity veins`
+B54CZZ3  [intravascular ultrasonography] {left} `lower extremity`
+B54CZZA* [ultrasonography] {left} `lower extremity veins` & [guidance]
+B54CZZZ* [ultrasonography] {left} `lower extremity veins`
+B54DZZ3* [ultrasonography] {bilateral} & [lower extremity veins] {intravascular}
+B54DZZA* [ultrasonography] {bilateral} & [lower extremity veins] & [guidance]
+B54DZZZ* [ultrasonography] {bilateral} & [lower extremity veins]
+B54JZZ3* [ultrasonography] {right} & [renal vein] {intravascular}
+B54JZZA* [ultrasonography] {right} & [renal vein] & [guidance]
+B54JZZZ* [ultrasonography] {right} & [renal vein]
+B54KZZ3* [ultrasonography] {left} & [renal vein] {intravascular}
+B54KZZA* [ultrasonography] {left} & [renal vein] & [guidance]
+B54KZZZ* [ultrasonography] {left} & [renal vein]
+B54LZZ3* [ultrasonography] {bilateral} & [renal vein] {intravascular}
+B54LZZA* [ultrasonography] {bilateral} & [renal vein] & [guidance]
+B54LZZZ* [ultrasonography] {bilateral} & [renal vein]
+B54MZZ3* [ultrasonography] {right} & [upper extremity veins] {intravascular}
+B54MZZA* [ultrasonography] {right} & [upper extremity veins] & [guidance]
+B54MZZZ* [ultrasonography] {right} & [upper extremity veins]
+B54NZZ3* [ultrasonography] {left} & [upper extremity veins] {intravascular}
+B54NZZA* [ultrasonography] {left} & [upper extremity veins] & [guidance]
+B54NZZZ* [ultrasonography] {left} & [upper extremity veins]
+B54PZZ3* [ultrasonography] {bilateral} & [upper extremity veins] {intravascular}
+B54PZZA* [ultrasonography] {bilateral} & [upper extremity veins] & [guidance]
+B54PZZZ* [ultrasonography] {bilateral} & [upper extremity veins]
+B54TZZ3* [ultrasonography] & [portal and splanchnic veins] {intravascular}
+B54TZZA* [ultrasonography] & [portal and splanchnic veins] & [guidance]
+B54TZZZ* [ultrasonography] & [portal and splanchnic veins]
+B91GYZZ* [fluoroscopy]`pharynx and epiglottis` {other contrast}
+B91GZZZ* [fluoroscopy]`pharynx and epiglottis`
+B91JYZZ* [fluoroscopy]`larynx` {other contrast}
+B91JZZZ* [fluoroscopy]`larynx`
+BB12ZZZ* [fluoroscopy] {right} `lung`
+BB13ZZZ* [fluoroscopy] {left} `lung`
+BB14ZZZ* [fluoroscopy] {bilateral} `lung`
+BB16ZZZ* [fluoroscopy]`diaphragm`
+BB17YZZ* [fluoroscopy] {right} `tracheobronchial tree` {other contrast}
+BB18YZZ* [fluoroscopy] {left} `tracheobronchial tree` {other contrast}
+BB19YZZ* [fluoroscopy] {bilateral} `tracheobronchial tree` {other contrast}
+BB1CZZZ* [fluoroscopy]`mediastinum`
+BB1DZZZ* [fluoroscopy]`upper airways`
+BB4BZZZ* [ultrasonography]`pleura`
+BB4CZZZ* [ultrasonography]`mediastinum`
+BD11YZZ  [fluoroscopy] `esophagus` {other contrast}
+BD11ZZZ  [fluoroscopy] `esophagus`
+BD12YZZ  [fluoroscopy] `stomach` {other contrast}
+BD12ZZZ  [fluoroscopy] `stomach`
+BD13YZZ  [fluoroscopy] `small bowel` {other contrast}
+BD13ZZZ  [fluoroscopy] `small bowel`
+BD14YZZ  [fluoroscopy] `colon` {other contrast}
+BD14ZZZ  [fluoroscopy] `colon`
+BD15YZZ  [fluoroscopy] `upper gi` {other contrast}
+         [upper gi series] {other contrast}
+BD15ZZZ  [fluoroscopy] `upper gi`
+BD16YZZ  [fluoroscopy] `upper gi` `small bowel` {other contrast}
+BD16ZZZ  [fluoroscopy] `upper gi` `small bowel`
+BD19YZZ  [fluoroscopy] `duodenum` {other contrast}
+BD19ZZZ  [fluoroscopy] `duodenum`
+BD1BYZZ  [fluoroscopy] `mouth/oropharynx` {other contrast}
+BD1BZZZ  [fluoroscopy] `mouth/oropharynx`
+BD41ZZZ  [ultrasonography] !{stay} `esophagus`
+BD42ZZZ  [ultrasonography] !{stay} `stomach`
+BD47ZZZ  [ultrasonography] !{stay} `gastrointestinal tract`
+BD48ZZZ  [ultrasonography] !{stay} `appendix`
+BD49ZZZ  [ultrasonography] !{stay} `duodenum`
+BD4CZZZ  [ultrasonography] !{stay} `rectum`
+BF100ZZ  [intraoperative cholangiogram] {high osmolar contrast}
+BF101ZZ  [intraoperative cholangiogram] !{high osmolar contrast}
+BF10YZZ  [intraoperative cholangiogram] {other contrast}
+BF110ZZ  [fluoroscopy] `biliary and pancreatic ducts` {high osmolar contrast}
+BF111ZZ  [ercp] !{past status} & ![other ercp procedure]
+BF11YZZ  [fluoroscopy] `biliary and pancreatic ducts` {other contrast}
+BF120ZZ  [fluoroscopy] `gallbladder` {high osmolar contrast}
+BF121ZZ  [fluoroscopy] `gallbladder` 
+BF12YZZ  [fluoroscopy] `gallbladder` {other contrast}
+BF130ZZ  [fluoroscopy] `gallbladder and bile ducts` {high osmolar contrast}
+BF131ZZ  [fluoroscopy] `gallbladder` `bile ducts` 
+BF13YZZ  [fluoroscopy] `gallbladder` `bile ducts` {other contrast}
+BF140ZZ  [fluoroscopy] `gallbladder` `bile ducts` `pancreatic ducts` {high osmolar contrast}
+BF141ZZ  [fluoroscopy] `gallbladder` `bile ducts` `pancreatic ducts` 
+BF14YZZ  [fluoroscopy] `gallbladder` `bile ducts` `pancreatic ducts` {other contrast}
+BF180ZZ  [fluoroscopy] `pancreatic ducts` {high osmolar contrast}
+BF181ZZ  [fluoroscopy] `pancreatic ducts` 
+BF18YZZ  [fluoroscopy] `pancreatic ducts` {other contrast}
+BF50200  [other imaging] `bile ducts` {fluorescing agent} {indocyanine reen dye} {intraoperative} 
+BF5020Z  [other imaging] `bile ducts` {fluorescing agent} {indocyanine reen dye} {intraoperative} 
+BF502Z0  [other imaging] `bile ducts` {fluorescing agent} {intraoperative} 
+BF502ZZ  [other imaging] `bile ducts` {fluorescing Agent} 
+BF52200  [other imaging] `gallbladder` {fluorescing agent} {indocyanine reen dye} {intraoperative} 
+BF5220Z  [other imaging] `gallbladder` {fluorescing agent} {indocyanine reen dye} !{intraoperative} 
+BF522Z0  [other imaging] `gallbladder` {fluorescing agent} {intraoperative} 
+BF522ZZ  [other imaging] `gallbladder` {fluorescing agent} 
+BF53200  [other imaging] `gallbladder and bile ducts` {fluorescing agent} {indocyanine reen dye} {intraoperative} 
+BF5320Z  [other imaging] `gallbladder and bile ducts` {fluorescing agent} {indocyanine reen dye} 
+BF532Z0  [other imaging] `gallbladder and bile ducts` {fluorescing agent} {intraoperative} 
+BF532ZZ  [other imaging] `gallbladder and bile ducts` {fluorescing agent} !{intraoperative} 
+BF55200  [other imaging] `liver` {fluorescing agent} {indocyanine reen dye} {intraoperative} 
+BF5520Z  [other imaging] `liver` {fluorescing agent} {indocyanine reen dye} !{intraoperative} 
+BF552Z0  [other imaging] `liver` {fluorescing agent} Intraoperative 
+BF552ZZ  [other imaging] `liver` {fluorescing agent} 
+BF56200  [other imaging] `liver and spleen` {fluorescing agent} {indocyanine reen dye} {intraoperative} 
+BF5620Z  [other imaging] `liver and spleen` {fluorescing agent} {indocyanine reen dye} !{intraoperative} 
+BF562Z0  [other imaging] `liver and spleen` {fluorescing agent} {intraoperative} 
+BF562ZZ  [other imaging] `liver and spleen` {fluorescing agent} 
+BF57200  [other imaging] `pancreas` {fluorescing agent} {indocyanine reen dye} {intraoperative} 
+BF5720Z  [other imaging] `pancreas` {fluorescing agent} {indocyanine reen dye} !{intraoperative} 
+BF572Z0  [other imaging] `pancreas` {fluorescing agent} Intraoperative  
+BF572ZZ  [other imaging] `pancreas` {fluorescing agent} 
+BF5C200  [other imaging] `hepatobiliary system, all` {fluorescing agent} {indocyanine reen dye} {intraoperative} 
+BF5C20Z  [other imaging] `hepatobiliary system, all` {fluorescing agent} {indocyanine reen dye} 
+BF5C2Z0  [other imaging] `hepatobiliary system, all` {fluorescing agent} {intraoperative} 
+BF5C2ZZ  [other imaging] `hepatobiliary system, all` {fluorescing agent} !{intraoperative} 
+BG40ZZZ* [ultrasonography] {right} `adrenal gland`
+BG41ZZZ* [ultrasonography] {left} `adrenal gland`
+BG42ZZZ* [ultrasonography] {bilateral} `adrenal glands`
+BG43ZZZ* [ultrasonography] !{stay} `parathyroid glands`
+BG44ZZZ* [ultrasonography] !{stay} `thyroid gland`
+BH40ZZZ* [ultrasonography] {right} `breast`
+BH41ZZZ* [ultrasonography] {left} `breast`
+BH42ZZZ* [ultrasonography] {bilateral} `breast`
+BH47ZZZ* [ultrasonography] !{stay} `upper extremity`
+BH48ZZZ* [ultrasonography] !{stay} `lower extremity`
+BH49ZZZ* [ultrasonography] !{stay} `abdominal wall`
+BH4BZZZ* [ultrasonography] !{stay} `chest wall`
+BH4CZZZ* [ultrasonography] !{stay} `head and neck`
+BN170ZZ* [fluoroscopy] {right} `temporomandibular joint` {high osmolar contrast}
+BN171ZZ* [fluoroscopy] {right} `temporomandibular joint` {low osmolar contrast}
+BN17YZZ* [fluoroscopy] {right} `temporomandibular joint` {other contrast}
+BN17ZZZ* [fluoroscopy] {right} `temporomandibular joint`
+BN180ZZ* [fluoroscopy] {left} `temporomandibular joint` {high osmolar contrast}
+BN181ZZ* [fluoroscopy] {left} `temporomandibular joint` {low osmolar contrast}
+BN18YZZ* [fluoroscopy] {left} `temporomandibular joint` {other contrast}
+BN18ZZZ* [fluoroscopy] {left} `temporomandibular joint`
+BN190ZZ* [fluoroscopy] {bilateral} `temporomandibular joint` {high osmolar contrast}
+BN191ZZ* [fluoroscopy] {bilateral} `temporomandibular joint` {low osmolar contrast}
+BN19YZZ* [fluoroscopy] {bilateral} `temporomandibular joint` {other contrast}
+BN19ZZZ* [fluoroscopy] {bilateral} `temporomandibular joint`
+BP10ZZZ* [fluoroscopy] {right} `sternoclavicular joint`
+BP11ZZZ* [fluoroscopy] {left} `sternoclavicular joint`
+BP12ZZZ* [fluoroscopy] {bilateral} `sternoclavicular joint`
+BP13ZZZ* [fluoroscopy] {bilateral} `acromioclavicular joint`
+BP14ZZZ* [fluoroscopy] {right} `clavicle`
+BP15ZZZ* [fluoroscopy] {left} `clavicle`
+BP16ZZZ* [fluoroscopy] {right} `scapula`
+BP17ZZZ* [fluoroscopy] {left} `scapula`
+BP180ZZ* [fluoroscopy] {right} `shoulder` {high osmolar contrast}
+BP181ZZ* [fluoroscopy] {right} `shoulder` {low osmolar contrast}
+BP18YZZ* [fluoroscopy] {right} `shoulder` {other contrast}
+BP18ZZZ* [fluoroscopy] {right} `shoulder`
+BP190ZZ* [fluoroscopy] {left} `shoulder` {high osmolar contrast}
+BP191ZZ* [fluoroscopy] {left} `shoulder` {low osmolar contrast}
+BP19YZZ* [fluoroscopy] {left} `shoulder` {other contrast}
+BP19ZZZ* [fluoroscopy] {left} `shoulder`
+BP1AZZZ* [fluoroscopy] {right} `humerus`
+BP1BZZZ* [fluoroscopy] {left} `humerus`
+BP1C0ZZ* [fluoroscopy] {right} `hand/finger joint` {high osmolar contrast}
+BP1C1ZZ* [fluoroscopy] {right} `hand/finger joint` {low osmolar contrast}
+BP1CYZZ* [fluoroscopy] {right} `hand/finger joint` {other contrast}
+BP1D0ZZ* [fluoroscopy] {left} `hand/finger joint` {high osmolar contrast}
+BP1D1ZZ* [fluoroscopy] {left} `hand/finger joint` {low osmolar contrast}
+BP1DYZZ* [fluoroscopy] {left} `hand/finger joint` {other contrast}
+BP1EZZZ* [fluoroscopy] {right} `upper arm`
+BP1FZZZ* [fluoroscopy] {left} `upper arm`
+BP1G0ZZ* [fluoroscopy] {right} `elbow` {high osmolar contrast}
+BP1G1ZZ* [fluoroscopy] {right} `elbow` {low osmolar contrast}
+BP1GYZZ* [fluoroscopy] {right} `elbow` {other contrast}
+BP1H0ZZ* [fluoroscopy] {left} `elbow` {high osmolar contrast}
+BP1H1ZZ* [fluoroscopy] {left} `elbow` {low osmolar contrast}
+BP1HYZZ* [fluoroscopy] {left} `elbow` {other contrast}
+BP1JZZZ* [fluoroscopy] {right} `forearm`
+BP1KZZZ* [fluoroscopy] {left} `forearm`
+BP1L0ZZ* [fluoroscopy] {right} `wrist` {high osmolar contrast}
+BP1L1ZZ* [fluoroscopy] {right} `wrist` {low osmolar contrast}
+BP1LYZZ* [fluoroscopy] {right} `wrist` {other contrast}
+BP1LZZZ* [fluoroscopy] {right} `wrist`
+BP1M0ZZ* [fluoroscopy] {left} `wrist` {high osmolar contrast}
+BP1M1ZZ* [fluoroscopy] {left} `wrist` {low osmolar contrast}
+BP1MYZZ* [fluoroscopy] {left} `wrist` {other contrast}
+BP1MZZZ* [fluoroscopy] {left} `wrist`
+BP1NZZZ* [fluoroscopy] {right} `hand`
+BP1PZZZ* [fluoroscopy] {left} `hand`
+BP1RZZZ* [fluoroscopy] {right} `finger`
+BP1SZZZ* [fluoroscopy] {left} `finger`
+BP1XZZZ* [fluoroscopy] {right} `ribs`
+BP1YZZZ* [fluoroscopy] {left} `ribs`
+BP48ZZ1* [ultrasonography] {right} `shoulder` {densitometry}
+BP48ZZZ* [ultrasonography] {right} `shoulder`
+BP49ZZ1* [ultrasonography] {left} `shoulder` {densitometry}
+BP49ZZZ* [ultrasonography] {left} `shoulder`
+BP4GZZ1* [ultrasonography] {right} `elbow` {densitometry}
+BP4GZZZ* [ultrasonography] {right} `elbow`
+BP4HZZ1* [ultrasonography] {left} `elbow` {densitometry}
+BP4HZZZ* [ultrasonography] {left} `elbow`
+BP4LZZ1* [ultrasonography] {right} `wrist` {densitometry}
+BP4LZZZ* [ultrasonography] {right} `wrist`
+BP4MZZ1* [ultrasonography] {left} `wrist` {densitometry}
+BP4MZZZ* [ultrasonography] {left} `wrist`
+BP4NZZ1* [ultrasonography] {right} `hand` {densitometry}
+BP4NZZZ* [ultrasonography] {right} `hand`
+BP4PZZ1* [ultrasonography] {left} `hand` {densitometry}
+BP4PZZZ* [ultrasonography] {left} `hand`
+BQ100ZZ* [fluoroscopy] {right} `hip` {high osmolar contrast}
+BQ101ZZ* [fluoroscopy] {right} `hip` {low osmolar contrast}
+BQ10YZZ* [fluoroscopy] {right} `hip` {other contrast}
+BQ10ZZZ* [fluoroscopy] {right} `hip`
+BQ110ZZ* [fluoroscopy] {left} `hip` {high osmolar contrast}
+BQ111ZZ* [fluoroscopy] {left} `hip` {low osmolar contrast}
+BQ11YZZ* [fluoroscopy] {left} `hip` {other contrast}
+BQ11ZZZ* [fluoroscopy] {left} `hip`
+BQ13ZZZ* [fluoroscopy] {right} `femur`
+BQ14ZZZ* [fluoroscopy] {left} `femur`
+BQ170ZZ* [fluoroscopy] {right} `knee` {high osmolar contrast}
+BQ171ZZ* [fluoroscopy] {right} `knee` {low osmolar contrast}
+BQ17YZZ* [fluoroscopy] {right} `knee` {other contrast}
+BQ17ZZZ* [fluoroscopy] {right} `knee`
+BQ180ZZ* [fluoroscopy] {left} `knee` {high osmolar contrast}
+BQ181ZZ* [fluoroscopy] {left} `knee` {low osmolar contrast}
+BQ18YZZ* [fluoroscopy] {left} `knee` {other contrast}
+BQ18ZZZ* [fluoroscopy] {left} `knee`
+BQ1DZZZ* [fluoroscopy] {right} `lower leg`
+BQ1FZZZ* [fluoroscopy] {left} `lower leg`
+BQ1G0ZZ* [fluoroscopy] {right} `ankle` {high osmolar contrast}
+BQ1G1ZZ* [fluoroscopy] {right} `ankle` {low osmolar contrast}
+BQ1GYZZ* [fluoroscopy] {right} `ankle` {other contrast}
+BQ1GZZZ* [fluoroscopy] {right} `ankle`
+BQ1H0ZZ* [fluoroscopy] {left} `ankle` {high osmolar contrast}
+BQ1H1ZZ* [fluoroscopy] {left} `ankle` {low osmolar contrast}
+BQ1HYZZ* [fluoroscopy] {left} `ankle` {other contrast}
+BQ1HZZZ* [fluoroscopy] {left} `ankle`
+BQ1JZZZ* [fluoroscopy] {right} `calcaneus`
+BQ1KZZZ* [fluoroscopy] {left} `calcaneus`
+BQ1LZZZ* [fluoroscopy] {right} `foot`
+BQ1MZZZ* [fluoroscopy] {left} `foot`
+BQ1PZZZ* [fluoroscopy] {right} `toe`
+BQ1QZZZ* [fluoroscopy] {left} `toe`
+BQ1VZZZ* [fluoroscopy] {right} `patella`
+BQ1WZZZ* [fluoroscopy] {left} `patella`
+BQ1X0ZZ* [fluoroscopy] {right} `foot/toe joint` {high osmolar contrast}
+BQ1X1ZZ* [fluoroscopy] {right} `foot/toe joint` {low osmolar contrast}
+BQ1XYZZ* [fluoroscopy] {right} `foot/toe joint` {other contrast}
+BQ1XZZZ* [fluoroscopy] {right} `foot/toe joint`
+BQ1Y0ZZ* [fluoroscopy] {left} `foot/toe joint` {high osmolar contrast}
+BQ1Y1ZZ* [fluoroscopy] {left} `foot/toe joint` {low osmolar contrast}
+BQ1YYZZ* [fluoroscopy] {left} `foot/toe joint` {other contrast}
+BQ1YZZZ* [fluoroscopy] {left} `foot/toe joint`
+BR100ZZ* [fluoroscopy]`cervical spine` {high osmolar contrast}
+BR101ZZ  [fluoroscopy] `cervical spine`
+BR10YZZ* [fluoroscopy]`cervical spine` {other contrast}
+BR10ZZZ* [fluoroscopy]`cervical spine`
+BR110ZZ* [fluoroscopy]`cervical disc` {high osmolar contrast}
+BR111ZZ  [fluoroscopy] `cervical disc`
+BR11YZZ* [fluoroscopy]`cervical disc` {other contrast}
+BR11ZZZ* [fluoroscopy]`cervical disc`
+BR120ZZ* [fluoroscopy]`thoracic disc` {high osmolar contrast}
+BR121ZZ  [fluoroscopy] `thoracic disc` 
+BR12YZZ* [fluoroscopy]`thoracic disc` {other contrast}
+BR12ZZZ* [fluoroscopy]`thoracic disc`
+BR130ZZ* [fluoroscopy]`lumbar disc` {high osmolar contrast}
+BR131ZZ  [fluoroscopy] `lumbar disc` 
+BR13YZZ* [fluoroscopy]`lumbar disc` {other contrast}
+BR13ZZZ* [fluoroscopy]`lumbar disc`
+BR140ZZ* [fluoroscopy]`cervical facet joint` {high osmolar contrast}
+BR141ZZ  [fluoroscopy] `cervical facet joint` 
+BR14YZZ* [fluoroscopy]`cervical facet joint` {other contrast}
+BR14ZZZ* [fluoroscopy]`cervical facet joint`
+BR150ZZ* [fluoroscopy]`thoracic facet joint` {high osmolar contrast}
+BR151ZZ  [fluoroscopy] `thoracic facet joint` 
+BR15YZZ* [fluoroscopy]`thoracic facet joint` {other contrast}
+BR15ZZZ* [fluoroscopy]`thoracic facet joint`
+BR160ZZ* [fluoroscopy]`lumbar facet joint` {high osmolar contrast}
+BR161ZZ  [fluoroscopy] `lumbar facet joint` 
+BR16YZZ* [fluoroscopy]`lumbar facet joint` {other contrast}
+BR16ZZZ* [fluoroscopy]`lumbar facet joint`
+BR170ZZ* [fluoroscopy]`thoracic spine` {high osmolar contrast}
+BR171ZZ  [fluoroscopy] `thoracic spine` 
+BR17YZZ* [fluoroscopy]`thoracic spine` {other contrast}
+BR17ZZZ* [fluoroscopy]`thoracic spine`
+BR180ZZ* [fluoroscopy]`thoracolumbar joint` {high osmolar contrast}
+BR181ZZ  [fluoroscopy] `thoracolumbar joint` 
+BR18YZZ* [fluoroscopy]`thoracolumbar joint` {other contrast}
+BR18ZZZ* [fluoroscopy]`thoracolumbar joint`
+BR190ZZ* [fluoroscopy]`lumbar spine` {high osmolar contrast}
+BR191ZZ  [fluoroscopy] `lumbar spine` 
+BR19YZZ* [fluoroscopy]`lumbar spine` {other contrast}
+BR19ZZZ* [fluoroscopy]`lumbar spine`
+BR1B0ZZ* [fluoroscopy]`lumbosacral joint` {high osmolar contrast}
+BR1B1ZZ  [fluoroscopy] `lumbosacral joint` & ![fusion]
+BR1BYZZ* [fluoroscopy]`lumbosacral joint` {other contrast}
+BR1BZZZ* [fluoroscopy]`lumbosacral joint`
+BR1C0ZZ* [fluoroscopy]`pelvis` {high osmolar contrast}
+BR1C1ZZ  [fluoroscopy] `pelvis` 
+BR1CYZZ* [fluoroscopy]`pelvis` {other contrast}
+BR1CZZZ* [fluoroscopy]`pelvis`
+BR1D0ZZ* [fluoroscopy]`sacroiliac joints` {high osmolar contrast}
+BR1D1ZZ  [fluoroscopy] `sacroiliac joints` 
+BR1DYZZ* [fluoroscopy]`sacroiliac joints` {other contrast}
+BR1DZZZ* [fluoroscopy]`sacroiliac joints`
+BR1F0ZZ* [fluoroscopy]`sacrum and coccyx` {high osmolar contrast}
+BR1F1ZZ  [fluoroscopy] `sacrum and coccyx` 
+BR1FYZZ* [fluoroscopy]`sacrum and coccyx` {other contrast}
+BR1FZZZ* [fluoroscopy]`sacrum and coccyx`
+BR1G0ZZ* [fluoroscopy]`whole spine` {high osmolar contrast}
+BR1G1ZZ  [fluoroscopy] `whole spine` 
+BR1GYZZ* [fluoroscopy]`whole spine` {other contrast}
+BR1GZZZ* [fluoroscopy]`whole spine`
+BR1H0ZZ* [fluoroscopy]`sternum` {high osmolar contrast}
+BR1H1ZZ  [fluoroscopy] `sternum` 
+BR1HYZZ* [fluoroscopy]`sternum` {other contrast}
+BR1HZZZ* [fluoroscopy]`sternum`
+BR40ZZZ* [ultrasonography]`cervical spine`
+BR47ZZZ* [ultrasonography]`thoracic spine`
+BR49ZZZ* [ultrasonography]`lumbar spine`
+BR4FZZZ* [ultrasonography]`sacrum and coccyx`
+BT100ZZ* [fluoroscopy]`bladder` {high osmolar contrast}
+BT101ZZ* [fluoroscopy]`bladder` {low osmolar contrast}
+BT10YZZ* [fluoroscopy]`bladder` {other contrast}
+BT10ZZZ* [fluoroscopy]`bladder`
+BT110ZZ* [fluoroscopy] {right} `kidney` {high osmolar contrast}
+BT111ZZ  [fluoroscopy] {right} `kidney`
+BT11YZZ* [fluoroscopy] {right} `kidney` {other contrast}
+BT11ZZZ* [fluoroscopy] {right} `kidney`
+BT120ZZ* [fluoroscopy] {left} `kidney` {high osmolar contrast}
+BT121ZZ* [fluoroscopy] {left} `kidney` {low osmolar contrast}
+BT12YZZ* [fluoroscopy] {left} `kidney` {other contrast}
+BT12ZZZ* [fluoroscopy] {left} `kidney`
+BT130ZZ* [fluoroscopy] {bilateral} `kidney` {high osmolar contrast}
+BT131ZZ* [fluoroscopy] {bilateral} `kidney` {low osmolar contrast}
+BT13YZZ* [fluoroscopy] {bilateral} `kidney` {other contrast}
+BT13ZZZ* [fluoroscopy] {bilateral} `kidney`
+BT140ZZ* [fluoroscopy]`kidneys, ureters and bladder` {high osmolar contrast}
+BT141ZZ  [retrograde ureteropyelograms]
+BT14YZZ* [fluoroscopy]`kidneys, ureters and bladder` {other contrast}
+BT14ZZZ  [bilateral retrograde pyelograms]
+BT150ZZ* [fluoroscopy]`urethra` {high osmolar contrast}
+BT151ZZ* [fluoroscopy]`urethra` {low osmolar contrast}
+BT15YZZ* [fluoroscopy]`urethra` {other contrast}
+BT15ZZZ* [fluoroscopy]`urethra`
+BT160ZZ* [fluoroscopy] {right} `ureter` {high osmolar contrast}
+BT161ZZ* [fluoroscopy] {right} `ureter` {low osmolar contrast}
+BT16YZZ* [fluoroscopy] {right} `ureter` {other contrast}
+BT16ZZZ* [fluoroscopy] {right} `ureter`
+BT170ZZ* [fluoroscopy] {left} `ureter` {high osmolar contrast}
+BT171ZZ* [fluoroscopy] {left} `ureter` {low osmolar contrast}
+BT17YZZ* [fluoroscopy] {left} `ureter` {other contrast}
+BT17ZZZ* [fluoroscopy] {left} `ureter`
+BT1B0ZZ* [fluoroscopy]`bladder and urethra` {high osmolar contrast}
+BT1B1ZZ* [fluoroscopy]`bladder and urethra` {low osmolar contrast}
+BT1BYZZ* [fluoroscopy]`bladder and urethra` {other contrast}
+BT1BZZZ* [fluoroscopy]`bladder and urethra`
+BT1C0ZZ* [fluoroscopy]`ileal diversion loop` {high osmolar contrast}
+BT1C1ZZ* [fluoroscopy]`ileal diversion loop` {low osmolar contrast}
+BT1CYZZ* [fluoroscopy]`ileal diversion loop` {other contrast}
+BT1CZZZ* [fluoroscopy]`ileal diversion loop`
+BT1D0ZZ* [fluoroscopy] {right} `kidney, ureter and bladder` {high osmolar contrast}
+BT1D1ZZ  [right retrograde pyelogram]
+BT1DYZZ* [fluoroscopy] {right} `kidney, ureter and bladder` {other contrast}
+BT1DZZZ* [fluoroscopy] {right} `kidney, ureter and bladder`
+BT1F0ZZ* [fluoroscopy] {left} `kidney, ureter and bladder` {high osmolar contrast}
+BT1F1ZZ* [fluoroscopy] {left} `kidney, ureter and bladder` {low osmolar contrast}
+BT1FYZZ* [fluoroscopy] {left} `kidney, ureter and bladder` {other contrast}
+BT1FZZZ  [left retrograde pyelogram]
+BT1G0ZZ* [fluoroscopy]`ileal loop, ureters and kidneys` {high osmolar contrast}
+BT1G1ZZ* [fluoroscopy]`ileal loop, ureters and kidneys` {low osmolar contrast}
+BT1GYZZ* [fluoroscopy]`ileal loop, ureters and kidneys` {other contrast}
+BT1GZZZ* [fluoroscopy]`ileal loop, ureters and kidneys`
+BT40ZZZ* [ultrasonography]`bladder`
+BT41ZZZ* [ultrasonography] {right} `kidney`
+BT42ZZZ* [ultrasonography] {left} `kidney`
+BT43ZZZ* [ultrasonography] {bilateral} `kidney`
+BT45ZZZ* [ultrasonography]`urethra`
+BT46ZZZ* [ultrasonography] {right} `ureter`
+BT47ZZZ* [ultrasonography] {left} `ureter`
+BT48ZZZ* [ultrasonography] {bilateral} `ureter`
+BT49ZZZ* [ultrasonography]`kidney transplant`
+BT4JZZZ* [ultrasonography]`kidneys and bladder`
+BU100ZZ* [fluoroscopy] {right} `fallopian tube` {high osmolar contrast}
+BU101ZZ* [fluoroscopy] {right} `fallopian tube` {low osmolar contrast}
+BU10YZZ* [fluoroscopy] {right} `fallopian tube` {other contrast}
+BU10ZZZ* [fluoroscopy] {right} `fallopian tube`
+BU110ZZ* [fluoroscopy] {left} `fallopian tube` {high osmolar contrast}
+BU111ZZ* [fluoroscopy] {left} `fallopian tube` {low osmolar contrast}
+BU11YZZ* [fluoroscopy] {left} `fallopian tube` {other contrast}
+BU11ZZZ* [fluoroscopy] {left} `fallopian tube`
+BU120ZZ* [fluoroscopy] {bilateral} `fallopian tube` {high osmolar contrast}
+BU121ZZ* [fluoroscopy] {bilateral} `fallopian tube` {low osmolar contrast}
+BU12YZZ* [fluoroscopy] {bilateral} `fallopian tube` {other contrast}
+BU12ZZZ* [fluoroscopy] {bilateral} `fallopian tube`
+BU160ZZ* [fluoroscopy]`uterus` {high osmolar contrast}
+BU161ZZ* [fluoroscopy]`uterus` {low osmolar contrast}
+BU16YZZ* [fluoroscopy]`uterus` {other contrast}
+BU16ZZZ* [fluoroscopy]`uterus`
+BU180ZZ* [fluoroscopy]`uterus and fallopian tubes` {high osmolar contrast}
+BU181ZZ* [fluoroscopy]`uterus and fallopian tubes` {low osmolar contrast}
+BU18YZZ* [fluoroscopy]`uterus and fallopian tubes` {other contrast}
+BU18ZZZ* [fluoroscopy]`uterus and fallopian tubes`
+BU190ZZ* [fluoroscopy]`vagina` {high osmolar contrast}
+BU191ZZ* [fluoroscopy]`vagina` {low osmolar contrast}
+BU19YZZ* [fluoroscopy]`vagina` {other contrast}
+BU19ZZZ* [fluoroscopy]`vagina`
+BU40YZZ* [ultrasonography] {right} `fallopian tube` {other contrast}
+BU40ZZZ* [ultrasonography] {right} `fallopian tube`
+BU41YZZ* [ultrasonography] {left} `fallopian tube` {other contrast}
+BU41ZZZ* [ultrasonography] {left} `fallopian tube`
+BU42YZZ* [ultrasonography] {bilateral} `fallopian tube` {other contrast}
+BU42ZZZ* [ultrasonography] {bilateral} `fallopian tube`
+BU43YZZ* [ultrasonography] {right} `ovary` {other contrast}
+BU43ZZZ* [ultrasonography] {right} `ovary`
+BU44YZZ* [ultrasonography] {left} `ovary` {other contrast}
+BU44ZZZ* [ultrasonography] {left} `ovary`
+BU45YZZ* [ultrasonography] {bilateral} `ovary` {other contrast}
+BU45ZZZ* [ultrasonography] {bilateral} `ovary`
+BU46YZZ* [ultrasonography]`uterus` {other contrast}
+BU46ZZZ* [ultrasonography]`uterus`
+BU4CYZZ* [ultrasonography]`uterus and ovaries` {other contrast}
+BU4CZZZ* [ultrasonography]`uterus and ovaries`
+BV100ZZ* [fluoroscopy]`corpora cavernosa` {high osmolar contrast}
+BV101ZZ* [fluoroscopy]`corpora cavernosa` {low osmolar contrast}
+BV10YZZ* [fluoroscopy]`corpora cavernosa` {other contrast}
+BV10ZZZ* [fluoroscopy]`corpora cavernosa`
+BV180ZZ* [fluoroscopy]`vasa vasorum` {high osmolar contrast}
+BV181ZZ* [fluoroscopy]`vasa vasorum` {low osmolar contrast}
+BV18YZZ* [fluoroscopy]`vasa vasorum` {other contrast}
+BV18ZZZ* [fluoroscopy]`vasa vasorum`
+BV44ZZZ* [ultrasonography]`scrotum`
+BV49ZZZ* [ultrasonography]`prostate and seminal vesicles`
+BV4BZZZ* [ultrasonography]`penis`
+BW110ZZ* [fluoroscopy]`abdomen and pelvis` {high osmolar contrast}
+BW111ZZ* [fluoroscopy]`abdomen and pelvis` {low osmolar contrast}
+BW11YZZ* [fluoroscopy]`abdomen and pelvis` {other contrast}
+BW11ZZZ* [fluoroscopy]`abdomen and pelvis`
+BW190ZZ* [fluoroscopy]`head and neck` {high osmolar contrast}
+BW191ZZ* [fluoroscopy]`head and neck` {low osmolar contrast}
+BW19YZZ* [fluoroscopy]`head and neck` {other contrast}
+BW19ZZZ* [fluoroscopy]`head and neck`
+BW1C0ZZ* [fluoroscopy]`lower extremity` {high osmolar contrast}
+BW1C1ZZ* [fluoroscopy]`lower extremity` {low osmolar contrast}
+BW1CYZZ* [fluoroscopy]`lower extremity` {other contrast}
+BW1CZZZ* [fluoroscopy]`lower extremity`
+BW1J0ZZ* [fluoroscopy]`upper extremity` {high osmolar contrast}
+BW1J1ZZ* [fluoroscopy]`upper extremity` {low osmolar contrast}
+BW1JYZZ* [fluoroscopy]`upper extremity` {other contrast}
+BW1JZZZ* [fluoroscopy]`upper extremity`
+BW40ZZZ* [ultrasonography]`abdomen`
+BW41ZZZ* [ultrasonography]`abdomen and pelvis`
+BW4FZZZ* [ultrasonography]`neck`
+BW4GZZZ* [ultrasonography]`pelvic region`
+BY47ZZZ* [ultrasonography]`fetal umbilical cord`
+BY48ZZZ* [ultrasonography]`placenta`
+BY49ZZZ* [ultrasonography] {first trimester} {single fetus}
+BY4BZZZ* [ultrasonography] {first trimester} {multiple gestation}
+BY4CZZZ* [ultrasonography] {second trimester} {single fetus}
+BY4DZZZ* [ultrasonography] {second trimester} {multiple gestation}
+BY4FZZZ* [ultrasonography] {third trimester} {single fetus}
+BY4GZZZ* [ultrasonography] {third trimester} {multiple gestation}
+BW52Z1Z	 [other imaging] `trunk` {bacterial autofluorescence} 
+BW59Z1Z	 [other imaging] `head and Neck` {bacterial autofluorescence} 
+BW5CZ1Z	 [other imaging] `lower extremity` {bacterial autofluorescence} 
+BW5JZ1Z	 [other imaging] `upper extremity` {bacterial autofluorescence} 

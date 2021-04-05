@@ -1,0 +1,724 @@
+N000    [nephritic syndrome] {acute} & [abnormality] {minor} `glomerular`
+N00A*	acute nephritic syndrome with c3 glomerulonephritis 
+N01A*	rapidly progressive nephritic syndrome with c3 glomerulonephritis 
+N001    [nephritic syndrome] {acute} & [lesion] {focal} {segmental} `glomerular`
+N002    [nephritic syndrome] {acute} & [glomerulonephritis] {diffuse} `membranes`
+N02A*	recurrent and persistent hematuria with c3 glomerulonephritis	
+N003    [nephritic syndrome] {acute} & [glomerulonephritis] {diffuse} {proliferative} `mesangial`
+N03A*	chronic nephritic syndrome with c3 glomerulonephritis	
+N004    [nephritic syndrome] {acute} & [glomerulonephritis] {diffuse} {proliferative} `endocapillary`
+N04A*	nephrotic syndrome with c3 glomerulonephritis	
+N005    [nephritic syndrome] {acute} & [glomerulonephritis] {diffuse} `mesangiocapillary`
+N05A*	unspecified nephritic syndrome with c3 glomerulonephritis 
+N006    [nephritic syndrome] {acute} & [dense deposit disease]
+N06A*	isolated proteinuria with c3 glomerulonephritis	
+N007    [nephritic syndrome] {acute} & [glomerulonephritis] {diffuse} {crescentic}
+N07A*	[hereditary nephropathy] {not elsewhere classified} with c3 glomerulonephritis 
+N008*   [nephritic syndrome] {acute} & other [morphologic changes]
+N009    [nephritic syndrome] {acute}
+N010    [nephritic syndrome] {rapidly} {progressive} & [abnormality] {minor} `glomerular`
+N011    [nephritic syndrome] {rapidly} {progressive} & [lesion] {focal} {segmental} `glomerular`
+N012    [nephritic syndrome] {rapidly} {progressive} & [glomerulonephritis] {diffuse} `membranes`
+N013    [nephritic syndrome] {rapidly} {progressive} & [glomerulonephritis] {diffuse} {proliferative} `mesangial`
+N014    [nephritic syndrome] {rapidly} {progressive} & [glomerulonephritis] {diffuse} {proliferative} `endocapillary`
+N015    [nephritic syndrome] {rapidly} {progressive} & [glomerulonephritis] {diffuse} `mesangiocapillary`
+N016    [nephritic syndrome] {rapidly} {progressive} & [dense deposit disease]
+N017    [nephritic syndrome] {rapidly} {progressive} & [glomerulonephritis] {diffuse} {crescentic}
+N018*   [nephritic syndrome] {rapidly} {progressive} & other [morphologic changes]
+N019    [nephritic syndrome] {rapidly} {progressive} & [morphologic changes]
+N020    [hematuria] {recurrent} {persistent} & [abnormality] {minor} `glomerular`
+N021    [hematuria] {recurrent} {persistent} & [lesion] {focal} {segmental} `glomerular`
+N022    [hematuria] {recurrent} {persistent} & [glomerulonephritis] {diffuse} `membranes`
+N023    [hematuria] {recurrent} {persistent} & [glomerulonephritis] {diffuse} {proliferative} `mesangial`
+N024    [hematuria] {recurrent} {persistent} & [glomerulonephritis] {diffuse} {proliferative} `endocapillary`
+N025    [hematuria] {recurrent} {persistent} & [glomerulonephritis] {diffuse} `mesangiocapillary`
+N026    [hematuria] {recurrent} {persistent} & [dense deposit disease]
+N027    [hematuria] {recurrent} {persistent} & [glomerulonephritis] {diffuse} {crescentic}
+N028*   [hematuria] {recurrent} {persistent} & other [morphologic changes]
+N029    [hematuria] {recurrent} {persistent} & [morphologic changes]
+N030    [nephritic syndrome] {chronic} & [abnormality] {minor} `glomerular`
+N031    [nephritic syndrome] {chronic} & [lesion] {focal} {segmental} `glomerular`
+N032    [nephritic syndrome] {chronic} & [glomerulonephritis] {diffuse} `membranes`
+N033    [nephritic syndrome] {chronic} & [glomerulonephritis] {diffuse} {proliferative} `mesangial`
+N034    [nephritic syndrome] {chronic} & [glomerulonephritis] {diffuse} {proliferative} `endocapillary`
+N035    [nephritic syndrome] {chronic} & [glomerulonephritis] {diffuse} `mesangiocapillary`
+N036    [nephritic syndrome] {chronic} & [dense deposit disease]
+N037    [nephritic syndrome] {chronic} & [glomerulonephritis] {diffuse} {crescentic}
+N038*   [nephritic syndrome] {chronic} & other [morphologic changes]
+N039    [nephritic syndrome] {chronic} & [morphologic changes]
+N040    [nephrotic syndrome] {minor glomerular abnormality}
+N041    [nephrotic syndrome] & [lesion] {focal} {segmental} `glomerular`
+N042    [nephrotic syndrome] & [glomerulonephritis] {diffuse} `membranes`
+N043    [nephrotic syndrome] & [glomerulonephritis] {diffuse} {proliferative} `mesangial`
+N044    [nephrotic syndrome] & [glomerulonephritis] {diffuse} {proliferative} `endocapillary`
+N045    [nephrotic syndrome] & [glomerulonephritis] {diffuse} `mesangiocapillary`
+N046    [nephrotic syndrome] & [dense deposit disease]
+N047    [nephrotic syndrome] & [glomerulonephritis] {diffuse} {crescentic}
+N048*   [nephrotic syndrome] & other [morphologic changes]
+N049    [nephrotic syndrome] & [morphologic changes]
+N050    [nephritic syndrome] & [abnormality] {minor} `glomerular`
+N051    [nephritic syndrome] & [lesion] {focal} {segmental} `glomerular`
+N052    [nephritic syndrome] & [glomerulonephritis] {diffuse} `membranes`
+N053    [nephritic syndrome] & [glomerulonephritis] {diffuse} {proliferative} `mesangial`
+N054    [nephritic syndrome] & [glomerulonephritis] {diffuse} {proliferative} `endocapillary`
+N055    [nephritic syndrome] & [glomerulonephritis] {diffuse} `mesangiocapillary`
+N056    [nephritic syndrome] & [dense deposit disease]
+N057    [nephritic syndrome] & [glomerulonephritis] {diffuse} {crescentic}
+N058*   [nephritic syndrome] & other [morphologic changes]
+N059    [nephritis] !{acute} !{lupus}
+N060    [proteinuria] {isolated} & [abnormality] {minor} `glomerular`
+N061    [proteinuria] {isolated} & [lesion] {focal} {segmental} `glomerular`
+N062    [proteinuria] {isolated} & [glomerulonephritis] {diffuse} `membranes`
+N063    [proteinuria] {isolated} & [glomerulonephritis] {diffuse} {proliferative} `mesangial`
+N064    [proteinuria] {isolated} & [glomerulonephritis] {diffuse} {proliferative} `endocapillary`
+N065    [proteinuria] {isolated} & [glomerulonephritis] {diffuse} `mesangiocapillary`
+N066    [proteinuria] {isolated} & [dense deposit disease]
+N067    [proteinuria] {isolated} & [glomerulonephritis] {diffuse} {crescentic}
+N068*   [proteinuria] {isolated} & other {morphologic} [lesion]
+N069    [proteinuria] {isolated} & [lesion] {morphologic}
+N070    [nephropathy] {hereditary} & [abnormality] {minor} `glomerular`
+N071    [nephropathy] {hereditary} & [lesion] {focal} {segmental} `glomerular`
+N072    [nephropathy] {hereditary} & [glomerulonephritis] {diffuse} `membranes`
+N073    [nephropathy] {hereditary} & [glomerulonephritis] {diffuse} {proliferative} `mesangial`
+N074    [nephropathy] {hereditary} & [glomerulonephritis] {diffuse} {proliferative} `endocapillary`
+N075    [nephropathy] {hereditary} & [glomerulonephritis] {diffuse} `mesangiocapillary`
+N076    [nephropathy] {hereditary} & [dense deposit disease]
+N077    [nephropathy] {hereditary} & [glomerulonephritis] {diffuse} {crescentic}
+N078*   [nephropathy] {hereditary} & other {morphologic} [lesion]
+N079    [nephropathy] {hereditary} & [lesion] {morphologic}
+N08*    `glomerular` [disorder]s in diseases classified elsewhere
+N10     [nephritis] {acute} `tubulo interstitial`
+        [pyelonephritis] {acute}
+N110    [pyelonephritis] {nonobstructive} {reflux associated} {chronic}
+N111    [pyelonephritis] {chronic} {obstructive}
+N118*   other {chronic} `tubulo interstitial` [nephritis]
+N119    [nephritis] {chronic} `tubulo interstitial`
+        [pyelonephritis] {chronic}
+N12     [nephritis] !{acute} !{chronic} `tubulo interstitial`
+        [pyelonephritis] !{acute} !{chronic}
+N130    [hydronephrosis] & [obstruction] `ureteropelvic junction`
+N131    [hydronephrosis] & [stricture] `ureter`
+N132    [hydronephrosis] & [calculus] `ureter`
+        [hydronephrosis] & [calculus] & [obstruction] `renal`
+        [hydronephrosis] & [ureterolithiasis] & [obstruction]
+N1330   [hydronephrosis] !{congenital} & ![calculus] & ![obstruction] & ![stricture]
+N1339*  [other hydronephrosis]
+N134    [hydroureter]
+N135    [crossing vessel/stricture] `ureter` & ![hydronephrosis]
+N136    [pyonephrosis]
+N1370   [vesicoureteral reflux]
+N1371   [vesicoureteral reflux] & ![reflux nephropathy]
+N13721  [vesicoureteral reflux] & {reflux} [nephropathy] & ![hydroureter] {unilateral}
+N13722  [vesicoureteral reflux] & {reflux} [nephropathy] & ![hydroureter] {bilateral}
+N13729  [vesicoureteral reflux] & {reflux} [nephropathy] & ![hydroureter]
+N13731  [vesicoureteral reflux] & {reflux} [nephropathy] & [hydroureter] {unilateral}
+N13732  [vesicoureteral reflux] & {reflux} [nephropathy] & [hydroureter] {bilateral}
+N13739  [vesicoureteral reflux] & {reflux} [nephropathy] & [hydroureter]
+N138    [other obstructive reflux uropathy]
+N139    [uropathy] {obstructive}
+N140    [nephropathy] {analgesic}
+N141*   [nephropathy] {induced} by other drugs, medicaments and biological substances
+N142    [nephropathy] {induced} {drug}
+        [nephropathy] {induced} {medicament}
+        [nephropathy] {induced} {biological substance}
+N143    [nephropathy] {induced} {heavy metals}
+N144    [nephropathy] {toxic}
+N150    [nephropathy] {balkan}
+N151    [abscess] `renal`
+        [abscess] `perinephric`
+N158*   other specified `renal` `tubulo interstitial` diseases
+N159    [disease] `renal` `tubulo interstitial`
+N16*    `renal` `tubulo interstitial` [disorder]s in diseases classified elsewhere
+N170    [acute kidney failure] & [acute tubular necrosis]
+N171    [acute kidney failure] & [acute cortical necrosis]
+N172    [acute kidney failure] & [medullary necrosis]
+N178*   other [kidney failure] {acute}
+N179    [acute kidney failure]
+N181    [chronic kidney disease] {stage 1}
+N182    [chronic kidney disease] {stage 2}
+N1830	[chronic kidney disease] {stage 3} !{stage 3a} !{stage 3b} 
+N1831   [chronic kidney disease] {stage 3a} !{stage 3b} 
+N1832   [chronic kidney disease] {stage 3b} 
+N183*   [chronic kidney disease] {stage 3} "Deleted ICD10 FY2021"
+N184    [chronic kidney disease] {stage 4}
+N185    [chronic kidney disease] {stage 5} & ![dependence on renal dialysis]
+N186    [end stage renal disease]
+N189    [chronic kidney disease] !{stage} !{1} !{2} !{3} !{4} !{5} !{3a} !{3b}
+N19     [kidney failure] !{stage} !{acute} !{chronic}
+N200    [calculus] `kidney` !{history} & ![calculus] `ureter`
+        [nephrolithiasis] !{history} & ![calculus] `ureter`
+N201    [calculus] `ureter` !{history} & ![hydronephrosis]
+N202    [calculus] `kidney` !{history} & [calculus] `ureter` !{history} & ![hydronephrosis]
+N209    [calculus] `urinary` !{history} & ![hydronephrosis]
+        [urolithiasis] !{history} & ![hydronephrosis]
+N210    [calculus] `bladder` !{history} & ![hydronephrosis]
+N211    [urethra stone] !{history} & ![hydronephrosis]
+N218*   other `lower urinary tract` calculus
+N219    [calculus] `lower urinary tract`
+N22*    [calculus] `urinary tract` in diseases classified elsewhere
+N23     [colic] `renal`
+N250    [osteodystrophy] `renal`
+N251    [diabetes insipidus] {nephrogenic}
+N2581   [hyperparathyroidism] {renal origin}
+N2589*  other [disorder]s resulting from [impaired renal tubular function]
+N259    [disorder] & [impaired renal tubular function]
+N261    [atrophy] `kidney`
+N262    [page kidney]
+N269    [sclerosis] `renal`
+N270    [small kidney] !{stone} {unilateral}
+N271    [small kidney] !{stone} {bilateral}
+N279    [small kidney] !{stone}
+N280    [ischemia] `kidney`
+        [infarction] `kidney`
+N281    [cyst] `kidney`
+N2881   [hypertrophy] `kidney`
+N2882   [megaloureter]
+N2883   [nephroptosis]
+N2884   [pyelitis cystica]
+N2885   [pyeloureteritis cystica]
+N2886   [ureteritis cystica]
+N2889   [other specified disorders of kidney and ureter]
+N289    [disorder of kidney and ureter] !{chronic} & ![dependence on renal dialysis] & ![esrd]
+N29*    other [disorder]s of kidney and ureter in diseases classified elsewhere 
+N3000   [acute cystitis] & ![hematuria]
+N3001   [acute cystitis] & [hematuria]
+N3010   [interstitial cystitis] & ![hematuria]
+N3011   [interstitial cystitis] & [hematuria]
+N3020*  [cystitis] {chronic} & ![hematuria]
+N3021   [cystitis] {chronic} & [hematuria]
+N3030   [trigonitis] & ![hematuria]
+N3031   [trigonitis] & [hematuria]
+N3040   [irradiation cystitis] & ![hematuria]
+N3041   [irradiation cystitis] & [hematuria]
+        [gross hematuria] {likely from radiotherapy}
+N3080*  [cystitis] !{interstitial} & ![hematuria]
+N3081*  [cystitis] !{interstitial} & [hematuria]
+N3090   [cystitis] !{interstitial} !{hematuria} !{acute}
+N3091   [cystitis] !{specified} {hematuria}
+N310    [neuropathic bladder] {uninhibited}
+N311    [neuropathic bladder] {reflex}
+N312    [neuropathic bladder] {flaccid}
+N318    [dysfunction] `neuromuscular` `bladder`
+N319    [dysfunction] `neuromuscular` `bladder`
+N320    [obstruction] `bladder neck`
+N321    [fistula] `vesicointestinal`
+N322    [fistula] `vesical`
+N323    [diverticulum] `bladder`
+N3281   [overactive bladder]
+N3289   [other specified disorders of bladder]
+N329    [disorder] `bladder`
+N33*    `bladder` [disorder]s in diseases classified elsewhere
+N340    [abscess] `urethra`
+N341    [urethritis]
+N342*   other [urethritis]
+N343    [urethral syndrome]
+N35010  [stricture] {post traumatic} `urethra` `meatal` "male"
+N35011  [stricture] {post traumatic} {bulbous} `urethra`
+N35012  [stricture] {post traumatic} `membranes` `urethra`
+N35013  [stricture] {post traumatic} {anterior} `urethra`
+N35014  [stricture] {post traumatic} `urethra` "male"
+N35021  [stricture] {childbirth} `urethra`
+N35028* other {post traumatic} `urethra` [stricture], female
+N35111  [stricture] {postinfective} `urethra` `meatal` "male"
+N35112  [stricture] {postinfective} {bulbous} `urethra`
+N35113  [stricture] {postinfective} `membranes` `urethra`
+N35114  [stricture] {postinfective} {anterior} `urethra`
+N35119  [stricture] {postinfective} `urethra` "male"
+N3512   [stricture] {postinfective} `urethra` 
+N35811  [stricture] `meatal` "male"
+N35911* [stricture] `meatal` "male"
+N35912  [stricture] {bulbous} `urethra` "male"
+N35913  [stricture] {membranous} `urethra` "male"
+N35914  [stricture] `urethra` {anterior} "male"
+N35916  [stricture] `urethra` {overlapping site} "male"
+N35919  [stricture] `urethra` "male"
+N360    [fistula] `urethra`
+N361    [diverticulum] `urethra`
+N362    [caruncle] `urethra`
+N3641   [hypermobility] `urethra`
+N3642   [intrinsic sphincter deficiency]
+N3643   [hypermobility] `urethra` & [intrinsic sphincter deficiency]
+N3644   [disorder] `muscle` `urethra`
+N365    [false passage] `urethra`
+N368*   other specified [disorder]s of `urethra`
+N369    [disorder] `urethra`
+N37*    `urethra` [disorder]s in diseases classified elsewhere
+N390    [urinary tract infection] !{cystitis}
+N393    [urinary incontinence] {stress} !{urge}
+N3941   [incontinence] {urge} !{stress}
+N3942   [incontinence] {insensible} & ![sensory awareness]
+N3943   [post void dribbling]
+N3944   [nocturnal enuresis]
+N3945   [continuous leakage]
+N3946   [mixed incontinence]
+N39490  [incontinence] {overflow}
+N39491  [coital incontinence]
+N39492  [postural incontinence]
+N39498* other specified urinary [incontinence] 
+N398*   other specified [disorder]s of `urinary system`
+N399    [disorder] `urinary system`
+N400    [benign prostatic hypertrophy] & ![lower urinary tract symptoms]
+N401    [bph] & [lower urinary tract symptoms] 
+N402    [nodular prostate] & ![lower urinary tract symptoms]
+N403    [nodular prostate] & [lower urinary tract symptoms]
+N410    [prostatitis] {acute}
+N411    [prostatitis] {chronic}
+N412    [abscess] `prostate`
+N413    [prostatocystitis]
+N414    [granulomatous prostatitis]
+N418*   [diseases] {inflammatory} `prostate`
+N419    [disease] {inflammatory} `prostate`
+        [prostatitis] !{acute} !{chronic}
+N420    [calculus] `prostate`
+N421    [congestion] `prostate`
+        [hemorrhage] `prostate`
+N4230   [dysplasia] `prostate` !{benign} !{malignant}
+N4231   [prostatic intraepithelial neoplasia]
+N4232   [atypical small acinar proliferation] `prostate`
+N4239*  other dysplasia of prostate
+N4281   [prostatodynia syndrome]
+N4282   [prostatosis syndrome]
+N4283   [cyst] `prostate`
+N4289*  other specified [disorder]s of `prostate`
+N429    [disorder] `prostate`
+N430    [hydrocele] {encysted}
+N431    [hydrocele] {infected}
+N432*   other [hydrocele]
+N433    [hydrocele]
+N4340   [spermatocele of epididymis] !{single} !{multiple}
+N4341   [spermatocele] {single}
+N4342   [spermatocele] {multiple}
+N4400   [torsion]!`extravaginal` !`intravaginal` `testis`
+N4401   [torsion] `extravaginal` `spermatic cord`
+N4402   [torsion] !`extravaginal` `spermatic cord`
+N4403   [torsion] `appendix testis` 
+N4404   [torsion] `appendix epididymis`
+N441    [cyst of tunica albuginea] `testis`
+N442    [cyst] {benign} `testis`
+N448    [other noninflammatory disorders of the testis]
+N451    [epididymitis]
+N452    [orchitis] & ![epididymo orchitis]
+N453    [epididymo orchitis]
+N454    [abscess] `epididymis`
+N4601   [azoospermia] {organic}
+N46021  [azoospermia] & [drug therapy] 
+N46022  [azoospermia] & [infection] 
+N46023  [azoospermia] & [obstruction] `efferent ducts` 
+N46024  [azoospermia] & [radiation] 
+N46025  [azoospermia] & [disease] {systemic} 
+N46029  [azoospermia] `extratesticular` 
+N4611   [oligospermia] {organic} 
+N46121  [oligospermia] & [drug therapy] 
+N46122  [oligospermia] & [infection] 
+N46123  [oligospermia] & [obstruction] `efferent ducts` 
+N46124  [oligospermia] & [radiation] 
+N46125  [oligospermia] & [disease] {systemic} 
+N46129  [oligospermia] `extratesticular`
+N468    [other male infertility]
+N469    [infertility] "male"
+N470    [adherent prepuce] 
+N471    [phimosis] 
+N472    [paraphimosis] 
+N473    [deficient foreskin] 
+N474    [cyst] {benign} `prepuce` 
+N475    [adhesions] `penis`
+N476    [balanoposthitis] 
+N477    [diseases] {inflammatory} `prepuce`
+N478    [other disorders of prepuce]
+N480    [leukoplakia] `penis` 
+N481    [balanitis] 
+N4821   [abscess] `penis`        
+        [abscess] `corpus cavernosum`
+N4822   [cellulitis] `penis`
+        [cellulitis] `corpus cavernosum` 
+N4829   [disorder] {inflammatory} `penis`
+N4830   [priapism] & ![trauma] & ![disease] 
+N4831   [priapism] & [trauma] 
+N4832   [priapism] & [disease] 
+N4833   [priapism] {drug induced} 
+N4839   [other priapism] 
+N485    [ulcer] `penis`
+N486    [induration penis plastica]  
+N4881   [thrombosis] `superficial vein of penis`
+N4882   [torsion] {acquired} `penis`
+N4883   [buried penis] {acquired}
+N4889   [other specified disorders of penis] 
+N489    [disorder] {penis}
+N490    [disorder] {inflammatory} `seminal vesicle`
+N491    [disorder] {inflammatory} `spermatic cord`
+        [disorder] {inflammatory} `tunica vaginalis`
+        [disorder] {inflammatory} `vas deferens`
+N492    [disorder] {inflammatory} `scrotum`
+        [abscess] `scrotum`
+N493    [fournier gangrene] 
+N498*   inflammatory [disorder]s of other specified  `genital` organs
+N499    [disorder] {inflammatory} `genital` "male"
+N500    [atrophy] `testis` 
+N501    [disorder] `vascular` `genital` 
+N503    [cyst] `epididymis`
+N508*   other specified [disorder]s of  `genital` organs
+N50811  [pain] `testicular` {right} 
+N50812  [pain] `testicular` {left} 
+N50819  [testicular pain] !{left} !{right}
+N5082   [scrotal pain] 
+N5089*  other specified disorders of the male genital organs
+N509    [disorder] `genital` "male"
+N51*    [disorder]s of "male" `genital` organs in diseases classified elsewhere
+N5201   [erectile dysfunction] & [arterial insufficiency]
+N5202   [erectile dysfunction] {occlusive} `corporo venous`
+N5203   [arterial insufficiency] {combined} & [erectile dysfunction] {occlusive} `corporo venous`
+N521    [erectile dysfunction] {disease}
+N522    [erectile dysfunction] {drug induced}
+N5231   [erectile dysfunction] & [prostatectomy] {status post}
+        [erectile dysfunction] {post prostatectomy}
+N5232   [erectile dysfunction] & [cystectomy] {radical}
+N5233   [erectile dysfunction] & [surgery] `urethra`
+N5234   [erectile dysfunction] & [prostatectomy] {simple}
+N5235   [erectile dysfunction] {following radiation therapy}
+N5236   [erectile dysfunction] {following interstitial seed therapy}
+N5237   [erectile dysfunction] {following prostate ablative therapy}
+N5239   [erectile dysfunction] {post surgical}
+N528*   other "male" [erectile dysfunction]
+N529    [erectile dysfunction] 
+N5311   [retarded ejaculation]
+N5312   [painful ejaculation]
+N5313   [anejaculatory orgasm]
+N5314   [retrograde ejaculation]
+N5319   [ejaculatory dysfunction]
+N538*   [other male sexual dysfunction]
+N539    [sexual dysfunction] "male"
+N6001   [cyst] {right} `breast`
+N6002   [cyst] {left} `breast`
+N6009   [cyst] `breast` !{right} !{left}
+N6011   [diffuse cystic mastopathy] {right} `breast`
+N6012   [diffuse cystic mastopathy] {left} `breast`
+N6019   [mastopathy] !{cystic} !{change} `breast`
+N6021   [fibroadenosis] {right} `breast`
+N6022   [fibroadenosis] {left} `breast`
+N6029   [fibroadenosis] `breast`
+N6031   [fibrosclerosis] {right} `breast`
+N6032   [fibrosclerosis] {left} `breast`
+N6039   [fibrosclerosis] `breast`
+N6041   [ectasia] `mammary duct of right breast`
+N6042   [ectasia] `mammary duct of left breast`
+N6049   [ectasia] `mammary duct of breast`
+N6081   [other benign mammary dysplasia] {right} `breast`
+N6082   [other benign mammary dysplasia] {left} `breast`
+N6089   [other benign mammary dysplasia] !{right} !{left} `breast`
+N6091   [atypical hyperplasia] `breast` {right}
+N6092   [atypical hyperplasia] `breast` {left}
+N6099   [dysplasia] `mammary of breast`
+N610    [mastitis] !{abscess} `breast`
+N611    [breast abscess]
+N6120	[granulomatous mastitis] `breast` !{bilateral} 
+N6121	[granulomatous mastitis] `breast` {right} 
+N6122	[granulomatous mastitis] `breast` {left} 
+N6123	[granulomatous mastitis] `breast` {bilateral} 
+N62     [hypertrophy] `breast`
+        [macromastia or gynecomastia]
+N630    [lump] `breast` !{left} !{right}
+N6310   [lump] `breast` {right} !{left} & ![specified location]
+N6311   [lump] {right} `breast` & [upper outer quadrant]  
+N6312   [lump] & [upper inner quadrant] `breast` {right}
+N6313   [lump] & [lower outer quadrant] `breast` {right}
+N6314   [lump] & [lower inner quadrant] `breast` {right}
+N6315	[lump] `breast` {right} !{left} {overlapping quadrants}	
+N6320   [lump] !{cyst} `breast` {left} !{right} & ![specified location]
+N6321   [lump] !{cyst} & [upper outer quadrant] `breast` {left}
+N6322   [lump] !{cyst} & [upper inner quadrant] `breast` {left}
+N6323   [lump] !{cyst} & [lower outer quadrant] `breast` {left}
+N6324   [lump] !{cyst} & [lower inner quadrant] `breast` {left}
+N6325	[lump] !{cyst} `breast` {left} !{right} {overlapping quadrants}	
+N640    [fissure] `nipple`
+        [fistula] `nipple`
+N641    [necrosis] {fat} `breast`
+N642    [atrophy] `breast`
+N643    [galactorrhea]
+N644    [mastodynia]
+N6451   [induration] `breast`
+N6452   [nipple discharge]
+N6453   [retraction of nipple]
+N6459*  other signs and symptoms in `breast`
+N6481   [ptosis] `breast`
+N6482   [hypoplasia] `breast`
+N6489   [disorder breast] !{post surgical} !{lumpectomy} !{cancer} & ![breast surgery]
+N649    [disorder breast] !{specified}
+N650    [deformity] & [reconstructed breast]
+        [reconstructed breast] {misshapen}
+N651    [reconstructed breast] !{procedure} & [disproportion]
+N7001   [salpingitis] {acute} 
+N7002   [oophoritis] {acute}
+N7003   [salpingitis] {acute} & [oophoritis]
+N7011   [salpingitis] {chronic}
+N7012   [oophoritis] {chronic}
+N7013   [salpingitis] {chronic} & [oophoritis]
+N7091   [salpingitis]
+N7092   [oophoritis]
+N7093   [salpingitis] & [oophoritis]
+N710    [disease] {acute} {inflammatory} `uterus` 
+N711    [disease] {chronic} {inflammatory} `uterus` 
+N719    [disease] {inflammatory} `uterus` 
+N72     [disease] {inflammatory} `cervix` & ![spinal]
+        [cervicitis]
+N730    [parametritis] {acute} & [cellulitis] `pelvis`
+        [cellulitis] {acute} `broad ligament`
+N731    [parametritis] {chronic} & [cellulitis] `pelvis`
+        [cellulitis] {chronic} `broad ligament`
+N732    [parametritis] & [cellulitis] `pelvis`
+N733    [peritonitis] {acute} `pelvis` 
+N734    [peritonitis] {chronic} `pelvis` 
+N735    [peritonitis] `pelvis` 
+N736    [adhesions] `pelvic peritoneal` 
+N738*   other specified  `pelvis` {inflammatory} [diseases]
+N739    [disease] {inflammatory} `pelvis` 
+N74*     `pelvis` inflammatory [disorder]s in diseases classified elsewhere
+N750    [cyst] {bartholin gland cyst} 
+        [cyst] {bartholins gland cyst} 
+N751    [abscess] `bartholin gland`
+N758*   other diseases of `bartholinmid cervicals gland`
+N759    [disease] `bartholinmid cervicals gland`
+N760    [vaginitis] !{chronic} !{trichomonas}
+N761    [vaginitis] {subacute} {chronic}
+N762    [vulvitis] {acute}
+N763    [vulvitis] {subacute} {chronic}
+N764    [abscess] `vulva`
+N765    [ulceration] `vagina`
+N766    [ulceration] `vulva`
+N7681   [mucositis] `vagina`
+        [mucositis] `vulva`
+N7689   [inflammation] `vagina`
+        [inflammation] `vulva`
+N770*   [ulceration] `vulva`  in diseases classified elsewhere
+N771*   [vaginitis], [vulvitis] and vulvovaginitis in diseases classified elsewhere
+N800    [adenomyosis]
+N801    [endometriosis] `ovary`
+N802    [endometriosis] `fallopian tube`
+N803    [endometriosis] `pelvic peritoneal`
+N804    [endometriosis] `rectovaginal septum`
+        [endometriosis] `vagina`
+N805    [endometriosis] `intestine`
+N806    [endometriosis] `cutaneous scar`
+N808*   other [endometriosis]
+N809    [endometriosis]
+N810    [urethrocele]
+N8110   [cystocele] {anterior} !{bladder}
+N8111   [cystocele] {midline} !{bladder}
+N8112   [cystocele] {lateral} !{bladder}
+N812    [prolapse] {incomplete} `uterovaginal`
+        [prolapse] {partial}  `uterovaginal`
+N813    [prolapse] {complete} `uterovaginal`
+        [prolapse] {grade 3} `uterovaginal`
+N814    [prolapse] !{complete} !{partial} !{incomplete} !{specified grade} `uterovaginal`
+N815    [enterocele] `vagina`
+N816    [rectocele]
+N8181   [perineocele]
+N8182   [incompetence] `pubocervical tissue`
+        [weakening] `pubocervical tissue`
+N8183   [incompetence] `rectovaginal tissue`
+        [weakening] `rectovaginal tissue`
+N8184   [muscle wasting] `pelvis`
+N8185   [prolapse] `cervical stump`
+N8189   [other]  `genital` & [prolapse]
+        [prolapse]  `pelvic floor`
+        [prolapse]  `perineum`
+N819    [prolapse] `genital` 
+N820    [fistula] `vesicovaginal`
+N821    [fistulae] `urinary genital tract` 
+N822    [fistula] `vagina`  `small intestine`
+N823    [fistula] `vagina`  `large intestine`
+N824    [fistulae] `intestinal genital tract` 
+N825    [fistulae] `genital tract skin` 
+N828*   other  `genital tract` [fistulae]
+N829    [fistula] `genital tract` 
+N8300   [follicular cyst] `ovary` 
+N8301   [follicular cyst] {right} `ovary` 
+N8302   [follicular cyst] {left} `ovary` 
+N8310   [corpus luteum cyst] `ovary` 
+N8311   [corpus luteum cyst] {right} `ovary` 
+N8312   [corpus luteum cyst] {left} `ovary` 
+N831    [corpus luteum cyst]
+N83201  [ovarian cyst] {right} !{dermoid} !{follicular} !{corpus} 
+N83202  [ovarian cyst] {left}
+N83209  [ovarian cyst] !{left} !{right}
+N83291  [other ovarian cyst] {right} `ovary`
+N83292  [other ovarian cyst] {left} `ovary`
+N83299  [other ovarian cyst] !{left} !{right} `ovary`
+N83311  [acquired atrophy] {right} `ovary` 
+N83312  [acquired atrophy] {left} `ovary` 
+N83319  [acquired atrophy] `ovary` 
+N83321  [acquired atrophy] {right} `fallopian tube`
+N83322  [acquired atrophy] {left} `fallopian tube`
+N83329  [acquired atrophy] `fallopian tube`
+N83331  [acquired atrophy] {right} `ovary`  `fallopian tube`
+N83332  [acquired atrophy] {left} `ovary`  `fallopian tube`
+N83339  [acquired atrophy]  `ovary`  `fallopian tube`
+N8340   [prolapse and hernia] `ovary`  `fallopian tube`
+N8341   [prolapse and hernia] {right} `ovary`  `fallopian tube`
+N8342   [prolapse and hernia] {left} `ovary`  `fallopian tube`
+N83511  [torsion] {right} `ovary`
+N83512  [torsion] {left} `ovary`
+N83519  [torsion]  `ovary`
+N83521  [torsion] {right} `fallopian tube`
+N83522  [torsion]  {left} `fallopian tube`
+N83529  [torsion] `fallopian tube`
+N8353   [torsion] `ovary`  `ovarian pedicle and fallopian tube`
+N836    [hematosalpinx]
+N837    [hematoma] `broad ligament`
+N838    [broad ligament laceration syndrome]
+N839    [disorder] {noninflammatory} `ovary`  `fallopian tube and broad ligament`
+N840    [polyp] `corpus uteri`
+N841    [polyp] `cervix` 
+N842    [polyp] `vagina` 
+N843    [polyp] `vulva` 
+N848*   [polyp] of other parts of  `genital tract`
+N849    [polyp] `genital tract` 
+N8500   [hyperplasia] `endometrial` 
+N8501   [hyperplasia] `endometrial` !{atypia} 
+N8502   [endometrial intraepithelial neoplasia]
+N852    [hypertrophy] `uterus` 
+N853    [subinvolution] `uterus` 
+N854    [malposition] `uterus` 
+N855    [inversion] `uterus` & ![delivery]
+N856    [intrauterine synechiae]
+N857    [hematometra]
+N858    [other specified noninflammatory disorders of uterus] 
+N859    [disorder] {noninflammatory} `uterus` 
+N86     [erosion] `cervix` 
+        [ectropion] `cervix` 
+N870    [dysplasia] {mild} `cervical` 
+        [cervical intraepithelial neoplasia i]
+N871    [dysplasia] {moderate} `cervical` 
+        [cervical intraepithelial neoplasia ii]
+N879    [dysplasia] `cervix` 
+N880    [leukoplakia] `cervix` 
+N881    [laceration] {old} `cervix` 
+N882    [stenosis] `cervix` !{cervical spine}
+N883    [incompetence] `cervix`  !"pregnancy"
+N884    [hypertrophic elongation] `cervix` 
+N888*   other specified noninflammatory [disorder]s of `cervix` 
+N889    [disorder] {noninflammatory} `cervix` 
+N890    [dysplasia] !{moderate} `vagina` 
+N891    [dysplasia] {moderate} `vagina` 
+N893    [dysplasia] `vagina` 
+N894    [leukoplakia] `vagina` 
+N895    [stricture] `atresia`
+        [atresia] `vagina` 
+N896    [tight hymenal ring]
+N897    [hematocolpos]
+N898    [other specified vaginal disorder] & ![inflammation] `vagina`
+N899    [disorder] {noninflammatory} `vagina` !{other specified}
+N900    [dysplasia] !{moderate} `vulva` 
+N901    [dysplasia] {moderate} `vulva` 
+N903    [dysplasia] `vulva` 
+N904    [leukoplakia] `vulva` 
+N905    [atrophy] `vulva` 
+N9060   [hypertrophy] `vulva` 
+N9061   [childhood asymmetric labium majus enlargement]
+N9069   [other specified hypertrophy of vulva]
+N907    [cyst] `vulva` 
+N90810  [genital mutilation] 
+N90811  [genital mutilation] {type i} 
+N90812  [genital mutilation] {type ii} 
+N90813  [genital mutilation] {type iii} 
+N90818  [other genital mutilation]
+N9089   [other specified noninflammatory disorders of vulva  and perineum]
+N909    [disorder] {noninflammatory} `vulva and perineum`
+N910    [amenorrhea] {primary}
+N911    [amenorrhea] {secondary}
+N912    [amenorrhea]
+N913    [oligomenorrhea] {primary}
+N914    [oligomenorrhea] {secondary}
+N915    [oligomenorrhea]
+N920    [excessive menstruation] "adult"
+N921    [menometrorrhagia] 
+N922    [excessive menstruation] !"adult"
+N923    [ovulation bleeding] 
+N924    [excessive bleeding] {premenopausal} 
+N925*   [irregular menstruation] 
+N926    [irregular menstruation] 
+N930    [postcoital bleeding] 
+N931    [pre pubertal vaginal bleeding]
+N938    [other specified abnormal uterine and vaginal bleeding]
+N939    [hemorrhage] {abnormal} `uterine` & ![pregnancy] !{lab or test or history}
+        [hemorrhage] {abnormal} `vagina` & ![pregnancy] !{lab or test or history}
+        [vaginal bleeding] & ![pregnancy] !{lab or test or history}
+N940    [mittelschmerz]
+N9410   [dyspareunia]
+N9411   [superficial introital dyspareunia]
+N9412   [deep dyspareunia]
+N9419* other specified dyspareunia
+N942    [vaginismus]
+N943    [premenstrual tension syndrome]
+N944    [dysmenorrhea] {primary}
+N945    [dysmenorrhea] {secondary}
+N946    [dysmenorrhea]
+N94810  [vestibulitis]
+N94818* other vulvodynia
+N94819  [vulvodynia]
+N9489*  other specified conditions associated with  `genital` organs and menstrual cycle
+N949*   unspecified condition associated with  `genital` organs and menstrual cycle
+N950    [hemorrhage] {postmenopausal}
+N951    [climacteric states] {menopausal} 
+N952    [vaginitis] {postmenopausal} {atrophic}
+N958*   other specified menopausal and perimenopausal [disorder]s
+N959    [disorder] {menopausal} {perimenopausal}
+N96     [pregnancy loss] {recurrent}
+N970    [infertility]  & [anovulation]
+N971    [infertility]  `tubal`
+N972    [infertility]  `uterine`
+N978*   [infertility]  of other origin
+N979    [infertility] 
+N980    [infection] & [artificial insemination]
+N981    [hyperstimulation] `ovary` 
+N982    [complications of attempted introduction of fertilized ovum] & [in vitro fertilization]
+N983    [complications of attempted introduction of embryo] & [embryo transfer]
+N988*   other complications associated with artificial fertilization
+N989    [complication] & [artificial fertilization]
+N990    [kidney failure] {postprocedural}
+N99110  [stricture] {postprocedural} `meatal` `urethra` "male"
+N99111  [stricture] {postprocedural} {bulbous} `urethra`
+N99112  [stricture] {postprocedural} `membranes` `urethra`
+N99113  [stricture] {postprocedural} {anterior} `urethra`
+N99114  [stricture] {postprocedural} `urethra` "male"
+N99115  {postprocedural} [fossa navicularis urethral stricture]
+N9912   [stricture] {postprocedural} `urethra` 
+N992    [adhesions] {postprocedural} `vagina` 
+N993    [prolapse] `vaginal vault` & [hysterectomy]
+N994    [adhesions] {postprocedural} `pelvic peritoneal`
+N99510  [cystostomy hemorrhage]
+N99511  [cystostomy infection]
+N99512  [cystostomy malfunction]
+N99518* other cystostomy complication
+N99520  [hemorrhage] `external stoma of urinary tract`
+N99521  [infection] `external stoma of urinary tract`
+N99522  [malfunction] `external stoma of urinary tract`
+N99523  [herniation of incontinent stoma] `urinary tract`
+N99524  [stenosis of incontinent stoma of urinary tract]
+N99528* other complication of other {external} [stoma] `urinary tract`
+N99530  [hemorrhage] `stoma of urinary tract`
+N99531  [infection] `stoma of urinary tract`
+N99532  [malfunction] `stoma of urinary tract`
+N99533  [herniation of continent stoma] `urinary tract`
+N99534  [stenosis of continent stoma] `urinary tract`
+N99538* other complication of other [stoma] `urinary tract`
+N9961   [hemorrhage] {intraoperative} `genitourinary system` & [genitourinary system procedure]
+        [hematoma] {intraoperative} `genitourinary system` & [genitourinary system procedure]
+N9962   [hemorrhage] {intraoperative} `genitourinary system` & [procedure]
+        [hematoma] {intraoperative} `genitourinary system` & [procedure]
+N9971   [puncture] {accidental} `genitourinary system` &  [genitourinary system procedure]
+        [laceration] {accidental} `genitourinary system` &  [genitourinary system procedure]
+N9972   [puncture] {accidental} `genitourinary system` &  [procedure]
+        [laceration] {accidental} `genitourinary system` &  [procedure]
+N9981   [complication] {intraoperative} `genitourinary system`
+N99820  [hemorrhage] {postprocedural} `genitourinary system` & [genitourinary system procedure]
+        [hematoma] {postprocedural} `genitourinary system` & [genitourinary system procedure]
+N99821  [hemorrhage] {postprocedural} `genitourinary system` & [procedure]
+        [hematoma] {postprocedural} `genitourinary system` & [procedure]
+N9983   [residual ovary syndrome]
+N99840*  [postprocedural hematoma] of a genitourinary system organ or structure following a genitourinary system procedure
+N99841*  [postprocedural hematoma] of a genitourinary system organ or structure following other procedure
+N99842*  postprocedural seroma of a genitourinary system organ or structure following a genitourinary system procedure
+N99843*  postprocedural seroma of a genitourinary system organ or structure following other procedure
+N9985	[post endometrial ablation syndrome]
+N9989   [complication] {postprocedural} `genitourinary system`
+        [disorder] {postprocedural} `genitourinary system`

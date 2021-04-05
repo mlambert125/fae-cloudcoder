@@ -1,0 +1,630 @@
+Code Dx and Certain Procedures~EXCLUDES:0,1,2,6,7,8,9,41,42,43,44,45,46,47,48,49,31,32,33,34,35,36,37,38,39,51,52,53,54,55,56,57,58,59
+  ~(^|[\r\n]+)+\s*[\*]?\s*\(HPI\) *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*abdomen *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*admission.*?discharge diagnos[ie]s *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*admitting diagnos[ie]s.*?problem list *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*Anesthetic Preoperative Plan *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*anticoagulation assessment *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*arrhythmias *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*assessment and recommendations *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*assessment.*?differential *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*assessment.*?plan *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*assessment[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*billing diagnos[ie]s *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*blood bank results *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*brief hospital course *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*brief synopsis of hospital course *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*ca cath lab case *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*cardiac catheterization *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*cardiovascular *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*Catheter Output *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*chief complaint[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*chronic medical illness\(es\) *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*clinical history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*clinical impression[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*clinical information *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*clinical report *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*complete review of systems *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*comprehensive cardiac history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*conclusion[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*consultations obtained during this hospitalization *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*description.*?repair *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*detail type description *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*detailed past medical history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*diagnos[ie]s *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*diagnos[ie]s active *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*diagnos[ie]s.*?plan *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*diagnos[ie]s/impression *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*diagnos[ie]s\(es\) *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*diagnos[ie]ses *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*diagnostic data and notes *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*discharge diagnos[ie]s *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*documented medication[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*doppler echo findings *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*doppler measurements *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*ecg rhythm *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*ed chief complaint *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*ed supervision handoff note *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*encounter diagnos[ie]s *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*evaluation *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*Evaluation Assessment Details *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*final conclusion *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*final diagnos[ie]s *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*final impression *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*finding[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*fire risk assessment *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*frequency of treatment *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*health choices *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*health history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*health maintenance *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*hearing screen *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*Hematology *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*Hepatic *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*historical *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*histories *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*history and hospital course *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*history of present illness *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*history of present illness/hospital course *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*History of Problems, Comorbidities Rehab *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*hospital course *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*hospital course on rehabilitation *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*hospitalizations *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*HPI *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*icd-9 *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*identifying information/social information *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*immunizations *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*Immunology/Serology *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*impression[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*impression[s]?.*? plan *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*impression\(s\) *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*indicated problem\(s\) *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*indication[s]? for surgery *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*indication\(s\) for monitoring *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*intervertebral disc *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*issues at the time of discharge *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*lower extremity motor control *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*major problems body systems impairment *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*major problems *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*major problems/treatment diagnos[ie]s *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*medical decision making *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*medical decision making data reviewed *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*membrane status information *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*mental status exam *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*mental status examination *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*method *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*Neck *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*Neuro *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*neurologic and emotional *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*new patient *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*next due additional information *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*nutrition health *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*occupational therapy order[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*oral Fluid Intake *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*other conditions on admission *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*output *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*overall impression *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*pathology *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*pathology specimen *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*patient assessment *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*patient presents *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*patient.*?history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*physical medicine and rehabilitation discharge summary *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*physical medicine and rehabilitation history and physical *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*physical medicine and rehabilitation summary *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*physician examination *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*post procedure[s]? diagnos[ie]s\([ie]s\) *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*postoperative condition *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*preadmission history and physical *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*preadmission/preoperative history and physical *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*prehospital treatment *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*primary diagnos[ie]s *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*primary diagnos[ie]s\(es\) *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*primary impression *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*principal.*?diagnos[ie]s *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*problem[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*problem list.*?medical history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*provided history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*provider response *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*pt c/o *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*questions comments *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*radiation oncology.*?note *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*reason *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*reason for admission *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*reason for hospital bisit/admission *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*reason for infection disease consultation *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*reason for readmission to the hospital *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*reason for referral and current history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*reason for visit *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*reason for visit/chief complaint *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*reason.*?exam *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*reason.*?test *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*reason[s]? for admission/history of present psychiatric illness *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*reason[s]? for being seen *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*reason[s]? for consultation. *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*reason[s]? for evaluation *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*reason[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*reasons[s]?.*?admission *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*reexamination.*?mdm *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*reports *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*respiratory *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*respiratory history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*result *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*review of systems *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*review of systems/additional associated symptoms *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*right breast *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*rom method *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*secondary diagnos[ie]s *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*secondary diagnos[ie]s/comorbidities *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*sensory limitations and communication *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*skin *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*statcare internal medicine consultation *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*stress test findings *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*subjective. *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*Subjective/History of Present Illness *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*subjective/objective *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*SVT requiring cardioversion *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*symptoms *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*technique *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*test.*? results *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*transfusion data *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*treatment diagnos[ei]?s *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*treatment diagnos[ie]s.*? major problems *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*treatment history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*treatment plan *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*treatment[s]? planned *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*tv pv *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*ultrasound interpretation *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*urethral indwelling/continuous *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*urinary catheter output *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*urine voided *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*visit diagnos[ie]s. *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*visit problem *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*visit reason *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*visit summary *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*pulmonary *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*patient reports *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*admission diagnos[ie]s *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*principal.*?diagnos[ie]s\([ei]s\) *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*review.*?systems *[\:\-\.]?(^|[\r\n]+)+\s*
+Code for 1,2 and S Codes~INCLUDES:1,2,S
+  ~(^|[\r\n]+)+\s*[\*]?\s*splint type *[\:\-\.]?(^|[\r\n]+)+\s*
+Code Dx except O and Some Procedures~EXCLUDES:0,1,2,6,7,8,9,41,42,43,44,45,46,47,48,49,31,32,33,34,35,36,37,38,39,51,52,53,54,55,56,57,58,59,O
+  ~(^|[\r\n]+)+\s*[\*]?\s*newborn assessment.*?plan *[\:\-\.]?(^|[\r\n]+)+\s*
+Code both DX and Procedures~EXCLUDES:NOTHING
+  ~(^|[\r\n]+)+\s*[\*]?\s*active medical problem[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*active scheduled medication[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*additional treatment diagnos[ie]s *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*admitted with *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*ambulatory in ed *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*debridement *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*delivered by scheduled C-section *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*delivery details *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*delivery information *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*delivery note *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*delivery type *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*description.*?procedure[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*detail[s]?.*?procedure[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*drugs.*?treatment[s]?. *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*ed splint *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*emergency department course *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*er course *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*fetal monitoring *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*fhr monitoring *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*general *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*gi procedure[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*heent *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*him coding query *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*hospital based procedure[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*indication[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*indication[s]? for procedure[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*induction method *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*induction methods *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*internal medicine history and physical *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*intraoperative findings *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*intubation *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*labor information *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*labor method *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*labor method.*?induction method *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*laceration length/type *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*laceration repair *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*laceration[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*laceration[s]? type ext. *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*location *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*materials *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*medical course *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*method of delivery *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*mobility and gait *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*mode of delivery *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*name of operation *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*name of procedure[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*name.*?performed *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*nursing notes procedure[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*operation *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*operation[s]?.*? performed *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*operation[s]?.*?procedure[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*operation\(s\) performed *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*operation[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*operation[s]? and treatment[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*operation[s]? on admission *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*operation[s]? performed *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*operative procedure[s]? in detail *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*performed *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*pertinent labs.*?imaging *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*physician interpretation *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*plan *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*planned procedure[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*post.*?op diagnos[ie]s *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*post-op diagnos[ie]s/impression *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*postop diagnos\(es\) *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*postoperative diagnos[ie]s *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*postoperative diagnos[ie]s\(es\) *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*postprocedure[s]? diagnos[ie]s *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*pre.*?op diagnos[ie]s *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*pre.*?operative diagnos[ie]s *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*preop diagnos(es) *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*pre-op diagnos(es) *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*preoperative postoperative diagnos[ie]s es *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*preoperative and postoperative diagnos[ie]s es *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*preoperative diagnos[ie]s\(es\) *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*preoperative indication *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*preprocedure[s]? diagnos[ie]s *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*preprocedure[s]? diagnos[ie]s\(es\) *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*pre-procedure[s]? diagnos[ie]s\(es\) *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*prescriptions *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*primary procedure[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*procedural *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*procedural details *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*procedure[s]? information *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*procedure[s]? method *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*procedure[s]? note *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*procedure[s]? summary *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*procedure[s]? type *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*procedure.*?code\(s\) *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*procedure.*?detail *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*procedure[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*procedure[s]? performed *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*procedure\(s\) *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*procedure\(s\) performed *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*procedure[s]? this admission *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*procedure[s]? this visit *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*procedure[s]?.*?procedure[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*provider delivery documentation *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*reason for procedure[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*reference range *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*summary *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*summary of procedure[s]? performed *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*surgery *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*surgery performed *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*surgical procedure[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*techincal procedure[s]? performed *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*technique.*?description of procedure. *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*text description *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*Time out/Site Marking documentation for lac repair *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*title of surgery *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*treatment[s]? done *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*type of debridement *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*wound #[123] *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*wound closure *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*wound treatment center note *[\:\-\.]?(^|[\r\n]+)+\s*
+Allergies~INCLUDES:Z88,Z91
+  ~(^|[\r\n]+)+\s*[\*]?\s*allergies *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*current MAR *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*initial vitals *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*Nonallergic Reactions *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*patient allergies *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*unknown *[\:\-\.]?(^|[\r\n]+)+\s*
+AMA Disposition~INCLUDES:Z53
+  ~(^|[\r\n]+)+\s*[\*]?\s*disposition *[\:\-\.]?(^|[\r\n]+)+\s*
+BMI Codes~INCLUDES:Z68
+  ~(^|[\r\n]+)+\s*[\*]?\s*bmi *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*vitals & measurements *[\:\-\.]?(^|[\r\n]+)+\s*
+Chronic Conditions~INCLUDES:Z,G,E,F,I5,I25,I48,I1,J,M,N,D5,D6,G,K,N,Q,B18,B19
+  ~(^|[\r\n]+)+\s*[\*]?\s*other comorbidities include *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*past medical.*?history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*past medical.*?list *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*personal history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*pertinent past history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*pmd *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*pmfs[h]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*pmh[x]? *[\:\-\.]?(^|[\r\n]+)+\s*
+Code Dx except O,P,Z and Some Procedures~EXCLUDES:0,1,2,6,7,8,9,41,42,43,44,45,46,47,48,49,31,32,33,34,35,36,37,38,39,51,52,53,54,55,56,57,58,59,Z12,O,Z37,Z38,P
+  ~(^|[\r\n]+)+\s*[\*]?\s*musculoskeletal *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*Neurologic *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*endocrine *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*Psychiatric *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*presenting condition *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*presenting condition complaint *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*PT diagnos[ie]s *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*reason[s]?.*re-evaluation *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*schedule *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*studies *[\:\-\.]?(^|[\r\n]+)+\s*
+Code F and Z Only~INCLUDES:F,Z
+  ~(^|[\r\n]+)+\s*[\*]?\s*active.*?smoker *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*alcohol *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*alcohol hx *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*alcohol use *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*alcohol.*?history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*beer use *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*CM Living Situation/Services *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*color flow doppler and doppler echo findings *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*conclusion\(s\) *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*current psychiatric treatment *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*family history social history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*family.*?social history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*home *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*home/environment *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*marijuana use *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*other illicit drugs *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*past social history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*smoking status *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*social hx *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*substance use *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*tobacco *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*tobacco details *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*tobacco status *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*tobacco, alcohol, drugs *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*tobacco.*?use *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*type *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*type of tobacco use *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*social.*?history *[\:\-\.]?(^|[\r\n]+)+\s*
+Code Z codes only~INCLUDES:Z
+  ~(^|[\r\n]+)+\s*[\*]?\s*preventive care and health screenings *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*ADL/Mobility Assistance Needed *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*anesthesia history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*attestation *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*CM Current Devices/Equipment *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*CM Current Residence *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*CM Current treatment[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*cm narrative note *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*CM Regular Means of Transportation *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*COVID19 Antigen Rapid *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*COVID19 AntigenRapid *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*DME Information *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*family h/o *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*family health history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*family history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*family hx *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*family psychiatric history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*fhx *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*home medication[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*Lines or Tubes Present on Admission *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*medical allergies *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*medical history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*medication[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*medication[s]? at home *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*medication[s]? Inpatient *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*medication[s]? prior to admission *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*medication[s]? reviewed for high risk meds *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*past fam hx *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*past family history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*past surg hx *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*past surgical history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*past surgical history major procedure[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*previous surgeries *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*procedure[s]? history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*procedure[s]? list *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*procedure.*?surgical history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*psh *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*pshx *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*shx *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*significant family history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*subjective history of present illness *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*substance abuse history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*substance use history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*surgical history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*surveillance *[\:\-\.]?(^|[\r\n]+)+\s*
+Covid Codes Only~INCLUDES:U07,Z
+  ~(^|[\r\n]+)+\s*[\*]?\s*Infectious Disease *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*lab and micro results *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*lab results *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*laboratories *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*laboratory *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*laboratory data *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*laboratory studies *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*laboratory test[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*labs *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*labs/test results *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*SARS-CoV-2 Antigen *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*What were the results of the COVID-19 test *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*COVID *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*anesthesia *[\:\-\.]?(^|[\r\n]+)+\s*
+Delivlery Outcome Codes~INCLUDES:Z37
+  ~(^|[\r\n]+)+\s*[\*]?\s*neonate outcome *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*status of infant *[\:\-\.]?(^|[\r\n]+)+\s*
+Does not Include PCS Zero Codes~EXCLUDES:0
+  ~(^|[\r\n]+)+\s*[\*]?\s*exam *[\:\-\.]?(^|[\r\n]+)+\s*
+Includes Z and I Codes~INCLUDES:Z,I
+  ~(^|[\r\n]+)+\s*[\*]?\s*medical history cardiovascular *[\:\-\.]?(^|[\r\n]+)+\s*
+Includes Z and N Codes~INCLUDES:Z,N
+  ~(^|[\r\n]+)+\s*[\*]?\s*indications for dialysis *[\:\-\.]?(^|[\r\n]+)+\s*
+Newborn Codes~INCLUDES:P,Z38,37,54
+  ~(^|[\r\n]+)+\s*[\*]?\s*Newborn Delivery Details *[\:\-\.]?(^|[\r\n]+)+\s*
+Pregancy and Z Codes~INCLUDES:O,Z
+  ~(^|[\r\n]+)+\s*[\*]?\s*Maternal Delivery Information *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*Maternal History *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*Maternal Risk Factors in Utero *[\:\-\.]?(^|[\r\n]+)+\s*
+Problem list~INCLUDES:A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z
+  ~(^|[\r\n]+)+\s*[\*]?\s*ongoing *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*problem list *[\:\-\.]?(^|[\r\n]+)+\s*
+Do not Code~INCLUDES:NOTHING
+  ~(^|[\r\n]+)+\s*[\*]?\s*all problems *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*anal and proctoscopic exam *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*assistant *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*basic information *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*colonoscopy *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*Co-surgeon\(s\) *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*d/c instructions to family *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*differential diagnos[ie]s *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*discharge disposition *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*discharge from pacu *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*discharge instructions *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*discharge[d]? medication[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*due *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*ed medication[s]? administration *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*ed meds *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*ed prescriptions *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*ed triage vitals *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*education.*?documents. *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*examination *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*General Gait Deviations *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*heart failure documentation must include *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*help address *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*historical results *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*in-hospital consultations *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*initial treatment plan *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*inpatient order[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*instructions *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*instructions.*?warnings *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*Intake & Output *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*interpretation *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*interval history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*intervention *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*intervention ordered *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*issues at the time of discharge *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*lab work done *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*laboratory / x-ray / pathology *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*laboratory results *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*laboratory reviewed *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*laser surgery *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*last tetanus immunization *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*latest results *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*legal history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*material[s]? forwarded to pathology *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*med order[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*medical diagnos[ie]s onset date *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*medicare wellness *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*medication[s]? assessments *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*medication[s]? given in ed *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*medication\(s\) discontinued at discharge *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*medication[s]? administered in department *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*medication[s]? administered in the ed *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*medication[s]? given this visit *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*medication[s]? held at discharge *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*microbiology results within the last 30 days *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*mips measures *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*modifying factors *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*mv *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*name value ref range *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*non-med order[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*nuchal cord *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*nursing assessment *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*nursing home medication[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*nursing notes *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*nursing risk assessment *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*nursing triage history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*nursing.*?notes *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*nutritional status *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*objective data *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*objective findings *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*order[s]? communication *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*ordered by *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*ordering provider *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*order[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*order[s]? include *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*oriented *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*ot diagnos[ie]s.*?performance deficits *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*other procedure[s]? while hospitalized *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*outcome follow up *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*outpatient followup *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*package labeling, indication *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*pain *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*pain assessment *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*pain management plans *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*part i measurements *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*past surgical history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*patient care *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*patient education *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*patient feels *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*patient instructions *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*pediatrician *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*pelvis *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*pertinent comorbid history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*pharmacy *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*phone *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*physical *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*physical exam *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*physical examination *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*physician documentation clarification *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*physician response *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*placement after triage *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*plan and recommendations *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*plan of care *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*please answer all the following if applicable *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*post admission diagnos[ie]s\(es\) *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*posture *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*pre procedure[s]? diagnos[ie]s *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*premedication\(s\) *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*prenatal labs *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*preoperative antibiotic *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*preoperative antibiotic[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*preoperative medication[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*preparation *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*present illness *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*present medication[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*primary care provider *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*procedural findings *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*procedure[s]? verification *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*provider *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*provisions for followup care *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*psychiatric problem list *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*query question *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*questions comments *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*radiation dose reduction *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*radiological data *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*range of motion limitations *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*Rapid Influenza A/B Screen+ *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*read by *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*reason for request *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*reason[s]?.*?catheterization *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*recommendation[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*recommendation\(s\) *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*recommendations/plan[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*reference range *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*referrals *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*refill\(s\).*?indication *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*relevant laboratory data *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*relevant surgical history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*review.*?management *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*rx *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*rx given *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*schedule *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*scheduled medication[s]? *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*Screening pap smear by phys *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*secondary symptom *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*seek.*?if *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*sensory impairment *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*settings *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*significant findings *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*significant findings at discharge *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*significant findings during hospital stay *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*signs.*?symptoms *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*sleep disturbance *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*snomed ct *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*sonographer *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*specimen and source *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*staff legend *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*study quality *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*subjective *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*summary of findings *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*supporting data *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*Suprapubic Indwelling/Continuous *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*surgeon *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*surgeon\(s\) *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*surgeries *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*technologist *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*therapy range *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*throat culture *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*tmb *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*transcribed by *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*transferring physician *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*treatment *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*treatment goals *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*triage and nursing history *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*underlying conditions *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*vaccination status *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*vital signs *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*ward dept *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*week [123] total *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*who criteria for t-scores *[\:\-\.]?(^|[\r\n]+)+\s*
+  ~(^|[\r\n]+)+\s*[\*]?\s*withdrawal time *[\:\-\.]?(^|[\r\n]+)+\s*
